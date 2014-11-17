@@ -1,0 +1,306 @@
+<metadata xml:lang="en">
+   <Esri>
+      <MetaID>{D73666C8-3495-451B-9BEB-287634CF29B0}</MetaID>
+      <CreaDate>20091019</CreaDate>
+      <CreaTime>09231400</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20091014</SyncDate>
+      <SyncTime>10220800</SyncTime>
+      <ModDate>20091014</ModDate>
+      <ModTime>10222400</ModTime>
+      <PublishedDocID>{F1057B2F-E9E5-4D4F-BB06-D803536CC67F}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>Barcelona streets and roads data. DigitalGlobe QuickBird CitySphere acquired.</abstract>
+         <purpose>Provides street and road data in GIS data format.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>LAND INFO Worldwide Mapping, LLC</origin>
+            <pubdate>2006</pubdate>
+            <title>Barcelona roads</title>
+            <ftname Sync="TRUE">BARCELONA_ROAD_CENTER</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/gh/93/h1/25/8/content/restricted/data.zip</onlink>
+            <pubinfo>
+               <publish>LAND INFO Worldwide Mapping, LLC</publish>
+               <pubplace>Highlands Ranch, CO</pubplace>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>ground condition</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>2006</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed.</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">1.980961</westbc>
+            <eastbc Sync="TRUE">2.279891</eastbc>
+            <northbc Sync="TRUE">41.466089</northbc>
+            <southbc Sync="TRUE">41.268310</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">414900.341074</leftbc>
+            <rightbc Sync="TRUE">439685.825776</rightbc>
+            <bottombc Sync="TRUE">4569040.446346</bottombc>
+            <topbc Sync="TRUE">4590751.188894</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>Transportation networks</themekey>
+            <themekey>Roads</themekey>
+            <themekey>Streets</themekey>
+         </theme>
+         <place>
+            <placekey>Barcelona</placekey>
+            <placekey>Spain</placekey>
+         </place>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>Licensed data</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">BARCELONA_ROAD_CENTER</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">414900.341074</westBL>
+               <eastBL Sync="TRUE">439685.825776</eastBL>
+               <northBL Sync="TRUE">4590751.188894</northBL>
+               <southBL Sync="TRUE">4569040.446346</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">1.980961</westBL>
+         <eastBL Sync="TRUE">2.279891</eastBL>
+         <northBL Sync="TRUE">41.466089</northBL>
+         <southBL Sync="TRUE">41.26831</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+               <cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20091014</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc Sync="TRUE">Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">7.188</transize>
+               <dssize Sync="TRUE">7.188</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\cities\CitySphereRoadVectors\Barcelona\BARCELONA_ROAD_CENTER.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">7.188</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="BARCELONA_ROAD_CENTER">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polyline</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">51163</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="BARCELONA_ROAD_CENTER">
+            <sdtstype Sync="TRUE">String</sdtstype>
+            <ptvctcnt Sync="TRUE">51163</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">Geographic Coordinate System</geogcsn>
+            <projcsn Sync="TRUE">UTM Zone 31, Northern Hemisphere</projcsn>
+         </cordsysn>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <plandu Sync="TRUE">meters</plandu>
+               <coordrep>
+                  <absres Sync="TRUE">0.000000</absres>
+                  <ordres Sync="TRUE">0.000000</ordres>
+               </coordrep>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+               <transmer>
+                  <sfctrmer Sync="TRUE">0.999600</sfctrmer>
+                  <longcm Sync="TRUE">3.000000</longcm>
+                  <latprjo Sync="TRUE">0.000000</latprjo>
+                  <feast Sync="TRUE">500000.000000</feast>
+                  <fnorth Sync="TRUE">0.000000</fnorth>
+               </transmer>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">WGS84</horizdn>
+            <ellips Sync="TRUE">WGS84</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">UTM Zone 31, Northern Hemisphere</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="BARCELONA_ROAD_CENTER">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">51163</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="BARCELONA_ROAD_CENTER">
+         <enttyp>
+            <enttypl Sync="TRUE">BARCELONA_ROAD_CENTER</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">51163</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LAYER</attrlabl>
+            <attalias Sync="TRUE">LAYER</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">17</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DESCRIPTIO</attrlabl>
+            <attalias Sync="TRUE">DESCRIPTIO</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">23</attwidth>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20091014</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

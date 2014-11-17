@@ -1,0 +1,317 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>TomTom North America, Inc.</origin>
+        <pubdate>20130601</pubdate>
+        <title>U.S. County Boundaries, 2013</title>
+        <edition>2013</edition>
+        <geoform>vector digital data</geoform>
+        <serinfo>
+          <sername>Data &amp; Maps for ArcGIS&#174;</sername>
+          <issue>2013 - World, Europe, and United States</issue>
+        </serinfo>
+        <onlink>http://map.princeton.edu/data/2n/49/t3/30/8/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>U.S. County Boundaries represents the boundary lines of the counties of the United States.</abstract>
+      <purpose>U.S. County Boundaries provides detailed boundary lines consistent with the county, block group, tract, and state data sets and are effective for cartographic display at regional and state levels.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <rngdates>
+          <begdate>201003</begdate>
+          <enddate>201112</enddate>
+        </rngdates>
+      </timeinfo>
+      <current>Unknown</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Annually</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-179.147340</westbc>
+        <eastbc>179.778465</eastbc>
+        <northbc>71.390482</northbc>
+        <southbc>17.881242</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>line</themekey>
+        <themekey>detail</themekey>
+        <themekey>boundaries</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>United States</placekey>
+        <placekey>U.S. Counties</placekey>
+        <placekey>Counties</placekey>
+        <placekey>Puerto Rico</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2011</tempkey>
+        <tempkey>2010</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>The data are provided by multiple, third party data vendors under license to Esri for inclusion on Data &amp; Maps for ArcGIS&#174; for use with Esri&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on Data &amp; Maps. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by Esri Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of Esri and its licensor(s). The Data and Related Materials are owned by Esri and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: Esri warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. Esri DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. Esri IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). Esri SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD Esri, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of Esri or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to Esri with a copy of Licensee's invoice/receipt and Esri returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL Esri AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT Esri OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: Esri's licensor(s) has (have) authorized Esri to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the Esri licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to Esri.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, Esri has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</accconst>
+    <useconst>See legal constraints.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Esri</cntorg>
+          <cntper>ArcGIS Content Team</cntper>
+        </cntorgp>
+        <cntpos>ArcGIS Content Team</cntpos>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>us</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Esri</cntorg>
+          <cntper>ArcGIS Content Team</cntper>
+        </cntorgp>
+        <cntpos>ArcGIS Content Team</cntpos>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>us</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>ESRI</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>35486</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ESRI_2013_dtl_cnty_ln</enttypl>
+        <enttypd>The lines represent the boundary lines of the counties and county equivalents of the United States.</enttypd>
+        <enttypds>Esri</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>The code for the type of boundary.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomvds>Esri</edomvds>
+            <edomv>1</edomv>
+            <edomvd>County.</edomvd>
+          </edom>
+          <edom>
+            <edomvds>Esri</edomvds>
+            <edomv>2</edomv>
+            <edomvd>State.</edomvd>
+          </edom>
+          <edom>
+            <edomvds>Esri</edomvds>
+            <edomv>3</edomv>
+            <edomvd>Coastline.</edomvd>
+          </edom>
+          <edom>
+            <edomvds>Esri</edomvds>
+            <edomv>4</edomv>
+            <edomvd>Shoreline.</edomvd>
+          </edom>
+          <edom>
+            <edomvds>Esri</edomvds>
+            <edomv>5</edomv>
+            <edomvd>International.</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE_DESC</attrlabl>
+        <attrdef>The description for the type of boundary.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomvds>Esri</edomvds>
+            <edomv>County, State, Coastline, Shoreline, International</edomv>
+            <edomvd>The description of the type of boundary.</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Esri; Esri Offices</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>us</country>
+        </cntaddr>
+        <cntvoice>800-447-9778</cntvoice>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See access and use constraints information.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>SDC Feature Database</formname>
+          <transize>21.520</transize>
+        </digtinfo>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://www.ArcGIS.com</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+          <offoptn>
+            <offmedia>dvdRom</offmedia>
+          </offoptn>
+        </digtopt>
+      </digform>
+      <fees>Software purchase price. Data &amp; Maps is available only as part of Esri&#174; software. To use this data requires software that supports SDC files.</fees>
+      <ordering>Data &amp; Maps is available only as part of Esri&#174; software.
+
+In the United States, contact the Esri Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local Esri Office.  This information can be found at http://www.esri.com/about-esri/offices.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20141009</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Esri</cntorg>
+          <cntper>ArcGIS Content Team</cntper>
+        </cntorgp>
+        <cntpos>ArcGIS Content Team</cntpos>
+        <cntaddr>
+          <addrtype>unknown</addrtype>
+          <address>380 New York Street</address>
+          <city>Redlands</city>
+          <state>California</state>
+          <postal>92373-8100</postal>
+          <country>us</country>
+        </cntaddr>
+        <cntvoice>909-793-2853</cntvoice>
+        <cntfax>909-793-5953</cntfax>
+        <cntemail>info@esri.com</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+</metadata>

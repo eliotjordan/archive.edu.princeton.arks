@@ -1,0 +1,697 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ML Infomap Pvt. Ltd.</origin>
+        <pubdate>20140501</pubdate>
+        <title>Village Points in Himachal Pradesh, 2011</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/h4/15/pc/13/9/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Digital map of village points in Himachal Pradesh, 2011. Points of all villages are shown linked to Primary Census Abstract 2011. Additionally, the Village Panchayat (Gram Panchayat) name is indicated.</abstract>
+      <purpose>For use with GIS software. Mapping and analysis of census demographic and socio-economic data.</purpose>
+      <supplinf>Census demographic and socio-economic data included.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20140501</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Publication date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>76.408134</westbc>
+        <eastbc>78.217453</eastbc>
+        <northbc>32.961353</northbc>
+        <southbc>30.768671</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>village</themekey>
+        <themekey>villages</themekey>
+        <themekey>town</themekey>
+        <themekey>towns</themekey>
+        <themekey>district</themekey>
+        <themekey>districts</themekey>
+        <themekey>panchayat</themekey>
+        <themekey>demographic</themekey>
+        <themekey>population</themekey>
+        <themekey>census</themekey>
+        <themekey>household</themekey>
+        <themekey>households</themekey>
+        <themekey>sexes</themekey>
+        <themekey>sex ratio</themekey>
+        <themekey>male</themekey>
+        <themekey>female</themekey>
+        <themekey>age</themekey>
+        <themekey>age groups</themekey>
+        <themekey>caste</themekey>
+        <themekey>castes</themekey>
+        <themekey>tribe</themekey>
+        <themekey>tribes</themekey>
+        <themekey>literacy</themekey>
+        <themekey>employment</themekey>
+        <themekey>work</themekey>
+        <themekey>workers</themekey>
+        <themekey>labor</themekey>
+        <themekey>laborers</themekey>
+        <themekey>marginal</themekey>
+        <themekey>agriculture</themekey>
+        <themekey>agricultural</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>society</themekey>
+        <themekey>location</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Himachal</placekey>
+		<placekey>Himachal Pradesh</placekey>
+        <placekey>India</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>VillageMap of Himachal Pradesh by ML Infomap New Delhi</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{84640167-0422-41a2-9dfd-c1d054bb3984}</PublishedDocID> 
+  </Esri>
+  <dataqual>
+    <logic>Coastal boundary aligned with imagery, no gaps in polygon, no topological errors, aggregate and % figures verified.</logic>
+    <complete>Complete Census 2011 data release for all attributes.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>30-50 meters</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Registrar General and Census Commissioner of India</origin>
+            <pubdate>20110101</pubdate>
+            <title>Village demographic profile of India 2011</title>
+            <onlink>http://www.mlinfomap.com</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>None</typesrc>
+        <srccitea>Village demographic profile of India 2011</srccitea>
+        <srccontr>Census data.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Census operations across India.</procdesc>
+        <procdate>20110101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>7693</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>HIMACHAL_TOWN_PT_2011</enttypl>
+        <enttypd>Administrative unit.</enttypd>
+        <enttypds>Government of India</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>M_MOT_0_3</attrlabl>
+        <attrdef>Male marginal other workers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MOT_0_3</attrlabl>
+        <attrdef>Female marginal other workers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HIMAC_ID</attrlabl>
+        <attrdef>Unique identification number</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PANCH_NAME</attrlabl>
+        <attrdef>Name of Panchayat.</attrdef>
+        <attrdefs>Census of India, National Panchayat Directory</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MOT_0_3</attrlabl>
+        <attrdef>Marginal other workers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MHH_0_3</attrlabl>
+        <attrdef>Marginal workers in household industries - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MOT_3_6</attrlabl>
+        <attrdef>Female marginal other workers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_0_3</attrlabl>
+        <attrdef>Marginal workers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_L6</attrlabl>
+        <attrdef>Male population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_OTH_W</attrlabl>
+        <attrdef>Female other workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_POP</attrlabl>
+        <attrdef>Total population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_MRW</attrlabl>
+        <attrdef>Total marginal workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MAG_3_6</attrlabl>
+        <attrdef>Female marginal agricultural labourers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>M_MFHH</attrlabl>
+        <attrdef>Male household industry workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_W</attrlabl>
+        <attrdef>Male total workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_LIT</attrlabl>
+        <attrdef>Male literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MHH_3_6</attrlabl>
+        <attrdef>Female marginal workers in household industries - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_W</attrlabl>
+        <attrdef>Total workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_AGLB</attrlabl>
+        <attrdef>Female marginal workers as agricultural labourers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MHH_3_6</attrlabl>
+        <attrdef>Marginal workers in household industries - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_OTH</attrlabl>
+        <attrdef>Male marginal workers - other workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SUB_DIST11</attrlabl>
+        <attrdef>Name of administrative subdistrict [2011].</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOT_LIT</attrlabl>
+        <attrdef>Total literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_CULT</attrlabl>
+        <attrdef>Male cultivators.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_CULT</attrlabl>
+        <attrdef>Total marginal workers as cultivators.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_NNW</attrlabl>
+        <attrdef>Female non-workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_AGLB</attrlabl>
+        <attrdef>Total marginal workers as agricultural labourers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MAG_0_3</attrlabl>
+        <attrdef>Marginal agricultural labourers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_M_CL_0_3</attrlabl>
+        <attrdef>Male marginal cultivators - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ILLT</attrlabl>
+        <attrdef>Female illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MAG_0_3</attrlabl>
+        <attrdef>Male marginal agricultural labourers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_M_CL_0_3</attrlabl>
+        <attrdef>Marginal cultivators - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_0_3</attrlabl>
+        <attrdef>Male marginal workers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MOT_3_6</attrlabl>
+        <attrdef>Male marginal other workers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MHH_3_6</attrlabl>
+        <attrdef>Male marginal workers in household industries - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_AGLB</attrlabl>
+        <attrdef>Total agricultural labourers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MAG_3_6</attrlabl>
+        <attrdef>Marginal agricultural labourers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRW</attrlabl>
+        <attrdef>Female marginal workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_HH</attrlabl>
+        <attrdef>Total marginal workers - household industry workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_CULT</attrlabl>
+        <attrdef>Male marginal workers as cultivators.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_SC</attrlabl>
+        <attrdef>Male scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_3_6</attrlabl>
+        <attrdef>Marginal workers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MFHH</attrlabl>
+        <attrdef>Female household industry workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MFHH</attrlabl>
+        <attrdef>Total household industry workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEVEL_11</attrlabl>
+        <attrdef>Village or town in 2011.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>M_POP</attrlabl>
+        <attrdef>Male population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_CULT</attrlabl>
+        <attrdef>Female marginal workers as cultivators.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MAG_3_6</attrlabl>
+        <attrdef>Male marginal agricultural labourers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ST</attrlabl>
+        <attrdef>Total scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE_UT</attrlabl>
+        <attrdef>Name of administrative state or union territory.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOT_CULT</attrlabl>
+        <attrdef>Total cultivators.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_AGLB</attrlabl>
+        <attrdef>Female agricultural labourers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ILLT</attrlabl>
+        <attrdef>Male illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MRG_OTH</attrlabl>
+        <attrdef>Total marginal workers - other workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_OTH_W</attrlabl>
+        <attrdef>Male other workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_NNW</attrlabl>
+        <attrdef>Male non-workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MHH_0_3</attrlabl>
+        <attrdef>Female marginal workers in household industries - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MHH_0_3</attrlabl>
+        <attrdef>Male marginal workers in household industries - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_0_3</attrlabl>
+        <attrdef>Female marginal workers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ST</attrlabl>
+        <attrdef>Male scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME_11</attrlabl>
+        <attrdef>Name of administrative village or town [2011].</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>F_POP</attrlabl>
+        <attrdef>Female population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_M_CL_3_6</attrlabl>
+        <attrdef>Male marginal cultivators - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_W</attrlabl>
+        <attrdef>Female total workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_SC</attrlabl>
+        <attrdef>Total scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_3_6</attrlabl>
+        <attrdef>Male marginal workers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_M_CL_0_3</attrlabl>
+        <attrdef>Female marginal cultivators - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRW</attrlabl>
+        <attrdef>Male marginal workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_HH</attrlabl>
+        <attrdef>Female marginal workers - household industry workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MNW</attrlabl>
+        <attrdef>Male main workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_SC</attrlabl>
+        <attrdef>Female scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_M_CL_3_6</attrlabl>
+        <attrdef>Female marginal cultivators - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_3_6</attrlabl>
+        <attrdef>Female marginal workers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_HH</attrlabl>
+        <attrdef>Male marginal workers - household industry workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_M_CL_3_6</attrlabl>
+        <attrdef>Marginal cultivators - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_OTH_W</attrlabl>
+        <attrdef>Total other workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_L6</attrlabl>
+        <attrdef>Total population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>T_MOT_3_6</attrlabl>
+        <attrdef>Marginal other workers - worked for 3 months or more but less than 6 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_HH</attrlabl>
+        <attrdef>Total number of households.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_MNW</attrlabl>
+        <attrdef>Total main workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MAG_0_3</attrlabl>
+        <attrdef>Female marginal agricultural labourers - worked for less than 3 months.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MNW</attrlabl>
+        <attrdef>Female main workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CENSUS2011</attrlabl>
+        <attrdef>Census code of village/town in 2011.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ILLT</attrlabl>
+        <attrdef>Total illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_AGLB</attrlabl>
+        <attrdef>Male agricultural labourers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_MRG_OTH</attrlabl>
+        <attrdef>Female marginal workers - other workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_LIT</attrlabl>
+        <attrdef>Female literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ST</attrlabl>
+        <attrdef>Female scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_L6</attrlabl>
+        <attrdef>Female population below 6 years</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_CULT</attrlabl>
+        <attrdef>Female cultivators.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_MRG_AGLB</attrlabl>
+        <attrdef>Male marginal workers as agricultural labourers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DISTRICT11</attrlabl>
+        <attrdef>Name of administrative district [2011].</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOT_NNW</attrlabl>
+        <attrdef>Total non-workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140627</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,634 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20081006</CreaDate>
+    <CreaTime>11072300</CreaTime>
+    <SyncDate>20020208</SyncDate>
+    <SyncTime>13343900</SyncTime>
+    <ModDate>20080930</ModDate>
+    <ModTime>15083400</ModTime>
+    <Sync>FALSE</Sync>
+    <MetaID>{A1996C21-981B-405B-B0C3-3BB888364C15}</MetaID>
+    <SyncOnce>TRUE</SyncOnce>
+    <PublishedDocID>{1DD37D07-2662-4721-8CE6-342C5B351838}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <idinfo>
+    <native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.1.3.679</native>
+    <descript>
+      <langdata Sync="TRUE">en</langdata>
+      <abstract>Europe Urbanized Areas represents the urbanized areas of Europe.</abstract>
+      <purpose>Europe Urbanized Areas provides a base map layer of urbanized areas for Europe.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:250,000.</supplinf>
+    </descript>
+    <citation>
+      <citeinfo>
+        <origin>AND Data Solutions, B.V.</origin>
+        <pubdate>20020401</pubdate>
+        <title>Europe Urbanized Areas 2002</title>
+        <ftname Sync="TRUE">urban</ftname>
+        <geoform Sync="TRUE">vector digital data</geoform>
+        <edition>2002</edition>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2002</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+        </pubinfo>
+        <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+        <onlink>http://map.princeton.edu/data/m6/13/n0/01/j/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>publication date</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>1999</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Matches software update releases</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc Sync="TRUE">-22.039900</westbc>
+        <eastbc Sync="TRUE">56.807600</eastbc>
+        <northbc Sync="TRUE">70.683200</northbc>
+        <southbc Sync="TRUE">35.126200</southbc>
+      </bounding>
+      <lboundng>
+        <leftbc Sync="TRUE">-22.039900</leftbc>
+        <rightbc Sync="TRUE">56.807600</rightbc>
+        <bottombc Sync="TRUE">35.126200</bottombc>
+        <topbc Sync="TRUE">70.683200</topbc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>polygon</themekey>
+        <themekey>urban</themekey>
+        <themekey>urban areas</themekey>
+        <themekey>cities</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekey>Europe</placekey>
+        <placekt>None</placekt>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>1999</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps CD&#8211;ROMs for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps CD&#8211;ROMs. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Internal Use Only. No redistribution rights are granted by the data vendor and the data is for the end user's own internal use only.
+
+The terms and conditions below apply to all the data sets provided on the ESRI Data &amp; Maps CD&#8211;ROMs.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <natvform Sync="TRUE">Shapefile</natvform>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <metainfo>
+    <langmeta Sync="TRUE">en</langmeta>
+    <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+    <mettc Sync="TRUE">local time</mettc>
+    <metc>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Digital Map and Geospatial Information Center, The Lewis Library, Room 228, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntorgp>
+          <cntper>Tsering Wangyal Shawa</cntper>
+          <cntorg>Princeton University Library</cntorg>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+      </cntinfo>
+    </metc>
+    <metd Sync="TRUE">20080930</metd>
+    <metextns>
+      <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <spdoinfo>
+    <direct Sync="TRUE">Vector</direct>
+    <ptvctinf>
+      <esriterm Name="urban">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom Sync="TRUE">Polygon</efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">4455</efeacnt>
+        <spindex Sync="TRUE">TRUE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+        <featdesc>Europe Urbanized Area</featdesc>
+      </esriterm>
+      <sdtsterm Name="urban">
+        <sdtstype Sync="TRUE">G-polygon</sdtstype>
+        <ptvctcnt Sync="TRUE">4455</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <cordsysn>
+        <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+      </cordsysn>
+      <geograph>
+        <geogunit Sync="TRUE">Decimal degrees</geogunit>
+        <latres Sync="TRUE">0.000001</latres>
+        <longres Sync="TRUE">0.000001</longres>
+      </geograph>
+      <geodetic>
+        <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+        <ellips Sync="TRUE">WGS_1984</ellips>
+        <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+        <denflat Sync="TRUE">298.257224</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed Name="urban">
+      <enttyp>
+        <enttypl Sync="TRUE">urban</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">4455</enttypc>
+        <enttypd>The polygons represent the urbanized areas for Europe.</enttypd>
+        <enttypds>ESRI</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">NAME</attrlabl>
+        <attalias Sync="TRUE">NAME</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">60</attwidth>
+        <attrdef>The name of the urbanized area.</attrdef>
+        <attrdefs>AND Data Solutions, B.V.</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">NATION</attrlabl>
+        <attalias Sync="TRUE">NATION</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">3</attwidth>
+        <attrdef>The code for the country in which the urbanized area is located. It matches the International Calling Code for the country except for Vatican City and Liechtenstein.</attrdef>
+        <attrdefs>AND Data Solutions, B.V.</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>7</edomv>
+            <edomvd>Russia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>30</edomv>
+            <edomvd>Greece</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>31</edomv>
+            <edomvd>Netherlands</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>32</edomv>
+            <edomvd>Belgium</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>33</edomv>
+            <edomvd>France</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>34</edomv>
+            <edomvd>Spain</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>36</edomv>
+            <edomvd>Hungary</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>39</edomv>
+            <edomvd>Italy</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>40</edomv>
+            <edomvd>Romania</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>41</edomv>
+            <edomvd>Switzerland</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>43</edomv>
+            <edomvd>Austria</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>44</edomv>
+            <edomvd>United Kingdom</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>45</edomv>
+            <edomvd>Denmark</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>46</edomv>
+            <edomvd>Sweden</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>47</edomv>
+            <edomvd>Norway</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>48</edomv>
+            <edomvd>Poland</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>49</edomv>
+            <edomvd>Germany</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>90</edomv>
+            <edomvd>Turkey</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>298</edomv>
+            <edomvd>Faeroe Islands</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>350</edomv>
+            <edomvd>Gibraltar</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>351</edomv>
+            <edomvd>Portugal</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>352</edomv>
+            <edomvd>Luxembourg</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>353</edomv>
+            <edomvd>Irish Republic</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>354</edomv>
+            <edomvd>Iceland</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>355</edomv>
+            <edomvd>Albania</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>356</edomv>
+            <edomvd>Malta</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>357</edomv>
+            <edomvd>Cyprus</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>358</edomv>
+            <edomvd>Finland</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>359</edomv>
+            <edomvd>Bulgaria</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>370</edomv>
+            <edomvd>Lithuania</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>371</edomv>
+            <edomvd>Latvia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>372</edomv>
+            <edomvd>Estonia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>373</edomv>
+            <edomvd>Moldova</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>374</edomv>
+            <edomvd>Armenia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>375</edomv>
+            <edomvd>Byelorussia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>376</edomv>
+            <edomvd>Andorra</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>377</edomv>
+            <edomvd>Monaco</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>378</edomv>
+            <edomvd>San Marino</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>380</edomv>
+            <edomvd>Ukraine</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>381</edomv>
+            <edomvd>Yugoslavia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>385</edomv>
+            <edomvd>Croatia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>386</edomv>
+            <edomvd>Slovenia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>387</edomv>
+            <edomvd>Bosnia and Hercegovina</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>389</edomv>
+            <edomvd>Macedonia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>392</edomv>
+            <edomvd>Vatican City</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>411</edomv>
+            <edomvd>Liechtenstein</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>420</edomv>
+            <edomvd>Czech Republic</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>421</edomv>
+            <edomvd>Slovakia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>994</edomv>
+            <edomvd>Azerbaydzhan</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+          <edom>
+            <edomv>995</edomv>
+            <edomvd>Georgia</edomvd>
+            <edomvds>AND Data Solutions, B.V.</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">CNTRYNAME</attrlabl>
+        <attalias Sync="TRUE">CNTRYNAME</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">60</attwidth>
+        <attrdef>The name of the country in which the urbanized area is located.</attrdef>
+        <attrdefs>AND Data Solutions, B.V.</attrdefs>
+        <attrdomv>
+          <udom>Names for the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>The following steps were performed by ESRI: Extracted data from AND Data Solutions, B.V. Organized the names and order of the attributes. Created ArcGIS&#8482; layer file (.lyr).  Created ArcView legend file (.avl).  Created projection file (.prj).  Ran ArcView Avenue request ExportClean, and created spatial indices.</procdesc>
+        <procsv>ArcView GIS 3.2</procsv>
+        <procdate>19991214</procdate>
+        <srcused>AND Data Solutions, B.V.</srcused>
+      </procstep>
+      <srcinfo>
+        <srcscale>250000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srccitea>AND Data Solutions, B.V.</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+        <srccite>
+          <citeinfo>
+            <origin>AND Data Solutions, B.V.</origin>
+            <pubdate>1999</pubdate>
+            <title>Global Road Data, Data set 1999/H2 Europe level 2</title>
+            <pubinfo>
+              <pubplace>Rotterdam, The Netherlands</pubplace>
+              <publish>AND Data Solutions, B.V.</publish>
+            </pubinfo>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1999</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+      </srcinfo>
+    </lineage>
+    <posacc>
+      <horizpa>
+        <horizpar>The positional accuracy is unknown.</horizpar>
+      </horizpa>
+    </posacc>
+    <logic>No duplicate features are present.  The shapefile is exported using Avenue request ExportClean.  This request verifies and enforces the correctness of shapes.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+  </dataqual>
+  <Binary>
+    <Thumbnail />
+  </Binary>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.1.3.679</envirDesc>
+    <dataLang>
+      <languageCode Sync="TRUE" value="en" />
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="TRUE">urban</resTitle>
+      <presForm>
+        <PresFormCd Sync="TRUE" value="005" />
+      </presForm>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd Sync="TRUE" value="001" />
+    </spatRpType>
+    <geoBox esriExtentType="native">
+      <westBL Sync="TRUE">-22.0399</westBL>
+      <eastBL Sync="TRUE">56.8076</eastBL>
+      <northBL Sync="TRUE">35.1262</northBL>
+      <southBL Sync="TRUE">70.6832</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+    <geoBox esriExtentType="decdegrees">
+      <westBL Sync="TRUE">-22.0399</westBL>
+      <eastBL Sync="TRUE">56.8076</eastBL>
+      <northBL Sync="TRUE">35.1262</northBL>
+      <southBL Sync="TRUE">70.6832</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+  </dataIdInfo>
+  <mdLang>
+    <languageCode Sync="TRUE" value="en" />
+  </mdLang>
+  <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+  <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+  <mdFileID Sync="TRUE">{1F7DDF21-BC01-4C20-8AA5-243B33ED0B1E}</mdFileID>
+  <mdChar>
+    <CharSetCd Sync="TRUE" value="001" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd Sync="TRUE" value="005" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <orDesc Sync="TRUE">002</orDesc>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+          <linkage Sync="TRUE">file://</linkage>
+        </onLineSrc>
+        <tranSize Sync="TRUE">4.169</tranSize>
+      </distorTran>
+      <distorFormat>
+        <formatName Sync="TRUE">Shapefile</formatName>
+      </distorFormat>
+    </distributor>
+  </distInfo>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <topLvl>
+        <TopoLevCd Sync="TRUE" value="001" />
+      </topLvl>
+      <geometObjs Name="urban">
+        <geoObjTyp>
+          <GeoObjTypCd Sync="TRUE" value="001" />
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">4455</geoObjCnt>
+      </geometObjs>
+    </VectSpatRep>
+  </spatRepInfo>
+  <mdDateSt Sync="TRUE">20080930</mdDateSt>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+</metadata>

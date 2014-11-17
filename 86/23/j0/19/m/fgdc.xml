@@ -1,0 +1,346 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Proxy Logic Ltd. </origin>
+        <pubdate>20120425</pubdate>
+        <title>Nigeria oil and gas concession blocks, 2012</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/86/23/j0/19/m/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Oil and gas concessions in Nigeria in .shp format.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20120425</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>2.709254</westbc>
+        <eastbc>13.884114</eastbc>
+        <northbc>13.715817</northbc>
+        <southbc>2.666104</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>oil</themekey>
+        <themekey>gas</themekey>
+        <themekey>concessions</themekey>
+        <themekey>land use</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Nigeria</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.Restrictions on
+      use:(a) Unauthorized Use. USER shall not use the PRODUCT on behalf of any other person or
+      organization (including, but not limited to, networks, web pages and Internet use,
+      timesharing, or multiple CPU arrangements) unless authorized in writing by PLN.(b) Copies.
+      USER shall not duplicate the PRODUCT except for the following:1. USER may make one copy of the
+      PRODUCT for protection purposes as long as the USER agrees not to use the backup copy for any
+      purpose other than to replace original data if lost or damaged.2. USER may translate the
+      PRODUCT into other formats and/or media. These "reformats" shall be subject to the same
+      restrictions as the PRODUCT under this agreement.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Proxy Logics Nigeria</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{25e1627a-9bd0-4708-bae7-c97aefe183b9}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>211</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>concessionblocks_2012</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GA_ID</attrlabl>
+        <attrdef>Concession ID number.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLOCK_NAME</attrlabl>
+        <attrdef>Name of block.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BAS_NAMES</attrlabl>
+        <attrdef>Basins (geologic provinces) in which block is located.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AWARD</attrlabl>
+        <attrdef>Date of awarding of concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>START_DATE</attrlabl>
+        <attrdef>Start date of concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GN_CNT_TY</attrlabl>
+        <attrdef>Contract type.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CON_TYPE</attrlabl>
+        <attrdef>Type of concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RT_TYPE</attrlabl>
+        <attrdef>Type of activity carried out under concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CON_STATUS</attrlabl>
+        <attrdef>Concession status.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CON_ST_EVT</attrlabl>
+        <attrdef>Concession starting event.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ONS_OFF</attrlabl>
+        <attrdef>Location of block onshore or offshore.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TERRAINS</attrlabl>
+        <attrdef>Type of terrain on which block is located.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLOCK_SQKM</attrlabl>
+        <attrdef>Total area of block in square kilometers.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ONS_SQKM</attrlabl>
+        <attrdef>Area of onshore portion of block in square kilometers.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHELF_SQKM</attrlabl>
+        <attrdef>Area of shelf (offshore) portion of block in square kilometers.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DEEPW_SQKM</attrlabl>
+        <attrdef>Area of deep-water portion of block in square kilometers.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MIN_WD_FT</attrlabl>
+        <attrdef>Minimum water depth of block in feet.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MED_WD_FT</attrlabl>
+        <attrdef>Median water depth of block in feet.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAX_WD_FT</attrlabl>
+        <attrdef>Maximum water depth of block in feet.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LIC_RND_DS</attrlabl>
+        <attrdef>Licensing round.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OPERATOR</attrlabl>
+        <attrdef>Name of operator.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OP_ACRONYM</attrlabl>
+        <attrdef>Acronym for operator.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DB_UPDATE</attrlabl>
+        <attrdef>Date of database update.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DS_QUAL</attrlabl>
+        <attrdef>Data quality.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COMPANY1</attrlabl>
+        <attrdef>Name of company entitled to concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INTEREST1</attrlabl>
+        <attrdef>Company 1's stake in concession, by percent.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COMPANY2</attrlabl>
+        <attrdef>Name of company entitled to concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INTEREST2</attrlabl>
+        <attrdef>Company 2's stake in concession, by percent.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COMPANY3</attrlabl>
+        <attrdef>Name of company entitled to concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INTEREST3</attrlabl>
+        <attrdef>Company 3's stake in concession, by percent.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COMPANY4</attrlabl>
+        <attrdef>Name of company entitled to concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INTEREST4</attrlabl>
+        <attrdef>Company 4's stake in concession, by percent.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COMPANY5</attrlabl>
+        <attrdef>Name of company entitled to concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INTEREST5</attrlabl>
+        <attrdef>Company 2's stake in concession, by percent.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COMPANY6</attrlabl>
+        <attrdef>Name of company entitled to concession.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>INTEREST6</attrlabl>
+        <attrdef>Company 6's stake in concession, by percent.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140407</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

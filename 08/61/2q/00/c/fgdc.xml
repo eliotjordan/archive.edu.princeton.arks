@@ -1,0 +1,391 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20081006</CreaDate>
+    <CreaTime>11515400</CreaTime>
+    <SyncDate>20020222</SyncDate>
+    <SyncTime>11114200</SyncTime>
+    <ModDate>20080930</ModDate>
+    <ModTime>14500900</ModTime>
+    <Sync>FALSE</Sync>
+    <MetaID>{1896AC7F-95D0-4133-A30F-8EA638A258AD}</MetaID>
+    <SyncOnce>TRUE</SyncOnce>
+    <PublishedDocID>{31492B43-873D-459F-8C9B-DB5D4E7BF0A4}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <idinfo>
+    <native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.1.3.679</native>
+    <descript>
+      <langdata Sync="TRUE">en</langdata>
+      <abstract>A U.S. Designated Market Area (DMA) is generally the group of surrounding counties or split counties (by five-digit ZIP) in which metropolitan central area commercial TV stations achieve the largest audience share.</abstract>
+      <purpose>DMAs are designed by A.C. Nielsen and define nonoverlapping geography for planning, buying, and evaluating television audiences across various U.S. markets.</purpose>
+      <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
+    </descript>
+    <citation>
+      <citeinfo>
+        <origin>Geographic Data Technology, Inc. (GDT)</origin>
+        <pubdate>20020401</pubdate>
+        <title>U.S. Designated Market Areas 2002</title>
+        <ftname Sync="TRUE">dma</ftname>
+        <geoform Sync="TRUE">vector digital data</geoform>
+        <edition>2002</edition>
+        <serinfo>
+          <sername>ESRI Data &amp; Maps</sername>
+          <issue>2002</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Redlands, California, USA</pubplace>
+          <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+        </pubinfo>
+        <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+        <onlink>http://map.princeton.edu/data/08/61/2q/00/c/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>ground condition</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>200010</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Matches software update releases</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc Sync="TRUE">-178.219143</westbc>
+        <eastbc Sync="TRUE">179.768243</eastbc>
+        <northbc Sync="TRUE">71.378784</northbc>
+        <southbc Sync="TRUE">18.910507</southbc>
+      </bounding>
+      <lboundng>
+        <leftbc Sync="TRUE">-178.219143</leftbc>
+        <rightbc Sync="TRUE">179.768243</rightbc>
+        <bottombc Sync="TRUE">18.910507</bottombc>
+        <topbc Sync="TRUE">71.378784</topbc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>polygon</themekey>
+        <themekey>marketing</themekey>
+        <themekey>television</themekey>
+        <themekey>audience share</themekey>
+        <themekey>market share</themekey>
+        <themekey>economy</themekey>
+      </theme>
+      <place>
+        <placekey>United States</placekey>
+        <placekt>None</placekt>
+      </place>
+      <temporal>
+        <tempkey>2000</tempkey>
+        <tempkt>None</tempkt>
+      </temporal>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps CD&#8211;ROMs for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps CD&#8211;ROMs. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on the ESRI Data &amp; Maps CD&#8211;ROMs.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+    <natvform Sync="TRUE">Shapefile</natvform>
+    <datacred>A.C. Nielsen&#8482;</datacred>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <metainfo>
+    <langmeta Sync="TRUE">en</langmeta>
+    <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+    <mettc Sync="TRUE">local time</mettc>
+    <metc>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Digital Map and Geospatial Information Center, The Lewis Library, Room 228, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntorgp>
+          <cntper>Tsering Wangyal Shawa</cntper>
+          <cntorg>Princeton University Library</cntorg>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+      </cntinfo>
+    </metc>
+    <metd Sync="TRUE">20080930</metd>
+    <metextns>
+      <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <spdoinfo>
+    <direct Sync="TRUE">Vector</direct>
+    <ptvctinf>
+      <esriterm Name="dma">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom Sync="TRUE">Polygon</efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">211</efeacnt>
+        <spindex Sync="TRUE">TRUE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+        <featdesc>U.S. Designated Market Area</featdesc>
+      </esriterm>
+      <sdtsterm Name="dma">
+        <sdtstype Sync="TRUE">G-polygon</sdtstype>
+        <ptvctcnt Sync="TRUE">211</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <cordsysn>
+        <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+      </cordsysn>
+      <geograph>
+        <geogunit Sync="TRUE">Decimal degrees</geogunit>
+        <latres Sync="TRUE">0.000001</latres>
+        <longres Sync="TRUE">0.000001</longres>
+      </geograph>
+      <geodetic>
+        <horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+        <ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+        <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+        <denflat Sync="TRUE">298.257222</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed Name="dma">
+      <enttyp>
+        <enttypl Sync="TRUE">dma</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">211</enttypc>
+        <enttypd>The polygons represent nonoverlapping geography for planning, buying, and evaluating television audiences across various U.S. markets.</enttypd>
+        <enttypds>A.C. Nielsen; Geographic Data Technology, Inc.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">DMA</attrlabl>
+        <attalias Sync="TRUE">DMA</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">3</attwidth>
+        <attrdef>The unique identification of the Designated Market Area Code that corresponds to the DMA Market Production Codes.</attrdef>
+        <attrdefs>A.C. Nielsen</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>DMA Market Production Codes</codesetn>
+            <codesets>A.C. Nielsen</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">NAME</attrlabl>
+        <attalias Sync="TRUE">NAME</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">36</attwidth>
+        <attrdef>The name/identification for the Designated Market Area.</attrdef>
+        <attrdefs>A.C. Nielsen</attrdefs>
+        <attrdomv>
+          <codesetd>
+            <codesetn>DMA Market Production Codes names</codesetn>
+            <codesets>A.C. Nielsen</codesets>
+          </codesetd>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <dataqual>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>Dynamap/DMA Boundary and Inventory Files 1.8</title>
+            <origin>Geographic Data Technology, Inc.</origin>
+            <pubdate>200104</pubdate>
+            <edition>Version 1.8</edition>
+            <geoform>vector digital data</geoform>
+            <serinfo>
+              <sername>Dynamap&#174;/DMA Boundary and Inventory Files</sername>
+              <issue>v1.8</issue>
+            </serinfo>
+            <pubinfo>
+              <publish>Geographic Data Technology, Inc</publish>
+              <pubplace>Lebanon, New Hampshire, USA</pubplace>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>100000</srcscale>
+        <typesrc>CD&#8211;ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>200010</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>ground condition</srccurr>
+        </srctime>
+        <srccitea>Dynamap/DMA Boundary and Inventory Files 1.8</srccitea>
+        <srccontr>Attribute and geospatial data</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The GDT DMA Boundary File was generated from two sources: the Nielsen Media Research State/County Universe Estimates file and the GDT 5-digit Zip Code boundaries. All but eight counties are unique to individual DMAs. The zone numbers used in the file correspond to DMA Market Production Codes. Every DMA defined by Nielsen is included.
+
+U.S. Designated Market Areas have been generalized to 1,000 points per polygon and 4,000 points per feature to conform to most applications. Generalization was applied only to those polygons requiring it.</procdesc>
+        <procsv>ArcView GIS 3.x</procsv>
+        <srcprod>Dynamap/DMA Boundary and Inventory Files 1.8</srcprod>
+        <procdate>200104</procdate>
+      </procstep>
+    </lineage>
+    <posacc>
+      <horizpa>
+        <horizpar>The geospatial part of this data set was extracted from the 2000 Census Version TIGER/Line&#8482; files (CD&#8211;ROM edition) then generalized to 1,000 points per polygon and 4,000 points per feature. Generalization was applied only to those polygons requiring it, so the polygons not generalized have the same positional accuracy as the TIGER/Line coordinates and the generalized polygons have less positional accuracy.
+
+The positional accuracy of the TIGER/Line coordinates varies with the source materials used but at best meets the established National Map Accuracy standards (+/- 167 feet approximately) where 1:100,000-scale maps from the USGS are the source. The Census Bureau cannot specify the accuracy of feature updates added by its field staff or of features derived from the GBF/DIME-Files or other map sources. Thus, the level of positional accuracy in the TIGER/Line files is not suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.</horizpar>
+      </horizpa>
+    </posacc>
+    <logic>No duplicate features are present.</logic>
+    <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.  When political boundaries extend into water, the coded boundary line follows the shoreline, creating a visible landmark. Any extensions of political boundaries into water areas are not represented.</complete>
+  </dataqual>
+  <mdDateSt Sync="TRUE">20080930</mdDateSt>
+  <Binary>
+    <Thumbnail />
+  </Binary>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 8.1.3.679</envirDesc>
+    <dataLang>
+      <languageCode Sync="TRUE" value="en" />
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="TRUE">dma</resTitle>
+      <presForm>
+        <PresFormCd Sync="TRUE" value="005" />
+      </presForm>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd Sync="TRUE" value="001" />
+    </spatRpType>
+    <geoBox esriExtentType="native">
+      <westBL Sync="TRUE">-178.2191</westBL>
+      <eastBL Sync="TRUE">179.7682</eastBL>
+      <northBL Sync="TRUE">18.91051</northBL>
+      <southBL Sync="TRUE">71.37878</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+    <geoBox esriExtentType="decdegrees">
+      <westBL Sync="TRUE">-178.2191</westBL>
+      <eastBL Sync="TRUE">179.7682</eastBL>
+      <northBL Sync="TRUE">18.91051</northBL>
+      <southBL Sync="TRUE">71.37878</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+  </dataIdInfo>
+  <mdLang>
+    <languageCode Sync="TRUE" value="en" />
+  </mdLang>
+  <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+  <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+  <mdFileID Sync="TRUE">{1F7DDF21-BC01-4C20-8AA5-243B33ED0B1E}</mdFileID>
+  <mdChar>
+    <CharSetCd Sync="TRUE" value="001" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd Sync="TRUE" value="005" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <orDesc Sync="TRUE">002</orDesc>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+          <linkage Sync="TRUE">file://</linkage>
+        </onLineSrc>
+        <tranSize Sync="TRUE">5.250</tranSize>
+      </distorTran>
+      <distorFormat>
+        <formatName Sync="TRUE">Shapefile</formatName>
+      </distorFormat>
+    </distributor>
+  </distInfo>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode Sync="TRUE">GCS_North_American_1983</identCode>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <topLvl>
+        <TopoLevCd Sync="TRUE" value="001" />
+      </topLvl>
+      <geometObjs Name="dma">
+        <geoObjTyp>
+          <GeoObjTypCd Sync="TRUE" value="001" />
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">211</geoObjCnt>
+      </geometObjs>
+    </VectSpatRep>
+  </spatRepInfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+</metadata>

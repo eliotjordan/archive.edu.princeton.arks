@@ -1,0 +1,4178 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>All China Marketing Research Co., Ltd.</origin>
+        <pubdate>20050418</pubdate>
+        <title>Township map of Guangdong with 2000 Census long form data (L7-L8)</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/3x/81/6p/12/g/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Township locations in Guangdong Province, China, with 2000 Census data from long form tables L7-L8 (9.5% counts). Includes introductory, employed population, and fertility information.</abstract>
+      <purpose>For use with GIS software.</purpose>
+      <supplinf>"The data is updated by end of 2000 year"</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20050418</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Publication date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>109.710823</westbc>
+        <eastbc>117.132874</eastbc>
+        <northbc>25.460644</northbc>
+        <southbc>20.266329</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>demographic</themekey>
+        <themekey>births</themekey>
+        <themekey>families</themekey>
+        <themekey>population</themekey>
+        <themekey>households</themekey>
+        <themekey>kitchens</themekey>
+        <themekey>buildings</themekey>
+        <themekey>ownership</themekey>
+        <themekey>education</themekey>
+        <themekey>towns</themekey>
+        <themekey>migration</themekey>
+        <themekey>kitchen</themekey>
+        <themekey>plumbing</themekey>
+        <themekey>females</themekey>
+        <themekey>township</themekey>
+        <themekey>literacy</themekey>
+        <themekey>female</themekey>
+        <themekey>lavatories</themekey>
+        <themekey>birth</themekey>
+        <themekey>water</themekey>
+        <themekey>household</themekey>
+        <themekey>lavatory</themekey>
+        <themekey>male</themekey>
+        <themekey>baths</themekey>
+        <themekey>census</themekey>
+        <themekey>males</themekey>
+        <themekey>bathrooms</themekey>
+        <themekey>rental</themekey>
+        <themekey>houses</themekey>
+        <themekey>sex</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>China</placekey>
+        <placekey>Guangdong</placekey>
+        <placekey>Guangdong Province</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Copyright by All China Marketing Research Co., Ltd., an exclusive agent for non-confidential data collected by the National Bureau of Statistics of China. No part of this data product is allowed to be reproduced or re-distributed without permission. Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>NGCC (National Geomatic Center of China)</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>2017</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9830007334434965e-009</latres>
+        <longres>8.9830007334434965e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D Krasovsky 1940</horizdn>
+        <ellips>Krasovsky 1940</ellips>
+        <semiaxis>6378245.0</semiaxis>
+        <denflat>298.3</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>township_2000_guangdong_l2</enttypl>
+        <enttypd>Township location with 2000 population Census data from 9.95% Long Form data (table L7-L8)</enttypd>
+        <enttypds>NGCC</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703008</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Beijing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704004</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Beijing Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701030</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shaanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701030 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a041</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a041 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802020</attrlabl>
+        <attrdef>Total Number of Rooms Between 1990 and 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a012</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a006</attrlabl>
+        <attrdef>Total Female with the Occupation of Administrator/Manager Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703095</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hunan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703095 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703016</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Tianjin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b017</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801006</attrlabl>
+        <attrdef>Total Number of Households That Have A Bungalow</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b033</attrlabl>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b033 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703141</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shaanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703141 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b045</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b045 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802018</attrlabl>
+        <attrdef>Total Area of Floor Space Between 1980 and 1989</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703035</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Liaoning</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703035 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GbCnty</attrlabl>
+        <attrdef>Six digit code of County</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of GbCnty values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703059</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Zhejiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703059 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702008</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1999</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802002</attrlabl>
+        <attrdef>Total Number of Rooms</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703116</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Chongqing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703116 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703150</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Qinghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703150 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703041</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Jilin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703041 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703132</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Tibet</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703132 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704021</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hunan Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703126</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Guizhou</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703126 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703120</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Sichuan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703120 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ename3</attrlabl>
+        <attrdef>English name of County</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Ename3 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703023</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Shanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703023 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703086</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Henan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703086 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b023</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b023 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703098</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Guangdong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703098 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a036</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a036 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703046</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Heilongjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703046 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a004</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Administrator/Manager Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b016</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Agriculture &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b031</attrlabl>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b031 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802014</attrlabl>
+        <attrdef>Total Number of Rooms Between 1970 and 1979</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703083</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Henan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703083 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a012</attrlabl>
+        <attrdef>Total Female with the Occupation of Clerical &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803010</attrlabl>
+        <attrdef>Total Number of Households Using Tap Water</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702006</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1997</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703044</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Heilongjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703044 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b005</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703151</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Qinghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703151 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GbTown</attrlabl>
+        <attrdef>Nine digit code of Township</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of GbTown values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b026</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b026 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b024</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b024 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703149</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Qinghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703149 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701012</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shanghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703052</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jiangsu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703052 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704020</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hubei Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703056</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Jiangsu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703056 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703010</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Beijing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703092</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hunan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703092 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a015</attrlabl>
+        <attrdef>Total Female with the Occupation of Sales &amp; Service Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b012</attrlabl>
+        <attrdef>Total Female with the Occupation of Clerical &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703156</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Ningxia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703156 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a007</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b022</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b022 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703105</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Guangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703105 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703121</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Sichuan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703121 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b009</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a005</attrlabl>
+        <attrdef>Total Male with the Occupation of Administrator/Manager Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704006</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hebei Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b013</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Sales &amp; Service Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703018</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Hebei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704028</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Yunnan Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704028 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704013</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jiangsu Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b032</attrlabl>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b032 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a011</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703142</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Gansu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703142 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801012</attrlabl>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Other Material</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701011</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Heilongjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b030</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b030 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704018</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shandong Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703096</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hunan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703096 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b016</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a039</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a039 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701025</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Chongqing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701025 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703085</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Henan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703085 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b042</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b042 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a045</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a045 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b004</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703075</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Jiangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703075 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704023</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guangxi Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704023 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708006</attrlabl>
+        <attrdef>Total Number of Women from This Province Who Gave 1st Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803003</attrlabl>
+        <attrdef>Total Number of Households Sharing Kitchen with Other Household</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701029</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Tibet</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701029 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703136</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Tibet</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703136 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703152</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Ningxia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703152 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703091</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hubei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703091 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a028</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a028 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703067</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Fujian</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703067 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703034</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Liaoning</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703034 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802015</attrlabl>
+        <attrdef>Total Area of Floor Space Between 1970 and 1979</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b019</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Production &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a018</attrlabl>
+        <attrdef>Total Female with the Occupation of Agriculture &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704034</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Xinjiang Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704034 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703051</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shanghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703051 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703143</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Gansu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703143 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a019</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703015</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Tianjin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b047</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b047 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802012</attrlabl>
+        <attrdef>Total Area of Floor Space Between 1960 and 1969</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801009</attrlabl>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Concrete</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GbCity</attrlabl>
+        <attrdef>Four digit code of city</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of GbCity values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701023</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701023 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806001</attrlabl>
+        <attrdef>Total Number of Family Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806007</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 500 to 1000 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a003</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802003</attrlabl>
+        <attrdef>Total Area of Floor Space</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804008</attrlabl>
+        <attrdef>Total Number of Households That Get Residence from Other Sources</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804002</attrlabl>
+        <attrdef>Total Number of Households That Have Self-built House</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803019</attrlabl>
+        <attrdef>Total Number of Households Sharing Other of Type Lavatory With Other Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703108</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Hainan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703108 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702005</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1996</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703103</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Guangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703103 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701024</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hainan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701024 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ename</attrlabl>
+        <attrdef>English name of Township</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Ename values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703118</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Sichuan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703118 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b035</attrlabl>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b035 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703122</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guizhou</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703122 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b003</attrlabl>
+        <attrdef>Total Female Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701004</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Beijing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703025</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703025 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701014</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Zhejiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a038</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a038 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703029</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Inner Mongolia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703029 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GbProv</attrlabl>
+        <attrdef>Two digit code of Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of GbProv values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708009</attrlabl>
+        <attrdef>Total Number of Women from Other Provinces Who Gave Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803006</attrlabl>
+        <attrdef>Total Number of Households Cooking with Electricity</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703078</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Shandong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703078 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708008</attrlabl>
+        <attrdef>Total Number of Women from This Province Who Gave 3rd Birth &amp; Over from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a035</attrlabl>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a035 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702003</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places Before October 31, 1995</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b044</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b044 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703107</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hainan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703107 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b011</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702009</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places in 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703088</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Hubei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703088 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703080</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shandong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703080 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703134</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Tibet</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703134 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703006</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703061</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Zhejiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703061 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a031</attrlabl>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a031 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703115</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Chongqing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703115 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704008</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Inner Mongolia Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b039</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b039 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b040</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b040 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701019</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Henan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703073</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Jiangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703073 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b020</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703145</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Gansu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703145 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704035</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hong Kong, Macao and Taiwan or abroad Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704035 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704016</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Fujian Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801008</attrlabl>
+        <attrdef>Total Number of Households That Have An Apartment in A Building under 7 Stories</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701031</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Gansu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701031 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802011</attrlabl>
+        <attrdef>Total Number of Rooms Between 1960 and 1969</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703127</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Yunnan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703127 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b025</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b025 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703030</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Inner Mongolia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703030 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703138</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Shaanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703138 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b046</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b046 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a009</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b038</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b038 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703009</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Beijing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703071</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Fujian</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703071 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802019</attrlabl>
+        <attrdef>Total Number of Households Between 1990 and 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703117</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Sichuan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703117 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703135</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Tibet</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703135 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b034</attrlabl>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b034 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708011</attrlabl>
+        <attrdef>Total Number of Women from Other Provinces Who Gave 2nd Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703146</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Gansu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703146 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703028</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Inner Mongolia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703028 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a029</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a029 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a017</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b050</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b050 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803016</attrlabl>
+        <attrdef>Total Number of Households Using the Drawing Water Type Lavatory Independently</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703017</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hebei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803013</attrlabl>
+        <attrdef>Total Number of Households Installed Their Own Water Heater</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704030</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shaanxi Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704030 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cname1</attrlabl>
+        <attrdef>Chinese name of Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Cname1 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703125</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Guizhou</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703125 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a010</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702002</attrlabl>
+        <attrdef>Total Current Residents Migrated from Other Places Who Has Been Living in This Place After Birth</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701015</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Anhui</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b008</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Neighborhood Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b037</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b037 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704003</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Provinces Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703133</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Tibet</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703133 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a003</attrlabl>
+        <attrdef>Total Female Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a014</attrlabl>
+        <attrdef>Total Male with the Occupation of Sales &amp; Service Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703062</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Anhui</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703062 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703158</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Xinjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703158 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703040</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Jilin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703040 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703077</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shandong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703077 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a044</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a044 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b021</attrlabl>
+        <attrdef>Total Female with the Occupation of Production &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703002</attrlabl>
+        <attrdef>Total Number of Persons Migrated from This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703005</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b007</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Professional/Technical Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703012</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Tianjin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703047</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shanghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703047 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704024</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hainan Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704024 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701032</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Qinghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701032 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703099</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Guangdong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703099 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703057</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Zhejiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703057 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703054</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Jiangsu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703054 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701026</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Sichuan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701026 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703160</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Xinjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703160 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a018</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703154</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Ningxia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703154 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a008</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Neighborhood Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703032</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Liaoning</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703032 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803001</attrlabl>
+        <attrdef>Total Number of Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703026</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703026 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cname</attrlabl>
+        <attrdef>Chinese name of Township</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Cname values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a005</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a009</attrlabl>
+        <attrdef>Total Female with the Occupation of Professional/Technical Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702004</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places Between November 1, 1995 and December 31, 1995</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703045</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Heilongjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703045 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701020</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hubei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a016</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704025</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Chongqing Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704025 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703110</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hainan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703110 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a023</attrlabl>
+        <attrdef>Total Male with the Occupation of Not Stated Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a023 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704007</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shanxi Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a017</attrlabl>
+        <attrdef>Total Male with the Occupation of Agriculture &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701002</attrlabl>
+        <attrdef>Total Number of Persons Migrated from This County, City and District</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704029</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Tibet Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704029 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703068</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Fujian</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703068 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703130</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Yunnan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703130 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701013</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jiangsu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704026</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Sichuan Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704026 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703053</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Jiangsu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703053 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b027</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b027 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b022</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Not Stated Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b022 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b010</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a030</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a030 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801003</attrlabl>
+        <attrdef>Total Number of Households That Use Their Houses as both Residence and Commercial Place</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803008</attrlabl>
+        <attrdef>Total Number of Households Cooking with Firewood</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b014</attrlabl>
+        <attrdef>Total Male with the Occupation of Sales &amp; Service Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a002</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a040</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a040 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a047</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a047 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b020</attrlabl>
+        <attrdef>Total Male with the Occupation of Production &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703070</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Fujian</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703070 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803011</attrlabl>
+        <attrdef>Total Number of Households without Tap Water</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802013</attrlabl>
+        <attrdef>Total Number of Households Between 1970 and 1979</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a025</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a025 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704027</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guizhou Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704027 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704019</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Henan Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703097</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guangdong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703097 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703072</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jiangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703072 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b005</attrlabl>
+        <attrdef>Total Male with the Occupation of Administrator/Manager Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703049</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Shanghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703049 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803014</attrlabl>
+        <attrdef>Total Number of Households Using Other Facility for Bath</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a020</attrlabl>
+        <attrdef>Total Male with the Occupation of Production &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a021</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b023</attrlabl>
+        <attrdef>Total Male with the Occupation of Not Stated Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b023 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a033</attrlabl>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a033 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703157</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Xinjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703157 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701034</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Xinjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701034 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703155</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Ningxia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703155 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703019</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hebei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b002</attrlabl>
+        <attrdef>Total Male Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703069</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Fujian</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703069 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802005</attrlabl>
+        <attrdef>Total Number of Rooms Before 1949</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704010</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jilin Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703124</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Guizhou</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703124 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b018</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703137</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shaanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703137 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701016</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Fujian</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703153</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Ningxia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703153 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b041</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b041 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a046</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a046 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a020</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802017</attrlabl>
+        <attrdef>Total Number of Rooms Between 1980 and 1989</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703055</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Jiangsu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703055 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a006</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708001</attrlabl>
+        <attrdef>Total Number of Women Who Gave Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801010</attrlabl>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Brick, Stone</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703112</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Chongqing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703112 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b009</attrlabl>
+        <attrdef>Total Female with the Occupation of Professional/Technical Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b048</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b048 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703038</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Jilin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703038 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703128</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Yunnan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703128 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804006</attrlabl>
+        <attrdef>Total Number of Households That Rent Public-owned House</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703081</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shandong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703081 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a037</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a037 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703109</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hainan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703109 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b017</attrlabl>
+        <attrdef>Total Male with the Occupation of Agriculture &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704032</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Qinghai Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704032 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cname2</attrlabl>
+        <attrdef>Chinese name of city</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Cname2 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703037</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jilin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703037 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a007</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Professional/Technical Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703119</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Sichuan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703119 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b036</attrlabl>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b036 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801001</attrlabl>
+        <attrdef>Total Number of Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802004</attrlabl>
+        <attrdef>Total Number of Households Before 1949</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701005</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Tianjin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703094</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hunan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703094 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b013</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703007</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Beijing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703042</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Heilongjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703042 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703100</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Guangdong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703100 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703123</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Guizhou</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703123 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b007</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708004</attrlabl>
+        <attrdef>Total Number of Women Who Gave 3rd Birth &amp; Over from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a032</attrlabl>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a032 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a024</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a024 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708010</attrlabl>
+        <attrdef>Total Number of Women from Other Provinces Who Gave 1st Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703079</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Shandong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703079 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a008</attrlabl>
+        <attrdef>Total Male with the Occupation of Professional/Technical Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803005</attrlabl>
+        <attrdef>Total Number of Households Cooking with Gas</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703140</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shaanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703140 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a048</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a048 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703043</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Heilongjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703043 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ename2</attrlabl>
+        <attrdef>English name of city</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Ename2 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802008</attrlabl>
+        <attrdef>Total Number of Rooms Between 1950 and 1959</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703065</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Anhui</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703065 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802001</attrlabl>
+        <attrdef>Total Number of Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801005</attrlabl>
+        <attrdef>Total Number of Households Un-Sharing Their House With Other Household</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a004</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Cname3</attrlabl>
+        <attrdef>Chinese name of County</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Cname3 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b015</attrlabl>
+        <attrdef>Total Female with the Occupation of Sales &amp; Service Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703031</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Inner Mongolia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703031 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703014</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Tianjin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704009</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Liaoning Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b011</attrlabl>
+        <attrdef>Total Male with the Occupation of Clerical &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703048</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Shanghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703048 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b006</attrlabl>
+        <attrdef>Total Female with the Occupation of Administrator/Manager Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703074</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Jiangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703074 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708012</attrlabl>
+        <attrdef>Total Number of Women from Other Provinces Who Gave 3rd Birth &amp; Over from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703093</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Hunan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703093 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703058</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Zhejiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703058 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703022</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703022 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b012</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704017</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jiangxi Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701003</attrlabl>
+        <attrdef>Total Number of Persons Migrated from This Province, Outside This County, City and District</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703082</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Henan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703082 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ename1</attrlabl>
+        <attrdef>English name of Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of Ename1 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a050</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a050 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703089</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hubei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703089 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a043</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a043 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a011</attrlabl>
+        <attrdef>Total Male with the Occupation of Clerical &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703148</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Qinghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703148 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701006</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hebei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703004</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of The Town of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a002</attrlabl>
+        <attrdef>Total Male Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704015</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Anhui Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a049</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a049 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703087</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hubei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703087 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a014</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703063</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Anhui</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703063 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703159</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Xinjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703159 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704012</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shanghai Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701033</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Ningxia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701033 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703139</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Shaanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703139 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a022</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Not Stated Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a022 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703011</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Beijing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a019</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Production &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704005</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Tianjin Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b008</attrlabl>
+        <attrdef>Total Male with the Occupation of Professional/Technical Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a042</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a042 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703161</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Xinjiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703161 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703147</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Qinghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703147 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703039</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Jilin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703039 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a023</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a023 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b029</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b029 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a016</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Agriculture &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703104</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Guangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703104 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a013</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802006</attrlabl>
+        <attrdef>Total Number of Floor Space Before 1949</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703013</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Tianjin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803009</attrlabl>
+        <attrdef>Total Number of Households Cooking with Other</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701010</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jilin</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802007</attrlabl>
+        <attrdef>Total Number of Households Between 1950 and 1959</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703036</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Liaoning</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703036 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708005</attrlabl>
+        <attrdef>Total Number of Women from This Province Who Gave Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803002</attrlabl>
+        <attrdef>Total Number of Households Using Kitchen Independently</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701028</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Yunnan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701028 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703027</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Inner Mongolia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703027 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703021</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hebei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703113</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Chongqing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703113 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704031</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Gansu Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704031 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a021</attrlabl>
+        <attrdef>Total Female with the Occupation of Production &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b021</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701008</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Inner Mongolia</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701018</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shandong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703003</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b003</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701021</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hunan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703033</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Liaoning</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703033 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704022</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guangdong Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704022 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802016</attrlabl>
+        <attrdef>Total Number of Households Between 1980 and 1989</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802016 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703066</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Anhui</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703066 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801011</attrlabl>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Timber, Bamboo, Grass</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a010</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Clerical &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703076</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Jiangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703076 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802010</attrlabl>
+        <attrdef>Total Number of Households Between 1960 and 1969</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704014</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Zhejiang Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b024</attrlabl>
+        <attrdef>Total Female with the Occupation of Not Stated Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b024 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703090</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hubei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703090 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a027</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a027 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703111</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hainan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703111 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a024</attrlabl>
+        <attrdef>Total Female with the Occupation of Not Stated Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a024 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708003</attrlabl>
+        <attrdef>Total Number of Women Who Gave 2nd Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b015</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Jie Dao of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b043</attrlabl>
+        <attrdef>Total Number of Persons with University Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b043 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703114</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Chongqing</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703114 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701022</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guangdong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701022 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703084</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Henan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703084 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703050</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shanghai</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703050 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b004</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Administrator/Manager Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803015</attrlabl>
+        <attrdef>Total Number of Households No Facility for Bath</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b001</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b019</attrlabl>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b019 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802009</attrlabl>
+        <attrdef>Total Area of Floor Space Between 1950 And 1959</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701035</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hong Kong, Macao and Taiwan or Abroad</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701035 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801004</attrlabl>
+        <attrdef>Total Number of Households Sharing Their House With Other Household</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703102</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703102 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701027</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Guizhou</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701027 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806003</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 20 to 50 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806002</attrlabl>
+        <attrdef>Total Number of Family Households That Spent Less Than 20 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805010</attrlabl>
+        <attrdef>Total Number of Family Households That Spent More Than 500, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805009</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 300, 000 to 500, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805008</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 200, 000 to 300, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805007</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 100, 000 to 200, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805006</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 50, 000 to 100, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806010</attrlabl>
+        <attrdef>Total Number of Family Households That Spent More Than 2000 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806009</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 1500 to 2000 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806008</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 1000 to 1500 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806008 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806006</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 200 to 500 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806005</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 100 to 200 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L806004</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 50 to 100 Yuans Monthly on Renting Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L806004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804005</attrlabl>
+        <attrdef>Total Number of Households That Buy Residence from the Originally Public-owned House</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804004</attrlabl>
+        <attrdef>Total Number of Households That Buy Economic and Functional Residence</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804003</attrlabl>
+        <attrdef>Total Number of Households That Buy Commercial Residence</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L802021</attrlabl>
+        <attrdef>Total Area of Floor Space Between 1990 and 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L802021 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805005</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 30, 000 to 50, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805005 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805004</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 20, 00 to 30, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805003</attrlabl>
+        <attrdef>Total Number of Family Households That Spent from 10, 000 to 20, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805003 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805002</attrlabl>
+        <attrdef>Total Number of Family Households That Spent Less Than 10, 000 Yuans on Purchasing or Building Houses</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L805001</attrlabl>
+        <attrdef>Total Number of Family Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L805001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804007</attrlabl>
+        <attrdef>Total Number of Households That Rent Commercial Residence</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701007</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Shanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L804001</attrlabl>
+        <attrdef>Total Number of Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L804001 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803020</attrlabl>
+        <attrdef>Total Number of Households With No Lavatory</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a022</attrlabl>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Township of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a022 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803018</attrlabl>
+        <attrdef>Total Number of Households Using Other Type of Lavatory Independently</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803017</attrlabl>
+        <attrdef>Total Number of Households Sharing the Drawing Water Type Lavatory With Other Households</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703020</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hebei</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703020 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a026</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a026 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703106</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Guangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703106 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703060</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Zhejiang</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703060 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a015</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a015 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703131</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Yunnan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703131 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708007</attrlabl>
+        <attrdef>Total Number of Women from This Province Who Gave 2nd Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707a013</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Sales &amp; Service Workers Migrated from Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707a013 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703064</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Anhui</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703064 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703024</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Shanxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703024 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701017</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jiangxi</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701017 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L701009</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Liaoning</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L701009 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b028</attrlabl>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b028 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706a034</attrlabl>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706a034 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b014</attrlabl>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b014 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b006</attrlabl>
+        <attrdef>Total Number of Persons with No School Education Migrated from Other Places of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b006 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704011</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Heilongjiang Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704011 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703129</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Yunnan</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703129 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803004</attrlabl>
+        <attrdef>Total Number of Households With No Kitchen</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803004 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b010</attrlabl>
+        <attrdef>Total Number of Persons with the Occupation of Clerical &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b010 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704033</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Ningxia Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704033 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b002</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Township of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L706b049</attrlabl>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L706b049 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L708002</attrlabl>
+        <attrdef>Total Number of Women Who Gave 1st Birth from November 1, 1999 to October 31, 2000</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L708002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803007</attrlabl>
+        <attrdef>Total Number of Households Cooking with Coal</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801007</attrlabl>
+        <attrdef>Total Number of Households That Have An Apartment in A Building under 6 Stories</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L803012</attrlabl>
+        <attrdef>Total Number of Households Using Centralized Support of Hot Water</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L803012 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703101</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Guangdong</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703101 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L707b018</attrlabl>
+        <attrdef>Total Female with the Occupation of Agriculture &amp; Related Workers Migrated from Other Provinces</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L707b018 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L704002</attrlabl>
+        <attrdef>Total Number of Persons Migrated from This Province, Outside This Township, Town Five Years Ago</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L704002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L801002</attrlabl>
+        <attrdef>Total Number of Households That Use Their Houses as Residence</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L801002 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L702007</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1998</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L702007 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703144</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Gansu</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703144 values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>L703162</attrlabl>
+        <attrdef>Total Number of Persons Migrated from Hong Kong, Macao and Taiwan or abroad</attrdef>
+        <attrdefs>NGCC</attrdefs>
+        <attrdomv>
+          <udom>The set of L703162 values</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <overview>
+      <eaover>Data categories are as follows.   A) Population Emigration Information of the 2000 population Census data:   L7-1, Population by current residence and place of birth.   L7-2, Population by current residence and by time of moving to current township, town or street.   L7-3, Population by current residence and type of emigration place.   L7-4, Population by current residence and former residence 5 years ago.   L7-6-1, Population by current residence, type of emigration place and education attainment (intra-region).   L7-6-2, Population by current residence, type of emigration place and education attainment (inter-region).   L7-7-1, Population by current residence, emigration place and occupation (intra-region).   L7-7-2, Population by current residence, emigration place and occupation (inter-region).   L7-8, Women having births by current residence, place of household registration and birth order (1999 11.l - 2000.10.31).   B) Households &amp; Housing Information of the 2000 population Census data:   L8-1, Family households by use of houses, whether living with other families, single or multi floors, outer wall materials and by township.   L8-2, Status of family houses by time of construction and by township.   L8-3, Housing facilities by township.   L8-4, Family households by source of houses and by township.   L8-5, Family households by expenditure on purchasing or building houses and by township.   L8-6, Family households by monthly housing rent and by township.</eaover>
+      <eadetcit>NGCC</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>China Data Center</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>University of Michigan</address>
+          <address>330 Packard St.</address>
+          <city>Ann Arbor</city>
+          <state>MI</state>
+          <postal>48106</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>734-647-9610</cntvoice>
+        <cntfax>734-763-0335</cntfax>
+        <cntemail>chinadata@umich.edu</cntemail>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>This data production is exclusively distributed by the University of Michigan China Data Center.</distliab>
+    <stdorder>
+      <digform>
+        <digtopt>
+          <onlinopt>
+            <computer>
+              <networka>
+                <networkr>http://chinadatacenter.org/default.aspx</networkr>
+              </networka>
+            </computer>
+          </onlinopt>
+          <offoptn>
+            <offmedia>CD-ROM</offmedia>
+            <compat>List of the 5th China Population Census Data Product Series.      1) The Completed Collection of China County/District Population Census Data Assemblies: The Collection includes more than 2,876 electronic books with more than 330,000 tables for all China 2000 county/district population census data assemblies, which provide extensive coverage at county, urban district and township levels. The data include rich information on general population, nationalities, marriage, age, education, occupation, housing, migration, etc. For more information, please visit: http://chinadatacenter.org/newcdc/census2000cnty.htm      2) The Completed Collection of National and Provincial Population Census Data Assemblies: The "Collection" includes all 32 China 2000 population census data assemblies with about 14,200 tables, which provide extensive coverage at national, provincial, city and county levels (see the list of all book in the attachment). All data tables are available in Excel files on the CD product. The users can use any web browser to browse the data by province. All table titles of the "Collection" are in both Chinese and English. For more information, please visit: http://chinadatacenter.org/newcdc/census2000prov.htm      3) The Township GIS maps with 2000 Population Census Data: The GIS maps include locations of townships (Xiang, Zhen and Jiedao), counties, prefectures, and provincial capitals, the county boundaries, the provincial boundaries, roads, rivers, and lakes. An online demo is available at http://gis.umdl.umich.edu/website/beijing/viewer.htm      4) The 2000 County Population Census Data with County Maps: The 2000 county data include 2000 county boundary GIS map and includes several other GIS maps. There are about 201 attribute variables integrated with the county map, including 170 population variables from 2000 census for counties and urban cities and 31 socioeconomic variables for each county. See details at http://chinadatacenter.org/newcdc/BookListDetail.asp?ID=1011      5) 2000 China Province Population Census Data with Provincial Map: The data include 2000 provincial GIS maps with more than 5000 attribute variables. See more details at http://chinadatacenter.org/newcdc/BookListDetail.asp?ID=1012      6) China City Statistical Indicators with Maps (1996-2001): This CD product includes a series of city statistical indicators with GIS maps from 1996 to 2001 with more than 200 variables. See more details at http://chinadatacenter.org/newcdc/BookListDetail.asp?ID=1255</compat>
+          </offoptn>
+        </digtopt>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140815</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,211 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Douglas Steinshouer</origin>
+        <pubdate>20010600</pubdate>
+        <title>Former Soviet Union Countries, 2001</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Denver, CO</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <onlink>http://map.princeton.edu/data/73/66/65/96/7/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This shapefile contains arcs, polygons and polygon labels that
+describe the political boundaries of the countries comprising
+the Former Soviet Union. (Armenia, Azerbaijan, Belarus, Estonia,
+Georgia, Kazakhstan, Kyrgyzstan, Latvia, Lithuania, Moldova,
+Russia, Tajikstan, Turkmenistan, Ukraine and Uzbekistan.)</abstract>
+      <purpose>This spatial dataset is intended to delineate the political boundaries
+of the countries comprising the Former Soviet Union as a locational
+reference in U.S.G.S. Open File Report 01-104, "Coal Quality and Resources
+of the Former Soviet Union - An ArcView Project".</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20010000</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>22.1639</westbc>
+        <eastbc>-170.8549</eastbc>
+        <northbc>81.8519</northbc>
+        <southbc>35.1417</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Country</themekey>
+        <themekey>Commonwealth of Independent States</themekey>
+        <themekey>Former Soviet Union</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Eurasia</placekey>
+        <placekey>Asia</placekey>
+        <placekey>Europe</placekey>
+        <placekey>Former Soviet Union</placekey>
+        <placekey>Armenia</placekey>
+        <placekey>Azerbaijan</placekey>
+        <placekey>Belarus</placekey>
+        <placekey>Estonia</placekey>
+        <placekey>Georgia</placekey>
+        <placekey>Kazakhstan</placekey>
+        <placekey>Kyrgyzstan</placekey>
+        <placekey>Latvia</placekey>
+        <placekey>Lithuania</placekey>
+        <placekey>Moldova</placekey>
+        <placekey>Russian Federation</placekey>
+        <placekey>Russia</placekey>
+        <placekey>Tajikstan</placekey>
+        <placekey>Turkmenistan</placekey>
+        <placekey>Ukraine</placekey>
+        <placekey>Uzbekistan</placekey>
+        <placekey>AA</placekey>
+        <placekey>AJ</placekey>
+        <placekey>BE</placekey>
+        <placekey>EN</placekey>
+        <placekey>GG</placekey>
+        <placekey>KZ</placekey>
+        <placekey>KG</placekey>
+        <placekey>LG</placekey>
+        <placekey>LU</placekey>
+        <placekey>MD</placekey>
+        <placekey>RS</placekey>
+        <placekey>TI</placekey>
+        <placekey>TX</placekey>
+        <placekey>UP</placekey>
+        <placekey>UZ</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Contains intellectual property of Environmental Systems Research Institute, Inc. (ESRI),and is used with their permission.  End users are permitted to use this data set for their owninternal use, including derivative work, but are prohibited from using and redistributing thesedata individually or in a derivative work to third parties.  Please refer to the "ATTACHMENT B"file on this CD-ROM for further information on ESRI's license agreement. ESRI is a registeredtrademark in the United States and either a trademark or registered trademark in all othercountries where it is used, and ArcExplorer, Arc/Info, Arcview and Arcworld are trademarks ofEnvironmental Systems Research, Inc.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+        </cntaddr>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.- 5:00 p.m. EST, Monday-Friday</hours>
+      </cntinfo>
+    </ptcontac>
+    <browse>
+      <browsen>cis.jpg</browsen>
+      <browsed>Spatial extent of countries comprising the Former Soviet Union</browsed>
+      <browset>JPEG</browset>
+    </browse>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>All the attributes other than standard Arc/Info attributes
+are of character type.</attraccr>
+    </attracc>
+    <logic>Polygon topology exists. Each polygon has one unique
+label point with unique id, there are no dangles. The coverage
+is topologically cleaned and built in Arc/Info 7.1.2.</logic>
+    <complete>N/A</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Dependent on source materials.</horizpar>
+      </horizpa>
+      <vertacc>
+        <vertaccr>N/A</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute, Inc. (ESRI)(comp.)</origin>
+            <pubdate>19980000</pubdate>
+            <title>Arcworld cntry_98</title>
+            <geoform>Arc/Info coverage</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>3000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <srccurr>Date of publication</srccurr>
+        </srctime>
+        <srccitea>ESRI</srccitea>
+        <srccontr>Arcs and polygons depicting countries of the Former Soviet Union</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Polygons depicting countries of the Former Soviet Union were selected in ArcView
+and converted to an ArcView shapefile.</procdesc>
+        <procdate>20000000</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>Pulkovo Datum 1942</horizdn>
+        <ellips>Krasovsky</ellips>
+        <semiaxis>6378245</semiaxis>
+        <denflat>298.3</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+        </cntaddr>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20090227</metd>
+    <metrd>20010400</metrd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Digital Map and Geospatial Information Center, The Lewis Library, Room 228, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.- 5:00 p.m. EST, Monday-Friday</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+<Esri><PublishedDocID>{2B6A2F5F-3028-49B2-AA7A-67EC6B3EC4A2}</PublishedDocID><PublishStatus>Published</PublishStatus></Esri><mdFileID>{2B6A2F5F-3028-49B2-AA7A-67EC6B3EC4A2}</mdFileID></metadata>

@@ -1,0 +1,228 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Boundary Solutions, Inc.</origin>
+        <pubdate>20081104</pubdate>
+        <title>Monroe County, Pennsylvania roads, 2008</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/tb/09/j7/06/1/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Roads and highways in Monroe County, Pennsylvania, 2008.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20081104</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-75.655411</westbc>
+        <eastbc>-74.996783</eastbc>
+        <northbc>41.254450</northbc>
+        <southbc>40.815807</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>roads</themekey>
+        <themekey>highways</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Pennsylvania</placekey>
+        <placekey>Monroe</placekey>
+        <placekey>Monroe County</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>20965</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 StatePlane Pennsylvania North FIPS 3701 Feet</mapprojn>
+          <lambertc>
+            <stdparll>40.88333333333333</stdparll>
+            <stdparll>41.95</stdparll>
+            <longcm>-77.75</longcm>
+            <latprjo>40.16666666666666</latprjo>
+            <feast>1968500.0</feast>
+            <fnorth>0.0</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000026822588594654923</absres>
+            <ordres>0.000000026822588594654923</ordres>
+          </coordrep>
+          <plandu>foot_us</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>roads_42089</enttypl>
+        <enttypd>Polylines representing roads.</enttypd>
+        <enttypds>NPDP</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FNODE_</attrlabl>
+        <attrdef>From-node number.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TNODE_</attrlabl>
+        <attrdef>To-node number.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LPOLY_</attrlabl>
+        <attrdef>This field contains no information.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RPOLY_</attrlabl>
+        <attrdef>This field contains no information.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LENGTH</attrlabl>
+        <attrdef>Length of feature.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONROE_RDC</attrlabl>
+        <attrdef>Road code.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MONROE_R_1</attrlabl>
+        <attrdef>Additional road code.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FCODE</attrlabl>
+        <attrdef>Type of road.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MCCC_NAME</attrlabl>
+        <attrdef>Road name.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MCCCNAME2</attrlabl>
+        <attrdef>Additional road name.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NOTES</attrlabl>
+        <attrdef>Notes.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MCD</attrlabl>
+        <attrdef>County subdivision.</attrdef>
+        <attrdefs>Monroe County</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20141104</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

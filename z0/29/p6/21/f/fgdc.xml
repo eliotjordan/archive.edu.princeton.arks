@@ -1,0 +1,195 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Dr. Manosi Lahiri, ML Infomap Pvt. Ltd.</origin>
+        <pubdate>20100925</pubdate>
+        <title>India land cover and land use, 2010</title>
+        <edition>[1st]</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/z0/29/p6/21/f/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land cover and land use map of India, 2010.</abstract>
+      <purpose>For use with GIS software.</purpose>
+      <supplinf>Spatial data source from district planning map.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20100925</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Published</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>68.110092</westbc>
+        <eastbc>97.409096</eastbc>
+        <northbc>37.050301</northbc>
+        <southbc>8.073207</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>land cover</themekey>
+        <themekey>land use</themekey>
+        <themekey>water</themekey>
+        <themekey>settlement</themekey>
+        <themekey>settlements</themekey>
+        <themekey>urban</themekey>
+        <themekey>conurbation</themekey>
+        <themekey>rural</themekey>
+        <themekey>arable</themekey>
+        <themekey>arable land</themekey>
+        <themekey>cultivation</themekey>
+        <themekey>cultivable</themekey>
+        <themekey>barren</themekey>
+        <themekey>barren land</themekey>
+        <themekey>unproductive land</themekey>
+        <themekey>rivers</themekey>
+        <themekey>agriculture</themekey>
+        <themekey>pasture</themekey>
+        <themekey>mines</themekey>
+        <themekey>vegetation</themekey>
+        <themekey>swamp</themekey>
+        <themekey>marsh</themekey>
+        <themekey>forest</themekey>
+        <themekey>islands</themekey>
+        <themekey>glaciers</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>India</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>ML Infomap Pvt. Ltd., New Delhi, India</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{41294d23-0b74-431c-9adc-f4931881ab1c}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>54510</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>IndiaLandCoverLandUse_2010</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LANDUSE_ID</attrlabl>
+        <attrdef>Land Use ID</attrdef>
+        <attrdefs>ML Infomap Pvt. Ltd.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>Type of land use</attrdef>
+        <attrdefs>ML Infomap Pvt. Ltd.</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name of attributes</attrdef>
+        <attrdefs>ML Infomap Pvt. Ltd.</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140326</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

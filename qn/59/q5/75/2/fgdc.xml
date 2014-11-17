@@ -1,0 +1,472 @@
+<metadata>
+Drainage Basins Quick ReferenceQUICK REFERENCE
+(Full Metadata link)
+
+Drainage Basins
+
+Identification Information
+derived using the vector stream networks along with the flow direction data set.
+Each polygon in the basin data set has been tagged with a Pfafstetter code
+uniquely identifying each sub-basin. A detailed description of the coding scheme
+can be found in Verdin. Additional attributes defining the characteristics of
+each sub-basin have been developed. These are described in the Readme file.
+These data are available in an ARC/INFO export format.
+general purpose global database designed to support
+<geograph>
+Information Systems applications.
+
+Access Constraints:  none
+Use Constraints:  none
+<ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg />
+               <cntper />
+            </cntorgp>
+            <cntpos />
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>47914 252nd Street.</address>
+               <city>Sioux Falls</city>
+               <country>USA</country>
+State or Province: SD
+Postal Code: 57198-0001
+</cntaddr>
+         </cntinfo>
+      </ptcontac>
+   </geograph>
+Entity and Attribute Information
+
+Shape:  ArcView file type
+Area: Area of polygon (m2)
+Perimeter: Perimeter of polygon (m)
+Level1 to Level6: Pfafstetter units of each polygon
+Slope_mean: Mean value of the slopes within the subbasin (degree)
+Slope_stdev: Standard deviation of the slopes within the subbasin (degree)
+Aspect_mean: Mean value of the aspects within the subbasin (degree from N)
+Aspect_stdev: Standard deviation of the aspects within the subbasin (degree from
+N)
+Dem_mean: Mean elevation value within the subbasin (m)
+Dem_stdev: Standard deviation of the elevations within the subbasin (m)
+Cti_mean: unknown
+Cti_stdev: unknown
+
+Global GIS Note: To help with space the polygons were generalized to reduce file
+size.  The polygons were generalized with a factor of 0.007 degrees, which would
+allow shifts less than one kilometer at the equator. But in general there was
+not a noticeable difference.
+<Esri>
+      <MetaID>{A2EAA904-972F-48D9-8ABD-E949AD9DCE14}</MetaID>
+      <CreaDate>20090227</CreaDate>
+      <CreaTime>15192800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20081209</SyncDate>
+      <SyncTime>10470300</SyncTime>
+      <ModDate>20081209</ModDate>
+      <ModTime>10470300</ModTime>
+      <PublishedDocID>{F3422832-5827-4AAF-AC28-BD5E685AF2FE}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataqual>
+      <lineage />
+      <posacc>
+         <horizpa>
+            <horizpar>Global GIS Note: To help with space the polygons were generalized to reduce file 
+size.  The polygons were generalized with a factor of 0.007 degrees, which would 
+allow shifts less than one kilometer at the equator. But in general there was 
+not a noticeable difference.</horizpar>
+         </horizpa>
+         <vertacc>
+            <vertaccr>Global GIS Note: To help with space the polygons were generalized to reduce file 
+size.  The polygons were generalized with a factor of 0.007 degrees, which would 
+allow shifts less than one kilometer at the equator. But in general there was 
+not a noticeable difference.</vertaccr>
+         </vertacc>
+      </posacc>
+   </dataqual>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>The drainage basins distributed with the HYDRO1k data set suite are 
+derived using the vector stream networks along with the flow direction data set. 
+Each polygon in the basin data set has been tagged with a Pfafstetter code 
+uniquely identifying each sub-basin. A detailed description of the coding scheme 
+can be found in Verdin. Additional attributes defining the characteristics of 
+each sub-basin have been developed.</abstract>
+         <purpose>The Hydro1k Drainage Basins are a 
+general purpose global database designed to support 
+Geographic Information Systems applications.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>EROS Data Center</origin>
+            <pubdate>Unknown</pubdate>
+            <title>HYDRO 1K Elevation Derivative Database</title>
+            <ftname Sync="TRUE">world_drainbasins</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/qn/59/q5/75/2/content/restricted/data.zip</onlink>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>unknown</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>unknown</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Unknown</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-179.999347</westbc>
+            <eastbc Sync="TRUE">179.999000</eastbc>
+            <northbc Sync="TRUE">83.217361</northbc>
+            <southbc Sync="TRUE">-59.484882</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-179.999347</leftbc>
+            <rightbc Sync="TRUE">179.999000</rightbc>
+            <bottombc Sync="TRUE">-59.484882</bottombc>
+            <topbc Sync="TRUE">83.217361</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>none</themekt>
+            <themekey>drainage basin</themekey>
+         </theme>
+      </keywords>
+      <accconst>none</accconst>
+      <useconst>none</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>47914 252nd Street.</address>
+               <city>Sioux Falls</city>
+               <state>SD</state>
+               <postal>57198-0001</postal>
+               <country>USA</country>
+            </cntaddr>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">world_drainbasins</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">-179.999347</westBL>
+               <eastBL Sync="TRUE">179.999</eastBL>
+               <northBL Sync="TRUE">83.217361</northBL>
+               <southBL Sync="TRUE">-59.484882</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-179.999347</westBL>
+         <eastBL Sync="TRUE">179.999</eastBL>
+         <northBL Sync="TRUE">83.217361</northBL>
+         <southBL Sync="TRUE">-59.484882</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+               <cntorg>EROS Data Center</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20081209</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc Sync="TRUE">Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">61.017</transize>
+               <dssize Sync="TRUE">61.017</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\World\world_drainbasins.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">61.017</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="world_drainbasins">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">55853</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="world_drainbasins">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">55853</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="world_drainbasins">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">55853</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="world_drainbasins">
+         <enttyp>
+            <enttypl Sync="TRUE">world_drainbasins</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">55853</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LEVEL1</attrlabl>
+            <attalias Sync="TRUE">LEVEL1</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Pfafstetter units of each polygon</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LEVEL2</attrlabl>
+            <attalias Sync="TRUE">LEVEL2</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Pfafstetter units of each polygon</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LEVEL3</attrlabl>
+            <attalias Sync="TRUE">LEVEL3</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Pfafstetter units of each polygon</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LEVEL4</attrlabl>
+            <attalias Sync="TRUE">LEVEL4</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Pfafstetter units of each polygon</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LEVEL5</attrlabl>
+            <attalias Sync="TRUE">LEVEL5</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Pfafstetter units of each polygon</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LEVEL6</attrlabl>
+            <attalias Sync="TRUE">LEVEL6</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Pfafstetter units of each polygon</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DEM_MEAN</attrlabl>
+            <attalias Sync="TRUE">DEM_MEAN</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Mean elevation value within the subbasin (m)</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DEM_STDEV</attrlabl>
+            <attalias Sync="TRUE">DEM_STDEV</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Standard deviation of the elevations within the subbasin (m)</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SLOPE_MEAN</attrlabl>
+            <attalias Sync="TRUE">SLOPE_MEAN</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Mean value of the slopes within the subbasin (degree)</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SLOPE_STDE</attrlabl>
+            <attalias Sync="TRUE">SLOPE_STDE</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Standard deviation of the slopes within the subbasin (degree)</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ASPECT_MEA</attrlabl>
+            <attalias Sync="TRUE">ASPECT_MEA</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Mean value of the aspects within the subbasin (degree from N)</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ASPECT_STD</attrlabl>
+            <attalias Sync="TRUE">ASPECT_STD</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Standard deviation of the aspects within the subbasin (degree from N)</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CTI_MEAN</attrlabl>
+            <attalias Sync="TRUE">CTI_MEAN</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>unknown</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CTI_STDEV</attrlabl>
+            <attalias Sync="TRUE">CTI_STDEV</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>unknown</attrdef>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AREA</attrlabl>
+            <attalias Sync="TRUE">AREA</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+            <attrdef>Area of polygon (m2)</attrdef>
+            <atnumdec Sync="TRUE">3</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PERIMETER</attrlabl>
+            <attalias Sync="TRUE">PERIMETER</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+            <attrdef>Perimeter of polygon (m)</attrdef>
+            <atnumdec Sync="TRUE">3</atnumdec>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20081209</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

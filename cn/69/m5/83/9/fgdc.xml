@@ -1,0 +1,307 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>GfK MACON</origin>
+            <pubdate>2006</pubdate>
+            <title>Switzerland Cities With Population From 5 Thousand To 10 Thousand, 2006</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <serinfo />
+            <pubinfo>
+               <pubplace>Bruchsal, Germany</pubplace>
+               <publish>Gfk MACON Company</publish>
+            </pubinfo>
+            <onlink>http://map.princeton.edu/data/cn/69/m5/83/9/content/restricted/data.zip</onlink>
+            <ftname Sync="TRUE">switzerland_cities5k_10k06</ftname>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>This data includes Switzerland cities with population between 5 thousand and 10 thousand created by GfK MACON company, Germany.</abstract>
+         <purpose>To make digital use of this data set.</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>2006</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>publication date: 2006</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>None planned</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">6.081135</westbc>
+            <eastbc Sync="TRUE">9.837966</eastbc>
+            <northbc Sync="TRUE">47.567806</northbc>
+            <southbc Sync="TRUE">45.836053</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">6.081135</leftbc>
+            <rightbc Sync="TRUE">9.837966</rightbc>
+            <bottombc Sync="TRUE">45.836053</bottombc>
+            <topbc Sync="TRUE">47.567806</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO Topic</themekt>
+            <themekey>City</themekey>
+            <themekey>Location</themekey>
+            <themekey>Cities 5K</themekey>
+         </theme>
+         <place>
+            <placekt>None</placekt>
+            <placekey>Switzerland</placekey>
+         </place>
+         <temporal>
+            <tempkt>None</tempkt>
+            <tempkey>2006</tempkey>
+         </temporal>
+      </keywords>
+      <accconst>Data access and data use are copyrighted, require a license, and are restricted.</accconst>
+      <useconst>Data access and data use are copyrighted, require a license, and are restricted.</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University Library</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 a.m.?5:00 p.m. EST, Monday?Friday</hours>
+         </cntinfo>
+      </ptcontac>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <natvform Sync="TRUE">Shapefile</natvform>
+   </idinfo>
+   <dataqual>
+      <posacc>
+         <horizpa />
+      </posacc>
+      <lineage />
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <sdtsterm Name="switzerland_cities5k_10k06">
+            <sdtstype Sync="TRUE">Entity point</sdtstype>
+            <ptvctcnt Sync="TRUE">185</ptvctcnt>
+         </sdtsterm>
+         <esriterm Name="switzerland_cities5k_10k06">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Point</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">185</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <geograph>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="switzerland_cities5k_10k06">
+         <enttyp>
+            <enttypl Sync="TRUE">switzerland_cities5k_10k06</enttypl>
+            <enttypd>The points represent Switzerland cities between 5K to 10K population</enttypd>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">185</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl>FID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>Shape</attrlabl>
+            <attrdef>Feature geometry.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Coordinates defining the features.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>Name</attrlabl>
+            <attrdef>City Names</attrdef>
+            <attalias Sync="TRUE">Name</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize>0.537</transize>
+               <dssize Sync="TRUE">0.005</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20090403</metd>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University Library</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45a.m.5:00 p.m. EST, MondayFriday</hours>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <Esri>
+      <CreaDate>20090422</CreaDate>
+      <CreaTime>15382400</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20090403</SyncDate>
+      <SyncTime>14582900</SyncTime>
+      <ModDate>20090403</ModDate>
+      <ModTime>14582900</ModTime>
+      <PublishStatus>Published</PublishStatus>
+      <DataProperties>
+         <lineage>
+            <Process Date="20090105" Time="150641" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection C:\GISData\India\india\topo\india_cities25k_100k97.shp GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\GISData\India\india\topo\india_cities25k_100k97.shp</Process>
+            <Process Date="20090119" Time="162633" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection C:\GISData\Europe\Croatia\croatia_cities50k_100k05.shp GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\GISData\Europe\Croatia\croatia_cities50k_100k05.shp</Process>
+         </lineage>
+      </DataProperties>
+      <MetaID>{A447BCCF-893F-4E3C-928D-875836433BF0}</MetaID>
+      <PublishedDocID>{D1A206BE-CEFE-4A5B-BE75-67CC613A6B20}</PublishedDocID>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">switzerland_cities5k_10k06</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">6.081135</westBL>
+               <eastBL Sync="TRUE">9.837966</eastBL>
+               <northBL Sync="TRUE">47.567806</northBL>
+               <southBL Sync="TRUE">45.836053</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">6.081135</westBL>
+         <eastBL Sync="TRUE">9.837966</eastBL>
+         <northBL Sync="TRUE">47.567806</northBL>
+         <southBL Sync="TRUE">45.836053</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Europe\Switzerland\switzerland_cities5k_10k06.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.005</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="switzerland_cities5k_10k06">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="004" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">185</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20090403</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{DA151893-B446-420E-B4F9-26E3DD9A738D}</mdFileID>
+</metadata>

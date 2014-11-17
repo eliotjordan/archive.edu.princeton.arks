@@ -1,0 +1,591 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>ML InfoMap Pvt. Ltd.</origin>
+            <pubdate>2006</pubdate>
+            <title>Parliamentary constituency map of India, 2004.</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/bc/38/6k/80/j/content/restricted/data.zip</onlink>
+            <ftname Sync="TRUE">LOKSABHA14</ftname>
+            <pubinfo>
+               <pubplace>New Delhi, India</pubplace>
+               <publish>ML InfoMap Pvt. Ltd.</publish>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>Parliamentary constituency boundaries and one national election data, India, 2004</abstract>
+         <purpose>Map provides parliamentary constituency data in GIS map format</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>2004</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>ground condition</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc>
+68.196831</westbc>
+            <eastbc>
+97.409096</eastbc>
+            <northbc>
+37.069954</northbc>
+            <southbc>
+6.767454</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">68.196831</leftbc>
+            <rightbc Sync="TRUE">97.409096</rightbc>
+            <bottombc Sync="TRUE">6.767454</bottombc>
+            <topbc Sync="TRUE">37.069954</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>Administrative and political boundaries</themekey>
+            <themekey>Parliamentary</themekey>
+            <themekey>Boundary</themekey>
+            <themekey>National</themekey>
+            <themekey>Elections</themekey>
+            <themekey>Parliamentary constituency</themekey>
+            <themekey>National elections</themekey>
+         </theme>
+         <place>
+            <placekey>India</placekey>
+         </place>
+         <temporal>
+            <tempkey>2004</tempkey>
+         </temporal>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>Licensed data</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 am - 5:00 pm</hours>
+         </cntinfo>
+      </ptcontac>
+      <secinfo>
+         <secclass>Unclassified</secclass>
+      </secinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <natvform Sync="TRUE">Shapefile</natvform>
+   </idinfo>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <procdesc>Metadata imported.</procdesc>
+            <srcused>C:\GISData\Asia\India\metadata\district.xml</srcused>
+            <procdate>20090928</procdate>
+            <proctime>09473200</proctime>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <sdtsterm Name="LOKSABHA14">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">690</ptvctcnt>
+         </sdtsterm>
+         <esriterm Name="LOKSABHA14">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">690</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <geograph>
+            <latres>0.000000</latres>
+            <longres>0.000000</longres>
+            <geogunit>Decimal degrees</geogunit>
+         </geograph>
+         <geodetic>
+            <horizdn>D_WGS_1984</horizdn>
+            <ellips>WGS_1984</ellips>
+            <semiaxis>6378137.000000</semiaxis>
+            <denflat>298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="LOKSABHA14">
+         <enttyp>
+            <enttypl Sync="TRUE">LOKSABHA14</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">690</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl>FID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>Shape</attrlabl>
+            <attrdef>Feature geometry.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Coordinates defining the features.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>AREA</attrlabl>
+            <attrdef>Area of polygon</attrdef>
+            <attalias Sync="TRUE">AREA</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <atnumdec Sync="TRUE">6</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl>PERIMETER</attrlabl>
+            <attrdef>Perimeter of polygon</attrdef>
+            <attalias Sync="TRUE">PERIMETER</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <atnumdec Sync="TRUE">6</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LOKSAB14_</attrlabl>
+            <attalias Sync="TRUE">LOKSAB14_</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Coverage internal number</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LOKSAB14_I</attrlabl>
+            <attalias Sync="TRUE">LOKSAB14_I</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Lok Sabha identification number</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>NAME</attrlabl>
+            <attrdef>Name of state</attrdef>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CATEGORY</attrlabl>
+            <attalias Sync="TRUE">CATEGORY</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Whether the belongs to SC/ST or general</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">STATE_UT</attrlabl>
+            <attalias Sync="TRUE">STATE_UT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <attrdef>Name of the state</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_ELCT_14</attrlabl>
+            <attalias Sync="TRUE">M_ELCT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male electorates during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_ELCT_14</attrlabl>
+            <attalias Sync="TRUE">F_ELCT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female electorates during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_ELC_14</attrlabl>
+            <attalias Sync="TRUE">TOT_ELC_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total electorates during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_VOT_14</attrlabl>
+            <attalias Sync="TRUE">M_VOT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male votes polled during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_VOT_14</attrlabl>
+            <attalias Sync="TRUE">F_VOT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female votes polled during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_VOT_14</attrlabl>
+            <attalias Sync="TRUE">TOT_VOT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total votes polled during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_V_PLD_14</attrlabl>
+            <attalias Sync="TRUE">P_V_PLD_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled during 14th Lok Sabha</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VLD_VT_14</attrlabl>
+            <attalias Sync="TRUE">VLD_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Valid votes polled during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">N_P_ST_14</attrlabl>
+            <attalias Sync="TRUE">N_P_ST_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Number of polling stations during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AV_E_PS_14</attrlabl>
+            <attalias Sync="TRUE">AV_E_PS_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Average of Electronic polling Station during the 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POL_DT_14</attrlabl>
+            <attalias Sync="TRUE">POL_DT_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">15</attwidth>
+            <attrdef>Polling date of the 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COU_DT_14</attrlabl>
+            <attalias Sync="TRUE">COU_DT_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">15</attwidth>
+            <attrdef>Counting date of the 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DEC_DT_14</attrlabl>
+            <attalias Sync="TRUE">DEC_DT_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">15</attwidth>
+            <attrdef>Result declaration date of the 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_CND_14</attrlabl>
+            <attalias Sync="TRUE">WN_CND_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <attrdef>Winner candidate name during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_PRT_14</attrlabl>
+            <attalias Sync="TRUE">WN_PRT_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Winner party name during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_PT_VT_14</attrlabl>
+            <attalias Sync="TRUE">W_PT_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Winner votes polled during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_WN_VT_14</attrlabl>
+            <attalias Sync="TRUE">P_WN_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage winner votes polled during 14th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_CND_14</attrlabl>
+            <attalias Sync="TRUE">SND_CND_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <attrdef>Name of the candidate who appeared second during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_PRT_14</attrlabl>
+            <attalias Sync="TRUE">SND_PRT_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Second party name during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">S_PT_VT_14</attrlabl>
+            <attalias Sync="TRUE">S_PT_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Second party votes during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_SN_VT_14</attrlabl>
+            <attalias Sync="TRUE">P_SN_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage second party votes polled during 14th Lok Sabha</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_2_14</attrlabl>
+            <attalias Sync="TRUE">MRG_1_2_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Vote margin between first and second candidates during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_2_14</attrlabl>
+            <attalias Sync="TRUE">P_M_1_2_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of vote margin between the first and second candidates during 14th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_CND_14</attrlabl>
+            <attalias Sync="TRUE">TRD_CND_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <attrdef>Third party candidate during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_PRT_14</attrlabl>
+            <attalias Sync="TRUE">TRD_PRT_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Third party name during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">T_PT_VT_14</attrlabl>
+            <attalias Sync="TRUE">T_PT_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Third party votes during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_TD_VT_14</attrlabl>
+            <attalias Sync="TRUE">P_TD_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage third party votes during 14th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_3_14</attrlabl>
+            <attalias Sync="TRUE">MRG_1_3_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin between first and third candidate during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_3_14</attrlabl>
+            <attalias Sync="TRUE">P_M_1_3_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of margin between first and third candidates during 14th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_CND_14</attrlabl>
+            <attalias Sync="TRUE">FRT_CND_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <attrdef>Fourth party candidate during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_PRT_14</attrlabl>
+            <attalias Sync="TRUE">FRT_PRT_14</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Fourth party during 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_PT_VT_14</attrlabl>
+            <attalias Sync="TRUE">F_PT_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Fourth party votes during 14th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_4_14</attrlabl>
+            <attalias Sync="TRUE">MRG_1_4_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margina of votes between first and fourth candidates in the 14th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_4_14</attrlabl>
+            <attalias Sync="TRUE">P_M_1_4_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage margin of vote between the first and fourth candidate during 14th Lok Sabha elections</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_VT_14</attrlabl>
+            <attalias Sync="TRUE">P_F_VT_14</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of fourth party votes during 14th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize>11.070</transize>
+               <dssize Sync="TRUE">12.253</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20091014</metd>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 am - 5:00 pm</hours>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metextns>
+         <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof>ESRI Metadata Profile</metprof>
+      </metextns>
+      <langmeta Sync="TRUE">en</langmeta>
+   </metainfo>
+   <Esri>
+      <MetaID>{D97036D8-C69B-4744-B2FE-92F813C90ABD}</MetaID>
+      <CreaDate>20091019</CreaDate>
+      <CreaTime>09162100</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20091014</SyncDate>
+      <SyncTime>09581900</SyncTime>
+      <ModDate>20091014</ModDate>
+      <ModTime>09583200</ModTime>
+      <PublishedDocID>{84956736-41DB-4E5D-AB43-0EC29F3705EA}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">LOKSABHA14</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">68.196831</westBL>
+               <eastBL Sync="TRUE">97.409096</eastBL>
+               <northBL Sync="TRUE">37.069954</northBL>
+               <southBL Sync="TRUE">6.767454</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Asia\India\PollMap\LOKSABHA14.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">12.253</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="LOKSABHA14">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">690</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20091014</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

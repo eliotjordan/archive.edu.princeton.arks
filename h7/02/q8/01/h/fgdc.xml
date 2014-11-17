@@ -1,0 +1,184 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Globe Telecom</origin>
+        <pubdate>20131105</pubdate>
+        <title>Egypt Green Areas</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/h7/02/q8/01/h/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Polygons representing green areas in Egypt.</abstract>
+      <purpose>For use with GIS software.</purpose>
+      <supplinf>Attributes include information in English and Arabic.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20131105</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>25.146634</westbc>
+        <eastbc>33.478456</eastbc>
+        <northbc>31.615877</northbc>
+        <southbc>23.454463</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>land cover</themekey>
+        <themekey>land use</themekey>
+        <themekey>rural</themekey>
+        <themekey>arable</themekey>
+        <themekey>arable land</themekey>
+        <themekey>cultivation</themekey>
+        <themekey>cultivable</themekey>
+        <themekey>pasture</themekey>
+        <themekey>vegetation</themekey>
+        <themekey>forest</themekey>
+        <themekey>green areas</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>imageryBaseMapsEarthCover</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Egypt</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Globe Telecom S.A.E.</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{a3b17a5b-2dcb-4090-b774-184c89f8cab0}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>307</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>WGS 1984 UTM Zone 36N</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>33.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000002220024164500956</absres>
+            <ordres>0.000000002220024164500956</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>egypt_green_areas</enttypl>
+        <enttypd>Polygons representing green areas in Egypt.</enttypd>
+        <enttypds>Globe Telecom</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Id</attrlabl>
+        <attrdef>This field contains no information.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140718</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

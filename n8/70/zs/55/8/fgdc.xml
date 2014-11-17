@@ -1,0 +1,2294 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>J. Douglas Causey</origin>
+            <pubdate>1998</pubdate>
+            <title>World Mines</title>
+            <edition>1</edition>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <serinfo>
+               <sername>None</sername>
+               <issue>None</issue>
+            </serinfo>
+            <pubinfo>
+               <pubplace>Spatial Data Delivery Website</pubplace>
+               <publish>U. S. Geological Survey</publish>
+            </pubinfo>
+            <ftname Sync="TRUE">world_mines</ftname>
+            <onlink>http://map.princeton.edu/data/n8/70/zs/55/8/content/restricted/data.zip</onlink>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>
+This coverage and associated databases contain data from selected
+fields of five tables in the MAS/MILS database. This database was
+transferred to the U.S. Geological Survey from the U.S. Bureau of
+Mines upon its closure in 1996. The database is considered archival
+and will be incorporated into the U.S. Geological Survey mineral
+location database along with the MRDS database.
+</abstract>
+         <purpose>
+To provide searchable mineral locations for the U.S. Geological
+Survey Spatial Data Delivery Website.
+</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>19971228</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>Date of extraction of data from MAS/MILS database.</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>
+In year 2000 if changes are made in the database or additional
+information is requested.
+</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-178.733300</westbc>
+            <eastbc Sync="TRUE">180.000000</eastbc>
+            <northbc Sync="TRUE">80.000000</northbc>
+            <southbc Sync="TRUE">-58.694200</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-178.733300</leftbc>
+            <rightbc Sync="TRUE">180.000000</rightbc>
+            <bottombc Sync="TRUE">-58.694200</bottombc>
+            <topbc Sync="TRUE">80.000000</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>MILS</themekey>
+            <themekey>MAS</themekey>
+            <themekey>mineral locations</themekey>
+            <themekey>mineral database</themekey>
+         </theme>
+         <place>
+            <placekt>None</placekt>
+            <placekey>Global</placekey>
+            <placekey>World</placekey>
+         </place>
+      </keywords>
+      <accconst>None</accconst>
+      <useconst>
+None.  Acknowledgement of the U.S. Geological Survey would be
+appreciated.
+</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Doug Causey</cntper>
+               <cntorg>U.S. Geological Survey, Spokane Field Office</cntorg>
+            </cntperp>
+            <cntpos>Geologist</cntpos>
+            <cntaddr>
+               <addrtype>mailing address</addrtype>
+               <address>904 W. Riverside, Rm 202</address>
+               <city>Spokane</city>
+               <state>WA</state>
+               <postal>99201-1087</postal>
+               <country>U.S.A.</country>
+            </cntaddr>
+            <cntvoice>509.368.3116</cntvoice>
+            <cntfax>509.368.3199</cntfax>
+            <cntemail>dcausey@usgs.gov</cntemail>
+            <hours>8-4:30 PST</hours>
+         </cntinfo>
+      </ptcontac>
+      <datacred>Data from MAS/MILS database, U.S. Geological Survey</datacred>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <crossref>
+         <citeinfo>
+            <origin>U.S. Bureau of Mines</origin>
+            <pubdate>unpublished</pubdate>
+            <title>Deposit Information Manual and Data Dictionary</title>
+            <edition>1</edition>
+            <geoform>none</geoform>
+            <serinfo>
+               <sername>Unpublished internal document</sername>
+               <issue>None</issue>
+            </serinfo>
+            <pubinfo>
+               <pubplace>Denver, CO</pubplace>
+               <publish>U.S. Bureau of Mines</publish>
+            </pubinfo>
+            <onlink>None</onlink>
+         </citeinfo>
+      </crossref>
+      <natvform Sync="TRUE">Shapefile</natvform>
+   </idinfo>
+   <dataqual>
+      <complete>Contains all locations in MAS/MILS database as of time of download.</complete>
+      <lineage>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>U.S. Bureau of Mines</origin>
+                  <pubdate>unpublished</pubdate>
+                  <title>MAS/MILS database</title>
+               </citeinfo>
+            </srccite>
+            <typesrc>digital</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>19971228</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>Date of data extraction</srccurr>
+            </srctime>
+            <srccitea>USBM/USGS</srccitea>
+            <srccontr>Previous repository for the data presented here.</srccontr>
+         </srcinfo>
+         <procstep>
+            <procdesc>
+Selected fields were extracted from the MAS/MILS database using and
+SQL query.  The information in the DLAT and DLON fields was used to
+create an Arc/Info coverage (mas_sdd) using the GENERATE command. The SEQ
+field was attached to the .pat feature attribue table using the
+JOINITEM command.  The information in all the ArcInfo tables were then
+turned into .dbf (dBASE) format to create the mas1.dbf, name.dbf,
+state.dbf, commodity.dbf, and bib.dbf files.  All tables except the
+state.dbf are linked by the SEQ field.  The state.dbf links to the
+mas1.dbf by the combination of STA and COU fields to form a unique
+join. An ArcView shapefile called masmil.shp was created from the
+original ArcInfo coverage (mas_sdd). All of the dbf files, except
+the state.dbf, can be joined to the masmil.shp using the seq field as the
+relate key.
+</procdesc>
+            <srcused>USBM/USGS</srcused>
+            <procdate>1998</procdate>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <sdtsterm Name="world_mines">
+            <sdtstype Sync="TRUE">Entity point</sdtstype>
+            <ptvctcnt Sync="TRUE">193744</ptvctcnt>
+         </sdtsterm>
+         <esriterm Name="world_mines">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Point</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">193744</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <geograph>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">North American Datum of 1927</horizdn>
+            <ellips Sync="TRUE">Clarke 1866</ellips>
+            <semiaxis Sync="TRUE">6378206.400000</semiaxis>
+            <denflat Sync="TRUE">294.978698</denflat>
+         </geodetic>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_North_American_1927</geogcsn>
+         </cordsysn>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="world_mines">
+         <enttyp>
+            <enttypl Sync="TRUE">world_mines</enttypl>
+            <enttypd>Mineral locations in an ArcView shapefile format</enttypd>
+            <enttypds>MAS/MILS database</enttypds>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">193744</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">IDMARPLOT</attrlabl>
+            <attalias Sync="TRUE">IDMARPLOT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+         </attr>
+         <attr>
+            <attrlabl>SEQ</attrlabl>
+            <attrdef>10-digit MAS/MILS sequence number</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0000000000</rdommin>
+                  <rdommax>9999999999</rdommax>
+               </rdom>
+            </attrdomv>
+            <attalias Sync="TRUE">SEQ</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FOD</attrlabl>
+            <attalias Sync="TRUE">FOD</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAM</attrlabl>
+            <attalias Sync="TRUE">NAM</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TYP</attrlabl>
+            <attalias Sync="TRUE">TYP</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CUR</attrlabl>
+            <attalias Sync="TRUE">CUR</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">21</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LAT</attrlabl>
+            <attalias Sync="TRUE">LAT</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">9</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LON</attrlabl>
+            <attalias Sync="TRUE">LON</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POR</attrlabl>
+            <attalias Sync="TRUE">POR</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POP</attrlabl>
+            <attalias Sync="TRUE">POP</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">5</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ELE</attrlabl>
+            <attalias Sync="TRUE">ELE</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ELP</attrlabl>
+            <attalias Sync="TRUE">ELP</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DAT</attrlabl>
+            <attalias Sync="TRUE">DAT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">YFC</attrlabl>
+            <attalias Sync="TRUE">YFC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ZON</attrlabl>
+            <attalias Sync="TRUE">ZON</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">2</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HEM</attrlabl>
+            <attalias Sync="TRUE">HEM</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MAP</attrlabl>
+            <attalias Sync="TRUE">MAP</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">17</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SCA</attrlabl>
+            <attalias Sync="TRUE">SCA</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FEDLAND</attrlabl>
+            <attalias Sync="TRUE">FEDLAND</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FEDSCA</attrlabl>
+            <attalias Sync="TRUE">FEDSCA</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DOM</attrlabl>
+            <attalias Sync="TRUE">DOM</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RIV</attrlabl>
+            <attalias Sync="TRUE">RIV</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">24</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RBC</attrlabl>
+            <attalias Sync="TRUE">RBC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HUC</attrlabl>
+            <attalias Sync="TRUE">HUC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HOL1</attrlabl>
+            <attalias Sync="TRUE">HOL1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HOL2</attrlabl>
+            <attalias Sync="TRUE">HOL2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HOL3</attrlabl>
+            <attalias Sync="TRUE">HOL3</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MID</attrlabl>
+            <attalias Sync="TRUE">MID</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">GSC</attrlabl>
+            <attalias Sync="TRUE">GSC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOE</attrlabl>
+            <attalias Sync="TRUE">TOE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">YOI</attrlabl>
+            <attalias Sync="TRUE">YOI</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MER</attrlabl>
+            <attalias Sync="TRUE">MER</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SUR</attrlabl>
+            <attalias Sync="TRUE">SUR</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MDN</attrlabl>
+            <attalias Sync="TRUE">MDN</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">15</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COMPANY</attrlabl>
+            <attalias Sync="TRUE">COMPANY</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">40</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DLM</attrlabl>
+            <attalias Sync="TRUE">DLM</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COMMOD</attrlabl>
+            <attalias Sync="TRUE">COMMOD</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">32</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COM1</attrlabl>
+            <attalias Sync="TRUE">COM1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MOC1</attrlabl>
+            <attalias Sync="TRUE">MOC1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">22</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MAR1</attrlabl>
+            <attalias Sync="TRUE">MAR1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COM2</attrlabl>
+            <attalias Sync="TRUE">COM2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MOC2</attrlabl>
+            <attalias Sync="TRUE">MOC2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">22</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MAR2</attrlabl>
+            <attalias Sync="TRUE">MAR2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COM3</attrlabl>
+            <attalias Sync="TRUE">COM3</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MOC3</attrlabl>
+            <attalias Sync="TRUE">MOC3</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">22</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MAR3</attrlabl>
+            <attalias Sync="TRUE">MAR3</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COM4</attrlabl>
+            <attalias Sync="TRUE">COM4</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MOC4</attrlabl>
+            <attalias Sync="TRUE">MOC4</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">22</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MAR4</attrlabl>
+            <attalias Sync="TRUE">MAR4</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COM5</attrlabl>
+            <attalias Sync="TRUE">COM5</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MOC5</attrlabl>
+            <attalias Sync="TRUE">MOC5</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">22</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MAR5</attrlabl>
+            <attalias Sync="TRUE">MAR5</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SIC</attrlabl>
+            <attalias Sync="TRUE">SIC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME1</attrlabl>
+            <attalias Sync="TRUE">NAME1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME2</attrlabl>
+            <attalias Sync="TRUE">NAME2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME3</attrlabl>
+            <attalias Sync="TRUE">NAME3</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME4</attrlabl>
+            <attalias Sync="TRUE">NAME4</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME5</attrlabl>
+            <attalias Sync="TRUE">NAME5</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME6</attrlabl>
+            <attalias Sync="TRUE">NAME6</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>MAS1.DBF</enttypl>
+            <enttypd>Mineral locations and associated fields</enttypd>
+            <enttypds>MAS/MILS database</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>SEQ</attrlabl>
+            <attrdef>10-digit MAS/MILS sequence number</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0000000000</rdommin>
+                  <rdommax>9999999999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>STA</attrlabl>
+            <attrdef>3-digit numeric State or Country codes</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>000</rdommin>
+                  <rdommax>999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>COU</attrlabl>
+            <attrdef>3-digit numeric County or Province codes</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>000</rdommin>
+                  <rdommax>999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>NAM</attrlabl>
+            <attrdef>Name of mineral property</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>ANY name</edomv>
+                  <edomvd>Any name can be used here.</edomvd>
+                  <edomvds>MAS/MILS database</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>TYP</attrlabl>
+            <attrdef>Type of operation</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>UNKNOWN</edomv>
+                  <edomvd>Unknown or undetermined by evaluator.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SURFACE</edomv>
+                  <edomvd>Surface operation.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>UNDERGROUND</edomv>
+                  <edomvd>Underground operation.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SURF-UNDERG</edomv>
+                  <edomvd>Surface-underground operation.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>OFFSHORE</edomv>
+                  <edomvd>Underwater operations.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>WELL</edomv>
+                  <edomvd>Geothermal well.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PROC PLANT</edomv>
+                  <edomvd>Processing plant.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>LEACH</edomv>
+                  <edomvd>Leach operation.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>BRINE OP</edomv>
+                  <edomvd>Brine recovery operation.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>GEOTHERMAL</edomv>
+                  <edomvd>Natural hot springs.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PLACER</edomv>
+                  <edomvd>Placer operation.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>CUR</attrlabl>
+            <attrdef>Current status of mining</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>UNKNOWN</edomv>
+                  <edomvd>Unknown or undetermined.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PRODUCER</edomv>
+                  <edomvd>Property in production at time of information</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PAST PRODUCER</edomv>
+                  <edomvd>Previously operating mineral property, now abandoned.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>DEVESYMBOL                     =   3</edomv>
+                  <edomvd>Resource defined, development initiated.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>EXP PROSPECT</edomv>
+                  <edomvd>Explored prospect, resource defined.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>RAW PROSPECT</edomv>
+                  <edomvd>No resource defined.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>INTERMITTENT PRODUCER</edomv>
+                  <edomvd>Operates only part of year.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>TEMP SHUTDOWN</edomv>
+                  <edomvd>Temporary halt in mineral production.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>MINERAL LOCATION</edomv>
+                  <edomvd>Mineral prospect or claim without workings.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>RECLAIMED</edomv>
+                  <edomvd>Mine closed and property reclaimed.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>OTHER</edomv>
+                  <edomvd>Status other than one of the above.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>POR</attrlabl>
+            <attrdef>Point of reference</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>MAIN ENT</edomv>
+                  <edomvd>Main entrance to a mine, usually the main portal.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>TRENCH</edomv>
+                  <edomvd>Trench, usually a bulldozer cut.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>ORE BODY</edomv>
+                  <edomvd>Center of ore body.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>CLAIM</edomv>
+                  <edomvd>Center of claim.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PLANT</edomv>
+                  <edomvd>Location of processing plant.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>TOWN</edomv>
+                  <edomvd>Nearest town used if mine location not known.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PIT</edomv>
+                  <edomvd>Center of open pit or prospect pit.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>APPROX</edomv>
+                  <edomvd>Used when other categories aren't correct.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>POP</attrlabl>
+            <attrdef>Precision of point location in meters</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>10</rdommin>
+                  <rdommax>10000</rdommax>
+                  <attrunit>meters</attrunit>
+                  <attrmres>10</attrmres>
+               </rdom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>99999</edomv>
+                  <edomvd>Over 10,000 meters precision for location.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>MAP</attrlabl>
+            <attrdef>U. S. Geological Survey topographic map name</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>(quadrangle name)</edomv>
+                  <edomvd>Any valid U.S. Geological Survey topographic map</edomvd>
+                  <edomvds>U.S. Geological Survey</edomvds>
+               </edom>
+            </attrdomv>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl>SCA</attrlabl>
+            <attrdef>Scale of map list in MAP field</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>7.5 MIN</edomv>
+                  <edomvd>7.5 minute</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>15 MIN</edomv>
+                  <edomvd>15 minute</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>30 MIN</edomv>
+                  <edomvd>30 minute</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>1:250K</edomv>
+                  <edomvd>1:250,000</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>1:500K</edomv>
+                  <edomvd>1:500,000</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>1:1 MIL</edomv>
+                  <edomvd>1:1,000,000</edomvd>
+               </edom>
+            </attrdomv>
+            <atnumdec Sync="TRUE">4</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl>DOM</attrlabl>
+            <attrdef>Type of public or private Domain</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>UNKNOWN</edomv>
+                  <edomvd>Land ownership unknown.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>MIXED</edomv>
+                  <edomvd>Property contains more than one surface estate.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PRIVATE</edomv>
+                  <edomvd>Land in private ownership.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>MUNICIPALITY</edomv>
+                  <edomvd>Land owned by local government.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>COUNTY</edomv>
+                  <edomvd>County land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>STATE</edomv>
+                  <edomvd>State land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>STATE FOREST</edomv>
+                  <edomvd>State forest land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>STATE PARK</edomv>
+                  <edomvd>State park land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>STATE OFFSHORE</edomv>
+                  <edomvd>Ocean and lake bottom claimed by state.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>FEDERAL</edomv>
+                  <edomvd>Federal land, un-designated administration.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NAT FOREST</edomv>
+                  <edomvd>National Forest land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NAT RECREATION</edomv>
+                  <edomvd>National Recreation Area land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NAT WILDERNESS</edomv>
+                  <edomvd>National Wilderness land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NAT PRIMITIVE</edomv>
+                  <edomvd>National Primitive Area land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NAT PARK</edomv>
+                  <edomvd>National Park land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NAT MONUMENT</edomv>
+                  <edomvd>National Monument land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>INDIAN RES</edomv>
+                  <edomvd>Indian Reservation.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NAT OFFSHORE</edomv>
+                  <edomvd>Ocean bottom claimed by United States.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>BLM ADMIN</edomv>
+                  <edomvd>Public land under Bureau of Land Management.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>MILITARY RES</edomv>
+                  <edomvd>Military Reservation.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>FORGN OFFSHORE</edomv>
+                  <edomvd>Foreign land under an ocean.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>INTERNAT WAT</edomv>
+                  <edomvd>Ocean bottom not claimed by a government.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>UN ADMIN</edomv>
+                  <edomvd>Land under United Nations administration.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>HOL1</attrlabl>
+            <attrdef>Mineral and access rights holdings</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>UNKNOWN</edomv>
+                  <edomvd>Mineral estate ownership unknown.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>LOCATED CLAIM</edomv>
+                  <edomvd>Located claim on Federal land.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PATENTED</edomv>
+                  <edomvd>Patented mining claim.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>FEDERAL LEASE</edomv>
+                  <edomvd>Mineral rights leased from the Federal Government.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>STATE LEASE</edomv>
+                  <edomvd>Mineral rights leased from State Government.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PRIVATE LEASE</edomv>
+                  <edomvd>Mineral rights leased from private owner.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>FEE OWNERSHIP</edomv>
+                  <edomvd>Mineral rights owned by operator.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>MINERALS ONLY</edomv>
+                  <edomvd>Mineral rights owned, but not surface.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>OTHER</edomv>
+                  <edomvd>Ownership not one of other categories.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>GSC</attrlabl>
+            <attrdef>U. S. Geological Survey Mineral Resource Data System (MRDS) number</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>any</edomv>
+                  <edomvd>Values defined by MRDS database</edomvd>
+                  <edomvds>MRDS database</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>TOE</attrlabl>
+            <attrdef>Type of evaluation</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>A</edomv>
+                  <edomvd>adit database,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>M</edomv>
+                  <edomvd>location information from general sources,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>L</edomv>
+                  <edomvd>location information with validity confirmed through investigation by evaluator,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>R</edomv>
+                  <edomvd>resource data present,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>C</edomv>
+                  <edomvd>complete deposit description.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>MDN</attrlabl>
+            <attrdef>Mining District Name</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>Any</edomv>
+                  <edomvd>Any name is valid</edomvd>
+                  <edomvds>MAS/MILS database</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>MLA</attrlabl>
+            <attrdef>Was US Bureau of Mines Mineral Land Assessment project done.</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>Y</edomv>
+                  <edomvd>mineral land assessment (MLA) project was done</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>(blank)</edomv>
+                  <edomvd>no MLA project (or database wasn't coded - this is true more often than not)</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>PLT</attrlabl>
+            <attrdef>Primary type of processing plant</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>BENEF</edomv>
+                  <edomvd>beneficiation (mill)</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>LEACH</edomv>
+                  <edomvd>leach</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>AGGLOM</edomv>
+                  <edomvd>agglomeration</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>DRI</edomv>
+                  <edomvd>Direct Reduction Iron plant</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PELLET</edomv>
+                  <edomvd>pellet plant</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SINTER</edomv>
+                  <edomvd>sinter plant</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SMELTR</edomv>
+                  <edomvd>smelter</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SYNRTL</edomv>
+                  <edomvd>synthetic rutile</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PIG</edomv>
+                  <edomvd>pigment plant</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>METAL</edomv>
+                  <edomvd>metal plant</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>REFINR</edomv>
+                  <edomvd>refiner</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SMLREF</edomv>
+                  <edomvd>smelter/refiner</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>ACID</edomv>
+                  <edomvd>acid plant</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>MANUF</edomv>
+                  <edomvd>manufacturing plant</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>PID</attrlabl>
+            <attrdef>A more detailed subdivision of plant type listed in PLT field</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>DRY</edomv>
+                  <edomvd>dry</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>WASH</edomv>
+                  <edomvd>wash</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>CRUSH</edomv>
+                  <edomvd>crush</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>GRAV</edomv>
+                  <edomvd>gravity</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>FLOAT</edomv>
+                  <edomvd>flotation</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>MAG</edomv>
+                  <edomvd>magnetic</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>ESTAT</edomv>
+                  <edomvd>electrostatic</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>E-M</edomv>
+                  <edomvd>electrostatic - magnetic</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>TI-CL</edomv>
+                  <edomvd>TiO2 pigment-chloride</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>TI-S</edomv>
+                  <edomvd>TiO2 pigment-sulfide</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>TI</edomv>
+                  <edomvd>Ti metal</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PPT</edomv>
+                  <edomvd>precipitation</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SX-EW</edomv>
+                  <edomvd>solvent extraction - electrowinning</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>SINTER</edomv>
+                  <edomvd>ion exchange - electrowinning</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PELLET</edomv>
+                  <edomvd>pellet</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>NODULE</edomv>
+                  <edomvd>nodule</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>COMPCT</edomv>
+                  <edomvd>compact</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>BRIQUT</edomv>
+                  <edomvd>briquette</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>S-PYRO</edomv>
+                  <edomvd>smelter-pyrometallurgy</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>REDUCT</edomv>
+                  <edomvd>reduction</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>R-PYRO</edomv>
+                  <edomvd>refiner-pyrometallurgy</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>HYDRO</edomv>
+                  <edomvd>hydrometallurgy</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>ELECT</edomv>
+                  <edomvd>electrowinning</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>DISTLL</edomv>
+                  <edomvd>distillation</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>CRYSTL</edomv>
+                  <edomvd>crystallization</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>CAL-DB</edomv>
+                  <edomvd>calcination/dead burn</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>BAYER</edomv>
+                  <edomvd>Bayer</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>HARRIS</edomv>
+                  <edomvd>Harris</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>PARKES</edomv>
+                  <edomvd>Parkes</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>FERRO</edomv>
+                  <edomvd>ferro alloy plant</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>FIBRE</edomv>
+                  <edomvd>fibre plant (e.g. asbestos plant)</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>COMMODITY.DBF</enttypl>
+            <enttypd>Commodities found at mineral properties in mils.pat table</enttypd>
+            <enttypds>MAS/MILS database</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>SEQ</attrlabl>
+            <attrdef>10-digit MAS/MILS sequence number</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0000000000</rdommin>
+                  <rdommax>9999999999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>COM</attrlabl>
+            <attrdef>Commodity name</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv />
+                  <edomvd>
+The following table contains both the commodity names and the
+associated moc value
+&gt;   1  ABRASIVE                               15
+&gt;   2  ABRASIVE       BLASTING SAND           15
+&gt;   3  ABRASIVE       CORUNDUM                15
+&gt;   4  ABRASIVE       CRUSHING BORT           15
+&gt;   5  ABRASIVE       DIAMOND                 15
+&gt;   6  ABRASIVE       EMERY                   15
+&gt;   7  ABRASIVE       GARNET                  15
+&gt;   8  ABRASIVE       INDUSTRIAL DIAMOND      15
+&gt;   9  ALKALI                                 53
+&gt;  10  ALKALI         OXIDE                   53
+&gt;  11  ALUMINUM                               21
+&gt;  12  ALUMINUM       ALUMINA                 21
+&gt;  13  ALUMINUM       ALUMINOUS SHALE         21
+&gt;  14  ALUMINUM       ALUNITE                 21
+&gt;  15  ALUMINUM       ANORTHOSITE             21
+&gt;  16  ALUMINUM       BAUXITE                 21
+&gt;  17  ALUMINUM       BAUXITE ABR             21
+&gt;  18  ALUMINUM       BAUXITE CHEM            21
+&gt;  19  ALUMINUM       BAUXITE REF             21
+&gt;  20  ALUMINUM       CONTAINED OR METAL      21
+&gt;  21  ALUMINUM       DAWSONITE               21
+&gt;  22  ALUMINUM       HI-ALUMINA CLAY         21
+&gt;  23  ALUMINUM       PHOSPHATE ROCK          21
+&gt;  24  ALUMINUM       SAPROLITE               21
+&gt;  25  ANTIMONY                               54
+&gt;  26  ANTIMONY       OXIDE                   54
+&gt;  27  ARSENIC                                55
+&gt;  28  ASBESTOS                               43
+&gt;  29  ASBESTOS       LONG FIBER              43
+&gt;  30  ASBESTOS       SHORT FIBER             43
+&gt;  31  ASH                                    53
+&gt;  32  ASH            AS RECEIVED             53
+&gt;  33  ASH            DRY BASIS               53
+&gt;  34  BARITE         SULFATE                 44
+&gt;  35  BARITE         CARBONATE               44
+&gt;  36  BARITE         BARIUM                  44
+&gt;  37  BERYLLIUM                              56
+&gt;  38  BERYLLIUM      OXIDE                   56
+&gt;  39  BISMUTH                                 3
+&gt;  40  BORAX                                  29
+&gt;  41  BORON                                  29
+&gt;  42  BROMINE                                30
+&gt;  43  BROMINE        LAKE &amp; WELL BRINE       30
+&gt;  44  BROMINE        OCEAN BRINE             30
+&gt;  45  CADMIUM                                 4
+&gt;  46  CALCIUM                                16
+&gt;  47  CALCIUM        CALCAREOUS MARL         16
+&gt;  48  CALCIUM        CALCITE                 16
+&gt;  49  CALCIUM        CALCIUM CHLORIDE BRINE  16
+&gt;  50  CALCIUM        CHLORIDE BRINE          16
+&gt;  51  CALCIUM        DOLOMITE                16
+&gt;  52  CALCIUM        LIMESTONE               16
+&gt;  53  CALCIUM        OXIDE                   16
+&gt;  54  CALCIUM        SHELL OR OYSTER SHELL   16
+&gt;  55  CESIUM                                 25
+&gt;  56  CHLORINE                               30
+&gt;  57  CHLORINE       OCEAN BRINE             30
+&gt;  58  CHLORINE       CHLORIDE-CONTAMINANT    30
+&gt;  59  CHLORINE       SALINE LAKE             30
+&gt;  60  CHLORINE       SALT                    30
+&gt;  61  CHROMIUM                               22
+&gt;  62  CHROMIUM       CHROMITE                22
+&gt;  63  CHROMIUM       CHROMITE CHEM           22
+&gt;  64  CHROMIUM       CHROMITE MC             22
+&gt;  65  CHROMIUM       CHROMITE MET            22
+&gt;  66  CHROMIUM       CHROMITE MR             22
+&gt;  67  CHROMIUM       CHROMITE REF            22
+&gt;  68  CHROMIUM       FERROCHROME             22
+&gt;  69  CHROMIUM       HFERROCHROME            22
+&gt;  70  CHROMIUM       LFERROCHROME            22
+&gt;  71  CLAY                                   41
+&gt;  72  CLAY           BALL CLAY               41
+&gt;  73  CLAY           BENTONITE               41
+&gt;  74  CLAY           COMMON CLAY             41
+&gt;  75  CLAY           FIRE CLAY               41
+&gt;  76  CLAY           FULLERS EARTH           41
+&gt;  77  CLAY           HECTORITE               41
+&gt;  78  CLAY           ILLITE                  41
+&gt;  79  CLAY           KAOLIN (CHINA CLAY)     41
+&gt;  80  CLAY           MONTMORILLONITE         41
+&gt;  81  CLAY           REFRACTORY              41
+&gt;  82  COAL                                   42
+&gt;  83  COAL           ANTHRACITE              42
+&gt;  84  COAL           BITUMINOUS              42
+&gt;  85  COAL           LIGNITE                 42
+&gt;  86  COAL           PEAT                    42
+&gt;  87  COAL           SUBBITUMINOUS           42
+&gt;  88  COAL           SULFUR (REC)            42
+&gt;  89  COAL           SULFUR (DRY)            42
+&gt;  90  COBALT                                 28
+&gt;  91  COLUMBIUM                              32
+&gt;  92  COLUMBIUM      COLUMBITE               32
+&gt;  93  COLUMBIUM      PYROCHLORE              32
+&gt;  94  COLUMBIUM      COLUMBITE/TANTALITE     32
+&gt;  95  COPPER                                  1
+&gt;  96  COPPER         NATIVE                   1
+&gt;  97  COPPER         OXIDE                    1
+&gt;  98  COPPER         SULFIDE                  1
+&gt;  99  CYANIDE        CONTAMINANT             53
+&gt; 100  DIATOMITE                              45
+&gt; 101  FELDSPAR                               52
+&gt; 102  FIXED CARBON   AS RECEIVED             53
+&gt; 103  FIXED CARBON   DRY BASIS               53
+&gt; 104  FLUORINE                               30
+&gt; 105  FLUORINE       FLUORSPAR               30
+&gt; 106  FLUORINE       FLUORSPAR A             30
+&gt; 107  FLUORINE       FLUORSPAR C             30
+&gt; 108  FLUORINE       FLUORSPAR M             30
+&gt; 109  FLUORINE       HYDROGEN FLUORIDE       30
+&gt; 110  GALLIUM                               407
+&gt; 111  GEMSTONE       DIAMOND                 46
+&gt; 112  GEMSTONE       EMERALD                 46
+&gt; 113  GEMSTONE       NON-PRECIOUS            46
+&gt; 114  GEMSTONE       RUBY                    46
+&gt; 115  GEMSTONE       SAPPHIRE                46
+&gt; 116  GEMSTONE       SEMIPRECIOUS OTHER      46
+&gt; 117  GEMSTONE       SEMIPRECIOUS SILICATE   46
+&gt; 118  GEOTHERMAL                             47
+&gt; 119  GERMANIUM                             407
+&gt; 120  GERMANIUM      OXIDE                  407
+&gt; 121  GOLD                                    2
+&gt; 122  GOLD           LODE                     2
+&gt; 123  GOLD           PLACER                   2
+&gt; 124  GOLD           REFINERY                 2
+&gt; 125  GRAPHITE                              110
+&gt; 126  GRAPHITE       AMORPHOUS-CRYSTALLINE  110
+&gt; 127  GRAPHITE       FLAKE                  110
+&gt; 128  GYPSUM                                 48
+&gt; 129  GYPSUM         ANHYDRITE               48
+&gt; 130  GYPSUM         GYPSITE                 48
+&gt; 131  GYPSUM         ROCK GYPSUM             48
+&gt; 132  HAFNIUM                               210
+&gt; 133  HEAT VALUE     AS RECEIVED             53
+&gt; 134  HEAT VALUE     DRY BASIS               53
+&gt; 135  HEAVY METALS   CONTAMINANT             53
+&gt; 136  HELIUM                                 31
+&gt; 137  HYDROGEN       CONTAMINANT             53
+&gt; 138  INDIUM                                  4
+&gt; 139  IODINE                                 30
+&gt; 140  IODINE         BRINES                  30
+&gt; 141  IODINE         CALCHE NITRATES         30
+&gt; 142  IRON                                   22
+&gt; 143  IRON           FERRIC OXIDE            22
+&gt; 144  IRON           FERROUS OXIDE           22
+&gt; 145  IRON           GOETHITE                22
+&gt; 146  IRON           HEMATITE                22
+&gt; 147  IRON           PYRRHOTITE              22
+&gt; 148  IRON           MAGNETITE               22
+&gt; 149  IRON           PIG IRON                22
+&gt; 150  IRON           SIDERITE                22
+&gt; 151  IRON           SULFIDE                 22
+&gt; 152  IRON           TACONITE                22
+&gt; 153  IRON           TACONITE BOTTOM LEAN    22
+&gt; 154  IRON           TACONITE LEAN           22
+&gt; 155  IRON           TACONITE OXIDIZED       22
+&gt; 156  IRON           TACONITE OXIDIZE LEAN   22
+&gt; 157  IRON           TACONITE SILICEOUS      22
+&gt; 158  IRON           TACONITE SILICEO LEAN   22
+&gt; 159  IRON           TITANIFEROUS MAGNETITE  22
+&gt; 160  KYANITE GROUP                         301
+&gt; 161  LEAD                                    3
+&gt; 162  LEAD           CARBONATE                3
+&gt; 163  LEAD           OXIDE                    3
+&gt; 164  LEAD           SULFIDE                  3
+&gt; 165  LEAD           SMELTER                  3
+&gt; 166  LEAD           REFINER                  3
+&gt; 167  LITHIUM                               401
+&gt; 168  LITHIUM        BRINES                 401
+&gt; 169  LITHIUM        CARBONATE              401
+&gt; 170  LITHIUM        PEGMATITE              401
+&gt; 171  MAGNESIUM                              23
+&gt; 172  MAGNESIUM      BRINES                  23
+&gt; 173  MAGNESIUM      BRUCITE                 23
+&gt; 174  MAGNESIUM      CONTAINED OR METAL      23
+&gt; 175  MAGNESIUM      DOLOMITE                23
+&gt; 176  MAGNESIUM      EVAPORITES              23
+&gt; 177  MAGNESIUM      MAGNESITE               23
+&gt; 178  MAGNESIUM      MAGNESIUM CHLORIDE      23
+&gt; 179  MAGNESIUM      MG - CAUSTIC            23
+&gt; 180  MAGNESIUM      MG - DEADBURNED         23
+&gt; 181  MAGNESIUM      MG - HYDROXIDE          23
+&gt; 182  MAGNESIUM      MG - OXIDE              23
+&gt; 183  MAGNESIUM      SEA WATER               23
+&gt; 184  MAGNESIUM      OLIVINE-CHRYSOLITE      23
+&gt; 185  MAGNESIUM      OXIDE                   23
+&gt; 186  MANGANESE                              24
+&gt; 187  MANGANESE      DIOXIDE                 24
+&gt; 188  MANGANESE      NODULES                 24
+&gt; 189  MANGANESE      OXIDE                   24
+&gt; 190  MANGANESE      FERROMANGANESE          24
+&gt; 191  MERCURY                                 6
+&gt; 192  MICA                                  105
+&gt; 193  MICA           BOOK                   105
+&gt; 194  MICA           FLAKE                  105
+&gt; 195  MICA           SERICITE               105
+&gt; 196  MOLYBDENUM                              7
+&gt; 197  MOLYBDENUM     FERROMOLY                7
+&gt; 198  MOLYBDENUM     MOLY IN CONCENTRATE      7
+&gt; 199  MOLYBDENUM     MOLY OXIDE               7
+&gt; 200  MOLYBDENUM     SULFIDE                  7
+&gt; 201  NATURAL GAS                            31
+&gt; 202  NEPHELINE SYEN                         52
+&gt; 203  NICKEL                                 28
+&gt; 204  NICKEL         OXIDE                   28
+&gt; 205  NICKEL         SILICATE                28
+&gt; 206  NICKEL         SULFIDE                 28
+&gt; 207  NICKEL         SMELTER                 28
+&gt; 208  NICKEL         REFINER                 28
+&gt; 209  NITRATE        CONTAMINANT             53
+&gt; 210  NITROGEN                               31
+&gt; 211  PERLITE                               205
+&gt; 212  PETROLEUM                              31
+&gt; 213  PETROLEUM      CRUDE                   31
+&gt; 214  PETROLEUM      GILSONITE               31
+&gt; 215  PETROLEUM      OIL SHALE               31
+&gt; 216  PETROLEUM      ROCK ASPHALT            31
+&gt; 217  PETROLEUM      TAR SANDS               31
+&gt; 218  PHOSPHATE                              49
+&gt; 219  PHOSPHATE      PHOSPHOROUS             49
+&gt; 220  PHOSPHATE      PRODUCT                 49
+&gt; 221  PHOSPHATE      WASTE                   49
+&gt; 222  PHOSPHATE      ACID                    49
+&gt; 223  PLATINUM GROUP                          8
+&gt; 224  PLATINUM GROUP IRIDIUM                  8
+&gt; 225  PLATINUM GROUP OSMIUM                   8
+&gt; 226  PLATINUM GROUP PALLADIUM                8
+&gt; 227  PLATINUM GROUP PLATINUM                 8
+&gt; 228  PLATINUM GROUP RHODIUM                  8
+&gt; 229  PLATINUM GROUP RUTHENIUM                8
+&gt; 230  POTASH                                 51
+&gt; 231  POTASH         BEDDED DEPOSITS         51
+&gt; 232  POTASH         BRINES                  51
+&gt; 233  POTASH         SULFATE                 51
+&gt; 234  PUMICE                                205
+&gt; 235  PUMICE         PUMICITE               205
+&gt; 236  PUMICE         SCORIA                 205
+&gt; 237  PUMICE         VOLCANIC ASH           205
+&gt; 238  PUMICE         VOLCANIC CINDER        205
+&gt; 239  PUMICE         VOLCANIC DUST          205
+&gt; 240  QUARTZ CRYSTAL                        310
+&gt; 241  QUARTZ CRYSTAL ELECTRONIC GRADE       310
+&gt; 242  QUARTZ CRYSTAL OPTICAL GRADE          310
+&gt; 243  RADIUM                                 27
+&gt; 244  RARE EARTH                            305
+&gt; 245  RARE EARTH     BASTNASITE             305
+&gt; 246  RARE EARTH     CERIUM GROUP           305
+&gt; 247  RARE EARTH     YTTRIUM GROUP          305
+&gt; 248  RHENIUM                                 1
+&gt; 249  RUBIDIUM                              410
+&gt; 250  RUBIDIUM       SAND                   410
+&gt; 251  SAND &amp; GRAVEL                          13
+&gt; 252  SCANDIUM                              103
+&gt; 253  SELENIUM                                1
+&gt; 254  SILICON                               310
+&gt; 255  SILICON        DIOXIDE                310
+&gt; 256  SILICON        FERROSILICON           310
+&gt; 257  SILICON        FOUNDRY SAND           310
+&gt; 258  SILICON        GLASS SAND             310
+&gt; 259  SILICON        QUARTZ                 310
+&gt; 260  SILICON        QUARTZITE              310
+&gt; 261  SILICON        SANDSTONE              310
+&gt; 262  SILVER                                  5
+&gt; 263  SILVER         CARBONATE                5
+&gt; 264  SILVER         NATIVE                   5
+&gt; 265  SILVER         OXIDE                    5
+&gt; 266  SILVER         SULFIDE                  5
+&gt; 267  SILVER         REFINERY                 5
+&gt; 268  SODIUM                                405
+&gt; 269  SODIUM         BICARBONATE-NAHCOLITE  405
+&gt; 270  SODIUM         BRINE                  405
+&gt; 271  SODIUM         CARBONATE (TRONA)      405
+&gt; 272  SODIUM         OXIDE                  405
+&gt; 273  SODIUM         SALT                   405
+&gt; 274  SODIUM         SULFATE                405
+&gt; 275  STONE                                  14
+&gt; 276  STONE          AGGREGATE CB*           14
+&gt; 277  STONE          BALLAST CB              14
+&gt; 278  STONE          BASALT CB               14
+&gt; 279  STONE          BASALT DM               14
+&gt; 280  STONE          BASALT DR               14
+&gt; 281  STONE          CALCAREOUS MARL         14
+&gt; 282  STONE          DECOMPOSED GRANITE CB   14
+&gt; 283  STONE          CINDERS DR              14
+&gt; 284  STONE          DECOMPOSED GRANITE      14
+&gt; 285  STONE          DIMENSION               14
+&gt; 286  STONE          FILL CB                 14
+&gt; 287  STONE          GRANITE CB              14
+&gt; 288  STONE          GRANITE DM              14
+&gt; 289  STONE          GRANITE DR              14
+&gt; 290  STONE          GRANITIC DR             14
+&gt; 291  STONE          LIMESTONE CB            14
+&gt; 292  STONE          LIMESTONE DM            14
+&gt; 293  STONE          LIMESTONE DR            14
+&gt; 294  STONE          MARBLE CB               14
+&gt; 295  STONE          MARBLE DM               14
+&gt; 296  STONE          METAMORPHIC DR          14
+&gt; 297  STONE          MICA SCHIST CB          14
+&gt; 298  STONE          MICA SCHIST DM          14
+&gt; 299  STONE          MISCELLANEOUS CB        14
+&gt; 300  STONE          MISCELLANEOUS DM        14
+&gt; 301  STONE          MISCELLANEOUS DR        14
+&gt; 302  STONE          QUARTZITE CB            14
+&gt; 303  STONE          QUARTZITE DM            14
+&gt; 304  STONE          RIP RAP                 14
+&gt; 305  STONE          SANDSTONE CB            14
+&gt; 306  STONE          SANDSTONE DM            14
+&gt; 307  STONE          SANDSTONE DR            14
+&gt; 308  STONE          SEDIMENTARY DR          14
+&gt; 309  STONE          SHALE CB                14
+&gt; 310  STONE          SHELL CB                14
+&gt; 311  STONE          SLATE CB                14
+&gt; 312  STONE          SLATE DM                14
+&gt; 313  STONE          SLATE DR                14
+&gt; 314  STONE          SUBBASE CB              14
+&gt; 315  STONE          TRAVERTINE DM           14
+&gt; 316  STONE          TRAVERTINE DR           14
+&gt; 317  STONE          VOLCANIC DR             14
+&gt; 318  STRONTIUM                             410
+&gt; 319  SULFUR                                107
+&gt; 320  SULFUR         NATIVE                 107
+&gt; 321  SULFUR         PYRITE                 107
+&gt; 322  SULFUR         PYRITE-CONTAMINANT     107
+&gt; 323  SULFUR         SULFURIC ACID          107
+&gt; 324  SULFUR         SULFATE-CONTAMINANT    107
+&gt; 325  SULFUR         SULFIDE-CONTAMINANT    107
+&gt; 326  TALC                                   50
+&gt; 327  TALC           BLOCK STEATITE          50
+&gt; 328  TALC           GROUP                   50
+&gt; 329  TALC           PYROPHYLLITE            50
+&gt; 330  TALC           SOAPSTONE               50
+&gt; 331  TANTALUM                               32
+&gt; 332  TANTALUM       TANTALITE               32
+&gt; 333  TANTALUM       TIN SLAG                32
+&gt; 334  TELLURIUM                               1
+&gt; 335  THALLIUM                                4
+&gt; 336  THORIUM                                27
+&gt; 337  THORIUM        OXIDE                   27
+&gt; 338  TIN                                   207
+&gt; 339  TIN            LODE                   207
+&gt; 340  TIN            PLACER                 207
+&gt; 341  TIN            TAILINGS               207
+&gt; 342  TITANIUM                               25
+&gt; 343  TITANIUM       ANATASE                 25
+&gt; 344  TITANIUM       HI TI 70                25
+&gt; 345  TITANIUM       HI TI 90                25
+&gt; 346  TITANIUM       ILMENTITE               25
+&gt; 347  TITANIUM       ILMENTITE STOCK         25
+&gt; 348  TITANIUM       ILMENTITE TO SR         25
+&gt; 349  TITANIUM       LEUCOXENE               25
+&gt; 350  TITANIUM       RICHBAY SLAG            25
+&gt; 351  TITANIUM       RUTILE                  25
+
+&gt; 352  TITANIUM       RUTILE-SYNTHETIC        25
+&gt; 353  TITANIUM       SOREL SLAG              25
+&gt; 354  TITANIUM       TITANIFEROUS MAGNETITE  25
+&gt; 355  TITANIUM       METAL                   25
+&gt; 356  TUNGSTEN                               26
+&gt; 357  TUNGSTEN       BRINES                  26
+&gt; 358  TUNGSTEN       LODE                    26
+&gt; 359  TUNGSTEN       TAILINGS                26
+&gt; 360  TUNGSTEN       PLACER                  26
+&gt; 361  TUNGSTEN       WO3 CONTENT             26
+&gt; 362  TUNGSTEN       REFINERY                26
+&gt; 363  URANIUM                                27
+&gt; 364  URANIUM        U3O8 CONTENT            27
+&gt; 365  VANADIUM                              307
+&gt; 366  VANADIUM       PHOSPHATIC SHALE       307
+&gt; 367  VANADIUM       TITANIFEROUS MAGNETITE 307
+&gt; 368  VANADIUM       V2O5 CONTENT           307
+&gt; 369  VERMICULITE                           205
+&gt; 370  VOLATILE CONT                          53
+&gt; 371  VOLATILE CONT  AS RECEIVED             53
+&gt; 372  VOLATILE CONT  DRY BASIS               53
+&gt; 373  WATER CONTENT                          53
+&gt; 374  WATER CONTENT  FREE WATER              53
+&gt; 375  WATER CONTENT  HYDRATED WATER          53
+&gt; 376  WATER CONTENT  TOTAL WATER             53
+&gt; 377  WOLLASTONITE                          201
+&gt; 378  XANTHATE       CONTAMINANT             53
+&gt; 379  ZEOLITES                              101
+&gt; 380  ZINC                                    4
+&gt; 381  ZINC           CARBONATE                4
+&gt; 382  ZINC           OXIDE                    4
+&gt; 383  ZINC           SILICATE                 4
+&gt; 384  ZINC           SULFIDE                  4
+&gt; 385  ZINC           SMELTER                  4
+&gt; 386  ZINC           REFINER                  4
+&gt; 387  ZIRCONIUM                             210
+&gt; 388  ZIRCONIUM      BADDELEYITE            210
+&gt; 389  ZIRCONIUM      ZIRCON                 210
+</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>MOC</attrlabl>
+            <attrdef>Modifier of the commodity item</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>See "Attribute_Label: COM "above.</edomv>
+                  <edomvd>Modifiers of the commodity terms</edomvd>
+                  <edomvds>MAS/MILS database</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>IRC</attrlabl>
+            <attrdef>Industry Reporting code for the specific commodity</attrdef>
+            <attrdefs>MAS/MILS DATABASE</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>F</edomv>
+                  <edomvd>ferrous,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>M</edomv>
+                  <edomvd>metallic,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>N</edomv>
+                  <edomvd>Non-metallic,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>E</edomv>
+                  <edomvd>energy,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>$</edomv>
+                  <edomvd>precious metals,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>C</edomv>
+                  <edomvd>contaminate</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>MAR</attrlabl>
+            <attrdef>Single character indicator of commodities market status</attrdef>
+            <attrdefs>MAS/MILS DATABASE</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>P</edomv>
+                  <edomvd>primary product,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>C</edomv>
+                  <edomvd>co-product,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>B</edomv>
+                  <edomvd>biproduct,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>R</edomv>
+                  <edomvd>recoverable,</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdomv>
+               <edom>
+                  <edomv>A</edomv>
+                  <edomvd>Affecting marketability</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr />
+         <attr />
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>BIB.DBF</enttypl>
+            <enttypd>Bibliographic information for mineral property</enttypd>
+            <enttypds>MAS/MILS database</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>SEQ</attrlabl>
+            <attrdef>10-digit MAS/MILS sequence number</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0000000000</rdommin>
+                  <rdommax>9999999999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>LIN</attrlabl>
+            <attrdef>Line number</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>000</rdommin>
+                  <rdommax>999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>BIB</attrlabl>
+            <attrdef>Bibliographic citation or source of data for mineral property</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>(text)</edomv>
+                  <edomvd>Any</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr />
+         <attr />
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>NAM.DBF</enttypl>
+            <enttypd>All names of mineral properties</enttypd>
+            <enttypds>MAS/MILS database</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>SEQ</attrlabl>
+            <attrdef>MAS/MILS sequence number</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>0000000000</rdommin>
+                  <rdommax>9999999999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>NAM</attrlabl>
+            <attrdef>Mineral property names</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>(text)</edomv>
+                  <edomvd>Any</edomvd>
+                  <edomvds>MAS/MILS database</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr />
+         <attr />
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>STATE.DBF</enttypl>
+            <enttypd>State/country and County/province names list</enttypd>
+            <enttypds>MAS/MILS database</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl>STA</attrlabl>
+            <attrdef>3-digit numeric State or Country codes</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>000</rdommin>
+                  <rdommax>999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>COU</attrlabl>
+            <attrdef>3-digit numeric County or Province codes</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <rdom>
+                  <rdommin>000</rdommin>
+                  <rdommax>999</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>STATE</attrlabl>
+            <attrdef>State/Country names</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>(text)</edomv>
+                  <edomvd>Any</edomvd>
+                  <edomvds>MAS/MILS database</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>COUNTY</attrlabl>
+            <attrdef>County/Province names</attrdef>
+            <attrdefs>MAS/MILS database</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>(text)</edomv>
+                  <edomvd>Any</edomvd>
+                  <edomvds>MAS/MILS database</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr />
+         <attr />
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <distrib>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tom Kress</cntper>
+               <cntorg>USGS</cntorg>
+            </cntperp>
+            <cntaddr>
+               <addrtype>Mailing address</addrtype>
+               <address>954 National Center</address>
+               <city>Reston</city>
+               <state>VA</state>
+               <postal>20192</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>703-648-6328</cntvoice>
+            <cntemail>thkress@usgs.gov</cntemail>
+         </cntinfo>
+      </distrib>
+      <resdesc>Downloadable Data</resdesc>
+      <distliab>
+The U.S. Geological Survey (USGS) provides this data as is.  The USGS makes no
+guarantee or warranty concerning the accuracy of information contained in the data.
+The USGS further makes no warranties, either expressed or implied as to any other matter
+whatsoever, including, without limitation, the condition of the product, or its fitness
+for any particular purpose. The burden for determining fitness for use lies entirely
+with the user.  Although this data has been processed successfully on computers at the
+USGS, no warranty, expressed or implied, is made by the USGS regarding the use of this
+data on any other system, nor does the fact of distribution constitute or imply any such
+warranty.
+</distliab>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">5.174</transize>
+               <dssize Sync="TRUE">5.174</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20081209</metd>
+      <metc>
+         <cntinfo>
+            <cntperp>
+               <cntper>Doug Causey</cntper>
+               <cntorg>U.S. Geological Survey, Spokane Field Office</cntorg>
+            </cntperp>
+            <cntpos>Geologist</cntpos>
+            <cntaddr>
+               <addrtype>mailing address</addrtype>
+               <address>904 W. Riverside, Rm 202</address>
+               <city>Spokane</city>
+               <state>WA</state>
+               <postal>99201-1087</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>509.368.3116</cntvoice>
+            <cntfax>509.368.3199</cntfax>
+            <cntemail>dcausey@usgs.gov</cntemail>
+            <hours>8-4:30 PST</hours>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <langmeta Sync="TRUE">en</langmeta>
+      <mettc Sync="TRUE">local time</mettc>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <Esri>
+      <MetaID>{65628BA1-81F9-435E-9D84-29EFD6C75EE2}</MetaID>
+      <CreaDate>20090227</CreaDate>
+      <CreaTime>15192400</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20081209</SyncDate>
+      <SyncTime>10472100</SyncTime>
+      <ModDate>20081209</ModDate>
+      <ModTime>10472100</ModTime>
+      <PublishedDocID>{F0DB87B2-3DDB-4A72-9164-A0970E91D790}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">world_mines</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">-178.7333</westBL>
+               <eastBL Sync="TRUE">190.0333</eastBL>
+               <northBL Sync="TRUE">80</northBL>
+               <southBL Sync="TRUE">-58.6942</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-178.7333</westBL>
+         <eastBL Sync="TRUE">190.0333</eastBL>
+         <northBL Sync="TRUE">80</northBL>
+         <southBL Sync="TRUE">-58.6942</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\World\world_mines.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">5.174</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_North_American_1927</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="world_mines">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="004" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">193744</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20081209</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

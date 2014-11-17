@@ -1,0 +1,663 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20090515</CreaDate>
+    <CreaTime>15294900</CreaTime>
+    <SyncOnce>FALSE</SyncOnce>
+    <SyncDate>20090515</SyncDate>
+    <SyncTime>14420200</SyncTime>
+    <ModDate>20090515</ModDate>
+    <ModTime>16042600</ModTime>
+    <DataProperties>
+      <lineage>
+        <Process Date="20090501" Time="150151" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection C:\GISData\Asia\China\Anhui\townshipa.shp GEOGCS['GCS_Krasovsky_1940',DATUM['D_Krasovsky_1940',SPHEROID['Krasovsky_1940',6378245.0,298.3]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\GISData\Asia\China\Anhui\townshipa.shp</Process>
+      </lineage>
+    </DataProperties>
+    <MetaID>{02D5C20E-629D-474D-8578-88455DD45146}</MetaID>
+    <PublishedDocID>{4B4988CD-C6C3-4FBC-9831-E0AAB218A364}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <idinfo>
+    <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+    <descript>
+      <langdata Sync="TRUE">en</langdata>
+      <abstract>China provincial trunk roads.</abstract>
+      <purpose>To make digital use of this data set.</purpose>
+    </descript>
+    <citation>
+      <citeinfo>
+        <origin>All China Marketing Research Co., Ltd.</origin>
+        <pubdate>2005</pubdate>
+        <title>China Provincial Roads, 2000</title>
+        <ftname Sync="TRUE">china_provroads</ftname>
+        <geoform Sync="TRUE">vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/qz/20/sv/00/0/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>ground condition: 2000</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>2000</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc Sync="TRUE">73.916496</westbc>
+        <eastbc Sync="TRUE">134.312317</eastbc>
+        <northbc Sync="TRUE">53.369938</northbc>
+        <southbc Sync="TRUE">18.223354</southbc>
+      </bounding>
+      <lboundng>
+        <leftbc Sync="TRUE">73.916496</leftbc>
+        <rightbc Sync="TRUE">134.312317</rightbc>
+        <bottombc Sync="TRUE">18.223354</bottombc>
+        <topbc Sync="TRUE">53.369938</topbc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO Topic</themekt>
+        <themekey>roads</themekey>
+        <themekey>provincial roads</themekey>
+        <themekey>transportation</themekey>
+        <themekey>major roads</themekey>
+      </theme>
+      <place>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkey>2005</tempkey>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Data access and data use are copyrighted, require a license, and are restricted.</accconst>
+    <useconst>Data access and data use are copyrighted, require a license, and are restricted.</useconst>
+    <natvform Sync="TRUE">Shapefile</natvform>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>9:00am - 5:00pm, Monday - Friday</hours>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+    <dataLang>
+      <languageCode Sync="TRUE" value="en" />
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="TRUE">china_provroads</resTitle>
+      <presForm>
+        <PresFormCd Sync="TRUE" value="005" />
+      </presForm>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd Sync="TRUE" value="001" />
+    </spatRpType>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="native">
+          <westBL Sync="TRUE">73.916496</westBL>
+          <eastBL Sync="TRUE">134.312317</eastBL>
+          <northBL Sync="TRUE">53.369938</northBL>
+          <southBL Sync="TRUE">18.223354</southBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+    <geoBox esriExtentType="decdegrees">
+      <westBL Sync="TRUE">73.916496</westBL>
+      <eastBL Sync="TRUE">134.312317</eastBL>
+      <northBL Sync="TRUE">53.369938</northBL>
+      <southBL Sync="TRUE">18.223354</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+  </dataIdInfo>
+  <metainfo>
+    <langmeta Sync="TRUE">en</langmeta>
+    <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+    <mettc Sync="TRUE">local time</mettc>
+    <metc>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Digital Map and Geospatial Information Center, The Lewis Library, Room 228, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntorgp>
+          <cntper>Tsering Wangyal Shawa</cntper>
+          <cntorg>Princeton University Library</cntorg>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>9:00am - 5:00pm, Monday - Friday</hours>
+      </cntinfo>
+    </metc>
+    <metd Sync="TRUE">20090515</metd>
+    <metextns>
+      <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <mdLang>
+    <languageCode Sync="TRUE" value="en" />
+  </mdLang>
+  <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+  <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+  <mdChar>
+    <CharSetCd Sync="TRUE" value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd Sync="TRUE" value="005" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <distinfo>
+    <resdesc Sync="TRUE">Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <transize Sync="TRUE">3.209</transize>
+          <dssize Sync="TRUE">3.209</dssize>
+        </digtinfo>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <orDesc Sync="TRUE">002</orDesc>
+          <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Asia\China\County Data\china_provroads.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </onLineSrc>
+        <transSize Sync="TRUE">3.209</transSize>
+      </distorTran>
+      <distorFormat>
+        <formatName Sync="TRUE">Shapefile</formatName>
+      </distorFormat>
+    </distributor>
+  </distInfo>
+  <spdoinfo>
+    <direct Sync="TRUE">Vector</direct>
+    <ptvctinf>
+      <esriterm Name="china_provroads">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom Sync="TRUE">Polyline</efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">6147</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+      <sdtsterm Name="china_provroads">
+        <sdtstype Sync="TRUE">String</sdtstype>
+        <ptvctcnt Sync="TRUE">6147</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <topLvl>
+        <TopoLevCd Sync="TRUE" value="001" />
+      </topLvl>
+      <geometObjs Name="china_provroads">
+        <geoObjTyp>
+          <GeoObjTypCd Sync="TRUE" value="001" />
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">6147</geoObjCnt>
+      </geometObjs>
+    </VectSpatRep>
+  </spatRepInfo>
+  <eainfo>
+    <detailed Name="china_provroads">
+      <enttyp>
+        <enttypl Sync="TRUE">china_provroads</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">6147</enttypc>
+        <enttypd>The lines represent China provincial roads.</enttypd>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">FNODE_</attrlabl>
+        <attalias Sync="TRUE">FNODE_</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Arc/info keyword</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">TNODE_</attrlabl>
+        <attalias Sync="TRUE">TNODE_</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Arc/info keyword</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">LPOLY_</attrlabl>
+        <attalias Sync="TRUE">LPOLY_</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Arc/info keyword</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">RPOLY_</attrlabl>
+        <attalias Sync="TRUE">RPOLY_</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Arc/info keyword</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">LENGTH</attrlabl>
+        <attalias Sync="TRUE">LENGTH</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">13</attwidth>
+        <attrdef>Length of provincial road</attrdef>
+        <atnumdec Sync="TRUE">6</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SD_</attrlabl>
+        <attalias Sync="TRUE">SD_</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Arc/info Inter ID</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">SD_ID</attrlabl>
+        <attalias Sync="TRUE">SD_ID</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Arc/info User ID</attrdef>
+      </attr>
+    </detailed>
+  </eainfo>
+  <mdDateSt Sync="TRUE">20090515</mdDateSt>
+  <spref>
+    <horizsys>
+      <cordsysn>
+        <geogcsn Sync="TRUE">GCS_Krasovsky_1940</geogcsn>
+      </cordsysn>
+      <geograph>
+        <geogunit Sync="TRUE">Decimal degrees</geogunit>
+        <latres Sync="TRUE">0.000000</latres>
+        <longres Sync="TRUE">0.000000</longres>
+      </geograph>
+      <geodetic>
+        <horizdn Sync="TRUE">D_Krasovsky_1940</horizdn>
+        <ellips Sync="TRUE">Krasovsky_1940</ellips>
+        <semiaxis Sync="TRUE">6378245.000000</semiaxis>
+        <denflat Sync="TRUE">298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode Sync="TRUE">GCS_Krasovsky_1940</identCode>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="Image" OriginalFileName="thumbnail.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiivMr/AOJ9rZ3tzaW/gr4m6pDpl7d2
+eualYeBNZSy0lLa/XT4762TUo9P1DxjZXr+ZdWjfDqx8ZXH2CFr26trWCW1a43oYaviXKNClKo4p
+OVrJRvpFSlJqKc5WhTTd6lWUKUFKpOEZJyUd3b+v6v2V3smem0VzHhjxj4e8YRahJoV7PLNpF6un
+axpuoaZquha3o1/JZ2uowWms6Br1lpmt6TPdabfWOp2aajp9sb3TL2z1G186yureeTp6ipSq0Zyp
+1qdSlUjbmp1ISpzjdKS5oSSkrxakrrVNNaME01dNNPqtUFFFFZjCiiigAooooAKKKKACiivOPif8
+WvAHwe8OS+JvH/iPTNDtTvi0rT7jUNPh1zxPqY2Lb+H/AAho93d2174p8T6jNLBZ6P4a0OO91zWt
+RubTTNJsbzUby0tZt8NhsRjK9LC4ShVxOJrzVOjQowlUq1Zy2jCEE5Sb7JbXb0Qm1FOUmklq23ZJ
+ebPR6K5Xwn458G+PLK51DwZ4o0LxPa2N0bDUX0XU7S/k0rUlijnl0rWLeCV7nR9Xt45ozd6TqcVp
+qNmzBLq1hkyo6qoq0qtCpKlXpVKNWDtOlVhKnUg7J2lCaUouzTs0tGmCaaummn1WqCiiisxhRRRQ
+AUUUUAFFFFABRRXCzaTruh3vjzxbZ3Op+L9W1ey0uHwz4Qm1Z9G0PTbXQNLmFjo1qlxc3GjWV7q/
+iLUtc1PXvGA0xdZvNPvtH0e/TVbDwb4ctYdaVONTni6sac+WPsoz92NWpKtSp+zdSTjToqNOc60q
+tWUaajScXJOURN2tpfv5Kzd7bvVJWWuozxn8S/CXgS50rTdbuNWu9d1211G+0Twx4X8NeJPGfirV
+dO0e+0LTNY1a18N+EtK1rWBoOi6l4p8M2Wu+Irizg8P6BP4g0Ya3qenpqNq8mfZfEmdrmxg134cf
+E3wvFqflrYXl74f07xNbSTySQIIL5fhzrnje70Datwssl34ltdG06OOOcPerLBJGvk/wPh8S6h8W
+fjzrfjTUvDmseK9AT4VfDDXL3RdEi0WGDU9I8Hy/E6ez8L2z+IPEms2/w7TSvi9oCaXD4rv/APhJ
+rzx9b/EzW2itfCeq+DtK0v6Vu9X0qwu9K0+/1PT7K/126nsdEsru9tra71i9tbC71W6tNKtppEm1
+C6ttLsL7Up7e0SaWGwsru8kRbe3mkT2cdhcFl9WGBjQlmFV4PDYqvjKderCEo4vA0swhLA0vYQdG
+nQo11CtPGQxbrxpSrRhg1LkhnGUppyuoLmlFRaT+GXJ7zvq207KPLa9rytc+Y/2qJfBeg+GtL8SS
+t4B8N/GTUX1TwR8GPiV4t17TvA1/4O8TaroOs6tLc2fjqTQPEuq2Wnwado9/fXXhe30HxBpnja7t
+7LwnrWgajp+tzqvp3wR+LGlfGLwNH4is7vQZ9a0bV9V8HeNrPw3rNtruj6X408NzLa6xDpeoQSG5
+l0LVY3s/E3hKXWLTSPEF54N17w7qOu6BoGqXt1o9l4P8fIT8QtX8GeKPhZrvxb1/xR8PdT1bw9e+
+Dvhm/iPw74G+KnhPxD4o8Gp8S/CepfFnT4fDGj6J4o8LR+CnvvCmraH8Y/Aq6L8QtAk8H+ObrWfD
+uo+LvBOqdDH4a+BVt8J9I+OHhjSvHXgHwtqfgvSPiDbr8PfEnjj4f3l3B4n0S3urHxD448L+G/Ee
+leE9b8QwWerW8/iLxT8UbXVNN0SK0bWfGuu2mgaDdanYe/PB4Kpw1lGFxVPM3mlTG1aVGpCi61TA
+1a9WrGhls8Jia+FqxwmPpRp4vC1MPGdGWJWNdCrVr0sbhaeSlJVqkouHJyptXtzJKLc+ZKS5oNuM
+k7OzhdJOMn9a0V8O/Cr9pSHQ9V/4RT41fFf4V6iJ/Bd146tvEukeJvD+pyeCdPtPEOq2t5ovxk8Y
+eFodL+HWl3sekXPhkaN4q/sP4d+G/EmtR+KPDvhyy8QXHhyTW9T9T8bftR/DLwZ8QNI+F3nXuv8A
+jvVvF3hHwYPD2k3OgWupQan4yMk+m3EGm6/rei6v4g0u30ix1/WNU1fwlp3iHStGt/C/iS31u+0y
+80bUILfxMRwrnlDGywUMFVxclRqYmGJwtOrLB1sLScI1cVSxNWnRg8PTqThSnVnyQVWUIXbqU+fR
+V6TipOSjdpWbXMpPZNJt3a1t216M+j6KKK+dNgooooAKpajfwaXY3Wo3Md7Lb2cL3E0enabqOsXz
+xxjLLa6XpNre6nfzkfctrG0uLiQ/LHE54q7XHfEGw8Y6p4J8T6Z8P9ZtfDvjPUdIurDw94gu1tWT
+Qr+7X7ONZt1v9D8Taa2oaZFJLe6UureG/EGjnU4LQavoerab9qsLjbD041cRQpTqQpQqVqVOdWrN
+06dOM5xjKpUqRp1pQhBNynONKq4xTapza5Wm7JtJtpNpJXb02SurvyuvVHzJ8Vdd8ZfFp/DXiT9l
+34yXUetfDfV/D7eOPB+gaDo+uWfiPQ/EnxC8N2viPRNXPjHXPC/hbR/HHhXQ/AvjnR9a8K+ILk+K
+tB0vXNf0v7H4B8d6x4F8b6Bl+HvFPg74i+Nbjwl8b/Hvjfwr4/0qPQbjUP2e/GniH4aeDfDWpaP4
+703TdIsvO8J/DHxh43j8eeDtc1zV7fwZf6N46+JfxAsJvG8LaHBaJo3izQrbxN2Pgv4TftNRXljf
+fED9qrVLuyj1TW7q78NeFfhf8KoJW0q6iu7fQdHm8Y6n4LP2+fSN1jfX2s2ngvw8dXvIbqFNL06y
+njhg5/43/sufBPxJrVh8afiLrOtWGt+Bb3/hIrPxdLpHw11abw94ivfDGjeAJPGttfeL/h74ig8I
+3ttpelaHeNrenzeH/Dngy80248Yw/wDCOCTxFq1z+i4XE5LRqQySeZYKeHhh8XDKs2yLL8TjM9wu
+OxFWm4ZfXzDEZJklXG4TEV1iVTq4fD1a+FpY3lw2Jq0oyw1TklGo17TknduPtKdWajSlFLWSgqtR
+QklbRuzcfejrzH0/pXw+8D+H9C1nwz4Z8KaF4T0LxDJqM+saf4P0638Ix3t5q1nHp+oak8nhtNLn
+i1e5s4beBtYgli1RFtrVortHtoGj+af2atZ8a3HxJ/aJ8La/8a9d+LnhrwR4x0fRPB1pqvgfw9ot
+h4L0WHTH0xfDVn400zb4h8b+KtJ1vRPEmn/EfU/GdzrV9qGsW+ka3pEnhyw1SfQzwnwt8BfGjSpf
+i3Y+IdH/AGktU1HW/H+n678OPGfxD+O3hHTrbR/CGk/CzRtP0bQZdK8E/Er4ieHrK50zxNdeL9H1
+FIvhRLpnjnVjoHjLx1ba9q1hb+JrP0/wh8AfH3wx8QyyfDH4ovpPhbxJrup+PfiJYeNfD3hTxnc+
+KfHesSaPa6pOZdA8KfDnxCz6npllPJe+KdT8b6hfG+tdFgg8Pxaba3UF1yVMNgcFhs9wOI4gyzMK
+2Y4TAzwuNrww2PpRr054LH4qtRxFCnm+YYPFOnCWWU3TeAxGIUq1LFxhSg6SfNOUqUlSnFQcuaKb
+i7WlGMWm6cZJN8+vMlZct2z6yoryvxMvxpXxzocng67+HE3w7/sXUZ/EGmeI9C8RReKJNdtdT0KL
+T7HTvFeneLHsLCy1XSb3Xrw3M3w/1ltNvNAtLSUXUevC40ntPFPijRfBmiXXiLxFd/YdIsptPgur
+rypJvKbU9Ss9JtD5UKvNJvvL63j2QxyTNuxFFJIVRvipYSf+xqjUpYupjUlToYZ1KlenVdV0o4er
+RdOE1XlKzhGCqQqRnF05zu0unm+K6cVHq7JNWvdO709bW6o6CiiuS8Q+PvAnhG4gs/FfjXwl4Yu7
+qE3Nta+IfEej6LcXFuJGiNxBBqV5bSzQiVHjMsatH5ism7cpAwpUa1eap0KVStUd2qdKEqk2lq2o
+wTk7LV6aDbS1bSXdux1tFMjkjmjjmhkSWKVFkiljZXjkjdQySRupKujqQyspKspBBINPrMYUUV5l
+8RvGWraL/Y3hHwUNFu/ib43/ALQi8I2Wvpqdxoul6do/2E+KPHXiSz0YLqVx4Y8G2+p6c09ol5oc
+HiLxPrHhHwG3irwre+M9P16x3w2Gq4uvChSS558zcpPlhTp04SqVq1WeqhRoUoTrVqj92nShOctI
+sUmopt9PvbeiS7tuyS6t2PQ76+stMsrvUtSu7XT9O0+1uL6/v764itLKysrSJ57q7u7qd44La1to
+I5Jri4mkSKGJHkkdUUkeP6R8S/GHjcTar8Ofh9baj4O+1Cz0zxT488R6z8PD4nVbX7TPr3hnQT4F
+8S61deDjOy6ZpfiDVrbRJfEd1FPq/h3S9T8EXGheL9c8n8aW/wAOrzTtR8AfEX9q7xNqk3iDRdZ8
+M69og1n4O6fdPoWqQ3ng3xY2q6N4Z+HNs2l6KdQsdTsNR8R6zAq+FNYjvLK117RZvOt2g1HwT8Md
+RGnfFT4B+M/hXqPxR+E82qXms/EHxJ4uTxjP4i8KatpevaZ4j8FfFz4k2mpaz42h8IytGniDS1vt
+Su9N8NeIfh94TktdFm0LwouhL9ThMmwNGg5Yz21etiHKnh8TUy/NIZPRbjbDutXcsrxCli8U6WGW
+IXtaOFhKtOphK8nSnSwlUk3aNklrJc8PaPXWy99WUbyto5NJKS1T9bm+HcXxAv5vE3jbwte/D34g
+aTZXvhjSvGHw7+IerxahdeHrg/bLUf23pFv4Wn17TLDVJZtSsvDHjvwzqGh2GrCS+i0q5+23hl8x
++M/ie/8AA+keCfhv4z8T+C9VtPG+ta3qyfFX42zeDvC/g2xn8DeLfDHjnRvBOsacvhC68LeJ/F19
+4WXxDqGhaXp9p4G1LUvDfw18Ua9p3iXwt4k0pPFNl7f8HfiXpnxc+HXhjxxp8mmLcarpdi+u6Xpe
+r2esr4e8QvY2tzqmgXc9pIZbW90+W5USafqtvpuu2cMsEetaPpOpG40+3+Vf2nP2k/gx4f8AC/iD
+QPiRbeLfDd/4c1TxHqNl4i0SfQ7/AFXwXH4Ps74f8LLsdf8AAvxO0nUfA9lqFsNb0KG/1bxJ4V1f
+Q9PuNZn+KOi+H/h2/iC4uOrJMPmmK4goZXXyyvjFl2LlTeWYbmxNfAVaUa9KlLAutVr4uVDDYtxx
+k8JRrzw2MnThGrTqxnTRNSUI0nNVFBzinzy0Uk3FvmslHmcfdUmlKKbs1Znlnjvxp8SU/Z6tfDMd
+340+GfjySDUtX8cfEvV9O+JfhPSPiJ4zu7DSL261/wALfFzSdD0Pwz8L/DHifVNZ18+A9Z+MOp/D
+iw8Ka94R8B+BfEHwq1D4X6rLpB9B0TS/iddax8MNI+AHxB+Fmv2Xhqfx14i8UfEDR9J8aeJ/hpHB
+8RLXxDrev6B4s0LTPjtpOkeI/EPij4iXeheN9B1XRLvVdR8I2ml6ppUHhXwN4X8YWWoXvgY8X/ET
+S9H8E/tCfB/4j/tBfFL9mPVYfFdvres+OvHGlazqEmpprPw00bwD8XfhzD8PPC/jvxdr/gTX/J8d
+aFJ4c1z4ceNdJ1DVls9db4e+GPCHiGX4taN91fD74iaZ4X+HqzaP8CfiD4R8HaXZafa+ENH8PaZo
+njLWPFmqXFveST2MOleDdc8Qapol7HcW0Gma34h+KUnhIWvih9Ui8YX+lJarrGpfYZ19ZyzLqf1L
+B4HETr5jmsalBywU4Uc2xXtctx2X5jl2Oo0cfDMsso1Yyo5clWVHDYydbFcuAp08PPnpWnP3pTVo
+U7O0/ehHlnGcJxbg4Te89LuKSTldr4J8e/DL9pL4paJ4i/Z6+L/hSy8ca9f6X408Sad4htNc0zVN
+L12w8deEdT8O3aazcarf6jd+CvCXhzxZdaLqFomn33wgvvF3iW313Tvhz8ONQ+EvgDxX4L8T/S/w
+U/Z0+NumeJ/g14q+N/iLwtdat8JNIbdB8MfG3iTS/AfiHxO/w61P4cSa6/wmsPh54A8Lw6hNpet6
+rPLrHiC/8Yaha77PT/DsXh3SrG3sk+g7cfFnxTq3wQ1DXfDSeDG0aTUPGnxMsrXxLZ6holvcan4H
+8YeGrDwJZ3Om3w1HxFrujax4g0rU9Qe80dPA8kNhdalput3us2GiQn3evnM542zP6jDK6OHyLC0s
+Rhsb9ZWVR9qsPiMY8XluZfVq1PFVqNCOZ4SnGriKVFzo1qVai1+5pYSnh9qeGhzObdVtShy8+l1H
+lnDmXKm+SV0m7NNPq22UUUV+cHYFeKeL/jj4f8IatounXPh3x9cWNz4q/wCEe8T+JG+HXxCsPC/g
+3TWhv7ZfFmqeKLzwlH4Zn8OR+Il0TSrzVYdaTTrLSdYufGM19/wjOgavfQe10ySOOaOSGaNJYpUa
+OWKRVeOSN1KvHIjAq6OpKsrAqykggg11YSpg6dRyxmGrYqlyyiqdHErCtOUXHn53Qr3lC6nTVlHn
+jH2iqU+anKZKTXuyUX3ceb5Wut9nrttZ6nxzd/tMXfjCz0bxb8N9R8C+Ffg/L418c+CJ/i78RHi8
+UW/j3xL4J8Ua34H/AOEX+DHgHwR4zsPEPjK91zxR4Z8TQ6dql9qGkzXmm6E2peGvDPi2x1Wyu06D
+xv8ACT49a1d+GR4e+Putf8Izca1o8XxJ8I+JbPQtOudQ8KweLfCeoaofAHxC+EvhX4W+N/CPid/D
+Wl+JLGO7u7zV9NvZNdNhJaacEt9bsPQfCXwA+EPw78Zy+PfAvw+8P+FtXfwxY+DLPTvC2j6P4f0D
+RtJ/tWW/1W90fQtNttO0zT9U14to8PirVIUOoazpHg7wnpzebHoNjbP6pFrekT61f+HIdSspde0r
+S9I1vUtHjuIm1Gx0jX7vW7HRNSurQMZoLLVr3w14gtbC4kRYrqfRtSiiZms5gn0mJzjA4PEUqvDW
+Apxw+FjUm6mZZdgcXiIwq1LUnXlWhjJrFYf29OjLMaNbC0qmJjRqZfgstlFqtjGnOSftpXcrK0Jz
+jG6WtknH3XZtRabUW1KU76eKyfDb4a/A2z8cfEz4e+CNJ0TxFL4ObTBouhqNGtPGWuQX+paloltf
+WenxqfEfjfxf4o1e30mPXdTh1nxTql/fQWVjPJd6nexal694S0H/AIRbwr4Z8MfbZtT/AOEc8P6N
+oP8AaVyuy41D+yNOttP+2zpvl2zXf2fz5V82Ta8jDe+NxwvEelahr/izwhp89s8nhDSE1HxZrEoK
+JHc+KtHvdEj8CaZdJMxF7p8ct14g8VNFaW7XFh4i8J+Fb6e/sIvLsta72vFxuMr4nD0HicVVxeKr
+v22IrVq0q9X2dCP1XBUKkqkpTjKjCGIqKOilSxVKT5rR5dYxSb5YqMY6JJWV3aUmraWfur1i1oFF
+FYviOXXYNA1qbwxbWV54ii0y9fQ7XUWZbGfVVt5DYx3W24sy8LXHl74fttgJx+5bULBXN5B5sI88
+4Q5ox55RjzTkoQjzNLmnJ6Rir3lJ6JXb2Lemv5HH+LfjD8M/BN3c6Rr/AIz0KPxNb2puovBNhfQa
+v491NTYX2qxQ6N4H0t7vxTrF1cabpmpahBb6dpVxI9hp9/fYFnY3c8ORqGl6r8XvDmkrqVpfeBtD
+g8dfDzxvYiHW9P1PxDr2meA/Enh/4gaVFLe+EdautA0ey1rxRoGm219Ha654wste8DnUdPvLexuP
+EDJo3gnwk8G/DbWPHukXNh448dL4v0Hw9bD4p/A34x+MfFniDxfeeL/Bl3oNt4a+KOseD9V+IOq+
+HE1rQNRhtBbfELQ9J8ZeCPFsX/CC6x4K8Svb+F/BOuJ9rXM32a3nuPKmn8iGWbyLZPNuJvKRn8qC
+LK+ZNJt2RJuG9yq5Gc19HmNLB5LWwlPLljJZhCNHEVMXjqToToV4S9yWDw6/cunOcHWo4iVTG050
+J4epSq063tIUsYOVVNz5VF3XLF3uml8T3ur2cbRad001Y+bfHfiO7+M+heEvC3wus31/wr4w13Rd
+X8aeJtc0vxFofgbVfhN4c8deH7Xx14esfEFxpE0etah4/wBBk1O28NabaaRrHhrx74Tg12C51zw9
+oWu6V4uj9x8M+CfBngqG7t/BvhHwx4St7+b7TfQeGdA0rQYby43yyefdxaVaWiXE2+ed/NmV33zS
+tuzI5PzJ4k8A/BfV/B8vxO8DfELxd8IIfiJZaN4ustR8I+MfiP4P8P8AiCXXdU8OC3m1b4PWWveH
+YI9U8X6zqPhvw94xufD2ieC/jDfT6wdAtPGfhnxRqaXsfz18VviZLbfCXwV4E/ag8KeCPh94nvvi
+j4m8LeGdd8XePNWTwV430T4ea5fRanqK3tzN42+NVp4O+IHgay1IeO4Nc0mbwrr/AMJ9R8QaB8Sf
+HuieGPHaWV97tDJJZvRwmW5TVzChhVmdehi8vr4WMM1lWdJ4jEVnhnjqFDOJ5dTwnsqkMLGhWw1O
+lGviqGF9vCLydX2blOag3yJxmpXha6SV+VumpuV03dSbsnKx6D4n8d674Jv9M8R/sy6TdaX8D7LU
+SPinq2qfD+3k+A/hrRNZu9dm1X4n/DPQE1r4b+Ldeew1k2Pi3xt4m+Hms6t8JNY8JXut+JoLHV/G
+Gtav4v0f3JrP4u/EHVfDjaB8fvhxonhnR5tL8VanL8MvBNprniTx54W8SeDfGVt4elN54p8Y+LfD
+/g7w/f8AiDUvD+v6ZcQaF4zfxHYeA786dr+mjxS8fhPg7r9qjRPhVH4f+H3jXwv8SPEfjSx8P263
+GoW//CjNO/4SSay0TV9Uhu7W20n4qWfhnTtb8XaN4X8ReKfB/wAO7KeLxfrnhzRdcvfD3hvUbLwx
+4gn03U/ZUg8NeB/gNqs3hDQZrzwzoXi34ijSLfw7Z+CL7xPr2j+G9evdE0+O7svh5LL4d1fxBpWl
+aLbeFdPm07WdbuvEukeH9F1O0mtBqtl4Y0fpzGliqGVPHzy3B0q8K1HA5bjK9HLM2nnmGzD60pZh
+isTjMNzVsTSjRqU8PiHh6LqUsTSnToUMRlk8S1DllPl55NWcpxi5wVOUOW0YxjKyi202rvVNNtTs
+bvxo+FFr4m+DXh/wX4x+KOsW17Z+N/h+83jvWdU8SeHpfEXiXXfGmn6FDp96vwv8TfDfWLJ/EWpe
+Jm0jwbp/hrxH4fi8NeJbjwlfadL/AMSC2hk/G74//tF/Gb9jL43T+NNf/aMn8a+Add8Q6L4DvpPE
+0HwPtvi3J4f+C/hjU7PUPDfiK20P4Q+IfEPh3wX8Q/iv4su9L8EeJr7TrS20rxBr3hjVfEmrQ6f4
+y1HxFrH3f+0Z4r+E/wC1wt/8Hbn43fCj4e+AvAXjH4M+MdVuPGMWnajr3jvX7uTxJr3hzS9Mt7jx
+H4P8QeBdP0PxNoGnwS6x4a8S+GfinF4w8KeNvD99J4O0Lwzfx+P/AOaj4++OdV+DXxm+Jut2HjZ/
+EvgFLqN9L8f/ALK3jfwr4O+HWv8AxA/aF8XLofi/SfFPiv4f/B7wld/GXQtA8O+O9Pe0+Gfwv17T
+PiZ4c0eHwfPrN94z0LxUNK0b9r8FeDaudPF5ZncaGYVK1DFYjG8JZlkVGlCOGzp5XUwE8rzfF4F4
+fAZtisXHC4mWHwjnDD0YYSlUoTryq4aj5uY4lUuWdO8EnFRxEKjetLn5vaU4yvOnGN0nK15czUkk
+pP7+8O/Gnwx8Uf2Yf2h/Hfwd+Gz/AAM+GF/8WPDWiax8PviZ8QNT1/4ha1+0TafD7xJ47uPinrXj
+yysYvBPhyXzZPB3i34leKvFXxQ8feIPiV4K8Jz+H9a8T/Cbwza+BrjW/nb4cfty/Gz48+HPA3hLT
+/BF14Mf4c+P5LDwv+zL8Utc122+HXxC1eO61f4UeJ/CHxH/aO8ZIPi54Y+Bms33xmtpvAmh634R+
+I998RtHttU+Hdrrl/wCD9a8Q+DtJ+K/FUf7Nfh3xbYave/tw/FSHxb4JPwotvgDL8bfhN8U/BHhX
+QfDPwk+FvhCD4i6RoHivU9W+InjG58Q/E7xX4u1BtEg8ReDvGXwl1KRbPwz/AGvbf8JJqzxdl8OP
++Clvwq/ZF8Z+Jfj/APET9j3UdZ1TWbnWRJ4U+L3i621X4r/ELXtS0yxmt76Hxb8UfEvjf/iYeF/E
+Oj+PtB+Gl58OvAPgr4bWHgnw58XNAuG0TxDceEdC8W/0XDw/pzwOYzyHhLM+KMbjpYfMcgw2bUc0
+yetRxtXLMNga2WfW+LsZgMRmdfF4eMsJi+JYqea5TiqeLwWHzPLsM8LmsvI+tvmpqriIUYwXJVlT
+5KicVNzU+XDxkoKLtJUbqnNOMpQnK8F+/fwH+Ft5+2p4Dk+IHgPxZ4+/ZR8C+AvB/gn9njwb4l8M
+CXWvE/xH+Hfwv8Ha/pWo+LtJ+Kzx+GdA17wfc654vvPCGreD7qw+I3w7k8Z/BiLxnnXrfUtD1Kvm
+P4h/8Ex/A8E+m+Ev2Vtb+KXxd/Z4+LHiTSdE1fwJ4D+MVv4J8L/AvWPEUMUOv/E3xh4W8LR+FPD2
+vfDTU9E8K+HpobbRNAsvir418Ra1qviTWfiHrHhDVdWef6r+Lv8AwXD/AGIv2afhH+ztrtvpXifx
+Y/xX8MfDPXx8O/gd4K1zVdN+EfgTxbpsl5fatr97qXhrwZYaXZeGksL/AEjS/C82k6J4t1XVjodp
+eeFvDFhrS6jZfoF+yd+2h8Lv2xtK8U6x8M/CXxr8J23hNPDFzcp8Zfg94z+FEms6Z4wttVutB1nw
+q/iqwtbXxPpF1HouoCW90a5u0tGS3N0sMd9YSXP8t43PPGDguhjOLKfCPEPD3B88XUwuApZjCUcF
+QeCxFPL6c8xx8cPh84x2Ow+Yzo1MHj6mOo0o4qtiaWGVbBYzEUJ+3Cll+IcaDxFKtiEuaTjbmfMu
+f3ItunGLhdSiot8qTdpRTPJP2Rv2G5fgv8Ml8KfGbV/CnxO1fxRdav4l+LGhnSX8VfDfxp4113XN
+N8eadqFlo/xHs9a1Hw5p3wt8Waj410DwJp/h6bRtM1fQbnR/FOvaPaeJVWw0j7T8G/C7wb8P55pP
+CNrrWj2csN1bQeH18YeMb3wfpVvealLqstv4e8Eajr154P8ADMMV3NIlnF4e0PTI9OsCuk2C22lR
+x2S+g0V+BZ1xRnmf4zHY3MsfWnUzLETxOMpUX9XwtatN3cpYWjyUXyR5aVFODVDDU6OFoqnhsPQo
+0/VpUKVKMYwikoK0W9ZJf4nrru+7bb1bbKKKK+fNQooooAKKKKACqUem6dFqN1rEVhZR6tfWVhpt
+7qkdrAmo3mnaVPqV1pdhdXqxi5uLLTbnWdYuLC1mleCzn1XUpreOOS+umlu1xHjTWPHmi2pvvBvg
+rSfGyWtrcXd9pU3jL/hF/EN59mKyf2b4ZgvvDl94d1DV763WeLTU8R+KfB+jPqRtLbVNc0nTp7rW
+LDahTqVqio0p04Sq+4/bYijhaTV1K1StiKlKjGPNGMv3k4x5oxe6Qm0ld307JyfySTb+SO3orxG0
+8f8Axevpr69HwC1PStBs720tYrLXviP4Di+IGqwMmmtf6lpXh7w/e+JfAwsrdtQuEso9Y+KWjajf
+Noesm4sNNRtBbXqWlftDeFrvVdd8N614L+MPhbxb4avdJs9b8M3fwm8aeLp7OLX9PXU9D1SLxB8L
+NM+IHgjUtF1K28+NdW0nxVf2VjqWn6romrS6frek6lp1r6H9iZlJVHQo0sa6UI1asMuxmCzOpSpT
+lTgqtSll+IxNSFJVK1KlOrKCpwrVadGco1Zxg59pDq3G7snOMoJvXROSSvZN23sm9j3uivmTR/2x
+f2d/EGieIPE+ieONT1Xwp4VngtfEXi6x+HnxNuPCGj3dxIIVsr3xXH4NPh6O9jmaKG6sxqTXVlLc
+WkV5FA95arN0Enxnj8T2HhjUfh1o/jSbTdSvdO1TXNd8V/CbxX4U0TR/AzjOpa/fXXxS1f4OR2kF
+vFPa33m6TP4s19NPjuruy8D61bpNPZ6T4dzyhJxxmVZhl8I1PZVK2YYLF4ShRq+yVZU61StRjGnU
+lSlCcYS9+SqU3GLU43Sq038M4T0ulCUZNq9rpJ7X67Hb/Enw4PE2kaZaS+BPBHxFsrLXbbVNR8Oe
+N4rWSE21nYal5d94c/tDSNZ0xfFVrfS2Y0z+047Cxkt5b63m1nSfOW9ipfD74n+B/F11qfg7Ri/h
+rxh4MtbGLxH8L9dtLfQfGHhKwkDWum3MmgRzS2974VupLW5sNA8Y+FrnWvAWvy6dfw+GfEeqpp90
+YeqXxp4UbxdL4BPiDTI/GkWi2/iT/hGJ7lLfWbjw/c3NzZJrVjYz+XNqOlpe2lxZ3N7YLc29ldot
+teSQTSRI/gPi79nfWfF/xXb4jP438OeH7I3WkibTfD/w4LeItW07R9MubXTX1nxF4l8ZeJNBi8Y6
+HqF7c6h4W+I/hHwL4P8AGuh2kWnaA+q6jotlLaXe+Bhgq2Hq4HOa9bLIwwksbleJlDG1IVK9SpTl
+GnPCQp1oVKWLoe1VLEU4YZ+0hRdTEyopxFJyTUqaU7y5Zq8VZL+9dNOL3i76Xsrkf7Q03wi8Pad4
+a8OePPBmqQWHxG8W67deGfFvgHwj4u13xVonxu0/wpf6zoOsaNp/wjtj8U7fxpqXhDRvGt3b+M/C
+72N3b6b4avvDeo+ILJ/EmlWmofmFdfBr4n/tW+L/AIW/Gz9oB/DPh/wp4fhmtfgd+0v4Rv8AxNoV
+jD8LdF8LeDfEd9P42+GXxC+H0egaxZ/tQ+KNQ1iz1a6/aM8P658L/DXhv4Y2kfw08E6d4y+I3hDx
+p40+6vG3iHxV4W8F/tBfDb9pTwtZfHfwTo/w98XfFjwrrVxrvw80y98UfD3wVBY3Enh/xjouj6V4
+KvvCXjrR77TY/Fek+P8AQ/CkXhSHXZmTSfEPhrXNB8O22qeFeMPFGszfs92q/C/4leO4Pij8b/D+
+v6ZoPwu8da5afFXx3HYfE3xtJ4Y+EHi7wG978QfBfw++HWp/DXRdCvtR+FOr6lqXhjw38QpNAum8
+c67qPj+LVvHen/q3CM8dk2Fw6wVam8di8Z/ZNLiB4uWYZXhcNmuCr18RjcC6MP7Qyz2uDcMBncMd
+hZ5RPD4RYDOMJVw2YZjLL+Cvy1JPmT5YxdT2XLyTcoSilCWrjP3ryp8klUTlzU5KUIc/zy3xM+MO
+m6PpNhpXxv8AAGl/D7wToPwde1t9e/Z01Txz8NNd1HwHYWXh3Qfi9D8Vfh7+05q3hfwB4I8ZeLPA
+K/CjxRoui+LZPBVt4btfFfiXU9O0i8X4jy3Xkd9+07+038MPCd18MfDHwwuz8L/GvinwpbaL4T0z
+TvAXxZ+MMHwofV/hR8JIPhxovgr4c+Pl1qx+ENv8A/DniXxrZftIfFPW9M8P2+hax4PfUfj3qWtP
+oFx44+qv2o9X8E+DLbTNF8U3/iqw+MHxiTSfgx4YJ+H/AIv+EfinwVf+GNW8B+KdN/aH1n9ojwd4
+X+KOpandfB/WPDv/AAsXxZ4guPiDefDXxdocMek31kbnwt4itfEXvPwu+Ofw++GfxL/4Zy07UvE3
+jDxBptlafC/Wr3Rv+FcNaeH/ABmiXureFvC9v47tWsLvUNT1Nf8Aha2rzXvxc8aWvjm+8UafLaJo
+WseO/Eeuo/2UM0p0sqoZquDcFnlOs6uZxwmJwNPLcJPBZO8HDE5tRxmGy7BxxCo5hJ0KmPzDD4nD
+1YUnh8txdKcq0Hzum3UcPrMqTVoc0ZOclKpe1NxlN2vHVQg4yV7yTSTX55+J/wBtqz/aI8YfDC3+
+Eeh/s+fFv4s/CTxBrfiTxXrnw18Nyv4fu/iF4M1DQ5vg/wDBXwT48+JOp/D19C+KnxN8fWXgL4cg
+r4s1PwA/wwv/ABX4q0PxR4vj17R9L8Dfjf8AFb4f/ET4Mf2/o/i/V38C/Hr4tePtb1GTTvhppHxE
++FPxF8IaTe6x8R9W8YaL8N/jb8GvCPxd+C/iHxl4D8C6L4GvPil4g+FviCXQvF3hGw+H3w6v/gr4
+u+P+kXetH9uPiX4o+JvxX/aC0HxV4F8T+BfDHiPXPGmqeFNa/ZrXRvBXxf0rTtV+C+sap8O/i9r/
+AO0J4a0qC61XUf2ifGPwy+KWoeF7/wAOfDTwz4o0+D4EfDDVvGvgn4reNtBGj6da/n9+0pF4hux4
+v0XWPFfwA8H/AAR+JHxl8P8A7SHjPVPDukfDzxzoun/DST4lx/ADRvAnhv4fwyaJ4yPgj4r+OJ9U
+1HxNe/EXRPg6LO/+Amt2mjfEC4+I00NnafsXh5isJleJwGXZdgcvyvLMbhcDVxWAnja2Pzn69DMc
+ZVllcsfDKKeGxmBp4urjZ4fAZNl9GecRymlhMHmGHdOlWxfn4pSnGU5zlOcZSUZKKhT5eSC5+R1O
+aMuVRTnUm/Z87coNNqP5cXnwX8D+I/gv8YPFkFra3/xC8fav+yz4b+IMPw0/tpvCE+ga98UvFmpe
+IT8TPiH4m8Ffsx+AdQ0L4deL/AvwhtdPsLW50bw/4F1C48JeI/hn8SvDHhfTr/wL4Z5b4Mfsl/Gr
+9rPxFHf/ABp8IeJ9V+GOiWXxJ8A2X7R998QvhR4Nh8Ca/wCPPA3weuvhivhv4ew6jcT2ngyHVPBn
+jN/iJa61a6zomufC3U/EM2qXOk/E6+isYftXSfDPhb4Va5D4s1r4u+C/hOvwW0r4cz+JvGX/AApj
+9p7XPEfwU+Hul6b4V/Z6+IHh/wCL/wAHfFUHxY8H/D+98B6Ifi/8cJ7XxnP4V1vxL8VPF3hDwxpn
+ibSdAsm+GWsdFoH7NHg34Hat4Z1vx78Qvh/pMH/CyPipqms6L+0n43+IvxB8R/ErxkvxU+H3iT4Z
+ePdX8NWNnY+GLjx34z1S0sodc8P+IvBdr4y+IngzSvid481f4g+JPBWj/D2w1j91lxticDh8whl+
+KxVPFZjVlLIMXjskzbE4/L61TIMLhsxwuUeyr5WqvscvweXKl7HE5jRdfH4ejnOVvD4TDVK3mLDK
+Uo80YuMLe1jCrTjGaVW8HPSdrzlPeMGowbpz5nKK/UT/AII+fssfsb6k3grxvqnx78F/Hb9qL4UT
+638RvCXwq8HfG7W/Efh39nHwb4hm1fw7o2l6D4EmudD1u80rS7fxBdadqVx400K726q3gFfHsXiD
+4n/Dnwf47j/pKr+G/wCDP7ZvhX9kr9qvx3+0B4E+EfjTxE3ivw9rXxLuvBnwY1vTvh38H/FGpeP7
+BPiL8XvB76Z8VbfwHr2raoV0LxVrPwa0nTvCOtzxeEvB3gLRbnxDrvhz4dXfi3wb/aZ8Jfij4T+N
+fw18F/FfwLJq8nhLx5oVp4h0Jte0LVvDOsrZXYYCLUdD1u1stSsLqGVJIZEmg8qXYLizmurKa3up
+v4Q+khwxxVguJMHxTm2IzrMMkz3DUv7Nr5tVwk5ZPiqsZ5hiuH6eGwclDAUMPUxNathYzoUHjJ/X
+qnPjMVh8diH9PlFahKjKjTjThUpP31TUl7SKtGNVyl8TdkpWb5fdXuxcUeiUUUV/Nx7AUUUUAFFF
+FABRRRQAVkeINJbXtB1vQ11XV9CbWdI1LSV1vw/dR2OvaO2o2c1mNV0S9mt7uGz1fTzN9r026ltb
+mO3vIYZXt5lQxtr0VUJypzjUg7ShKM4tpO0otNO0k4uzS0aaezTQBXzjHod54X+OnxZ13wvp3/CQ
+6b4x+EnhnxP448FQ6RFp15f/ABB0G413wv4Kv9H8V62+n+HdZvviL4P0i/8ACGv6Pf6xHZeDIvhl
+4I1O/TRbfxvc3+r/AEdRXXg8bPBrFxjBVIYzC/VatKbtSqU/rOGxSVXlSqtQq4anVh7Grh6ka1Ol
+N1ZU41KNaZR5uXo4y5k+qfLKOnTaTWqas3pezXz74/8AHdh4F+HlkfE/hWy+KHxJ8IaZ8P8AVrjw
+F4G0G+8SS6f4p1ie90rw/wCLv7NsNE1rWfBPgWDX9B8TXdv49vtCVNH0jw3rsum2+o6zpf8AYtx5
+Pof7bPwx8RfC3xx8TcprHhnRNO8WaxZ3/gzw38XPil4JtPD/AIf0y5mltviP8Qvht8JPGHhDw7r0
+Eun6hceKdM8LXPxC03SfDU+jeJ/D+reNfDuvaDqus/S3iP4e22p6b8QE8OarqHg/xH8SNPtdL1vx
+dpt5qs2r2EFvp39hx6h4dX+1raHQdd07RZLn+wdS04Q2+na61rrt9p2svbz2d7u/8IZ4YTwZ/wAK
+9tdJg0vwYvhj/hDLbQtDludBttO8MLpX9hw6TpE2izWF5o0FppQWz0+XSbizudOjjiaxmt5YYnT3
+aGN4YjhKccdl2Y4vEzzGjWnUw2YLAyw+DdHD1MfQpYeWFxeE5auKdWGBnCUa6pQnLEunzUIRyca3
+N7k4RioNWlDmvK75HdSjLSNuZPS9uW+p8Z+HdW+A9y3gqw+H998V/HfhS2utL8Q+DvhV4T+FWs61
+4B8P3fjWOyh8LeNfDXinxT8PH1b4NeG9L07xBea38NrvSfi54F8GaH4WGsweB4pdC0P+zbD15vhx
+4V+EHhiH4g+Ide+NHiLU/CXl+IvFVzoXxS/aJ8X6Vd3d7c6YfFmq6d8LPEnxW+If2jwjZ+Vdatae
+BlHi+58OeHo73TvC0GoamVGofQukaRpXh/StM0HQdM0/RND0TT7LSNG0bSLK203StI0rTbaKz07T
+NM06zihs7DT7CzhhtbKytYYra1toooIIo4o1UM1rRNG8SaVe6H4i0jTNe0TU4Tbalo+tWFpqmlah
+bsVZre90++intLuEsqsYp4ZIyVUlcgVOJ4g9riKcKNXN6OAnXTx6qZhSqY3H0HUm6ntamGwmBpSr
+VKVbEe0lXjXqVqlZ/WK9aFOiqZGiktVTckvdtBqMXZWspSm7JpWs0klok738t+LPhb4G+JfCqfEX
+4v8AhjwR4q8L/DTSNS8f2nifxDoNl4lj8N6JpUFn4p1XWNKuI7S/vG0+W38O6bqt7aaas8OsrpOn
+edaXxtrRF/On4afAXwr4NHwn8X/E7wb8RPCuryfA3wtrHjbwo/xMn8F6fZ2vwi8JfDT4C/8ACc+N
+pfDnjGHVNe1bwB8N/ir8XfEXjO716/sv7W8P+OIfDvi7TfG/iT4e/DjUvBf1l+1R8b/FPwXn+H2n
++EtQ8M2EWs/8TiTQ5vD/AIg13xb4qtvCfxF+Emj3XgXwbY+H7DW4NKh8W6X42udD13xtrWhf8Ix8
+LtFln8deJta8O+HdI1HxDovwP8ff2hrP9rfwN4UPhX4WeNBofjLxOPD/AMLrT4gfsb+KPjrp+p29
+98O9UufF3i6PxxoegfET4TeH9M13SNZ8bfC7xl4Tns/H/iC00nwprusWKaPrhGnW36DwNlvE1TLM
+P7CrjaHDmcVsXh8VjoYvMKkMFgqEcXF4aGDwsaapQrYyVbH42tQdafJlyxMVg3hpTxfLiZ0FN8yi
+61Plajyw96UnDXmldu0bQinbWdveuuX5H8djwbrN98Mv2lf2jvBGn+Ifh98XdI0D9nj9nKfxJ8WN
+Y+G/w2tNZ8O63qnxC8MfGrx54G+N8Hgr9ofR0+J/x/07T/EHi7/hPNZ8deI/BOg662qePtb+I17p
+/gnX9EZ4a8X/ABH+Lmlap8OPg3qul+DfF+p+BPhH4M8Fp8RvBun3Gjnx38FPDviO60/40/D/AOJv
+wfe+8X/DqxFx44+FOlJ40vItV8T/ABJ8W+NviH4X+FXgnQtf8X+FL/w36j8SvBPgf4O/DnSvF+k/
+DLUNR8A6l8UvCPxK8SePfjhD8TPiL8cW/ai8LXfxRs/HHhO7nk8caoLH4i6b4Ws7vwFYfFv4OeAv
+H/hXwT8TV8U/tA6n4g8Pah4TT4h+EfK/iD8e7P4keCPBN98K5PDf7bPjn4ZeDl+IXx68K6toel6h
+8Pvi/wDF34bXknwO8T+NfBfg7wRqOq+KvHXj6K10K+8cfDeeTwxongfwp4e8H67411L4p+FPihpN
+/pml/vmCm8xw1D+z8BXr4OnjJ5bgsbmMufAZZXwVaOMy2OJwmKr47IsJiqksNh8Jm+KxWZZLiMzr
+xw+L+p5fXxk62D8qS5H780m4qUox+KaklGdnFRqySu5U4xhUUFdc01FKX0Dqvw8P7P8A4StNV8Kf
+s0fC34bfEDSvG/wC0HUfiNe6TdeNrfW/ib+0T8Vvhn4i+Jnw+8Z+D/g34W+LPju/12f+x9CsG1e0
+u/g/oWu6J8SYrK08A+FdGk8FaB4v/Evxj+wB8Wtf1X4pQReH/H0k138RbPWPHvhfUNC8H/C7xL8M
+/hPofwQNr4z0n4d2V1rmg6V411a++HviX4k+GvBfhddS+EnxFtfBPxY+AWq6t4g+GevaRPpsn6cf
+D34oeKtL8AfFfw/pfxi/aTtfjnpeu/BOy8DeLdJ8Iz/Hjw/cW3izxX+0B8WPhx43+D/jn4hah8V7
+rxVrvxF+Cmr3XhfVfD2uePPBNhr2oa/rvhTxJ8RrvQta8QfGzTuS+Mz+Cdb8S2/j/wCItnqOh2Vz
+8OtVHwijfwnefDb4if8ACW+L/hnYftM/Dv4t/G298a6F8Vvij4v1DwZoNr4pstNm0f4n+OPinpnx
+Y+CCzaVol1/wk/iPVfDfucIZtxLwvmebUcPXoVcVjZSnXx08Dm+Oq4+hh8Fk2ZYXE0aGZYhtZfiM
+Vi62IwtPD8QVKNeU8TKNLD4KhLD5rlXhRrwptpqMbWipU4qLcpwknKCvzRUVGTdK601lJqUPzQ0z
+4TfHLTtUtrDwx8Tvh9onie+8T/CHw7q/wG8Z+GdX8XfEDx98P/B95rPivwJoPhLX/jJ+y94d0XwJ
+P4H8MfEnxB4b8O3nxBtPhxqXiRvF3iPT/H+iX2jeCvDVjq/2N8Tfg9qXxY8T6f8ACa5sP2a/AnxO
+8P8AxF8JeEvFfwH8faf8Q9f1mDwBonjTxpr3hqP4v+PPhbo3jP4HfDz4ZxfDv4lax42+Itl4P1jw
+LF4g+Kvw/s9D8L+KPh/8QfBcfhrSuv8AjR+zVrHiX4v+NfFPws8I6dqGiaL4Uk+C+keJPFPxPv8A
+xZ+0XqPxw1rxF4KudA0iS4k1FPBukv4VtPG1r8WvCfw+0DxHqWhfHbwh4B8badat8X4vGmv3msec
+eCvip4Uh8CeDfD3j3Q/hd4S+J/wc8f6V4rtPil4R/sLxF8Q/GfxD8F/Cn4ZvqXhrxDdX9j8bvhJd
++P8AQvBcnhnxL8NdP8ReELxPg/4K+HfhzR/AFnZan4HOvr9nWzvEZ7Ry7NcnqUJ42jh6eIq0cHh8
+thm2ExuIwuGWEnmjw1epVx+RYeGHowrutQr53gYTw8sBm2DWXVMvoc/slScoVFKzk0nKU3TlGL97
+2fMkoVXdtWapyd+enLmU38yeM/EHir4FeI/2ifhXqfijVP2g/Afx/svGniTW7/wZPp3wf8L6t4g+
+CfhyT4b6Zr3gf4yfEW2un+JUHxQ+EGj/AB4+F3iHT/hnqfiLXNf+D3hnTtRi+JHifxToXij4OeFP
+6/f+Cfevad4n/Yw/Zy17w/8AB5/2f/CGo/C3wu3gP4Ly6vqPiWb4e+BbXT4bDwnpB8W6vKNU8YWt
+5o1ra67pHinU9P0PVdY0PVtMudX0TT9WN8jfkH/wTE+HXxW+PmqXvxJ8a+LfD3jT4ZfEuZvin8Z9
+X8MeGbHwpdaj8cpR8KfFNzd+IbLx7r/iL4seB/ir4o8ZaKNR1bw58MPDvgH4WfBfRvh1b/D3wj8Q
+fHGs6R4Yk+H39FegaFpPhbQdE8M6BZJpuheHNI03QtF06J5pI7DSdIs4dP06yjkuJJp5EtbO3hgR
+55ZZmVA0kjuWY/zf9IXjHL8bTwPB31PDzz3KcbhcZm2b4LG4qNHEVMPlksplhcdk0MPleW4TMcNT
+w2DwlGayhYqll+Co1YYuMc2xlKp7GU4eUXLEc0vZTjKNOnKMbpOaqc0al5zlFtyk71OVzk7xbhFr
+Xooor+Wz2wooooAKKKKACiiigAooooAKKKKACiiigAooooA/Ez9pjxB8SdP+L3wU+JPxj8IeH/Eu
+rTeIPi3efBD4QaB4E8U3HiqxTwl4m+EEWh6X4b+L3hv4i/Dr4hf2p43tLHT/AIiwQaj8HfFOu+Hd
+RTxdosPwf+IcmkeC7ix6T4g/EXxb8A/i3pq+EG8b6hqngzT9c8Pz6v4x8Gf8JH4Z+KXhfxL8XfhD
+458QXGj+Ldc0rRtXtvixr9t8W/iHpuv/AAx+FfiBL34g/Fr4ZfCTS5tC8NaVD4a8GSfqR8U/AbfE
+LwxDpNpq03h3WdL8Q+HPEuh+J9P0fQtY8QeH7zQ9XtbrULjwsPEcNxpWl+IdY8OnXPC1nrdzBcRa
+XDr91PcWeo2f2nTbzxe8/Zy1jxh4o+GXifx78Vfipqdl4U0vxJrOv+F4PG1r4envfiHrWkab4f0a
+9h8U/DDwv8NtWg8P+GdAvPFdlL4e8PyeF/CviHxBD4O8e6x4Xu/Gnh+DXE/ZMs41yWtgcppZtg8H
+TweV4TOsFWyiHtZUK8ZvE4zK44fBrBSwypuliMXl0sTXxc8fiMxxMsxzHFe0+q4ij508NUUqjpyk
+5VJU5Ko7XjbljNuXMpXvGMuVLkUFyQjbmT/In4T6z8bv2jfBXws+GF9p/j34f/HvR9e8QftURfFW
+T4g+JPh+2qW3xE8Q+BbrVfE/hD4QeCYfj38Nrbw34tvPjF4g+FZ0ey8YzT/CiLwn8VdX8U+MfAni
+7xb4xtXreLf2dZvhn8Umj+Lmta2Ph94t+BXgfwpqHxVsYdO8U/Ej4daj4E8Wal8E4NQ+HPgv4VaV
+408c/DnWvDfg/TfhB8NfF3xe03xh43n8C6p8avE+t29/afbvGGo6B+z/AIL/AGUPgp4D8SeCvFGh
++H9Ta/8AhnZeLNP+GNjfeJdeufDXw4t/G/iPXfEHiaXwV4SW/i8MaFqmpwa9N4UuNfttJPiCXwRa
+QeE5dUk0m71qHVvmf9rz/gn1pfx58UeH/iT8KPF2o/A/4lLdRaX4+8S+DLq80tfH/gWbVpNc1PQv
+Ffhy3lTw144T+1ppvENnpXiC30yeXxrB4c8Up4z0OTw9dWuv/V5b4n5DiOIZ4OliJ8M8P5lTx8sX
+jf7MdSpg8bicwr49fUprG4+rluXuccPiaGEpYPHZZgcZVq4eORYqkp43EYzwVVUuZr21WDhyx59J
+QjCMPe92HPO3MnJyhUnFJ+1i7RWN4E8N694a0H4jeKPHPxjtr/wPrGveJPAvjLTvDfwe+Cnw68Fv
+dR+HvEs3inVvHet29h4J8caL8NNY+Ivj3xf4m0XwxqXi3Tvipeanq/hObQfiX4rsPEviDxb8SPxx
+/at8G/CD4WfF34K/A/8Aab/aH8OT/E74yfCf4zfEDSm1+fw78JPGPw5tPFfittY8E/D3S/EXj34o
++Kv2RvEWhaGmvfEeLwr8DtCuPBGl61rXh270HTvE58I+O9Du9O+6v2vPgz8S/Cf7OvgrxP8AE678
+Dvdx+JPDeheFf2bNNi/4T9L7xzpmmgfDzSvCPjD456h8Wrm81eaPw9ql78SNM8JxeFYY/g02u6H4
+YHiPx98O/CnjnxF8b+IP+CN37cP7S/h7xfB8dPib8Mfh5qHxa8T+GfGnjKbSLHwZYw6Va6fofiHR
+9J8AeIPh38NPhwLf4k+EfAltYfD+aD4bah8dLHwLdeNNO/4T3S/EDLo9j4Xk++8P8Rw3llefE+fe
+IOSZFk+KxGPwNalg8BgMDmGJxOAw39m4fE4NYHK6s80o5XHHVcfnDynkp55Uw+U4KhmNWE6ksPyY
+uNaaVGlhKtWpFRknKU5wipNTafPNKm58ihTU/wCEnOTgnZS+a/D37QHxa8E6XD488Q/Gzxdp2o+C
+PiD8Lk1G7sPid8E5fG/xKv8ASvg78G/GHxM8JfDLUfCTeNdQ1X4Vazp3jvVrr4afCL4e+FfjH4P+
+C/hvwZLrvkal8Uk8bv4E6bwP4A/aK/4KJXXwy0v4Qat4u+FXhHwxrXxX8LeEPGPhi6t73wTaeB30
+b4a2PxB+J/xD8VeEbv4Bar8bdT+NWt6hL4Q+K1j478O643ibwCF8JeBz42+IOjfFf446f+4v7Ln/
+AASP/Z3/AGe9A8W2njTVfFfx/wDFPjXT/CGlar4m8e6lqWk2WjaV4U8PTWUWi+BvC+gavDpvhDSG
+8U69478V6ULSa61rQIvFy+GLHXH0Pw5oUVt+lfgjwT4X+HPhXQ/BXgzSk0Xw14d0600vSdPW5vb6
+SGzsoI7aD7TqOp3N7qmpXXkxRrNf6ne3l/dMvmXVzNKS583ifx54SyqviKnAuQ0MdnmHcKGX8S4r
+K6GXZZTw1XKamHxM8Pktb29apOGKxOIpU4Y+EY1MHUxdCaWHx+Jo1ro5XXmorFVXGk/enRU3Obkq
+iklKqrJXjFNuG0lFq7imvyz/AGvPjR4K/wCCYfwQ8BfDz9njwcmv/tDftW/GXwl8I/g9oQ0DTtbv
+NY8c6rpXh7wrrfxZ8TeE9Fvfh/oWo+G/hH8OtB0q9n8OWGrfDbwtreqWXhLwhqPirwDbeLNQ8b6V
+9Z/8E/PF/wAaPiH+xV+zV8Qv2hPEsHjH4ufED4V+HvHfibxRD4c0nwhJrdp4ySXxL4TvtQ8LaFZa
+bo/h7WpPBup+Hhr+j6dYWlrYa2uoW8cCCPFcx+2r+wj8LP20bz4E6x8QdMstV1H4G+O9d1fTNO1h
+pl0XV/BfxP8AC938Mvi7o08tlA2saV4hbwFrN7r/AMO/E/h6+0bXfC3xK8OeENZtdYsrW3vi/wBt
+aTpOmaDpWmaHotja6Xo+i6fZaTpOmWMKW9lp2madbR2dhY2dvGFjgtbS1hit7eFAEiijRFAVQK/E
+M+4g4axnAOQ5fh8NPHca4/OsbnPF+f5hh6U8fSlhJZhl+V5Rl+PnOeI/serlWIy/F1MLThQorMaF
+X2ksSqGEp4H06VKtHFVZuXLhoU408PSg2ovm5JzqTgtPaKanFSd3yNW5byctCiiivzM7AooooAKK
+KKACiiigAooooAKKKKACiiigAooooAKKKKACiiigD8if2p9d/bs+IP7Suk/CT4N6XpHwz8E6JbLP
+4N8f6n8NdS+J+h6r4o8ReBfH91pHxZl8dal4b03wh8L9R+G82j614fOj6pZ/F2y0fx1qPw11LxT4
+C8daD470LwV4p/WPRLbVbPRtItNc1OHW9btdMsLbWNZttOGj2+r6rBaRRahqdvpK3V8ulw392s11
+Fpy314LKOVbYXVwIvOfTor6XOuIo5tl+RZZRyfKcqw+SYL6v7TA4WksZmGJm1LE43HY+cHjK8q9R
+OrGhWr1aWHnUqxoclF0qVHGnSdOdWbqTm6kr2k3ywitFGMV7qt3STel9btlFFFfNGwUUUUAFFFFA
+BRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAF
+FFFAH//Z</Data>
+    </Thumbnail>
+  </Binary>
+  <dataqual>
+    <lineage />
+  </dataqual>
+</metadata>

@@ -1,0 +1,179 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Kontex Geomatics</origin>
+        <pubdate>20120425</pubdate>
+        <title>Niger Delta towns (polygons)</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/d7/91/sh/73/0/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Polygons representing settlements in the Niger Delta, Nigeria.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20120425</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>4.525188</westbc>
+        <eastbc>8.963394</eastbc>
+        <northbc>6.750004</northbc>
+        <southbc>4.269740</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>towns</themekey>
+        <themekey>settlements</themekey>
+        <themekey>cities</themekey>
+        <themekey>conurbation</themekey>
+        <themekey>polygons</themekey>
+        <themekey>delta</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>structure</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Nigeria</placekey>
+        <placekey>Niger River</placekey>
+        <placekey>Niger Delta</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Kontex Geomatics, Ikeja, Nigeria</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{71b1e844-c895-41ed-aa8f-48baf0ec6be4}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>9690</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9829948957069658e-009</latres>
+        <longres>8.9829948957069658e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D Minna</horizdn>
+        <ellips>Clarke 1880 RGS</ellips>
+        <semiaxis>6378249.145</semiaxis>
+        <denflat>293.465</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>nigerdeltatowns_2012_polygon</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TAG</attrlabl>
+        <attrdef>Name of settlement.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_Leng</attrlabl>
+        <attrdef>Perimeter of feature in kilometers.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_Area</attrlabl>
+        <attrdef>Area of feature in square kilometers.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140326</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

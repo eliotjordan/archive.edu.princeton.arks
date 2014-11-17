@@ -1,0 +1,317 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>City and County of San Francisco, Department of Public Works, Bureau of Street-Use
+          &amp; Mapping</origin>
+        <pubdate>20090102</pubdate>
+        <title>San Francisco County, California land parcels, 2009</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/4m/90/dx/00/z/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Representation of the City and County of San Francisco's Subdivision parcels,
+        2009.</abstract>
+      <purpose>One of the principal datasets which comprise the City's Basemap. The layer serves as
+        the foundation for map display and analyses, and can be joined to any City dataset which has
+        block and lot information in the proper format. For use with GIS software.</purpose>
+      <supplinf>LAST UPDATE: JANUARY 2, 2009</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20090102</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.514713</westbc>
+        <eastbc>-122.356309</eastbc>
+        <northbc>37.833298</northbc>
+        <southbc>37.707919</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcel</themekey>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>subdivision</themekey>
+        <themekey>lots</themekey>
+        <themekey>cadastre</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>property maps</themekey>
+        <themekey>property</themekey>
+        <themekey>ownership</themekey>
+        <themekey>land use</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>California</placekey>
+        <placekey>San Francisco County</placekey>
+        <placekey>San Francisco</placekey>
+        <placekey>Bay Area</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Only a representation of the lot boundaries, for legal matters please consult the
+      Recorded Parcel Maps, Deeds, and Assessor Block Maps directly. Data are licensed to Princeton
+      University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City &amp; County of San Francisco</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>1 South Van Ness Ave</address>
+          <address>2nd Floor</address>
+          <city>San Francisco</city>
+          <state>California</state>
+          <postal>94103</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>415-581-4000</cntvoice>
+        <cntemail>gis@sfgov.org</cntemail>
+        <hours>9am-5pm, Monday-Friday</hours>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>City and County of San Francisco Department of Public Works/Bureau of Street-Use and
+      Mapping</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{4daf72c6-99c1-4bef-b78a-57e1cc2771b0}</PublishedDocID>
+  </Esri>
+  <dataqual>
+    <posacc>
+      <horizpa>
+        <horizpar>Global Positioning System (GPS) Control Survey: a GPS survey of 65 survey control
+          points was conducted, generating coordinate and elevation data for the survey point
+          network used for Basemap development. The network meets the National Geodetic Survey
+          standard for Second Order, Class 2. Orthophoto accuracy: Ninety percent of points on an
+          orthophoto are &#177; 2.5 feet of survey point coordinates for the same point. Planimetric
+          features (citylots, sfblocks, cityfeatures, street centerline files) are overlaid on the
+          orthophoto images with an accuracy of &#177; 2 foot.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <procstep>
+        <procdesc>The Department of Public Works/Bureau of Street-Use and Mapping (DPW/BSM) is the
+          City agency is responsible for processes related to Subdivision Map Act. These include
+          processing requests for new condominiums, condominium conversions, lot line adjustments,
+          lot mergers, lot splits and other requests which result in new Basemap transactions. Once
+          a Subdivision project has been recorded with the Recorder's Office, a new transaction is
+          generated for the DPW/BSM Basemap Operator. The Operator will make the appropriate changes
+          in one of the 74 AutoCAD drawings which represent the Subdivision parcels. When the change
+          is commited to the database, the new lots are are added as spatially-enabled records to
+          the ArcSDE geodatabase, and the old lots are "dropped" from the database (actually, tagged
+          as no longer current, and thus are removed from the active lots layer).</procdesc>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>201290</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel</enttypl>
+        <enttypd>Polygons representing parcels in San Francisco County.</enttypd>
+      </enttyp>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_SF</attrlabl>
+        <attrdef>Street suffix.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STD_LAND_U</attrlabl>
+        <attrdef>Standardized land use code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER2</attrlabl>
+        <attrdef>Additional owners.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>XCOORD</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YCOORD</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140408</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City and County of San Francisco</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>2nd Floor</address>
+          <address>1 South Van Ness Ave</address>
+          <city>San Francisco</city>
+          <state>California</state>
+          <postal>94103</postal>
+        </cntaddr>
+        <cntvoice>415-554-0800</cntvoice>
+        <cntemail>gis@sfgov.org</cntemail>
+        <hours>9am-5pm</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

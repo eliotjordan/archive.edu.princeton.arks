@@ -1,0 +1,450 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>LeadDog Consulting, LLC</origin>
+            <pubdate>2006</pubdate>
+            <title>Shanghai hotels</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/zc/77/sr/69/r/content/restricted/data.zip</onlink>
+            <ftname Sync="TRUE">SH_Hotel_point</ftname>
+            <pubinfo>
+               <pubplace>Anchorage, AK </pubplace>
+               <publish>LeadDog Consulting, LLC</publish>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>Shanghai hotels</abstract>
+         <purpose>Map provides Shanghai hotels in GIS file format.</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>2006</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>ground condition</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">121.012017</westbc>
+            <eastbc Sync="TRUE">121.896742</eastbc>
+            <northbc Sync="TRUE">31.627964</northbc>
+            <southbc Sync="TRUE">30.717437</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">121.012017</leftbc>
+            <rightbc Sync="TRUE">121.896742</rightbc>
+            <bottombc Sync="TRUE">30.717437</bottombc>
+            <topbc Sync="TRUE">31.627964</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>Business and economy</themekey>
+            <themekey>Hotels</themekey>
+         </theme>
+         <place>
+            <placekey>Shanghai</placekey>
+            <placekey>China</placekey>
+         </place>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>Licensed data</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 am - 5:00 pm</hours>
+         </cntinfo>
+      </ptcontac>
+      <secinfo>
+         <secclass>Unclassified</secclass>
+      </secinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <natvform Sync="TRUE">Shapefile</natvform>
+   </idinfo>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <procdesc>Metadata imported.</procdesc>
+            <procdate>20091002</procdate>
+            <proctime>09513600</proctime>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <sdtsterm Name="SH_Hotel_point">
+            <sdtstype Sync="TRUE">Composite object</sdtstype>
+            <ptvctcnt Sync="TRUE">264</ptvctcnt>
+         </sdtsterm>
+         <esriterm Name="SH_Hotel_point">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Multipoint</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">264</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <geograph>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+            <geogunit Sync="TRUE">degree</geogunit>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">World Geodetic System of 1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257223</denflat>
+         </geodetic>
+         <cordsysn>
+            <geogcsn Sync="TRUE">unnamed</geogcsn>
+         </cordsysn>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="SH_Hotel_point">
+         <enttyp>
+            <enttypl Sync="TRUE">SH_Hotel_point</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">264</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl>FID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>Shape</attrlabl>
+            <attrdef>Feature geometry.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Coordinates defining the features.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>NAME</attrlabl>
+            <attrdef>Name of the hotel</attrdef>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+         </attr>
+         <attr>
+            <attrlabl>NAME_C</attrlabl>
+            <attalias Sync="TRUE">NAME_C</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">30</attwidth>
+         </attr>
+         <attr>
+            <attrlabl>TYPE</attrlabl>
+            <attrdef>Hotel</attrdef>
+            <attalias Sync="TRUE">TYPE</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl>UFI</attrlabl>
+            <attalias Sync="TRUE">UFI</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize>11.070</transize>
+               <dssize Sync="TRUE">0.016</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20091019</metd>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 am - 5:00 pm</hours>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metextns>
+         <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof>ESRI Metadata Profile</metprof>
+      </metextns>
+      <langmeta Sync="TRUE">en</langmeta>
+   </metainfo>
+   <Esri>
+      <MetaID>{BB2C5B9B-4CF1-456A-BF9D-F850AE476BAA}</MetaID>
+      <CreaDate>20091019</CreaDate>
+      <CreaTime>10212500</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20091019</SyncDate>
+      <SyncTime>09534900</SyncTime>
+      <ModDate>20091019</ModDate>
+      <ModTime>10361100</ModTime>
+      <PublishedDocID>{833A80C8-CAA6-427D-8080-F34DAACCD160}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">SH_Hotel_point</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">121.012017</westBL>
+               <eastBL Sync="TRUE">121.896742</eastBL>
+               <northBL Sync="TRUE">31.627964</northBL>
+               <southBL Sync="TRUE">30.717437</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">121.012017</westBL>
+         <eastBL Sync="TRUE">121.896742</eastBL>
+         <northBL Sync="TRUE">31.627964</northBL>
+         <southBL Sync="TRUE">30.717437</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\cities\China\Shanghai\SH_Hotel_point.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.016</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">unnamed</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="SH_Hotel_point">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">264</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20091019</mdDateSt>
+   <Binary>
+      <Thumbnail>
+         <Data EsriPropertyType="Image" OriginalFileName="thumbnail.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iii
+igAooooAKKK+UvjN8M/2sfF2tfEu7+C/7UfhH4O6H4g+DOh+Efhpo2sfs+6P8TLr4e/GWz8bX+s6
+78X77V9R8deHz4t03WvA89r4Jg+Ht/YW+kaVf2tt4ujv7meG+0bWgD6topkQkEcYmdJJgiCV4o2h
+jeQKA7xxPLM0SM2SkbTTMikKZZCC5fQAUUUUAFFFFABRRRQAV8e/t0eJPjB8P/2fdY+LPwWl+MGq
+eIvgv4n8IfFvxH8MfgR4G+Gvj/4nfHb4deCNbt9T8ffBPw7pHxQuLLS7OTxx4dF4k+seGr2L4gWc
+Ng0fgey8Q6/c2vhbXfsKigD58/ZR+NfiX9o/9m/4MfHnxf8AB/xd8Atf+LfgPRfHd18H/Ht3Z3vj
+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
+uONoBd25k85L1eT+J/gl8O/GHxb+Fnxw1/TdZufiN8GNH+Ieg/D3U7Xxf4v0rR9L034p2mgWPjWL
+VPCOk67ZeEvFcmo2vhjRktJvFmia3Jos1ot7opsL8LdKAXvg34e+JfhL4U/Dzwx8ZfiNpvxe+K2g
+eEdD0n4hfFHSPBNn8N9N8f8AiyxsYbfWfFlr4D07Vdb07wmmt3iSXzaJp+p3NhZSSvHZiC2EVtD6
+VRRQAUUUUAFFFFABRRRQAUUUUAFFFFABWH4m8MeGvGvh3XPB/jLw9ofi3wl4n0q/0HxL4X8TaTYa
+94d8Q6HqttJZano2uaJqtvd6Zq2lajZzTWl/p1/bXFneW0skFxDJE7KdyigDO0fR9I8PaXp+h6Bp
+WnaHouk2kNhpej6PY22maXptjbII7ey0/T7KKC0s7S3jVY4be3hjhiQBERVAFfLngD4X/tNX/wAV
+H+JHxs+PGmxeHfD2pfHvwp4V+CnwW8Ow6F8NPF3wy8aeLvCmofBnxZ8UtR8ZWfiD4gt8bvAHhbw7
+qWm6zqPgfxZ4c8HTXniKVNE0u1trfW5vF31pRQB5P8Ffg34X+Anwk8G/BnwNq/jzUvDHgXRpdE0P
+WfiL4/8AFnxT8eS28t3d3xuNb8d/ETVPEniXX7qG4vZRZnWL+8ttPso7PSNPtrXRrCy0+3/KX9lP
+9mbUpPiJ8XPgD+1h+zd8UdR8feHPjr8Nv2yB+3foXi3S/CHw9/bD+IXwvm8N+D/hT8SPFum/BXXf
+ANt4B+KOk6f4MsrHXP2cLjwhrXgiHwz4X03xp4v1XxN4l8WReIPEP7ZUUAFFfEPwxbR/jp+1P8TP
+il4v/Zp+Pnwj8Z/snXfi79nb4TfFj4j+JJtD+H3xw8B/E2z8A+NPiB4p+GngLw18QtR0bxJ4Y/t/
+wf4WtLbxh418GR3v+g2UGharBrVr4v8ADXhL7eoAKY8UUjRPJGjtBIZYWdFZoZTFJCZIiQTHIYZp
+Yi6EMYpZIydrsC+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA8n+F/
+wj0/4Wah8VdRsfG/xR8ZSfFj4o6z8VL+3+Jfj7WvHNn4LvNa0Xw9or+Cvhpbau7r4J+Gumr4eTUN
+E8FaaW07SNR1bWXs2jtbm3tLT1iiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKK
+ACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKAP/Z</Data>
+      </Thumbnail>
+   </Binary>
+   <mdFileID Sync="TRUE">{833A80C8-CAA6-427D-8080-F34DAACCD160}</mdFileID>
+</metadata>

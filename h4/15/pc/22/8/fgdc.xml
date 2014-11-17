@@ -1,0 +1,352 @@
+<metadata>
+   <Esri>
+      <MetaID>{F7202D50-6FB4-43D6-81BE-701FDD956315}</MetaID>
+      <CreaDate>20081224</CreaDate>
+      <CreaTime>14532200</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20081224</SyncDate>
+      <SyncTime>13470300</SyncTime>
+      <ModDate>20081224</ModDate>
+      <ModTime>13503700</ModTime>
+      <PublishedDocID>{C0BE6875-564E-4D11-BB2B-0490BEC7FBD8}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataqual>
+      <lineage />
+   </dataqual>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>Recreation and Open Space Inventory. Three known omissions: 
+(1) Stacey Park, John Fitch Parkway, Block19H-2, Lot 92
+(2) 611 Ballfields, Bunting Avenue, (not in city limits)
+(3) Warren Street Plaza, Warren Street, Block 20F, Lot 31</abstract>
+         <purpose>Spatial representation of the Recreation and Open Space Inventory of the City of Trenton.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>City of Trenton Division of Planning</origin>
+            <pubdate>2005</pubdate>
+            <title>Trenton Parks</title>
+            <ftname Sync="TRUE">trenton_parks</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/h4/15/pc/22/8/content/restricted/data.zip</onlink>
+            <pubinfo>
+               <pubplace>Trenton, New Jersey</pubplace>
+               <publish>City of Trenton</publish>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>publication date</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>2005</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>In work</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-74.810270</westbc>
+            <eastbc Sync="TRUE">-74.730508</eastbc>
+            <northbc Sync="TRUE">40.242270</northbc>
+            <southbc Sync="TRUE">40.184271</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">405515.076255</leftbc>
+            <rightbc Sync="TRUE">427725.781683</rightbc>
+            <bottombc Sync="TRUE">492188.035437</bottombc>
+            <topbc Sync="TRUE">513247.641857</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>Parks</themekey>
+            <themekey>Open Space</themekey>
+            <themekey>Recreation</themekey>
+            <themekey>Society</themekey>
+         </theme>
+         <place>
+            <placekey>Trenton</placekey>
+         </place>
+      </keywords>
+      <accconst>none</accconst>
+      <useconst>none</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>9:00am - 5:00pm, Monday - Friday</hours>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">trenton_parks</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">405515.076255</westBL>
+               <eastBL Sync="TRUE">427725.781683</eastBL>
+               <northBL Sync="TRUE">513247.641857</northBL>
+               <southBL Sync="TRUE">492188.035437</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-74.81027</westBL>
+         <eastBL Sync="TRUE">-74.730508</eastBL>
+         <northBL Sync="TRUE">40.24227</northBL>
+         <southBL Sync="TRUE">40.184271</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Trish Long</cntper>
+               <cntorg>City of Trenton</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>(609)989-3291</cntvoice>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20081224</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc Sync="TRUE">Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">0.048</transize>
+               <dssize Sync="TRUE">0.048</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Trenton\trenton_parks.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.048</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="trenton_parks">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">74</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="trenton_parks">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">74</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+            <projcsn Sync="TRUE">NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet</projcsn>
+         </cordsysn>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <plandu Sync="TRUE">survey feet</plandu>
+               <coordrep>
+                  <absres>0.000128</absres>
+                  <ordres>0.000128</ordres>
+               </coordrep>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+               <transmer>
+                  <sfctrmer Sync="TRUE">0.999900</sfctrmer>
+                  <longcm Sync="TRUE">-74.500000</longcm>
+                  <latprjo Sync="TRUE">38.833333</latprjo>
+                  <feast Sync="TRUE">492125.000000</feast>
+                  <fnorth Sync="TRUE">0.000000</fnorth>
+               </transmer>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+            <ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257222</denflat>
+         </geodetic>
+      </horizsys>
+      <vertdef>
+         <altsys>
+            <altres>0.000010</altres>
+            <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+         </altsys>
+      </vertdef>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="trenton_parks">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">74</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="trenton_parks">
+         <enttyp>
+            <enttypl Sync="TRUE">trenton_parks</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">74</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LOCATION</attrlabl>
+            <attalias Sync="TRUE">LOCATION</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME</attrlabl>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MACRES</attrlabl>
+            <attalias Sync="TRUE">MACRES</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CACRES</attrlabl>
+            <attalias Sync="TRUE">CACRES</attalias>
+            <attrtype Sync="TRUE">Float</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <atnumdec Sync="TRUE">11</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape_Leng</attrlabl>
+            <attalias Sync="TRUE">Shape_Leng</attalias>
+            <attrtype Sync="TRUE">Float</attrtype>
+            <attwidth Sync="TRUE">19</attwidth>
+            <atnumdec Sync="TRUE">11</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape_Area</attrlabl>
+            <attalias Sync="TRUE">Shape_Area</attalias>
+            <attrtype Sync="TRUE">Float</attrtype>
+            <attwidth Sync="TRUE">19</attwidth>
+            <attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+            <atnumdec Sync="TRUE">11</atnumdec>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20081224</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{C0BE6875-564E-4D11-BB2B-0490BEC7FBD8}</mdFileID>
+</metadata>

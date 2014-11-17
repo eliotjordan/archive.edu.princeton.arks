@@ -1,0 +1,376 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Boundary Solutions, Inc.</origin>
+        <pubdate>20060410</pubdate>
+        <title>Jackson County, Georgia land parcels, 2006</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/3f/46/26/96/9/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land parcels in Jackson, Georgia, 2006.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20060410</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-83.817830</westbc>
+        <eastbc>-83.354948</eastbc>
+        <northbc>34.295731</northbc>
+        <southbc>33.964339</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>parcel</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>parcels</themekey>
+        <themekey>property</themekey>
+        <themekey>ownership</themekey>
+        <themekey>land use</themekey>
+        <themekey>land value</themekey>
+        <themekey>value</themekey>
+        <themekey>buildings</themekey>
+        <themekey>stories</themekey>
+        <themekey>floors</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Georgia</placekey>
+        <placekey>Jackson</placekey>
+        <placekey>Jackson County</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>20304</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel_13157</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_CITY</attrlabl>
+        <attrdef>Situs city name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_ZIP</attrlabl>
+        <attrdef>Situs ZIP Code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LAND_VALUE</attrlabl>
+        <attrdef>Assessed land value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IMPR_VALUE</attrlabl>
+        <attrdef>Assessed improvement value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_VALUE</attrlabl>
+        <attrdef>Total assessed value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REC_DATE</attrlabl>
+        <attrdef>Recording date.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SALES_PRIC</attrlabl>
+        <attrdef>Sales price.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT_SIZE</attrlabl>
+        <attrdef>Lot size or area.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO_OF_UNIT</attrlabl>
+        <attrdef>Number of units.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>XCOORD</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YCOORD</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXY</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN2</attrlabl>
+        <attrdef>APN without punctuation and/or another indexing field in GIS.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_DIR</attrlabl>
+        <attrdef>Street direction.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_SF</attrlabl>
+        <attrdef>Street suffix.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STATE</attrlabl>
+        <attrdef>Situs state.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_ZIP4</attrlabl>
+        <attrdef>Situs ZIP +4.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ASSMT_YEAR</attrlabl>
+        <attrdef>Assessment year.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MKT_LAND_V</attrlabl>
+        <attrdef>Assessor market land value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MKT_IMPR_V</attrlabl>
+        <attrdef>Assessor market improvement value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_MKT_VA</attrlabl>
+        <attrdef>Total assessor market value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MKT_VAL_YR</attrlabl>
+        <attrdef>Assessor market value year.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SALES_CODE</attrlabl>
+        <attrdef>Sales price code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YEAR_BUILT</attrlabl>
+        <attrdef>Year built.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONST_TYPE</attrlabl>
+        <attrdef>Type construction.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STD_LAND_U</attrlabl>
+        <attrdef>Standardized land use code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLDG_AREA</attrlabl>
+        <attrdef>Building area.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO_OF_STOR</attrlabl>
+        <attrdef>Number of stories.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER2</attrlabl>
+        <attrdef>Additional owners.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRES2</attrlabl>
+        <attrdef>Additional owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20141103</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

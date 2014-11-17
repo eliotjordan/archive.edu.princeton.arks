@@ -1,0 +1,484 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>SanGIS</origin>
+        <pubdate>20090116</pubdate>
+        <title>San Diego County, California land parcels, 2009</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/z6/03/qz/95/z/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land parcels in San Diego County, California, 2009.</abstract>
+      <purpose>Data is generalized and created for use in regional projects.</purpose>
+      <supplinf>Please acknowledge SanGIS as a source when SanGIS data is used in the preparation of
+        reports, papers, publications, maps, and other products. Parcel Zone and Land Use codes are
+        used by County appraisers. They are not well maintained and are not considered reliable for
+        other purposes. Please use the landuse layer for this information (supplied to SanGIS by
+        SANDAG). Use the zoning layer for zoning in the County unincorporated areas. Contact the
+        appropriate city for other zoning information. Most of the parcel attributes are joined to
+        SanGIS graphics from County Assessor files. SanGIS does not enter ownership information. If
+        you detect errors in the attributes, we can pass those along to the County Assessor but
+        SanGIS cannot make the changes. Note from SanGIS: The parcel layers now include condominium
+        records. If you use the identify tool on a condo polygon you will see multiple ownership
+        records displayed for the condo owners. The parcels are also now multi-part. If a parcel is
+        split by a right-of-way for example, the two parts are linked and share attributes. SanGIS
+        notes that the original source is COGO which is a computer program that is used to calculate
+        coordinate geometry. It is used to solve the geometric problems encountered in civil
+        engineering applications including: property boundary and right of way surveys highway and
+        interchange design construction layout bridge geometry</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20090116</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-117.596180</westbc>
+        <eastbc>-116.080880</eastbc>
+        <northbc>33.505379</northbc>
+        <southbc>32.534273</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcel</themekey>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>tax</themekey>
+        <themekey>property</themekey>
+        <themekey>property maps</themekey>
+        <themekey>ownership</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>cadastre</themekey>
+        <themekey>planning</themekey>
+        <themekey>land use</themekey>
+        <themekey>zone</themekey>
+        <themekey>zones</themekey>
+        <themekey>zoning</themekey>
+        <themekey>buildings</themekey>
+        <themekey>agriculture</themekey>
+        <themekey>commercial</themekey>
+        <themekey>residential</themekey>
+        <themekey>time share</themekey>
+        <themekey>condos</themekey>
+        <themekey>condominium</themekey>
+        <themekey>industrial</themekey>
+        <themekey>industry</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>California</placekey>
+        <placekey>San Diego County</placekey>
+        <placekey>San Diego</placekey>
+      </place>
+    </keywords>
+    <accconst>IMPORTANT READ THESE TERMS CAREFULLY BEFORE USING THIS DIGITAL DATA! Data Agreement
+      and Disclaimer This data is collected from various sources and will change over time without
+      notice. In using the data, users should be aware that some of these data are generalized and
+      not parcel based, and were created for use in regional projects. While SanGIS believes the
+      data is accurate and properly functioning, SanGIS disclaims any responsibility for the
+      accuracy or correctness of the data. This data is provided on an "AS IS", "AS AVAILABLE" and
+      "WITH ALL FAULTS" basis. SanGIS makes no warranties, express or implied, including but not
+      limited to any warranties of merchantability or fitness for a particular purpose, nor shall
+      the distribution of this information constitute any warranty. In no event shall SanGIS become
+      liable to users of these data, or any other party, for any loss or damages, consequential or
+      otherwise, including but not limited to time, money, or goodwill, arising from the use,
+      operation or modification of the data. In using these data, you further agree to indemnify,
+      defend, and hold harmless SanGIS for any and all liability of any nature arising out of or
+      resulting from the lack of accuracy or correctness of the data, or the use of the data. To
+      ensure that appropriate documentation and data limitations are provided, re-distribution of
+      this data is strongly discouraged. Please acknowledge SanGIS as a source when SanGIS data are
+      used in the preparation of reports, papers, publications, maps, and other products. This
+      Agreement shall be construed in accordance with the laws of the United States and the State of
+      California. Venue shall rest solely in the County of San Diego, State of
+      California.</accconst>
+    <useconst>See Access Constraints.Data are licensed to Princeton University-affiliated persons
+      only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>SanGIS</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>5510 Overland Ave, Suite 130</address>
+          <city>San Diego</city>
+          <state>CA</state>
+          <postal>92123</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(858) 874-7000</cntvoice>
+        <cntfax>(858) 874-7002</cntfax>
+        <cntemail>webmaster@sangis.org</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <datacred>SanGIS</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{5fe7e65e-c64b-4f8f-acac-afa093253cdf}</PublishedDocID>
+  </Esri>
+  <dataqual>
+    <attracc>
+      <attraccr>+/- 10 Feet</attraccr>
+    </attracc>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>994536</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Parcels</enttypl>
+        <enttypd>All parcels in the County of San Diego, California, USA</enttypd>
+        <enttypds>SanGIS</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>LEGLDESC</attrlabl>
+        <attrdef>Legal description of parcel</attrdef>
+        <attrdefs>SanGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UNITQTY</attrlabl>
+        <attrdef>Number of dwelling units</attrdef>
+        <attrdefs>SanGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN2</attrlabl>
+        <attrdef>APN without punctuation and/or another indexing field in GIS.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_SF</attrlabl>
+        <attrdef>Street suffix.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_CITY</attrlabl>
+        <attrdef>Situs city/jurisdiction.</attrdef>
+        <attrdefs>SanGIS</attrdefs>
+        <attrdomv>
+          <udom>CB: Carlsbad CN: Unincorporated CO: Coronado CV: Chula Vista DM: Del Mar EC: El
+            Cajon EN: Encinitas ES: Escondido IB: Imperial Beach LG: Lemon Grove LM: La Mesa NC:
+            National City OC: Oceanside PW: Poway SD: San Diego SM: San Marcos SO: Solana Beach ST:
+            Santee VS: Vista</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAND_VALUE</attrlabl>
+        <attrdef>Assessed land value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IMPR_VALUE</attrlabl>
+        <attrdef>Assessed improvement value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_VALUE</attrlabl>
+        <attrdef>Total assessed value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER2</attrlabl>
+        <attrdef>Additional owners.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRES2</attrlabl>
+        <attrdef>Additional owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessor Parcel Number (APN) - 10 digit</attrdef>
+        <attrdefs>SanGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_AREA</attrlabl>
+        <attrdef>Area of feature in acres.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TAXSTAT</attrlabl>
+        <attrdef>Tax status code (N = nontaxable, T = taxable)</attrdef>
+        <attrdefs>SanGIS</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NUCLEUS_US</attrlabl>
+        <attrdef>Nucleus Use Code (Description of use of property)</attrdef>
+        <attrdefs>Assessor</attrdefs>
+        <attrdomv>
+          <udom>060 INFORMATION PARCEL- GENERIC 067 INFORMATION PARCEL-TIME SHARE 068 INFORMATION
+            PARCEL-MANUFACTURED HOME SPACE IN CO-OP 069 INFORMATION PARCEL-MOBILE HOME SPACE IN
+            RENTAL PARK 070 TIME SHARE GENERIC 090 MANUFACTURED HOME GENERIC 091 MANUFACTURED HOME
+            PROPERTY TAX IN RENTAL PARK 092 ROP PARK-HCD FEES MH CONDOS &amp; SUBDIVISIONS 093 STOCK
+            CO-OP ILT MH - YEARLY PK REPORT 094 STOCK CO-OP LPT MH - YEARLY PK REPORT 095 ROP PARK
+            PROPERTY TAXES PAID MH CONDO &amp; SUBDIVISIONS 096 MH CONVERTED TO REAL PROPERTY (CO-OP
+            PARK) 097 MH PARK CNVRTD TO REAL PROPERTY (CONDO OR SUBDV) 098 MANUFACTURED HM
+            ACCESSORIES ONLY 099 MANUFACTURED HOME ON LOT OR ACREAGE 100 VACANT RESIDENTIAL-GENERIC
+            110 SINGLE FAMILY RESIDENTIAL-GENERIC 111 SINLE FAMILY 112 SINGLE FAMILY
+            RESIDENTIAL-WITH GRANNY FLAT 113 SINGLE FAMILY RESIDENCE GATED COMMUNITY 114 SINGLE
+            FAMILY ATTACHED/PUD 115 SINGLE FAMILY DETACHED/PUD 116 SINGLE FAMILY RESIDENCE W/
+            COMMUNITY PRIVATELY SHARED WATER SYSTEM 117 SINGLE FAMILY W/AGRICULTURAL BLDG 120
+            DUPLEX-GENERIC 130 MULTIPLE 2 TO 4 UNITS-GENERIC 140 MULTIPLE 5 TO 15 UNITS-GENERIC 150
+            MULTIPLE 16 TO 60 UNITS-GENERIC 152 MULTIPLE 16 TO 60 UNITS-SENIOR HOUSING 153 MULTIPLE
+            16 TO 60 UNITS-RSTRCTD RENTS (236&amp;515) 160 MULTIPLE 61 UNITS AND UP-GENERIC 162
+            MULTIPLE 61 UNITS AND UP-SENIOR HOUSING 163 MULTI 61 UNITS AND UP-RSTRCTD RENTS
+            (236&amp;515) 170 CONDOMINIUMS AND OTHER RESIDENTAL CLASSIFICATIONS 171 CONDOMINIUMS
+            ATTACHED 5 UNITS AND ABOVE 172 CONDOMINIUMS DETACHED/PUD 173 CONDOMINIUMS 2-4 UNITS FOR
+            ENTIRE PROJECT 174 CONDOMINIUMS BEING RENTED AS APARTMENTS(LG PROJECT) 180 CO-OP GENERIC
+            182 CO-OP ON LEASED LAND 190 SPECIAL- SLIVER, SMALL PARCEL 191 COMMON AREA, RECREATION
+            FACILITY FOR DEVELOPMENT 192 PARCEL USED FOR ACCESS (DRIVEWAY FOR MULTIPLE PARCELS) 193
+            SLIVER LEFT OVER-PARCEL NON-BUILDABLE 195 MH SPACE LONG TERM LEASEHOLD/PI 200 VACANT
+            LAND COMMERCIAL 210 GENERIC COMMERCIAL OFFICE/RETAIL 1-3 STORIES 211 1 TO 3 STORY OFFICE
+            BUILDING 212 1 TO 3 STORY OFFICE/RETAIL BUILDING 213 SINGLE TENANT STAND ALONE RETAIL
+            BUILDING 214 CONVIENIENCE STORE (7/11, CIRCLE K, ETC.) 215 DEPARTMENT STORE 216 SINGLE
+            STORY STRIP RETAIL 217 COMBINATION COMMERCIAL/RESIDENTIAL BLDG 218 GARDENING/NURSERY 219
+            RETAIL CONDOMINIUM 220 GENERIC-4 AND MORE STORY OFFICE BUILDING 221 4 AND MORE STORY
+            OFFICE 222 4 OR MORE STORY RETAIL 230 REGIONAL SHOPPING CENTER 232 FACTORY OUTLET CENTER
+            240 COMMUNITY SHOPPING CENTER 250 NEIGHBORHOOD SHOPPING CENTER 251 NEIGHBORHOOD SHOPPING
+            CTR (ANCHOR WITH DRUG/GROC) 252 NEIGHBORHOOD SHOPPING CTR (NOT ANCHORED WITH DRUG/GROC)
+            260 HOTEL/MOTEL 261 HOTEL 262 RESORT HOTEL 263 SRO HOTEL 264 HOTEL-CONDOMINIUM 265
+            MOTEL-INDEPENDENT 266 MOTEL-CHAIN 267 BED &amp; BREAKFAST 270 SERVICE STATION-GENERIC
+            271 SERVICE STATION 272 SERVICE STATION W/MINI MART/RETAIL 272 SERVICE STATION -CAR WASH
+            W/MINI MART 274 MINI LUBE/OIL CHANGE 280 GENERIC-MEDICAL/DENTAL OFFICE 281 MEDICAL
+            DENTAL OFFICE 282 VETERINARY OFFICES 283 ANIMAL HOSPITAL 284 KENNELS 290 REST
+            HOME/CONVALESCENT HOSPITAL 291 COMBINATION ASSISSTED LIVING/SKILLED NURSING 292
+            CONVALESCENT HOSPITAL 293 RESTHOME 294 RETIREMENT/INDEPENDENT LIVING 300 OFFICE
+            CONDOMINIUMS 310 GARAGE PARKING LOT/USED CAR 311 PARKING LOT MINIMAL IMPROVEMENTS 312
+            PARKING STRUCTURE 320 TRAILER PARK 321 MOBILE HOME PARK--RENTAL 322 RV PARK 330
+            THEATER-GENERIC 331 MOVIE THEATER 332 MOVIE THEATER-MULTIPLEX 333 AUDITORIOUM/LIVE
+            THEATER 337 DRIVE-IN THEATER 340 BOWLING ALLEY 342 MISC. RECREATIONAL 343 GYM-FITNESS
+            CENTER 344 AMUSEMENT PARK 345 TENNIS/SWIM CLUB 346 RACE TRACK 347 PLAYING FIELD 348
+            CASINO 349 HORSE FACILITIES-RIDING STABLE 350 GENERIC-RESTAURANT/NIGHT CLUB/TAVERN 351
+            RESTAURANT-INDEPENDENT 352 RESTAURANT-CHAIN 353 NIGHT CLUB 354 BAR/TAVERN 355 FAST FOOD
+            RESTAURANT 360 CAR WASH 370 GROCERY/DRUG LARGE CHAIN GENERIC 371 GROCERY CHAIN 372 DRUG
+            STORE LARGE CHAIN 373 GROCERY INDEPENDENT 380 AUTO SALES/SERVICE AGENCY 381 NEW CAR
+            DEALERSHIP 382 USED CAR LOT 390 GENERIC-RADIO STATION /BANK/MISC 391 RADIO/TV STATION
+            MEDIA CENTER 392 BANK 397 ANTENNA/CELL SITE 400 VACANT INDUSTRIAL 410 FACTORY/LIGHT
+            MANUFACTURING 411 SINGLE TENANT INDUSTRIAL 412 MULTI-TENANT INDUSTRIAL 414 R&amp;D
+            BUILDING 415 MANUFACTURING CLEAN ROOM (ELECTRONICS) 420 FACTORY/HEAVY MANUFACTURING 430
+            WAREHOUSE-PROCESSING/STORAGE/DISTRIBUTION 432 MAJOR DISTRIBUTION CENTER 433 TANK FARM
+            440 STORAGE BULK CHEMICAL/OIL REFINERY 442 BULK STORAGE 443 LUMBERYARD 444 SELF
+            STORAGE/MINI STORAGE 450 NATURAL RESOURCES - MINING, EXTRACTIVE, PROCESSING
+            CEMENT/SILICA PRODUCTS, ROCK &amp; GRAVEL 452 LANDFILL 453 CEMENT/ROCK/GRAVEL PLANT 454
+            WINERY/BREWERY 455 PACKING COLD STORAGE 456 PRIVATE WATER COMPANIES 457 POWER PLANTS 458
+            OPEN STORAGE 460 AUTOMOTIVE REPAIR GARAGES 462 TRUCK TERMINAL 463 AUTO WRECKING YARDS
+            464 SHIPYARD, SHIP/BOAT REPAIR FACILITIES 465 AIRPLANE HANGER 470 INDUSTRIAL CONDOS 490
+            MISC INDUSTRIAL/SPECIAL LAND 500 IRRIGATED FARM VACANT WATER AVAILABLE 510 CITRUS 520
+            AVOCADO 530 VINES 532 VINEYARD 533 VINEYARD WITH WINE TASTING ROOM 540 TREES MISC (OTHER
+            THAN CITRUS OR AVOCADO) 550 LIVESTOCK 560 POULTRY 570 IRRIGATED CROPS OTHER VEGETABLE,
+            FLORAL, FEEDING (HAY OR SEED CROPS) 580 GROWING HOUSES 590 MISC. AGRICULTURAL 610 RURAL
+            LAND OTHER 620 NON-IRRIGATED 1 - 10 ACRES 630 NON-IRRIGATED 41 - 160 ACRES 640
+            NON-IRRIGATED 161 - 360 ACRES 650 NON-IRRIGATED 361 ACRES &amp; UP 700
+            INSTITUTIONAL-VACANT 710 CHURCH 720 CHURCH RECTORY, PARKING &amp; OTHER CHURCH RELATED
+            USE 730 CEMETARY 740 MAUSOLEUM 750 MORTUARY 760 PUBLIC BUILDING (SCHOOL, FIREHOUSE,
+            LIBRARY, ETC) 770 HOSPITAL 780 PRIVATE SCHOOLS &amp; FACILITIES 782 PRESCHOOL AND
+            CHILDCARE FACILITY 783 FRATERNITY/SORORITY HOUSE 784 DORMITORIES-PRIVATE 790 MISC.
+            INSTITUTIONAL-GENERIC 792 CORRECTIONAL FACILITY 800 VACANT RECREATIONAL 810 MEETING
+            HALL, GYM - GENERIC 811 MEETING HALL 812 AMPHITHEATER 813 ARENA/STADIUM 820 GOLF COURSE
+            823 DRIVING RANGE 830 MARINA DOCKS 840 RECREATIONAL CAMPS 850 NON-TAXABLE 851 MILITARY
+            BASE 852 STATE PARK 853 COUNTY PARK 854 CITY PARK 855 NATIONAL FOREST 856 WATER TANK
+            SITE 857 INDIAN RESERVATION 859 MISC NON-TAXABLE IMPROVEMENT 860 OPEN SPACE 861 OPEN
+            SPACED OWNED BY AN HOA (OR SIMILAR) 862 OPEN SPACE OWNED BY DEVELOPER 864 OPEN SPACE
+            ESMT-IN FAVOR OF GOVERNMENT 865 LAND BAND-CREDITS BEING SOLD 866 MITIGATION LAND-
+            CREDITS USED 867 STATE ASSESSED 870 AGRICULTURAL PRESERVE (NOT UNDER CONTRACT) 880
+            AGRICULTURAL PRESERVE (UNDER CONTRACT) 881 AGRICULTURAL PRESERVE WITH HOUSE 882
+            AGRICULTRAL PRESERVE AVOCADO 883 AGRICULTURAL PRESERVE CITRUS 884 AGRICULTRAL PRESERVE
+            GRAZING 885 VINEYARD UNDER CONTRACT 887 MILLS ACT (SINGLE FAM OWNER OCCUPIED) 888 MILLS
+            ACT (OTHER THAN SINGLE FAM OWNER OCCUPIED) 890 MISCELLANEOUS/SPECIAL 900 VACANT TAXABLE
+            GOVT. OWNED PROPERY 910 IMPROVED TAXABLE GOVT OWNED PROPERTY</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>NUCLEUS_ZO</attrlabl>
+        <attrdef>Nucleus Zone Code (Zoning)</attrdef>
+        <attrdefs>Assessor</attrdefs>
+        <attrdomv>
+          <udom>00 UNZONED 10 SINGLE FAMILY RESIDENTIAL 20 MINOR MULTIPLE 30 RESTRICTED MULTIPLE 40
+            MULTIPLE RESIDENTIAL 50 RESTRICTED COMMERCIAL 60 COMMERCIAL 70 INDUSTRIAL 80
+            AGRICULTURAL 90 SPECIAL AND/OR MISC.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140414</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

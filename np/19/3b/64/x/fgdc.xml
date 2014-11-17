@@ -1,0 +1,370 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>All China Marketing Research Co., Ltd.</origin>
+        <pubdate>20100331</pubdate>
+        <title>China religious sites, 2004</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/np/19/3b/64/x/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Religious sites in China with zip map from 2004 economic census.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20100331</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Publication date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>74.334602</westbc>
+        <eastbc>134.287269</eastbc>
+        <northbc>53.476133</northbc>
+        <southbc>18.789057</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>religion</themekey>
+        <themekey>religions</themekey>
+        <themekey>religious</themekey>
+        <themekey>site</themekey>
+        <themekey>sites</themekey>
+        <themekey>Buddhism</themekey>
+        <themekey>Taoism</themekey>
+        <themekey>Islam</themekey>
+        <themekey>Christianity</themekey>
+        <themekey>ownership</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2000, 2010</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Copyright by All China Marketing Research Co., Ltd. No part of this data product is allowed to be reproduced or re-distributed without permission. Data are for use by Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>All China Marketing Research Co., Ltd.</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{325b80fc-d4b2-4e2c-b427-60bc3ebb61de}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>72983</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>ChinaReligiousSites2004</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TYPE</attrlabl>
+        <attrdef>The type of religions (for reference only, not necessarily accurate)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+        <attrdomv>
+          <udom>0 - Religious Management; 1 - Buddhism; 3 - Taoism; 4 - Islam; 5 - Christianity; 9 - Others</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SITE_CH</attrlabl>
+        <attrdef>Name of the site in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SITE_EN</attrlabl>
+        <attrdef>Name of the site in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SOURCE</attrlabl>
+        <attrdef>Source of the data (1 - unit with legal status; 0 - unit without independent legal status)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONTACT_CH</attrlabl>
+        <attrdef>Name of contact person in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONTACT_EN</attrlabl>
+        <attrdef>Name of contact person in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADDR_CH</attrlabl>
+        <attrdef>Address in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ADDR_EN</attrlabl>
+        <attrdef>Address in English</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>AREACODE</attrlabl>
+        <attrdef>Area code of phone number</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TEL</attrlabl>
+        <attrdef>Phone number</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZIP2004</attrlabl>
+        <attrdef>Post code in 2004</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PRIACT_CH</attrlabl>
+        <attrdef>Primary activities in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PRIACT_EN</attrlabl>
+        <attrdef>Primary activities in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCODE</attrlabl>
+        <attrdef>Ownership code</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWN_CH</attrlabl>
+        <attrdef>Type of ownership in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWN_EN</attrlabl>
+        <attrdef>Type of ownership in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STARTYEAR</attrlabl>
+        <attrdef>Starting year</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RENUCODE</attrlabl>
+        <attrdef>Code of revenue range</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RENU_CH</attrlabl>
+        <attrdef>Revenue range in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RENU_EN</attrlabl>
+        <attrdef>Revenue range in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMPCODE</attrlabl>
+        <attrdef>Code of employee scale</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP_CH</attrlabl>
+        <attrdef>Employee scale in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>EMP_EN</attrlabl>
+        <attrdef>Employee scale in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GbCity</attrlabl>
+        <attrdef>GB code for City</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>City_CH</attrlabl>
+        <attrdef>Chinese name of City</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>City_EN</attrlabl>
+        <attrdef>English name of City</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GbProv</attrlabl>
+        <attrdef>GB code for Province</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Prov_CH</attrlabl>
+        <attrdef>Chinese name of Province</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Prov_EN</attrlabl>
+        <attrdef>English name of Province</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GBCNTY00</attrlabl>
+        <attrdef>GB code for County in 2000</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CNTY00_CH</attrlabl>
+        <attrdef>County name in Chinese in 2000</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CNTY00_EN</attrlabl>
+        <attrdef>County name in English in 2000</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GBCNTY04</attrlabl>
+        <attrdef>County code in 2004</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CNTY04_CH</attrlabl>
+        <attrdef>County Chinese name in 2004</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CNTY04_EN</attrlabl>
+        <attrdef>County English name in 2004</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GBTWP</attrlabl>
+        <attrdef>GB code for Township</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TWP_CH</attrlabl>
+        <attrdef>Township name in Chinese</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TWP_EN</attrlabl>
+        <attrdef>Township name in English</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZIP</attrlabl>
+        <attrdef>Postcode (adjusted)</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POINTX</attrlabl>
+        <attrdef>X coordinate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>POINTY</attrlabl>
+        <attrdef>Y coordinate</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140506</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are for use by Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

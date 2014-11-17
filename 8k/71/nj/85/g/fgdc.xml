@@ -1,0 +1,290 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>All China Marketing Research Co., Ltd.</origin>
+        <pubdate>20130715</pubdate>
+        <title>China township population census data, 2010</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/8k/71/nj/85/g/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Townships in China with census data, 2010.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20130715</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>74.045431</westbc>
+        <eastbc>134.575686</eastbc>
+        <northbc>53.480186</northbc>
+        <southbc>8.827980</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>township</themekey>
+        <themekey>townships</themekey>
+        <themekey>towns</themekey>
+        <themekey>cities</themekey>
+        <themekey>census</themekey>
+        <themekey>demographic</themekey>
+        <themekey>population</themekey>
+        <themekey>household</themekey>
+        <themekey>households</themekey>
+        <themekey>sex</themekey>
+        <themekey>male</themekey>
+        <themekey>female</themekey>
+        <themekey>age</themekey>
+        <themekey>age groups</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>location</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkt>None</tempkt>
+        <tempkey>2010</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Copyright by All China Marketing Research Co., Ltd. No part of this data product is
+      allowed to be reproduced or re-distributed without permission. Data are for use by Princeton
+      University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>All China Marketing Research Co., Ltd.</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{fbbb512e-d19f-485d-80ee-fe5c594eed53}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>43577</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>2010TownshipCensus</enttypl>
+        <enttypd>Point location of township</enttypd>
+        <enttypds>China Data Center</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>GBTownship</attrlabl>
+        <attrdef>Guobiao (GB) number for township.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TownshipCH</attrlabl>
+        <attrdef>Chinese name of township. </attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TownshipEN</attrlabl>
+        <attrdef>English name of township.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100001</attrlabl>
+        <attrdef>Total resident&#160;population.&#160; </attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100002</attrlabl>
+        <attrdef>Total males. </attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100003</attrlabl>
+        <attrdef>Total females.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100004</attrlabl>
+        <attrdef>Total number of family households.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100005</attrlabl>
+        <attrdef>Total population of family households.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100006</attrlabl>
+        <attrdef>Total males of family households.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100007</attrlabl>
+        <attrdef>Total females of family households.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100008</attrlabl>
+        <attrdef>Total population at age 0-14.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100009</attrlabl>
+        <attrdef>Total population at age 15-64.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100010</attrlabl>
+        <attrdef>Total population at age 65 and over.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A100011</attrlabl>
+        <attrdef>Total population of Registered Permanent Residents. </attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GbProv</attrlabl>
+        <attrdef>Two digit code of province in number.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ProvCH</attrlabl>
+        <attrdef>Chinese name of province.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ProvEN</attrlabl>
+        <attrdef>English name of province.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GbPref</attrlabl>
+        <attrdef>Four digit code of prefecture in number.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrefCH</attrlabl>
+        <attrdef>Chinese name of prefecture.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PrefEN</attrlabl>
+        <attrdef>English name of prefecture.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GbCounty</attrlabl>
+        <attrdef>Six digit code of county in number.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CountyCH</attrlabl>
+        <attrdef>Chinese name of county.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CountyEN</attrlabl>
+        <attrdef>English name of county.</attrdef>
+        <attrdefs>China Data Center</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140402</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

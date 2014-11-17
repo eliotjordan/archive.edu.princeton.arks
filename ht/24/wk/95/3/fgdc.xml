@@ -1,0 +1,2203 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20090515</CreaDate>
+    <CreaTime>15300800</CreaTime>
+    <SyncOnce>FALSE</SyncOnce>
+    <SyncDate>20090513</SyncDate>
+    <SyncTime>16082900</SyncTime>
+    <ModDate>20090515</ModDate>
+    <ModTime>15595100</ModTime>
+    <DataProperties>
+      <lineage>
+        <Process Date="20090501" Time="150151" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection C:\GISData\Asia\China\Anhui\townshipa.shp GEOGCS['GCS_Krasovsky_1940',DATUM['D_Krasovsky_1940',SPHEROID['Krasovsky_1940',6378245.0,298.3]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\GISData\Asia\China\Anhui\townshipa.shp</Process>
+        <Process Date="20090511" Time="160751" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection C:\GISData\Asia\China\Fujian\fujian_townshipa.shp GEOGCS['GCS_Krasovsky_1940',DATUM['D_Krasovsky_1940',SPHEROID['Krasovsky_1940',6378245.0,298.3]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\GISData\Asia\China\Fujian\fujian_townshipa.shp</Process>
+      </lineage>
+    </DataProperties>
+    <MetaID>{57BA9057-09D5-4417-A531-265980F67CAF}</MetaID>
+    <PublishedDocID>{5C671197-8418-45D1-A41B-882DCE933F52}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <idinfo>
+    <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+    <descript>
+      <langdata Sync="TRUE">en</langdata>
+      <abstract>China County boundaries with 1990 Census data (part a).</abstract>
+      <purpose>To make digital use of this data set.</purpose>
+    </descript>
+    <citation>
+      <citeinfo>
+        <origin>All China Marketing Research Co., Ltd.</origin>
+        <pubdate>2005</pubdate>
+        <title>China County Boundaries with Census Data (Part A), 1990</title>
+        <ftname Sync="TRUE">china_counties90a</ftname>
+        <geoform Sync="TRUE">vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/ht/24/wk/95/3/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>ground condition: 1990</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>1990</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc Sync="TRUE">73.446960</westbc>
+        <eastbc Sync="TRUE">135.085831</eastbc>
+        <northbc Sync="TRUE">53.557926</northbc>
+        <southbc Sync="TRUE">6.318641</southbc>
+      </bounding>
+      <lboundng>
+        <leftbc Sync="TRUE">73.446960</leftbc>
+        <rightbc Sync="TRUE">135.085831</rightbc>
+        <bottombc Sync="TRUE">6.318641</bottombc>
+        <topbc Sync="TRUE">53.557926</topbc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO Topic</themekt>
+        <themekey>Counties</themekey>
+        <themekey>Census</themekey>
+        <themekey>administrative regions</themekey>
+        <themekey>Demographics</themekey>
+        <themekey>boundaries</themekey>
+        <themekey>county boundaries</themekey>
+      </theme>
+      <place>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkey>2005</tempkey>
+        <tempkey>1990</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Data access and data use are copyrighted, require a license, and are restricted.</accconst>
+    <useconst>Data access and data use are copyrighted, require a license, and are restricted.</useconst>
+    <natvform Sync="TRUE">Shapefile</natvform>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>9:00am - 5:00pm, Monday - Friday</hours>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+    <dataLang>
+      <languageCode Sync="TRUE" value="en" />
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="TRUE">china_counties90a</resTitle>
+      <presForm>
+        <PresFormCd Sync="TRUE" value="005" />
+      </presForm>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd Sync="TRUE" value="001" />
+    </spatRpType>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="native">
+          <westBL Sync="TRUE">73.44696</westBL>
+          <eastBL Sync="TRUE">135.085831</eastBL>
+          <northBL Sync="TRUE">53.557926</northBL>
+          <southBL Sync="TRUE">6.318641</southBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+    <geoBox esriExtentType="decdegrees">
+      <westBL Sync="TRUE">73.44696</westBL>
+      <eastBL Sync="TRUE">135.085831</eastBL>
+      <northBL Sync="TRUE">53.557926</northBL>
+      <southBL Sync="TRUE">6.318641</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+  </dataIdInfo>
+  <metainfo>
+    <langmeta Sync="TRUE">en</langmeta>
+    <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+    <mettc Sync="TRUE">local time</mettc>
+    <metc>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Digital Map and Geospatial Information Center, The Lewis Library, Room 228, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntorgp>
+          <cntper>Tsering Wangyal Shawa</cntper>
+          <cntorg>Princeton University Library</cntorg>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>9:00am - 5:00pm, Monday - Friday</hours>
+      </cntinfo>
+    </metc>
+    <metd Sync="TRUE">20090515</metd>
+    <metextns>
+      <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <mdLang>
+    <languageCode Sync="TRUE" value="en" />
+  </mdLang>
+  <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+  <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+  <mdChar>
+    <CharSetCd Sync="TRUE" value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd Sync="TRUE" value="005" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <distinfo>
+    <resdesc Sync="TRUE">Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <transize Sync="TRUE">14.182</transize>
+          <dssize Sync="TRUE">14.182</dssize>
+        </digtinfo>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <orDesc Sync="TRUE">002</orDesc>
+          <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Asia\China\1990\china_counties90a.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </onLineSrc>
+        <transSize Sync="TRUE">14.182</transSize>
+      </distorTran>
+      <distorFormat>
+        <formatName Sync="TRUE">Shapefile</formatName>
+      </distorFormat>
+    </distributor>
+  </distInfo>
+  <spdoinfo>
+    <direct Sync="TRUE">Vector</direct>
+    <ptvctinf>
+      <esriterm Name="china_counties90a">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom Sync="TRUE">Polygon</efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">2375</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+      <sdtsterm Name="china_counties90a">
+        <sdtstype Sync="TRUE">G-polygon</sdtstype>
+        <ptvctcnt Sync="TRUE">2375</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <topLvl>
+        <TopoLevCd Sync="TRUE" value="001" />
+      </topLvl>
+      <geometObjs Name="china_counties90a">
+        <geoObjTyp>
+          <GeoObjTypCd Sync="TRUE" value="001" />
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">2375</geoObjCnt>
+      </geometObjs>
+    </VectSpatRep>
+  </spatRepInfo>
+  <eainfo>
+    <detailed Name="china_counties90a">
+      <enttyp>
+        <enttypl Sync="TRUE">china_counties90a</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">2375</enttypc>
+        <enttypd>The polygons represent China counties</enttypd>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PROVGB</attrlabl>
+        <attalias Sync="TRUE">PROVGB</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">7</attwidth>
+        <attrdef>Province GB Code</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">CITYGB</attrlabl>
+        <attalias Sync="TRUE">CITYGB</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">7</attwidth>
+        <attrdef>Prefecture City GB Code</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">CNTYGB</attrlabl>
+        <attalias Sync="TRUE">CNTYGB</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>County GB Code</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">CPROV</attrlabl>
+        <attalias Sync="TRUE">CPROV</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Province name in Chinese</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">EPROV</attrlabl>
+        <attalias Sync="TRUE">EPROV</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">16</attwidth>
+        <attrdef>Province name in English</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">CCNTY</attrlabl>
+        <attalias Sync="TRUE">CCNTY</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">24</attwidth>
+        <attrdef>County name in Chinese</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ECNTY</attrlabl>
+        <attalias Sync="TRUE">ECNTY</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">26</attwidth>
+        <attrdef>County name in English</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90001</attrlabl>
+        <attalias Sync="TRUE">A90001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The number of households (Unit: household)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90002</attrlabl>
+        <attalias Sync="TRUE">A90002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total population (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90003</attrlabl>
+        <attalias Sync="TRUE">A90003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total male population (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90004</attrlabl>
+        <attalias Sync="TRUE">A90004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total female population (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90005</attrlabl>
+        <attalias Sync="TRUE">A90005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total population of households (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90006</attrlabl>
+        <attalias Sync="TRUE">A90006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total agriculture population (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90007</attrlabl>
+        <attalias Sync="TRUE">A90007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total male population of urban city (the first measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90008</attrlabl>
+        <attalias Sync="TRUE">A90008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total female population of urban city (the first measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90009</attrlabl>
+        <attalias Sync="TRUE">A90009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total male population of all towns (the first measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90010</attrlabl>
+        <attalias Sync="TRUE">A90010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total female population of all towns (the first measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90011</attrlabl>
+        <attalias Sync="TRUE">A90011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total male population of all townships (the first measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90012</attrlabl>
+        <attalias Sync="TRUE">A90012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total female population of all townships (the first measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90013</attrlabl>
+        <attalias Sync="TRUE">A90013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total male population of urban city (the second measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90014</attrlabl>
+        <attalias Sync="TRUE">A90014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total female population of urban city (the second measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90015</attrlabl>
+        <attalias Sync="TRUE">A90015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total male population of all street committees/Juweihui) (the second measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90016</attrlabl>
+        <attalias Sync="TRUE">A90016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total female population of all street committees/Juweihui) (the second measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90017</attrlabl>
+        <attalias Sync="TRUE">A90017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total male population of all village committees/Xiangweihui (the second measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90018</attrlabl>
+        <attalias Sync="TRUE">A90018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total female population of all village committees/Xiangweihui (the second measurement) (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90019</attrlabl>
+        <attalias Sync="TRUE">A90019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 0-4 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90020</attrlabl>
+        <attalias Sync="TRUE">A90020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 0-4 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90021</attrlabl>
+        <attalias Sync="TRUE">A90021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 5-9 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90022</attrlabl>
+        <attalias Sync="TRUE">A90022</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 5-9 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90023</attrlabl>
+        <attalias Sync="TRUE">A90023</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 10-14 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90024</attrlabl>
+        <attalias Sync="TRUE">A90024</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 10-14 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90025</attrlabl>
+        <attalias Sync="TRUE">A90025</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 15-19 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90026</attrlabl>
+        <attalias Sync="TRUE">A90026</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 15-19 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90027</attrlabl>
+        <attalias Sync="TRUE">A90027</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 20-24 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90028</attrlabl>
+        <attalias Sync="TRUE">A90028</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 20-24 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90029</attrlabl>
+        <attalias Sync="TRUE">A90029</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 25-29 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90030</attrlabl>
+        <attalias Sync="TRUE">A90030</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 25-29 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90031</attrlabl>
+        <attalias Sync="TRUE">A90031</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 30-34 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90032</attrlabl>
+        <attalias Sync="TRUE">A90032</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 30-34 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90033</attrlabl>
+        <attalias Sync="TRUE">A90033</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 35-39 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90034</attrlabl>
+        <attalias Sync="TRUE">A90034</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 35-39 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90035</attrlabl>
+        <attalias Sync="TRUE">A90035</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 40-44 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90036</attrlabl>
+        <attalias Sync="TRUE">A90036</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 40-44 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90037</attrlabl>
+        <attalias Sync="TRUE">A90037</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 45-49 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90038</attrlabl>
+        <attalias Sync="TRUE">A90038</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 45-49 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90039</attrlabl>
+        <attalias Sync="TRUE">A90039</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 50-54 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90040</attrlabl>
+        <attalias Sync="TRUE">A90040</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 50-54 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90041</attrlabl>
+        <attalias Sync="TRUE">A90041</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 55-59 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90042</attrlabl>
+        <attalias Sync="TRUE">A90042</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 55-59 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90043</attrlabl>
+        <attalias Sync="TRUE">A90043</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 60-64 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90044</attrlabl>
+        <attalias Sync="TRUE">A90044</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 60-64 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90045</attrlabl>
+        <attalias Sync="TRUE">A90045</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 65-69 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90046</attrlabl>
+        <attalias Sync="TRUE">A90046</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 65-69 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90047</attrlabl>
+        <attalias Sync="TRUE">A90047</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 70-74 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90048</attrlabl>
+        <attalias Sync="TRUE">A90048</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 70-74 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90049</attrlabl>
+        <attalias Sync="TRUE">A90049</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 75-79 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90050</attrlabl>
+        <attalias Sync="TRUE">A90050</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 75-79 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90051</attrlabl>
+        <attalias Sync="TRUE">A90051</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 80-84 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90052</attrlabl>
+        <attalias Sync="TRUE">A90052</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 80-84 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90053</attrlabl>
+        <attalias Sync="TRUE">A90053</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 85-89 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90054</attrlabl>
+        <attalias Sync="TRUE">A90054</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 85-89 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90055</attrlabl>
+        <attalias Sync="TRUE">A90055</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 90-94 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90056</attrlabl>
+        <attalias Sync="TRUE">A90056</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 90-94 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90057</attrlabl>
+        <attalias Sync="TRUE">A90057</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 95-99 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90058</attrlabl>
+        <attalias Sync="TRUE">A90058</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 95-99 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90059</attrlabl>
+        <attalias Sync="TRUE">A90059</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged over 100 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90060</attrlabl>
+        <attalias Sync="TRUE">A90060</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged over 100 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90061</attrlabl>
+        <attalias Sync="TRUE">A90061</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 6 and above (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90062</attrlabl>
+        <attalias Sync="TRUE">A90062</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 6 and above (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90063</attrlabl>
+        <attalias Sync="TRUE">A90063</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population with college degree (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90064</attrlabl>
+        <attalias Sync="TRUE">A90064</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population with college degree (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90065</attrlabl>
+        <attalias Sync="TRUE">A90065</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population with junior college degree (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90066</attrlabl>
+        <attalias Sync="TRUE">A90066</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population with junior college degree (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90067</attrlabl>
+        <attalias Sync="TRUE">A90067</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population with specialized secondary school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90068</attrlabl>
+        <attalias Sync="TRUE">A90068</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population with specialized secondary school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90069</attrlabl>
+        <attalias Sync="TRUE">A90069</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population with high school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90070</attrlabl>
+        <attalias Sync="TRUE">A90070</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population with high school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90071</attrlabl>
+        <attalias Sync="TRUE">A90071</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population with middle school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90072</attrlabl>
+        <attalias Sync="TRUE">A90072</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population with middle school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90073</attrlabl>
+        <attalias Sync="TRUE">A90073</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population with primary school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90074</attrlabl>
+        <attalias Sync="TRUE">A90074</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population with primary school education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90075</attrlabl>
+        <attalias Sync="TRUE">A90075</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population of illiterate (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90076</attrlabl>
+        <attalias Sync="TRUE">A90076</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population of illiterate (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90077</attrlabl>
+        <attalias Sync="TRUE">A90077</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population aged 15 and above (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90078</attrlabl>
+        <attalias Sync="TRUE">A90078</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population aged 15 and above (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90079</attrlabl>
+        <attalias Sync="TRUE">A90079</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The illiterate or semi-literate men aged 15 and above (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90080</attrlabl>
+        <attalias Sync="TRUE">A90080</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The illiterate or semi-literate women aged 15 and above (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90081</attrlabl>
+        <attalias Sync="TRUE">A90081</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Total employment (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90082</attrlabl>
+        <attalias Sync="TRUE">A90082</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Professional/Technical personnel (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90083</attrlabl>
+        <attalias Sync="TRUE">A90083</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Administrators for government agencies, political parties, social organizations and enterprises (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90084</attrlabl>
+        <attalias Sync="TRUE">A90084</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Staffs in offices (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90085</attrlabl>
+        <attalias Sync="TRUE">A90085</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Staffs in commerce (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90086</attrlabl>
+        <attalias Sync="TRUE">A90086</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Public service workers (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90087</attrlabl>
+        <attalias Sync="TRUE">A90087</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Workers in farming, forestry, animal husbandry and fishery (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90088</attrlabl>
+        <attalias Sync="TRUE">A90088</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Workers in production and transportation (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90089</attrlabl>
+        <attalias Sync="TRUE">A90089</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Other workers not categorized (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90090</attrlabl>
+        <attalias Sync="TRUE">A90090</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Boys in schools (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90091</attrlabl>
+        <attalias Sync="TRUE">A90091</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Girls in schools (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90092</attrlabl>
+        <attalias Sync="TRUE">A90092</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Male population stayed at home for housework (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90093</attrlabl>
+        <attalias Sync="TRUE">A90093</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Female population stayed at home for housework (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90094</attrlabl>
+        <attalias Sync="TRUE">A90094</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Male population waiting for admission by schools (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90095</attrlabl>
+        <attalias Sync="TRUE">A90095</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Female population waiting for admission by schools (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90096</attrlabl>
+        <attalias Sync="TRUE">A90096</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Unemployed men looking for jobs (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90097</attrlabl>
+        <attalias Sync="TRUE">A90097</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not eployed - Unemployed women looking for jobs (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90098</attrlabl>
+        <attalias Sync="TRUE">A90098</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Male population retired (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90099</attrlabl>
+        <attalias Sync="TRUE">A90099</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Female population retired (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90100</attrlabl>
+        <attalias Sync="TRUE">A90100</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Disabled men (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90101</attrlabl>
+        <attalias Sync="TRUE">A90101</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Disabled women (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90102</attrlabl>
+        <attalias Sync="TRUE">A90102</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Other male population (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90103</attrlabl>
+        <attalias Sync="TRUE">A90103</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Not employed - Other female population (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90104</attrlabl>
+        <attalias Sync="TRUE">A90104</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Unmarried men (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90105</attrlabl>
+        <attalias Sync="TRUE">A90105</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Unmarried women (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90106</attrlabl>
+        <attalias Sync="TRUE">A90106</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Married men (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90107</attrlabl>
+        <attalias Sync="TRUE">A90107</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Married women (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90108</attrlabl>
+        <attalias Sync="TRUE">A90108</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Widowed men (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90109</attrlabl>
+        <attalias Sync="TRUE">A90109</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Widowed women (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90110</attrlabl>
+        <attalias Sync="TRUE">A90110</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Divorced men (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90111</attrlabl>
+        <attalias Sync="TRUE">A90111</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Divorced women (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90112</attrlabl>
+        <attalias Sync="TRUE">A90112</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Boys born during the first half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90113</attrlabl>
+        <attalias Sync="TRUE">A90113</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Girls born during the first half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90114</attrlabl>
+        <attalias Sync="TRUE">A90114</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Boys born during the second half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90115</attrlabl>
+        <attalias Sync="TRUE">A90115</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Girls born during the second half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90116</attrlabl>
+        <attalias Sync="TRUE">A90116</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Boys born during the first half of 1990 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90117</attrlabl>
+        <attalias Sync="TRUE">A90117</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Girls born during the first half of 1990 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90118</attrlabl>
+        <attalias Sync="TRUE">A90118</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>Women aged 15-64 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90119</attrlabl>
+        <attalias Sync="TRUE">A90119</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The average number of children born alive of each woman aged 15-64 (Unit: person)</attrdef>
+        <atnumdec Sync="TRUE">2</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90120</attrlabl>
+        <attalias Sync="TRUE">A90120</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The average number of surviving children of each woman aged 15-64 (Unit: person)</attrdef>
+        <atnumdec Sync="TRUE">2</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90121</attrlabl>
+        <attalias Sync="TRUE">A90121</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population died during the first half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90122</attrlabl>
+        <attalias Sync="TRUE">A90122</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population died during the first half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90123</attrlabl>
+        <attalias Sync="TRUE">A90123</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population died during the second half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90124</attrlabl>
+        <attalias Sync="TRUE">A90124</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population died during the second half of 1989 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90125</attrlabl>
+        <attalias Sync="TRUE">A90125</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The male population died during the first half of 1990 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90126</attrlabl>
+        <attalias Sync="TRUE">A90126</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The female population died during the first half of 1990 (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90127</attrlabl>
+        <attalias Sync="TRUE">A90127</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The immigration from the jie dao of other cities or counties of same province (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90128</attrlabl>
+        <attalias Sync="TRUE">A90128</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The immigration from the towns of other cities or counties of same province (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90129</attrlabl>
+        <attalias Sync="TRUE">A90129</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The immigration from the townships of other cities or counties of same province (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90130</attrlabl>
+        <attalias Sync="TRUE">A90130</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The immigration from the jie dao of other provinces (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90131</attrlabl>
+        <attalias Sync="TRUE">A90131</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The immigration from the towns of other provinces (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90132</attrlabl>
+        <attalias Sync="TRUE">A90132</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The immigration from the townships of other provinces (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90133</attrlabl>
+        <attalias Sync="TRUE">A90133</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">18</attwidth>
+        <attrdef>The population by street committee in counties (Unit: person)</attrdef>
+        <atnumdec Sync="TRUE">4</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90134</attrlabl>
+        <attalias Sync="TRUE">A90134</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">18</attwidth>
+        <attrdef>The population by village committee in counties (Unit: person)</attrdef>
+        <atnumdec Sync="TRUE">4</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90135</attrlabl>
+        <attalias Sync="TRUE">A90135</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">18</attwidth>
+        <attrdef>Other population in towns not counted by street committee or village committee (Unit: person)</attrdef>
+        <atnumdec Sync="TRUE">4</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90136</attrlabl>
+        <attalias Sync="TRUE">A90136</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in farming (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90137</attrlabl>
+        <attalias Sync="TRUE">A90137</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in forestry (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90138</attrlabl>
+        <attalias Sync="TRUE">A90138</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in animal husbandry (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90139</attrlabl>
+        <attalias Sync="TRUE">A90139</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in fishery (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90140</attrlabl>
+        <attalias Sync="TRUE">A90140</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in the water conservancy industry (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90141</attrlabl>
+        <attalias Sync="TRUE">A90141</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in the service sector for farming, forestry, animal husbandry, fishery and water conservancy (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90142</attrlabl>
+        <attalias Sync="TRUE">A90142</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in coal mining and dressing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90143</attrlabl>
+        <attalias Sync="TRUE">A90143</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in petroleum and natural gas extraction (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90144</attrlabl>
+        <attalias Sync="TRUE">A90144</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in ferrous ore mining and dressing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90145</attrlabl>
+        <attalias Sync="TRUE">A90145</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in non-ferrous ore mining and dressing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90146</attrlabl>
+        <attalias Sync="TRUE">A90146</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in building materials and other non-metallic ore mining and dressing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90147</attrlabl>
+        <attalias Sync="TRUE">A90147</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in salt mining (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90148</attrlabl>
+        <attalias Sync="TRUE">A90148</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in other ore mining and dressing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90149</attrlabl>
+        <attalias Sync="TRUE">A90149</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in timber and bamboo logging and transportation (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90150</attrlabl>
+        <attalias Sync="TRUE">A90150</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in production and supply of tap water (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90151</attrlabl>
+        <attalias Sync="TRUE">A90151</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in food manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90152</attrlabl>
+        <attalias Sync="TRUE">A90152</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in beverage manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90153</attrlabl>
+        <attalias Sync="TRUE">A90153</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in tobacco processing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90154</attrlabl>
+        <attalias Sync="TRUE">A90154</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in fodder (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90155</attrlabl>
+        <attalias Sync="TRUE">A90155</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in textile (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90156</attrlabl>
+        <attalias Sync="TRUE">A90156</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in sewing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90157</attrlabl>
+        <attalias Sync="TRUE">A90157</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in leather, fur and its products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90158</attrlabl>
+        <attalias Sync="TRUE">A90158</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in timber processing and bamboo, cane, coir and grass products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90159</attrlabl>
+        <attalias Sync="TRUE">A90159</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in furniture manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90160</attrlabl>
+        <attalias Sync="TRUE">A90160</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in paper-making, paper products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90161</attrlabl>
+        <attalias Sync="TRUE">A90161</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in printing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90162</attrlabl>
+        <attalias Sync="TRUE">A90162</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in cultural goods and sporting goods manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90163</attrlabl>
+        <attalias Sync="TRUE">A90163</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in art and craft goods manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90164</attrlabl>
+        <attalias Sync="TRUE">A90164</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in the production and supply of electric power, vapor and hot water (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90165</attrlabl>
+        <attalias Sync="TRUE">A90165</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in the petroleum refining industry (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90166</attrlabl>
+        <attalias Sync="TRUE">A90166</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in coking coal, coal gas and coal products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90167</attrlabl>
+        <attalias Sync="TRUE">A90167</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in chemistry (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90168</attrlabl>
+        <attalias Sync="TRUE">A90168</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in pharmaceutical manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90169</attrlabl>
+        <attalias Sync="TRUE">A90169</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in chemical fiber (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90170</attrlabl>
+        <attalias Sync="TRUE">A90170</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in rubber products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90171</attrlabl>
+        <attalias Sync="TRUE">A90171</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in plastic products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90172</attrlabl>
+        <attalias Sync="TRUE">A90172</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in building materials and other non-metallic ore products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90173</attrlabl>
+        <attalias Sync="TRUE">A90173</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in the industry of ferrous metal melting and rolling (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90174</attrlabl>
+        <attalias Sync="TRUE">A90174</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in non-ferrous metal melting and rolling (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90175</attrlabl>
+        <attalias Sync="TRUE">A90175</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in metalwork manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90176</attrlabl>
+        <attalias Sync="TRUE">A90176</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in machinery (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90177</attrlabl>
+        <attalias Sync="TRUE">A90177</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in traffic and transportation equipment manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90178</attrlabl>
+        <attalias Sync="TRUE">A90178</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in electric equipment manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90179</attrlabl>
+        <attalias Sync="TRUE">A90179</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in electronic and telecommunication equipment manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90180</attrlabl>
+        <attalias Sync="TRUE">A90180</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in measuring instruments, meters and other measuring products manufacturing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90181</attrlabl>
+        <attalias Sync="TRUE">A90181</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in other manufacturing industries (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90182</attrlabl>
+        <attalias Sync="TRUE">A90182</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in geological prospecting and exploration (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90183</attrlabl>
+        <attalias Sync="TRUE">A90183</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in civil engineering construction (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90184</attrlabl>
+        <attalias Sync="TRUE">A90184</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in installation of lines, pipelines and equipment (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90185</attrlabl>
+        <attalias Sync="TRUE">A90185</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in exploring and surveying design (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90186</attrlabl>
+        <attalias Sync="TRUE">A90186</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in transportation (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90187</attrlabl>
+        <attalias Sync="TRUE">A90187</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in post and telecommunication (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90188</attrlabl>
+        <attalias Sync="TRUE">A90188</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in commerce (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90189</attrlabl>
+        <attalias Sync="TRUE">A90189</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in catering trade (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90190</attrlabl>
+        <attalias Sync="TRUE">A90190</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in the supply and marketing of commodities (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90191</attrlabl>
+        <attalias Sync="TRUE">A90191</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in the storage of commodities (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90192</attrlabl>
+        <attalias Sync="TRUE">A90192</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in real estate management (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90193</attrlabl>
+        <attalias Sync="TRUE">A90193</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in public facilities (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90194</attrlabl>
+        <attalias Sync="TRUE">A90194</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in residential service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90195</attrlabl>
+        <attalias Sync="TRUE">A90195</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in consulting service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90196</attrlabl>
+        <attalias Sync="TRUE">A90196</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in public health service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90197</attrlabl>
+        <attalias Sync="TRUE">A90197</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in sports (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90198</attrlabl>
+        <attalias Sync="TRUE">A90198</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in social welfare service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90199</attrlabl>
+        <attalias Sync="TRUE">A90199</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in education (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90200</attrlabl>
+        <attalias Sync="TRUE">A90200</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in culture and art sector (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90201</attrlabl>
+        <attalias Sync="TRUE">A90201</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in broadcast and television sector (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90202</attrlabl>
+        <attalias Sync="TRUE">A90202</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in research agencies and institutions (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90203</attrlabl>
+        <attalias Sync="TRUE">A90203</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in comprehensive technical service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90204</attrlabl>
+        <attalias Sync="TRUE">A90204</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in financial service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90205</attrlabl>
+        <attalias Sync="TRUE">A90205</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in insurance service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90206</attrlabl>
+        <attalias Sync="TRUE">A90206</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in government agencies (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90207</attrlabl>
+        <attalias Sync="TRUE">A90207</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in political party committees (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90208</attrlabl>
+        <attalias Sync="TRUE">A90208</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in social organizations (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90209</attrlabl>
+        <attalias Sync="TRUE">A90209</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in enterprise management (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90210</attrlabl>
+        <attalias Sync="TRUE">A90210</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The employment in other industries not categorized (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90211</attrlabl>
+        <attalias Sync="TRUE">A90211</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The personnel of scientific research (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90212</attrlabl>
+        <attalias Sync="TRUE">A90212</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The technical personnel of engineering and agriculture (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90213</attrlabl>
+        <attalias Sync="TRUE">A90213</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The personnel of aircraft and shipping technology (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90214</attrlabl>
+        <attalias Sync="TRUE">A90214</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The personnel of medical and health care (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90215</attrlabl>
+        <attalias Sync="TRUE">A90215</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The personnel of business marketing (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90216</attrlabl>
+        <attalias Sync="TRUE">A90216</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The personnel of legal affair (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90217</attrlabl>
+        <attalias Sync="TRUE">A90217</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The teachers (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90218</attrlabl>
+        <attalias Sync="TRUE">A90218</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The professionals of arts and sports (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90219</attrlabl>
+        <attalias Sync="TRUE">A90219</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The professionals for culture service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90220</attrlabl>
+        <attalias Sync="TRUE">A90220</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The professionals for religious service (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90221</attrlabl>
+        <attalias Sync="TRUE">A90221</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The workers in post and telecommunication (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90222</attrlabl>
+        <attalias Sync="TRUE">A90222</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The worker in construction (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90223</attrlabl>
+        <attalias Sync="TRUE">A90223</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>The number of single-person households by city and county (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90224</attrlabl>
+        <attalias Sync="TRUE">A90224</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>The number of single-couple households by city and county (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90225</attrlabl>
+        <attalias Sync="TRUE">A90225</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <attrdef>The number of 2 generation households by city and county (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90226</attrlabl>
+        <attalias Sync="TRUE">A90226</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>The number of 3 generation households by city and county (Unit: person)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90227</attrlabl>
+        <attalias Sync="TRUE">A90227</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <attrdef>The number of domestic households with children aged 0-6 by city and county (Unit: househeld)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90228</attrlabl>
+        <attalias Sync="TRUE">A90228</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">10</attwidth>
+        <attrdef>The number of domestic households with children aged 7-14 by city and county (Unit: househeld)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90229</attrlabl>
+        <attalias Sync="TRUE">A90229</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>The number of domestic households with persons aged 60 and above by city and county (Unit: househeld)</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">A90330</attrlabl>
+        <attalias Sync="TRUE">A90330</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+        <attrdef>The number of domestic households with persons aged 65 and above by city and county (Unit: househeld)</attrdef>
+      </attr>
+    </detailed>
+  </eainfo>
+  <mdDateSt Sync="TRUE">20090515</mdDateSt>
+  <spref>
+    <horizsys>
+      <cordsysn>
+        <geogcsn Sync="TRUE">GCS_Krasovsky_1940</geogcsn>
+      </cordsysn>
+      <geograph>
+        <geogunit Sync="TRUE">Decimal degrees</geogunit>
+        <latres Sync="TRUE">0.000000</latres>
+        <longres Sync="TRUE">0.000000</longres>
+      </geograph>
+      <geodetic>
+        <horizdn Sync="TRUE">D_Krasovsky_1940</horizdn>
+        <ellips Sync="TRUE">Krasovsky_1940</ellips>
+        <semiaxis Sync="TRUE">6378245.000000</semiaxis>
+        <denflat Sync="TRUE">298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode Sync="TRUE">GCS_Krasovsky_1940</identCode>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="Image" OriginalFileName="thumbnail.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKyNa17R/D1rFd6zfQ2MNxdQ2FoHEktxfX9wH
+NvYafZwJLd399MscrxWdnBPcvHFLIsRSKRl0nngjYJJNFG5ilnCPIiMYIDGJ5grEExQmaESyY2Rm
+WMOQXXPw/wDHT4neFNe1zRre20nR/EWleGNesdHtfETWK6j5+veKdJtrxP7J1CKwnn1bwOI7jQfD
+vjLT/CWoFvFF54hPh7xJqXh/QdB1uPXPA4mz2jw7k+LzKpyzrQpyhgsM782Lxs4tYfDxjFqT5525
++VrlgpSurGtGk6tSMFom1zP+WN1d/wCXmfR118bvhvZWWk6ndatrEOl65cWltpeqN4L8bnS7ma/G
+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
+9OFcf46u/C2h+GNe8Y+LtMs7/SfBmg634kvpLjTrTUbm103R7JtY1JrKO6XAmaHTElWNZIllmt7c
+u6mNHTPEcI5XOEnho/VK0ouE60ufERnTlZz56VSrGnKpzRVSNWSco1f3j5mo8rVea31WjS2tbs7X
+V9n5No/lcuYAYJr/AEa6e60W20+LUPDmoPqdhDaabcL4jvNTvNFt9TtNUH/CG39rDpV74t0icXOv
+Gw07UZbm/sf7K13xJLeZ/wAJPCHxM+MXi/QrTwL8K08aifxDHoOma14R0uz0fQrjRo7s67rU3jD4
+h6ittpmoy+G/DuhQ6D4U8PXPiPRY9H0iw0uPQPD+gahfeVe/p9+x7feDvjJ+1/8AGTx3of7O2j+H
+vCd94T0SK+Gu/wBgXqfD/V9Hu9S0a0gXR7fT1g0bxt4hg021OveGXsRf6DAt3bR+I20zSrS18Qfs
+3Z2Nlp0P2bT7O1sbfzJJfIs7eG1h82ZzJLJ5UCInmSyMzyPt3O7FmJYk1hlnDuEnTnUq4l4ujUlN
+UpQpSw75VeDmqqqy5/ax96c6ajzOc4yb+GBOrJNK1mkrp69radLdPK1vP8dfgz/wTAvrnXp9f/aE
+1bw3/YR1WPWn+HPgG5ur608Tand6Tp9l4gk8Y+INQ0bRgum6peW19PNpeh6Wt1dSahLrFrrnhy5u
+H0a0/RP4haPceErbwbbeHfD1tP4F0WbTtE8N+AfC3h9rGw0rxdI6aZ4FuL+PSkOn2Pgi0urySC7k
+k01dP8KarH4Z8RiKGDS7rUdP+gaK9jGZFgMblGMyWSrUMHjsNLCYiWGqyp4idGpHkqR9u+af7ynz
+U53veE5x05mRGrKFSNTRyjJSXMrq62020/Q5vwbpY0Xwn4c0sfaGey0XTYbiW7h8i+ubz7LE17e6
+hHlmGpXt4093qLSO8sl9PcSTSSSu7t0lFFevCEacI04RUIQjGEIRSUYxikoxilolFJJJaJKxmFFF
+FUAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABTWVXVkdVdHUqysAysrDDKynIZWBIII
+IIODTqKAOf8ADnhPwr4Ps5tP8JeGfD/hawubua/uLHw5o2naJZ3F9cndcXs1tpltawy3dwwDTXMi
+NNKRl3Y10FFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFFABRRRQAUUUUAFFFF
+ABUE8kkSxtHF526eCORQzBkjllWNpVCxyb/K3iR1PlqIldzIu3BnooAKKKKACiiigAooooAKKKKA
+CiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooAKKKKACiiigAooooA/
+/9k=</Data>
+    </Thumbnail>
+  </Binary>
+  <dataqual>
+    <lineage />
+  </dataqual>
+</metadata>

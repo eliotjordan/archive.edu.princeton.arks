@@ -1,0 +1,465 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>U.S.G.S., Geologic Division, Energy Resource Team</origin>
+        <pubdate>1998</pubdate>
+        <title>Arabian Peninsula Political Map, 1997</title>
+        <geoform Sync="TRUE">vector digital data</geoform>
+        <serinfo>
+          <sername>World Energy Data on CD-ROM</sername>
+          <issue>Open File Report 97-470B</issue>
+        </serinfo>
+        <pubinfo>
+          <pubplace>Denver, Colorado</pubplace>
+          <publish>U.S. Geological Survey</publish>
+        </pubinfo>
+        <ftname Sync="TRUE">arabian_pol</ftname>
+        <onlink>http://map.princeton.edu/data/3j/33/33/72/3/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>
+This data set includes arcs and polygons that show the general
+location of country and/or other reference 'political' boundaries.
+</abstract>
+      <purpose>
+This data set is provided for a general reference to country
+boundaries and have no political significance.
+</purpose>
+      <supplinf>
+Portions of this database covering the coastline and country
+boundaries contain intellectual property of Environmental Systems
+Research Institute, Inc., and are used herein with permission.
+End users are permitted to use these data sets for their own
+internal use, including any derivative work, but are prohibited
+from using and redistributing these data sets individually or in
+a derivative work to third parties.  Please refer to ATTACHMENT B
+(attachb) for further information on the ESRI License Agreement.
+</supplinf>
+      <langdata Sync="TRUE">en</langdata>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>1997</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>None planned</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>32.3</westbc>
+        <eastbc>60.5</eastbc>
+        <northbc>39.3</northbc>
+        <southbc>11.3</southbc>
+      </bounding>
+      <lboundng>
+        <leftbc Sync="TRUE">-1660792.250000</leftbc>
+        <rightbc Sync="TRUE">1308055.875000</rightbc>
+        <bottombc Sync="TRUE">-1079578.875000</bottombc>
+        <topbc Sync="TRUE">1732382.375000</topbc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Political boundaries</themekey>
+        <themekey>Coastlines</themekey>
+        <themekey>Location</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Arabian Peninsula</placekey>
+        <placekey>Middle East</placekey>
+        <placekey>Bahrain</placekey>
+        <placekey>Iraq</placekey>
+        <placekey>Israel</placekey>
+        <placekey>Jordan</placekey>
+        <placekey>Kuwait</placekey>
+        <placekey>Lebanon</placekey>
+        <placekey>Oman</placekey>
+        <placekey>Qatar</placekey>
+        <placekey>Saudi Arabia</placekey>
+        <placekey>Syria</placekey>
+        <placekey>South Yemen</placekey>
+        <placekey>United Arab Emirates</placekey>
+        <placekey>Yemen</placekey>
+        <placekey>Gaza Strip</placekey>
+        <placekey>West Bank</placekey>
+      </place>
+    </keywords>
+    <accconst>
+Portions of this database covering the coastline and country
+boundaries contain intellectual property of ESRI, and are used
+herein with permission.  End users are permitted to use these
+data sets for any derivative work, but are prohibited from
+redistributing these data sets individually or in derivative work
+to third parties.  Please refer to ATTACHMENT B (attachb) for further
+information.
+</accconst>
+    <useconst>
+Since the data set is part of ESRI's intellectual property and
+are used herein with permission, please refer to ATTACHB on
+this CD-ROM for further information regarding ESRI's License
+Agreement.
+</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.- 5:00 p.m. EST, Monday-Friday</hours>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+      </cntinfo>
+    </ptcontac>
+    <datacred>
+ArcWorld 1:3 million Digital Map - Environmental Systems
+Research Institute, Inc. (ESRI)
+</datacred>
+    <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</native>
+    <natvform Sync="TRUE">Shapefile</natvform>
+  </idinfo>
+  <dataqual>
+    <logic>Original ESRI ArcWorld Digital data sets are assumed to be consistent.</logic>
+    <complete>
+Accuracy and consistency are entirely based on original ESRI
+ArcWorld Digital data.
+</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Environmental Systems Research Institute, Inc.</origin>
+            <pubdate>1996</pubdate>
+            <title>ArcWorld 1:3,000,000 Digital Map</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>3000000</srcscale>
+        <typesrc>CD-ROM</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>1996</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>ESRI 1997</srccitea>
+        <srccontr>
+The Energy Resources Program has been given permission to use,
+copy, reproduce, display, republish, and redistribute selected
+ArcWorld data via ESRI Contract No. 97R5335.  Portions of this
+graphic covering the coastline and country boundaries contain
+intellectual property of Environmental Systems Research Institute,
+Inc. (ESRI).
+</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>
+Originally, the data set was provided by ESRI in Robinson Projection.
+The countries that make up the Arabian Peninsula and the selected
+adjacent areas were clipped from the ArcWorld 1:3,000,000 Digital
+Map and reprojected to Lambert Conformal Conic projection in
+ARC/INFO.  For the ARCVIEW Project, all coverages were projected
+to Geographic Projection.
+</procdesc>
+        <srcused>ESRI 1997</srcused>
+        <procdate>1997</procdate>
+        <srcprod>CNTRY 1997</srcprod>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Richard M. Pollastro</cntper>
+              <cntorg>U.S. Geological Survey</cntorg>
+            </cntperp>
+            <cntpos>Geologist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>
+U.S. Geological Survey
+Energy Resource Team
+Denver Federal Center
+Bldg. 25  MS 939
+Box 25046
+</address>
+              <city>Denver</city>
+              <state>Colorado</state>
+              <postal>80225-0046</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>303-236-5750</cntvoice>
+            <cntfax>303-236-8822</cntfax>
+            <cntemail>pollastro@usgs.gov</cntemail>
+            <hours>9 a.m. - 5 p.m.   U.S. Rocky Mountain Time zone</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>
+Arabian Peninsula, Middle East, Bahrain, Lebanon, Israel, Iraq,
+Jordan, Kuwait, Qatar, Oman, South Yemen, Yemen, Saudi Arabia,
+United Arab Emirates, Gaza Strip, and West Bank.
+</indspref>
+    <direct Sync="TRUE">Vector</direct>
+    <ptvctinf>
+      <sdtsterm Name="arabian_pol">
+        <sdtstype Sync="TRUE">G-polygon</sdtstype>
+        <ptvctcnt Sync="TRUE">87</ptvctcnt>
+      </sdtsterm>
+      <esriterm Name="arabian_pol">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom Sync="TRUE">Polygon</efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">87</efeacnt>
+        <spindex Sync="TRUE">TRUE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>Lambert Conformal Conic</mapprojn>
+          <lambertc>
+            <stdparll>17.0</stdparll>
+            <longcm>47.0</longcm>
+            <latprjo>22.0</latprjo>
+            <feast>0.0</feast>
+            <fnorth>0.0</fnorth>
+          </lambertc>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>1.0</absres>
+            <ordres>1.0</ordres>
+          </coordrep>
+          <plandu>meters</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>Unknown</horizdn>
+        <ellips>Clarke 1866</ellips>
+        <semiaxis>6370997</semiaxis>
+        <denflat>1.0</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed Name="arabian_pol">
+      <enttyp>
+        <enttypl Sync="TRUE">arabian_pol</enttypl>
+        <enttypd>Arcs that define country boundaries as a general reference.</enttypd>
+        <enttypds>U.S. Geological Survey</enttypds>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">87</enttypc>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">AREA</attrlabl>
+        <attalias Sync="TRUE">AREA</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">12</attwidth>
+        <atnumdec Sync="TRUE">3</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PERIMETER</attrlabl>
+        <attalias Sync="TRUE">PERIMETER</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">12</attwidth>
+        <atnumdec Sync="TRUE">3</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">POL_2A_</attrlabl>
+        <attalias Sync="TRUE">POL_2A_</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">POL_2A_ID</attrlabl>
+        <attalias Sync="TRUE">POL_2A_ID</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+      </attr>
+      <attr>
+        <attrlabl>CNTRY</attrlabl>
+        <attrdef>Name of the country that polygon defines.</attrdef>
+        <attrdefs>U.S. Geological Survey</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>
+Iraq, Occupied by Israel, Kuwait, Iraq-Saudi Arabia
+Neutral Zone, United Arab Emirates, Oman, Yemen,
+Saudi Arabia, Bahrain, Qatar, Lebanon, West Bank,
+Syria, Isreal, Gaza Strip, Sea, and Unmapped Island.
+</edomv>
+            <edomvd>
+The name of the country and/or political entity that
+occupies the corresponding polygon.  Where CNTRY is equal
+to "Unmapped Island", the island name are not attributed
+for the purpose of showing that these areas are not included
+in this study.  Where CNTRY is equal to "SEA", it signifies
+the presence of open water.
+</edomvd>
+            <edomvds>U.S. Geological Survey</edomvds>
+          </edom>
+        </attrdomv>
+        <attalias Sync="TRUE">CNTRY</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">40</attwidth>
+      </attr>
+    </detailed>
+  </eainfo>
+  <metainfo>
+    <metd Sync="TRUE">20090227</metd>
+    <metrd>19980402</metrd>
+    <metc>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Digital Map and Geospatial Information Center, The Lewis Library, Room 228, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 a.m.- 5:00 p.m. EST, Monday-Friday</hours>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+      </cntinfo>
+    </metc>
+    <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+    <langmeta Sync="TRUE">en</langmeta>
+    <mettc Sync="TRUE">local time</mettc>
+    <metextns>
+      <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <Esri>
+    <MetaID>{3FA7D605-A7D7-4BD9-ACDF-A75E4DAEE56A}</MetaID>
+    <CreaDate>20090227</CreaDate>
+    <CreaTime>16364500</CreaTime>
+    <SyncOnce>FALSE</SyncOnce>
+    <SyncDate>20081202</SyncDate>
+    <SyncTime>16044500</SyncTime>
+    <ModDate>20090227</ModDate>
+    <ModTime>16362800</ModTime>
+    <PublishedDocID>{334EB275-E499-4928-92B5-F7524FD7E087}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+    <dataLang>
+      <languageCode Sync="TRUE" value="en" />
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="TRUE">arabian_pol</resTitle>
+      <presForm>
+        <PresFormCd Sync="TRUE" value="005" />
+      </presForm>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd Sync="TRUE" value="001" />
+    </spatRpType>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="native">
+          <westBL Sync="TRUE">-1660792.25</westBL>
+          <eastBL Sync="TRUE">1308055.875</eastBL>
+          <northBL Sync="TRUE">1732382.375</northBL>
+          <southBL Sync="TRUE">-1079578.875</southBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+  </dataIdInfo>
+  <mdLang>
+    <languageCode Sync="TRUE" value="en" />
+  </mdLang>
+  <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+  <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+  <mdChar>
+    <CharSetCd Sync="TRUE" value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd Sync="TRUE" value="005" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <orDesc Sync="TRUE">002</orDesc>
+          <linkage Sync="TRUE">file://\\LIB-GIS006\C$\TMP\Arabia\arabian_pol.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </onLineSrc>
+        <transSize Sync="TRUE">0.315</transSize>
+      </distorTran>
+      <distorFormat>
+        <formatName Sync="TRUE">Shapefile</formatName>
+      </distorFormat>
+    </distributor>
+  </distInfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <topLvl>
+        <TopoLevCd Sync="TRUE" value="001" />
+      </topLvl>
+      <geometObjs Name="arabian_pol">
+        <geoObjTyp>
+          <GeoObjTypCd Sync="TRUE" value="001" />
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">87</geoObjCnt>
+      </geometObjs>
+    </VectSpatRep>
+  </spatRepInfo>
+  <mdDateSt Sync="TRUE">20090227</mdDateSt>
+  <Binary>
+    <Thumbnail />
+  </Binary>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+</metadata>

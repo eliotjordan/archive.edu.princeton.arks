@@ -1,0 +1,272 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Boundary Solutions, Inc.</origin>
+        <pubdate>20091012</pubdate>
+        <title>Yolo County, California land parcels, 2009</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/6m/31/1q/76/9/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land parcels in Yolo County, California, 2009. Parcel polygons, lot lines, and right-of-way boundaries based on the county Assessor parcels.</abstract>
+      <purpose>Create base map layer of parcels and real property. For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20091012</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.422916</westbc>
+        <eastbc>-121.501107</eastbc>
+        <northbc>38.925957</northbc>
+        <southbc>38.313253</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcel</themekey>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property</themekey>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>ownership</themekey>
+        <themekey>assessor</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>California</placekey>
+        <placekey>Yolo County</placekey>
+        <placekey>Davis</placekey>
+        <placekey>Sacramento</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Yolo County GIS Cooperative</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{32002d62-ce97-45c7-b62c-881d99c694a0}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>62969</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel_06113</enttypl>
+        <enttypd>A "parcel" is an area of land in one ownership and one general use.</enttypd>
+        <enttypds>California State Board of Equalization. Assessors' Handbook Section 215.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_CITY</attrlabl>
+        <attrdef>Situs city name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_ZIP</attrlabl>
+        <attrdef>Situs ZIP Code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT_SIZE</attrlabl>
+        <attrdef>Lot size or area.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>XCOORD</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YCOORD</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXY</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MODDATE</attrlabl>
+        <attrdef>Date of modification of parcel data.</attrdef>
+        <attrdefs>Yolo County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REVDATE</attrlabl>
+        <attrdef>Date of revision of parcel data.</attrdef>
+        <attrdefs>Yolo County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAPYEAR</attrlabl>
+        <attrdef>Year(s) for which parcel data were revised.</attrdef>
+        <attrdefs>Yolo County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PARCODE</attrlabl>
+        <attrdef>Parcel code.</attrdef>
+        <attrdefs>Yolo County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT</attrlabl>
+        <attrdef>Lot number.</attrdef>
+        <attrdefs>Yolo County</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140430</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>
