@@ -1,0 +1,1905 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>ML InfoMap Pvt. Ltd.</origin>
+            <pubdate>2006</pubdate>
+            <title>Parliamentary constituency boundary of India, 1986-2001</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/qf/85/nc/93/m/content/restricted/data.zip</onlink>
+            <ftname Sync="TRUE">LOKSABHA13</ftname>
+            <pubinfo>
+               <pubplace>New Delhi, India</pubplace>
+               <publish>ML InfoMap Pvt. Ltd.</publish>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>Parliamentary constituency boundaries and five national elections data, India, 1986-2001</abstract>
+         <purpose>Map provides parliamentary constituency data in GIS map format</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <rngdates>
+               <begdate>1986</begdate>
+               <enddate>2001</enddate>
+            </rngdates>
+         </timeinfo>
+         <current>ground condition</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc>
+68.196831</westbc>
+            <eastbc>
+97.409096</eastbc>
+            <northbc>
+37.069954</northbc>
+            <southbc>
+6.767454</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">68.196831</leftbc>
+            <rightbc Sync="TRUE">97.409096</rightbc>
+            <bottombc Sync="TRUE">6.767454</bottombc>
+            <topbc Sync="TRUE">37.069954</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>Administrative and political boundaries</themekey>
+            <themekey>Parliamentary constituency</themekey>
+            <themekey>Parliamentary</themekey>
+            <themekey>Boundary</themekey>
+            <themekey>National elections</themekey>
+            <themekey>Elections</themekey>
+         </theme>
+         <place>
+            <placekey>India</placekey>
+         </place>
+         <temporal>
+            <tempkey>1986</tempkey>
+            <tempkey>1989</tempkey>
+            <tempkey>1992</tempkey>
+            <tempkey>1995</tempkey>
+            <tempkey>1998</tempkey>
+            <tempkey>2001</tempkey>
+         </temporal>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>Licensed data</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 am - 5:00 pm</hours>
+         </cntinfo>
+      </ptcontac>
+      <secinfo>
+         <secclass>Unclassified</secclass>
+      </secinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <natvform Sync="TRUE">Shapefile</natvform>
+   </idinfo>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <procdesc>Metadata imported.</procdesc>
+            <procdate>20090928</procdate>
+            <proctime>09473200</proctime>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <sdtsterm Name="LOKSABHA13">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">690</ptvctcnt>
+         </sdtsterm>
+         <esriterm Name="LOKSABHA13">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">690</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <geograph>
+            <latres>0.000000</latres>
+            <longres>0.000000</longres>
+            <geogunit>Decimal degrees</geogunit>
+         </geograph>
+         <geodetic>
+            <horizdn>D_WGS_1984</horizdn>
+            <ellips>WGS_1984</ellips>
+            <semiaxis>6378137.000000</semiaxis>
+            <denflat>298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="LOKSABHA13">
+         <enttyp>
+            <enttypl Sync="TRUE">LOKSABHA13</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">690</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl>FID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>Shape</attrlabl>
+            <attrdef>Feature geometry.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Coordinates defining the features.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>AREA</attrlabl>
+            <attrdef>Area of polygon</attrdef>
+            <attalias Sync="TRUE">AREA</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <atnumdec Sync="TRUE">6</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl>PERIMETER</attrlabl>
+            <attrdef>Perimeter of polygon</attrdef>
+            <attalias Sync="TRUE">PERIMETER</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <atnumdec Sync="TRUE">6</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LOKSAB13_</attrlabl>
+            <attalias Sync="TRUE">LOKSAB13_</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Coverage internal number</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LOKSAB13_I</attrlabl>
+            <attalias Sync="TRUE">LOKSAB13_I</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Lok Sabha identification number</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>NAME</attrlabl>
+            <attrdef>Constituency name</attrdef>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CATE</attrlabl>
+            <attalias Sync="TRUE">CATE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">5</attwidth>
+            <attrdef>Whether the state belongs to SC/CT or general</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">STATE_UT</attrlabl>
+            <attalias Sync="TRUE">STATE_UT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+            <attrdef>Name of the state</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_ELCT_13</attrlabl>
+            <attalias Sync="TRUE">M_ELCT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male electorates during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_ELCT_13</attrlabl>
+            <attalias Sync="TRUE">F_ELCT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female electorates during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_ELC_13</attrlabl>
+            <attalias Sync="TRUE">TOT_ELC_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total electorates in the 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_VOT_13</attrlabl>
+            <attalias Sync="TRUE">M_VOT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male votes polled during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_VOT_13</attrlabl>
+            <attalias Sync="TRUE">F_VOT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female votes polled during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_VOT_13</attrlabl>
+            <attalias Sync="TRUE">TOT_VOT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total votes polled during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_V_PLD_13</attrlabl>
+            <attalias Sync="TRUE">P_V_PLD_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VLD_VT_13</attrlabl>
+            <attalias Sync="TRUE">VLD_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Valid votes polled during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VT_REJ_13</attrlabl>
+            <attalias Sync="TRUE">VT_REJ_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes rejected during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_VT_RJ_13</attrlabl>
+            <attalias Sync="TRUE">P_VT_RJ_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes rejected during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MIS_VT_13</attrlabl>
+            <attalias Sync="TRUE">MIS_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Missing votes during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VOT_TEN_13</attrlabl>
+            <attalias Sync="TRUE">VOT_TEN_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">N_P_ST_13</attrlabl>
+            <attalias Sync="TRUE">N_P_ST_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Number of polling stations during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AVE_E_PS_1</attrlabl>
+            <attalias Sync="TRUE">AVE_E_PS_1</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Average of Electronic polling Station during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POL_DATE_1</attrlabl>
+            <attalias Sync="TRUE">POL_DATE_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <attrdef>Polling date of 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COU_DATE_1</attrlabl>
+            <attalias Sync="TRUE">COU_DATE_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <attrdef>Counting date of 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DEC_DATE_1</attrlabl>
+            <attalias Sync="TRUE">DEC_DATE_1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <attrdef>Result declaration date of 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_PRT_13</attrlabl>
+            <attalias Sync="TRUE">WN_PRT_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <attrdef>Winner party name during the 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_CND_13</attrlabl>
+            <attalias Sync="TRUE">WN_CND_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+            <attrdef>Winner candidate name during the 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_PT_VT_13</attrlabl>
+            <attalias Sync="TRUE">W_PT_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Winner votes polled during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_PRT_13</attrlabl>
+            <attalias Sync="TRUE">SND_PRT_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <attrdef>Second party name during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_CND_13</attrlabl>
+            <attalias Sync="TRUE">SND_CND_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+            <attrdef>Second candidate name during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">S_PT_VT_13</attrlabl>
+            <attalias Sync="TRUE">S_PT_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Second party votes polled during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_2_13</attrlabl>
+            <attalias Sync="TRUE">MRG_1_2_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin of votes between the first and second candidates during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_2_13</attrlabl>
+            <attalias Sync="TRUE">P_M_1_2_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of margin votes between the first and second candidate during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_WN_VT_13</attrlabl>
+            <attalias Sync="TRUE">P_WN_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage winner votes polled during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_SN_VT_13</attrlabl>
+            <attalias Sync="TRUE">P_SN_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage second party votes polled during 13t Lok Sabha</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_CND_13</attrlabl>
+            <attalias Sync="TRUE">TRD_CND_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+            <attrdef>Name of the candidate of the third party during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_PRT_13</attrlabl>
+            <attalias Sync="TRUE">TRD_PRT_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <attrdef>Name of the third party during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">T_PT_VT_13</attrlabl>
+            <attalias Sync="TRUE">T_PT_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total party votes during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_TD_VT_13</attrlabl>
+            <attalias Sync="TRUE">P_TD_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of total votes during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_CND_13</attrlabl>
+            <attalias Sync="TRUE">FRT_CND_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+            <attrdef>Name of the fourth candidate during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_PRT_13</attrlabl>
+            <attalias Sync="TRUE">FRT_PRT_13</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <attrdef>Name of the fourth party during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_PT_VT_13</attrlabl>
+            <attalias Sync="TRUE">F_PT_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Number of votes polled for the fourth party during the 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_VT_13</attrlabl>
+            <attalias Sync="TRUE">P_F_VT_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_4_13</attrlabl>
+            <attalias Sync="TRUE">MRG_1_4_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin of votes between first and fourth candidate during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_4_13</attrlabl>
+            <attalias Sync="TRUE">P_M_1_4_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of the margin votes between the first and second candidate during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_3_13</attrlabl>
+            <attalias Sync="TRUE">MRG_1_3_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin of votes between the first and third candidate during 13th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_3_13</attrlabl>
+            <attalias Sync="TRUE">P_M_1_3_13</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of margin votes between the first and third candidate during 13th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_ELCT_12</attrlabl>
+            <attalias Sync="TRUE">M_ELCT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male electorates during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_ELCT_12</attrlabl>
+            <attalias Sync="TRUE">F_ELCT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female electorates during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_ELC_12</attrlabl>
+            <attalias Sync="TRUE">TOT_ELC_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total electorates during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_VOT_12</attrlabl>
+            <attalias Sync="TRUE">M_VOT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male votes polled during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_VOT_12</attrlabl>
+            <attalias Sync="TRUE">F_VOT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female votes polled during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_VOT_12</attrlabl>
+            <attalias Sync="TRUE">TOT_VOT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total votes polled during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_V_PLD_12</attrlabl>
+            <attalias Sync="TRUE">P_V_PLD_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VLD_VT_12</attrlabl>
+            <attalias Sync="TRUE">VLD_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Valid votes polled during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VT_REJ_12</attrlabl>
+            <attalias Sync="TRUE">VT_REJ_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes rejected during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_VT_RJ_12</attrlabl>
+            <attalias Sync="TRUE">P_VT_RJ_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes rejected during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MIS_VT_12</attrlabl>
+            <attalias Sync="TRUE">MIS_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Missing votes during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">N_P_ST_12</attrlabl>
+            <attalias Sync="TRUE">N_P_ST_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Number of polling stations during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PS_AVG_12</attrlabl>
+            <attalias Sync="TRUE">PS_AVG_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Average of polling stations during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_PRT_12</attrlabl>
+            <attalias Sync="TRUE">WN_PRT_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">7</attwidth>
+            <attrdef>Winner party name during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_CND_12</attrlabl>
+            <attalias Sync="TRUE">WN_CND_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">42</attwidth>
+            <attrdef>Winner candidate name during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_PT_VT_12</attrlabl>
+            <attalias Sync="TRUE">W_PT_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Winner votes polled during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_WN_VT_12</attrlabl>
+            <attalias Sync="TRUE">P_WN_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage winner votes polled during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_PRT_12</attrlabl>
+            <attalias Sync="TRUE">SND_PRT_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">18</attwidth>
+            <attrdef>Second party name during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_CND_12</attrlabl>
+            <attalias Sync="TRUE">SND_CND_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">42</attwidth>
+            <attrdef>Name of candidate who appeared second during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">S_PT_VT_12</attrlabl>
+            <attalias Sync="TRUE">S_PT_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Second party votes polled during 12th Lok Sabha</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_SN_VT_12</attrlabl>
+            <attalias Sync="TRUE">P_SN_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage second party votes polled during 12th Lok Sabha</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_2_12</attrlabl>
+            <attalias Sync="TRUE">MRG_1_2_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Vote margin between first and second candidates during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_2_12</attrlabl>
+            <attalias Sync="TRUE">P_M_1_2_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of vote margin between the first and second candidates during the 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_CND_12</attrlabl>
+            <attalias Sync="TRUE">TRD_CND_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">44</attwidth>
+            <attrdef>Third party candidate</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_PRT_12</attrlabl>
+            <attalias Sync="TRUE">TRD_PRT_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+            <attrdef>Third party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">T_PT_VT_12</attrlabl>
+            <attalias Sync="TRUE">T_PT_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Third party vote during the 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_TD_VT_12</attrlabl>
+            <attalias Sync="TRUE">P_TD_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage third party votes polled during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_3_12</attrlabl>
+            <attalias Sync="TRUE">MRG_1_3_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin between the first and third candidate during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_3_12</attrlabl>
+            <attalias Sync="TRUE">P_M_1_3_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage margin of vote between first and third candidate during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_CND_12</attrlabl>
+            <attalias Sync="TRUE">FRT_CND_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">40</attwidth>
+            <attrdef>Fourth party candidate</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_PRT_12</attrlabl>
+            <attalias Sync="TRUE">FRT_PRT_12</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <attrdef>Fourth party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_PT_VT_12</attrlabl>
+            <attalias Sync="TRUE">F_PT_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Fourth party vote during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_VT_12</attrlabl>
+            <attalias Sync="TRUE">P_F_VT_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of fourth party votes polled during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_4_12</attrlabl>
+            <attalias Sync="TRUE">MRG_1_4_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin between the first and fourth candidate during 12th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_4_12</attrlabl>
+            <attalias Sync="TRUE">P_M_1_4_12</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage margin of vote between the first and fourth candidate during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_ELCT_11</attrlabl>
+            <attalias Sync="TRUE">M_ELCT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male electorates during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_ELCT_11</attrlabl>
+            <attalias Sync="TRUE">F_ELCT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female electorates during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_ELC_11</attrlabl>
+            <attalias Sync="TRUE">TOT_ELC_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total electorates during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_ELC_11</attrlabl>
+            <attalias Sync="TRUE">P_M_ELC_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage male electorates during 11th  Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_ELC_11</attrlabl>
+            <attalias Sync="TRUE">P_F_ELC_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage female electorates during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_VOT_11</attrlabl>
+            <attalias Sync="TRUE">M_VOT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male votes polled during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_VOT_11</attrlabl>
+            <attalias Sync="TRUE">F_VOT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female votes polled during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_VOT_11</attrlabl>
+            <attalias Sync="TRUE">TOT_VOT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total votes polled during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_V_PLD_11</attrlabl>
+            <attalias Sync="TRUE">P_V_PLD_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_VOT_11</attrlabl>
+            <attalias Sync="TRUE">P_M_VOT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage male votes polled during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_VOT_11</attrlabl>
+            <attalias Sync="TRUE">P_F_VOT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage female votes polled during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VLD_VT_11</attrlabl>
+            <attalias Sync="TRUE">VLD_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Valid votes polled during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VT_REJ_11</attrlabl>
+            <attalias Sync="TRUE">VT_REJ_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes rejected during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_VT_RJ_11</attrlabl>
+            <attalias Sync="TRUE">P_VT_RJ_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes rejected during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MIS_VOT_11</attrlabl>
+            <attalias Sync="TRUE">MIS_VOT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Missing votes during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">N_P_ST_11</attrlabl>
+            <attalias Sync="TRUE">N_P_ST_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Number of polling stations during 11th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PS_AVG_11</attrlabl>
+            <attalias Sync="TRUE">PS_AVG_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Average of polling stations during 11th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CND_CNS_11</attrlabl>
+            <attalias Sync="TRUE">CND_CNS_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Name of candidates of the constituency during 11th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_C_CNS_11</attrlabl>
+            <attalias Sync="TRUE">M_C_CNS_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Name of the male candidates of the constituency during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_C_CNS_11</attrlabl>
+            <attalias Sync="TRUE">F_C_CNS_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Name of the female candidates of the constituency during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_C_C_11</attrlabl>
+            <attalias Sync="TRUE">P_M_C_C_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of male candidates in the constituency during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_C_C_11</attrlabl>
+            <attalias Sync="TRUE">P_F_C_C_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of female candidates in the constituency during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_WN_CN_11</attrlabl>
+            <attalias Sync="TRUE">W_WN_CN_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Woman winning candidate during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_PRT_11</attrlabl>
+            <attalias Sync="TRUE">WN_PRT_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">5</attwidth>
+            <attrdef>Winner party during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_CND_11</attrlabl>
+            <attalias Sync="TRUE">WN_CND_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Winning candidate name during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_PT_VT_11</attrlabl>
+            <attalias Sync="TRUE">W_PT_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Winner votes polled during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_WN_VT_11</attrlabl>
+            <attalias Sync="TRUE">P_WN_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage winner votes polled during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_PRT_11</attrlabl>
+            <attalias Sync="TRUE">SND_PRT_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <attrdef>Second party name during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_CND_11</attrlabl>
+            <attalias Sync="TRUE">SND_CND_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Second party candidate during 11th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">S_PT_VT_11</attrlabl>
+            <attalias Sync="TRUE">S_PT_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Second party votes polled during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_SN_VT_11</attrlabl>
+            <attalias Sync="TRUE">P_SN_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage second party votes polled during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_2_11</attrlabl>
+            <attalias Sync="TRUE">MRG_1_2_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin of votes between first and second candidate during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_2_11</attrlabl>
+            <attalias Sync="TRUE">P_M_1_2_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of the margin between the first and second candidate during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_PRT_11</attrlabl>
+            <attalias Sync="TRUE">TRD_PRT_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+            <attrdef>Name of the third party during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_CND_11</attrlabl>
+            <attalias Sync="TRUE">TRD_CND_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Name of the candidate of the third party during 11th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">T_PT_VT_11</attrlabl>
+            <attalias Sync="TRUE">T_PT_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total party votes during 11th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_TD_VT_11</attrlabl>
+            <attalias Sync="TRUE">P_TD_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of total votes during 11th Lok Sabha elections</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MRG_1_3_11</attrlabl>
+            <attalias Sync="TRUE">MRG_1_3_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Margin of votes between the first and third candidate during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_CND_11</attrlabl>
+            <attalias Sync="TRUE">FRT_CND_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">44</attwidth>
+            <attrdef>Name of the fourth candidate during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FRT_PRT_11</attrlabl>
+            <attalias Sync="TRUE">FRT_PRT_11</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">14</attwidth>
+            <attrdef>Name of the fourth party during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_PT_VT_11</attrlabl>
+            <attalias Sync="TRUE">F_PT_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Number of votes polled for the fourth party during 11th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_VT_11</attrlabl>
+            <attalias Sync="TRUE">P_F_VT_11</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled during 11th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_ELC_10</attrlabl>
+            <attalias Sync="TRUE">TOT_ELC_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total electorates in the 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_ELCT_10</attrlabl>
+            <attalias Sync="TRUE">M_ELCT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male electorates in the 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_ELCT_10</attrlabl>
+            <attalias Sync="TRUE">F_ELCT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female electorates during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_ELC_10</attrlabl>
+            <attalias Sync="TRUE">P_M_ELC_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage male electorates during 10th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_ELC_10</attrlabl>
+            <attalias Sync="TRUE">P_F_ELC_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage female electorates during 10th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_VOT_10</attrlabl>
+            <attalias Sync="TRUE">TOT_VOT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total votes polled during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_VOT_10</attrlabl>
+            <attalias Sync="TRUE">M_VOT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male votes polled during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_VOT_10</attrlabl>
+            <attalias Sync="TRUE">F_VOT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female votes polled during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_V_PLD_10</attrlabl>
+            <attalias Sync="TRUE">P_V_PLD_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled during 10th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_VOT_10</attrlabl>
+            <attalias Sync="TRUE">P_M_VOT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage male votes polled during 10th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_VOT_10</attrlabl>
+            <attalias Sync="TRUE">P_F_VOT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage female votes polled during 10th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VLD_VT_10</attrlabl>
+            <attalias Sync="TRUE">VLD_VT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Valid votes polled during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VT_REJ_10</attrlabl>
+            <attalias Sync="TRUE">VT_REJ_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes rejected during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_VT_RJ_10</attrlabl>
+            <attalias Sync="TRUE">P_VT_RJ_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes rejected during 10th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_CND_10</attrlabl>
+            <attalias Sync="TRUE">WN_CND_10</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Winner candidate name during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_PRT_10</attrlabl>
+            <attalias Sync="TRUE">WN_PRT_10</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">5</attwidth>
+            <attrdef>Winner party name during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_PT_VT_10</attrlabl>
+            <attalias Sync="TRUE">W_PT_VT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Winner votes polled during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_WN_VT_10</attrlabl>
+            <attalias Sync="TRUE">P_WN_VT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage winner votes polled during 10th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_PRT_10</attrlabl>
+            <attalias Sync="TRUE">SND_PRT_10</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">5</attwidth>
+            <attrdef>Second party name during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">S_PT_VT_10</attrlabl>
+            <attalias Sync="TRUE">S_PT_VT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Second party votes polled during 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_SN_VT_10</attrlabl>
+            <attalias Sync="TRUE">P_SN_VT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage second party votes polled during 10th Lok Sabha</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_CN_EL_10</attrlabl>
+            <attalias Sync="TRUE">W_CN_EL_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Women candidate elected during 10th Lok Sabha</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_ELC_9</attrlabl>
+            <attalias Sync="TRUE">TOT_ELC_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total electorates in the 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_ELCT_9</attrlabl>
+            <attalias Sync="TRUE">M_ELCT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male electorates during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_ELCT_9</attrlabl>
+            <attalias Sync="TRUE">F_ELCT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female electorates during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_ELC_9</attrlabl>
+            <attalias Sync="TRUE">P_M_ELC_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage male electorates during 9th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_ELC_9</attrlabl>
+            <attalias Sync="TRUE">P_F_ELC_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage female electorates during 9th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_VOT_9</attrlabl>
+            <attalias Sync="TRUE">TOT_VOT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total votes polled during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_VOT_9</attrlabl>
+            <attalias Sync="TRUE">M_VOT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Male votes polled during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_VOT_9</attrlabl>
+            <attalias Sync="TRUE">F_VOT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Female votes polled during 9th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_VT_PLD_9</attrlabl>
+            <attalias Sync="TRUE">P_VT_PLD_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled during 9th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_VOT_9</attrlabl>
+            <attalias Sync="TRUE">P_M_VOT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage male votes polled during 9th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_F_VOT_9</attrlabl>
+            <attalias Sync="TRUE">P_F_VOT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage female votes polled during 9th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VLD_VT_9</attrlabl>
+            <attalias Sync="TRUE">VLD_VT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Valid votes polled during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">VT_REJ_9</attrlabl>
+            <attalias Sync="TRUE">VT_REJ_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Rejected votes during 9th Lok Sabha elections</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_VT_RJ_9</attrlabl>
+            <attalias Sync="TRUE">P_VT_RJ_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes rejected during 9th Lok Sabha elections</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_CND_9</attrlabl>
+            <attalias Sync="TRUE">WN_CND_9</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Winner candidate name during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WN_PRT_9</attrlabl>
+            <attalias Sync="TRUE">WN_PRT_9</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">5</attwidth>
+            <attrdef>Winner party name during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_PT_VT_9</attrlabl>
+            <attalias Sync="TRUE">W_PT_VT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Winner votes polled during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_WN_VT_9</attrlabl>
+            <attalias Sync="TRUE">P_WN_VT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage winner votes polled during 9th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SND_PRT_9</attrlabl>
+            <attalias Sync="TRUE">SND_PRT_9</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">5</attwidth>
+            <attrdef>Second party name during 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">S_PT_VT_9</attrlabl>
+            <attalias Sync="TRUE">S_PT_VT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Second party votes polled during 9th Lok Sabha election. </attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_SN_VT_9</attrlabl>
+            <attalias Sync="TRUE">P_SN_VT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage second party votes polled during 9th Lok Sabha election.</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">W_WN_CN_9</attrlabl>
+            <attalias Sync="TRUE">W_WN_CN_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Women candidate elected during 9th Lok Sabha election.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_PRT_9</attrlabl>
+            <attalias Sync="TRUE">TRD_PRT_9</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Third party during the 9th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">T_PT_VT_9</attrlabl>
+            <attalias Sync="TRUE">T_PT_VT_9</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Total votes polled for the third party during 9th Lok Sabha elections.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRD_PRT_10</attrlabl>
+            <attalias Sync="TRUE">TRD_PRT_10</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Third party during the 10th Lok Sabha election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">T_PT_VT_10</attrlabl>
+            <attalias Sync="TRUE">T_PT_VT_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total votes for the third party during 10th Lok Sabha  election</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BJP_V_P</attrlabl>
+            <attalias Sync="TRUE">BJP_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Bhartiya Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BJP_P_V_P</attrlabl>
+            <attalias Sync="TRUE">BJP_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled for Bhartiya Janata Party</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BSP_V_P</attrlabl>
+            <attalias Sync="TRUE">BSP_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Bahujan Samaj Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BSP_P_V_P</attrlabl>
+            <attalias Sync="TRUE">BSP_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Bahujan Samaj Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CPI_V_P</attrlabl>
+            <attalias Sync="TRUE">CPI_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Communist Party of India</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CPI_P_V_P</attrlabl>
+            <attalias Sync="TRUE">CPI_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Communist Party of India</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CPM_V_P</attrlabl>
+            <attalias Sync="TRUE">CPM_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Communist Party Marxist</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CPM_P_V_P</attrlabl>
+            <attalias Sync="TRUE">CPM_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Communist Party Marxist</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">INC_V_P</attrlabl>
+            <attalias Sync="TRUE">INC_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Indian National Congress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">INC_P_V_P</attrlabl>
+            <attalias Sync="TRUE">INC_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled for Indian National Congress</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">JD_V_P</attrlabl>
+            <attalias Sync="TRUE">JD_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Janata Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">JD_P_V_P</attrlabl>
+            <attalias Sync="TRUE">JD_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled for Janata Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SAP_V_P</attrlabl>
+            <attalias Sync="TRUE">SAP_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Samta Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SAP_P_V_P</attrlabl>
+            <attalias Sync="TRUE">SAP_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled for Samta Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADMK_V_P</attrlabl>
+            <attalias Sync="TRUE">ADMK_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Anna Dravida Munnetra Kazhagam</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADMK_P_V_P</attrlabl>
+            <attalias Sync="TRUE">ADMK_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Anna Dravida Munnetra Kazhagam</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DMK_V_P</attrlabl>
+            <attalias Sync="TRUE">DMK_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Dravida Munnetra Kazhagam</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DMK_P_V_P</attrlabl>
+            <attalias Sync="TRUE">DMK_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Dravida Munnetra Kazhagam</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SAD_V_P</attrlabl>
+            <attalias Sync="TRUE">SAD_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Sriomoni Akali Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SAD_P_V_P</attrlabl>
+            <attalias Sync="TRUE">SAD_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Sriomoni Akali Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SHS_V_P</attrlabl>
+            <attalias Sync="TRUE">SHS_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Shivsena party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SHS_P_V_P</attrlabl>
+            <attalias Sync="TRUE">SHS_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Shivsena party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SP_V_P</attrlabl>
+            <attalias Sync="TRUE">SP_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Sarvodaya Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SP_P_V_P</attrlabl>
+            <attalias Sync="TRUE">SP_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Sarvodaya Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TDP_V_P</attrlabl>
+            <attalias Sync="TRUE">TDP_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Telegu Desam Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TDP_P_V_P</attrlabl>
+            <attalias Sync="TRUE">TDP_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes for Telegu Desam Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TMC_V_P</attrlabl>
+            <attalias Sync="TRUE">TMC_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes for Tamil Mannila Congress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TMC_P_V</attrlabl>
+            <attalias Sync="TRUE">TMC_P_V</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes for Tamil Mannila Congress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RJD_V_P</attrlabl>
+            <attalias Sync="TRUE">RJD_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Rashtriya Janata Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RJD_P_V_P</attrlabl>
+            <attalias Sync="TRUE">RJD_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Rashtriya Janata Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">P_M_1_2_10</attrlabl>
+            <attalias Sync="TRUE">P_M_1_2_10</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of vote margins between the first and second candidate during 12th Lok Sabha election</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">S_WN_P_VT_</attrlabl>
+            <attalias Sync="TRUE">S_WN_P_VT_</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Second winning party vote</attrdef>
+            <atnumdec Sync="TRUE">2</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BJD_V_P</attrlabl>
+            <attalias Sync="TRUE">BJD_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Biju Janta Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BJD_P_V_P</attrlabl>
+            <attalias Sync="TRUE">BJD_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Biju Janta Dal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WBTC_V_P</attrlabl>
+            <attalias Sync="TRUE">WBTC_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for West Bengal Trinamool Congress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">WBTC_P_V_P</attrlabl>
+            <attalias Sync="TRUE">WBTC_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled for West Bengal Trinamool Congress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LS_V_P</attrlabl>
+            <attalias Sync="TRUE">LS_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Lok Shakti</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LS_P_V_P</attrlabl>
+            <attalias Sync="TRUE">LS_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Lok Shakti</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PMK_V_P</attrlabl>
+            <attalias Sync="TRUE">PMK_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Pattali Makkal Katchi</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PMK_P_V_P</attrlabl>
+            <attalias Sync="TRUE">PMK_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Pattali Makkal</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MDMK_V_P</attrlabl>
+            <attalias Sync="TRUE">MDMK_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Murumolarchi Dravida Munnetra Kazhgam</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MDMK_P_V_P</attrlabl>
+            <attalias Sync="TRUE">MDMK_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage votes polled for Murumolarchi Dravida Munnetra Kazhgam</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRC_V_P</attrlabl>
+            <attalias Sync="TRUE">TRC_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Tamizhaga Rajiv Congress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TRC_P_V_P</attrlabl>
+            <attalias Sync="TRUE">TRC_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Tamizhaga Rajiv Congress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RSP_V_P</attrlabl>
+            <attalias Sync="TRUE">RSP_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Revolutionary Socialist Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RSP_P_V_P</attrlabl>
+            <attalias Sync="TRUE">RSP_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Revolutionary Socialist Party</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AGP_V_P</attrlabl>
+            <attalias Sync="TRUE">AGP_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Assom Gana Parishad</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AGP_P_V_P</attrlabl>
+            <attalias Sync="TRUE">AGP_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Assom Gana Parishad</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FBL_V_P</attrlabl>
+            <attalias Sync="TRUE">FBL_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for All India Forward Block</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FBL_P_V_P</attrlabl>
+            <attalias Sync="TRUE">FBL_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for All India Forwad Block</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">JMM_V_P</attrlabl>
+            <attalias Sync="TRUE">JMM_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Votes polled for Jharkhand Mukti Morcha</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">JMM_P_V_P</attrlabl>
+            <attalias Sync="TRUE">JMM_P_V_P</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Percentage of votes polled for Jharkhand Mukti Morcha</attrdef>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize>11.070</transize>
+               <dssize Sync="TRUE">12.253</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20091014</metd>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 am - 5:00 pm</hours>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metextns>
+         <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof>ESRI Metadata Profile</metprof>
+      </metextns>
+      <langmeta Sync="TRUE">en</langmeta>
+   </metainfo>
+   <Esri>
+      <MetaID>{7DA02B9A-363C-40AF-AFC4-0E1DA8016D06}</MetaID>
+      <CreaDate>20091019</CreaDate>
+      <CreaTime>09155300</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20091014</SyncDate>
+      <SyncTime>09575900</SyncTime>
+      <ModDate>20091014</ModDate>
+      <ModTime>09581800</ModTime>
+      <PublishedDocID>{A562E46B-1955-4788-B4DC-FF60409A44F4}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">LOKSABHA13</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">68.196831</westBL>
+               <eastBL Sync="TRUE">97.409096</eastBL>
+               <northBL Sync="TRUE">37.069954</northBL>
+               <southBL Sync="TRUE">6.767454</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Asia\India\PollMap\LOKSABHA13.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">12.253</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="LOKSABHA13">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">690</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20091014</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

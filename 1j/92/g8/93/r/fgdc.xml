@@ -1,0 +1,376 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Boundary Solutions, Inc.</origin>
+        <pubdate>20080801</pubdate>
+        <title>Garfield County, Colorado land parcels, 2008</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/1j/92/g8/93/r/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land parcels in Garfield County, Colorado, 2008.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20080801</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-109.090478</westbc>
+        <eastbc>-107.013295</eastbc>
+        <northbc>40.096031</northbc>
+        <southbc>39.310254</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>parcel</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>parcels</themekey>
+        <themekey>property</themekey>
+        <themekey>ownership</themekey>
+        <themekey>land use</themekey>
+        <themekey>zoning</themekey>
+        <themekey>condos</themekey>
+        <themekey>condominium</themekey>
+        <themekey>tax</themekey>
+        <themekey>buildings</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Colorado</placekey>
+        <placekey>Garfield County</placekey>
+        <placekey>Garfield</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows 7 Version 6.1 (Build 7601) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>26019</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 UTM Zone 13N</mapprojn>
+          <transmer>
+            <sfctrmer>0.9996</sfctrmer>
+            <longcm>-105.0</longcm>
+            <latprjo>0.0</latprjo>
+            <feast>500000.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000002220024164500956</absres>
+            <ordres>0.000000002220024164500956</ordres>
+          </coordrep>
+          <plandu>meter</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel_08045</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TAX_EXEMPT</attrlabl>
+        <attrdef>Tax exemption code</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TAX_EXEM_2</attrlabl>
+        <attrdef>Tax exemption description</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CITY_CODE</attrlabl>
+        <attrdef>City code.</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CITY_NAME</attrlabl>
+        <attrdef>City name.</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CODE</attrlabl>
+        <attrdef>Zoning code</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ZONE</attrlabl>
+        <attrdef>Zoning type</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DESCRIPTIO</attrlabl>
+        <attrdef>Zoning description</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEGAL</attrlabl>
+        <attrdef>Legal description of parcel</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LANDSQFT</attrlabl>
+        <attrdef>Area of land in square feet if less than 1 acre</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SUBNAME</attrlabl>
+        <attrdef>Subdivision name</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONDONAME</attrlabl>
+        <attrdef>Condominum name</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CONDOUNIT</attrlabl>
+        <attrdef>Condo unit number</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CLASSCD1_D</attrlabl>
+        <attrdef>Land use designation 1</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CLASSCD2_D</attrlabl>
+        <attrdef>Land use designation 2</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CLASSCD3_D</attrlabl>
+        <attrdef>Land use designation 3</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CLASSCD4_D</attrlabl>
+        <attrdef>Land use designation</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CLASSCD5_D</attrlabl>
+        <attrdef>Land use designation 5</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE_1</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>Garfield County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_CITY</attrlabl>
+        <attrdef>Situs city name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT_SIZE</attrlabl>
+        <attrdef>Lot size or area.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NO_OF_UNIT</attrlabl>
+        <attrdef>Number of units.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>XCOORD</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YCOORD</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXY</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN2</attrlabl>
+        <attrdef>APN without punctuation and/or another indexing field in GIS.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_DIR</attrlabl>
+        <attrdef>Street direction.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_SF</attrlabl>
+        <attrdef>Street suffix.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRES2</attrlabl>
+        <attrdef>Additional owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140915</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,1231 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20080930</CreaDate>
+      <CreaTime>14574900</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20080429</SyncDate>
+      <SyncTime>14160300</SyncTime>
+      <ModDate>20080930</ModDate>
+      <ModTime>14514800</ModTime>
+      <Sync>FALSE</Sync>
+      <MetaID>{8FD79E72-9A37-48C0-A50D-0D4C8B91D3B7}</MetaID>
+      <PublishedDocID>{67644794-4365-4158-A11B-EE5DC3C428C5}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.0.1746</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>U.S. Hospitals represents the locations and selected attributes for hospitals included in the FY2005 edition of the American Hospital Association (AHA) Annual Survey Database.</abstract>
+         <purpose>U.S. Hospitals provides locations and extensive information about hospitals such as description, type, name, and address, number of beds, employees, patients, and emergency room visits.</purpose>
+         <supplinf>Largest scale when displaying the data: 1:100,000.</supplinf>
+      </descript>
+      <citation>
+         <citeinfo>
+            <pubdate>20080401</pubdate>
+            <title>U.S. Hospitals 2008</title>
+            <ftname Sync="TRUE">hospitals.sdc</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <edition>2008</edition>
+            <serinfo>
+               <sername>ESRI&#174; Data &amp; Maps</sername>
+               <issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+            </serinfo>
+            <pubinfo>
+               <pubplace>Redlands, California, USA</pubplace>
+               <publish>ESRI</publish>
+            </pubinfo>
+            <origin>Health Forum, L.L.C.</origin>
+            <origin>ESRI</origin>
+            <onlink>http://map.princeton.edu/data/80/49/g6/60/8/content/restricted/data.zip</onlink>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>ground condition: 2005; publication date: 2007, 20070701, 200610, 200607</current>
+         <timeinfo>
+            <mdattim>
+               <sngdate>
+                  <caldate>2005</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>2007</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>20070701</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>200610</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>200607</caldate>
+               </sngdate>
+            </mdattim>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Annually</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-165.406570</westbc>
+            <eastbc Sync="TRUE">-65.659686</eastbc>
+            <northbc Sync="TRUE">71.292578</northbc>
+            <southbc Sync="TRUE">17.970815</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-165.406570</leftbc>
+            <rightbc Sync="TRUE">-65.659686</rightbc>
+            <bottombc Sync="TRUE">17.970815</bottombc>
+            <topbc Sync="TRUE">71.292578</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>point</themekey>
+            <themekey>hospitals</themekey>
+            <themekey>services</themekey>
+            <themekey>admissions</themekey>
+            <themekey>visits</themekey>
+            <themekey>beds</themekey>
+            <themekey>Medicare</themekey>
+            <themekey>health</themekey>
+            <themekey>society</themekey>
+            <themekey>structure</themekey>
+            <themekey>location</themekey>
+         </theme>
+         <place>
+            <placekey>United States</placekey>
+            <placekey>Puerto Rico</placekey>
+            <placekt>None</placekt>
+         </place>
+         <temporal>
+            <tempkey>2005</tempkey>
+            <tempkt>None</tempkt>
+            <tempkey>2007</tempkey>
+            <tempkey>2006</tempkey>
+         </temporal>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Internal Use Only. No redistribution rights are granted by the data vendor, and the data is for the end user's own internal use only.
+
+ESRI (End Users) shall not use the Health Forum, L.L.C. Data to rank hospitals in a report card context, or be used for regulatory purposes to determine compliance, claims acceptance, or claims verification.
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+      <natvform>shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University Library</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>Princeton</city>
+               <state>New Jersey</state>
+               <postal>08540</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>Princeton</city>
+               <state>New Jersey</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20080930</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="hospitals">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Point</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">6342</efeacnt>
+            <spindex>TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+            <featdesc>U.S. Hospital</featdesc>
+         </esriterm>
+         <sdtsterm Name="hospitals">
+            <sdtstype Sync="TRUE">Entity point</sdtstype>
+            <ptvctcnt Sync="TRUE">6342</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="hospitals">
+         <enttyp>
+            <enttypl Sync="TRUE">hospitals</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">6342</enttypc>
+            <enttypd>The points represent locations and selected attributes for U.S. hospitals included in the FY2005 edition of the American Hospital Association (AHA) Annual Survey Database.</enttypd>
+            <enttypds>Health Forum, L.L.C.</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">ObjectID</attrlabl>
+            <attalias Sync="TRUE">ObjectID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AHA_ID</attrlabl>
+            <attalias Sync="TRUE">AHA_ID</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">39</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The American Hospital Association (AHA) identification number. The AHA region code is in position 1-4, AHA state code in position 5-6, and hospital number in position 7-10.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <codesetd>
+                  <codesetn>AHA Identification Number</codesetn>
+                  <codesets>American Hospital Association</codesets>
+               </codesetd>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">START_DATE</attrlabl>
+            <attalias Sync="TRUE">START_DATE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The beginning of the reporting period [MM\DD\YYYY].</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Dates for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">END_DATE</attrlabl>
+            <attalias Sync="TRUE">END_DATE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">44</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The end of the reporting period [MM\DD\YYYY].</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Dates for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADMIN_CODE</attrlabl>
+            <attalias Sync="TRUE">ADMIN_CODE</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">9</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The control code for the type of organization responsible for establishing policy concerning overall operation of the hospital.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>12</edomv>
+                  <edomvd>State.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>13</edomv>
+                  <edomvd>County.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>14</edomv>
+                  <edomvd>City.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>15</edomv>
+                  <edomvd>City-County.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>16</edomv>
+                  <edomvd>Hospital district or authority.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>21</edomv>
+                  <edomvd>Church operated.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>23</edomv>
+                  <edomvd>Other not-for-profit.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>31</edomv>
+                  <edomvd>Individual.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>32</edomv>
+                  <edomvd>Partnership.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>33</edomv>
+                  <edomvd>Corporation.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>41</edomv>
+                  <edomvd>U.S. Air Force.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>42</edomv>
+                  <edomvd>U.S. Army.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>43</edomv>
+                  <edomvd>U.S. Navy.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>44</edomv>
+                  <edomvd>Public Health Service other than 47.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>45</edomv>
+                  <edomvd>Veterans Affairs.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>47</edomv>
+                  <edomvd>Public Health Service Indian Service.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>48</edomv>
+                  <edomvd>Department of Justice.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADMIN_DESC</attrlabl>
+            <attalias Sync="TRUE">ADMIN_DESC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdomv>
+               <edom>
+                  <edomv>Government, Nonfederal: State, County, City, City-county, Hospital district or authority. Nongovernment, not-for-profit: Church operated, Other not-for-profit. Investor-owned (for-profit): Individual, Partnership, Corporation. Government, federal: U.S. Air Force, U.S. Army, U.S. Navy, Public Health Service other than Public Health Service Indian Service, Veterans Affairs, Public Health Service Indian Service, Department of Justice.</edomv>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+                  <edomvd>The control code description for the type of organization responsible for establishing policy concerning overall operation of the hospitals.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdef>The control code description for the type of organization responsible for establishing policy concerning overall operation of the hospital.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TYPE_CODE</attrlabl>
+            <attalias Sync="TRUE">TYPE_CODE</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">9</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdomv>
+               <edom>
+                  <edomv>10</edomv>
+                  <edomvd>General medical and surgical.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>11</edomv>
+                  <edomvd>Hospital unit of an institution (prison hospital, college infirmary, etc.).</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>12</edomv>
+                  <edomvd>Hospital unit within an institution for the mentally retarded.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>13</edomv>
+                  <edomvd>Surgical.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>22</edomv>
+                  <edomvd>Psychiatric.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>33</edomv>
+                  <edomvd>Tuberculosis and other respiratory diseases.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>41</edomv>
+                  <edomvd>Cancer.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>42</edomv>
+                  <edomvd>Heart.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>44</edomv>
+                  <edomvd>Obstetrics and gynecology.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>45</edomv>
+                  <edomvd>Eye, ear, nose and throat.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>46</edomv>
+                  <edomvd>Rehabilitation.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>47</edomv>
+                  <edomvd>Orthopedic.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>48</edomv>
+                  <edomvd>Chronic disease.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>49</edomv>
+                  <edomvd>Other specialty treatment.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>50</edomv>
+                  <edomvd>Children's general medical and surgical.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>52</edomv>
+                  <edomvd>Children's psychiatric.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>56</edomv>
+                  <edomvd>Children's rehabilitation.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>57</edomv>
+                  <edomvd>Children's orthopedic.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>58</edomv>
+                  <edomvd>Children's chronic disease.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>59</edomv>
+                  <edomvd>Children's other specialty.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>62</edomv>
+                  <edomvd>Institution for mental retardation.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>80</edomv>
+                  <edomvd>Acute long-term care.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>82</edomv>
+                  <edomvd>Alcoholism and other chemical dependency.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+               <edom>
+                  <edomv>90</edomv>
+                  <edomvd>Children's acute long-term care.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdef>The service code for the category best describing the type of service provided to the majority of admissions.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TYPE_DESC</attrlabl>
+            <attalias Sync="TRUE">TYPE_DESC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdomv>
+               <edom>
+                  <edomv>The service code description.</edomv>
+                  <edomvd>The service code description for the category best describing the type of service provided to the majority of admissions.</edomvd>
+                  <edomvds>Health Forum, L.L.C.</edomvds>
+               </edom>
+            </attrdomv>
+            <attrdef>The service code description for the category best describing the type of service provided to the majority of admissions.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BEDS</attrlabl>
+            <attalias Sync="TRUE">BEDS</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">6</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The calculated hospital unit beds set up and staffed (total beds).</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Numbers for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">EMPLOYEES</attrlabl>
+            <attalias Sync="TRUE">EMPLOYEES</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">6</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The full-time personnel or calculated full-time equivalent. [All full-time equivalent personnel values are calculated by adding full-time personnel to 0.5 multiplied by the related part-time personnel.]</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Numbers for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME</attrlabl>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">35</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The hospital name.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Names for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADDRESS</attrlabl>
+            <attalias Sync="TRUE">ADDRESS</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">32</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The street address.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Addresses for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CITY</attrlabl>
+            <attalias Sync="TRUE">CITY</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">23</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The city name.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Names for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ST_ABREV</attrlabl>
+            <attalias Sync="TRUE">ST_ABREV</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">41</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The two-letter abbreviation for the state.</attrdef>
+            <attrdefs>Department of Commerce, National Institute of Standards and Technology</attrdefs>
+            <attrdomv>
+               <codesetd>
+                  <codesetn>Federal Information Processing Standards 5&#8211;2</codesetn>
+                  <codesets>National Institute of Standards and Technology</codesets>
+               </codesetd>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ZIP_CODE</attrlabl>
+            <attalias Sync="TRUE">ZIP_CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">26</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The ZIP Code.</attrdef>
+            <attrdefs>United States Postal Service</attrdefs>
+            <attrdomv>
+               <codesetd>
+                  <codesetn>USPS National 5-Digit ZIP + 4 Code and Post Office Directory</codesetn>
+                  <codesets>United States Postal Service</codesets>
+               </codesetd>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MEDICARE</attrlabl>
+            <attalias Sync="TRUE">MEDICARE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">46</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The Medicare Provider Identifier, a 6-digit number to match Health Care Financing Administration (HCFA) files.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Codes for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SYS_CODE</attrlabl>
+            <attalias Sync="TRUE">SYS_CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">32</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The system identifier from membership.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Codes for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SYS_NAME</attrlabl>
+            <attalias Sync="TRUE">SYS_NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">31</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The system name from membership.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Names for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HSA_CODE</attrlabl>
+            <attalias Sync="TRUE">HSA_CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">36</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The Health Service Area (HSA) code.  Local health care markets for community-based inpatient care derived by researchers at Dartmouth Medical School for the Dartmouth Atlas of Health Care from a national patient origin study.  Each HSA is a cluster of contiguous Zip Codes, the residents of which predominantly use one or more hospitals within the HSA.  3,436 discrete HSAs have been defined.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <codesetd>
+                  <codesetn>Dartmouth Atlas of Health Care</codesetn>
+                  <codesets>Dartmouth Medical School</codesets>
+               </codesetd>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HRR_CODE</attrlabl>
+            <attalias Sync="TRUE">HRR_CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">36</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The Health Referral Region (HRR) code.  Regional health care markets for tertiary medical care.  Hospital referral regions were defined in the Dartmouth Atlas of Health Care by documenting where residents of hospital service areas received major cardiovascular surgical procedures and neurosurgery.  Using these two services as markers for tertiary care, the 3,436 hospital service areas were aggregated into 306 hospital referral regions.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <codesetd>
+                  <codesetn>Dartmouth Atlas of Health Care</codesetn>
+                  <codesets>Dartmouth Medical School</codesets>
+               </codesetd>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOTAL_ADM</attrlabl>
+            <attalias Sync="TRUE">TOTAL_ADM</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">6</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The total facility (hospital) admissions.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Numbers for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">INPATIENT</attrlabl>
+            <attalias Sync="TRUE">INPATIENT</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">6</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The total inpatient (hospital) admissions.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Numbers for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">OUTPATIENT</attrlabl>
+            <attalias Sync="TRUE">OUTPATIENT</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">6</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The total outpatient (hospital) visits.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Numbers for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">EMERG_RM</attrlabl>
+            <attalias Sync="TRUE">EMERG_RM</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">6</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>The total emergency room (hospital) visits.</attrdef>
+            <attrdefs>Health Forum, L.L.C.</attrdefs>
+            <attrdomv>
+               <udom>Numbers for the features.</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+   </eainfo>
+   <dataqual>
+      <lineage>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>Health Forum, L.L.C.</origin>
+                  <title>American Hospital Association Annual Survey Database</title>
+                  <edition>Fiscal Year 2005</edition>
+                  <serinfo>
+                     <sername>American Hospital Association Annual Survey Database&#8482;</sername>
+                     <issue>FY2005 (2007 Edition)</issue>
+                  </serinfo>
+                  <pubinfo>
+                     <publish>Health Forum, L.L.C.</publish>
+                     <pubplace>Chicago, Illinois, USA</pubplace>
+                  </pubinfo>
+                  <othercit>1) This is a custom extract from the American Hospital Association (AHA) Annual Survey Database.  2) Health Forum, L.L.C. an American Hospital Association Company</othercit>
+                  <pubdate>2007</pubdate>
+                  <geoform>tabular digital data</geoform>
+               </citeinfo>
+            </srccite>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <mdattim>
+                     <sngdate>
+                        <caldate>2005</caldate>
+                     </sngdate>
+                     <sngdate>
+                        <caldate>2007</caldate>
+                     </sngdate>
+                  </mdattim>
+               </timeinfo>
+               <srccurr>ground condition: 2005; publication date: 2007</srccurr>
+            </srctime>
+            <srccitea>Health Forum FY2005</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <procstep>
+            <procsv>ArcView&#174; GIS 3, ArcGIS&#174; 9, ArcSDE&#174;, Visual FoxPro&#174;</procsv>
+            <procdesc>The following steps were performed by ESRI: Received an Excel file from Health Forum, L.L.C. Converted the file to dBASE&#174; (.dbf) and renamed the attributes. Removed features not in the fifty United States, District of Columbia, and Puerto Rico. Used the Business Analyst 2007 Update USA Geocoding Service to geocode the file using the address information included. Created a point shapefile from merging: 1) the locations from geocoding that matched to an address point or street address, and 2) the locations from the latitude/longitude values included in the Excel file when the address could only be geocoded using the ZIP Code or city value. Added description values for ADMIN_DESC and TYPE_DESC attributes using the American Hospital Association Annual Survey Database documentation. Converted the data set to SDC. Created ArcGIS&#174; layer file (.lyr), projection file (.prj), and spatial indices.</procdesc>
+            <procdate>20070808</procdate>
+            <srcused>Health Forum FY2005</srcused>
+            <srcused>ArcGIS 9.2 Business Analyst 2007 Update USA Geocoding Service with Tele Atlas</srcused>
+         </procstep>
+         <srcinfo>
+            <srccontr>Attribute and geospatial data</srccontr>
+            <srccite>
+               <citeinfo>
+                  <pubinfo>
+                     <pubplace>Redlands, California, USA</pubplace>
+                     <publish>ESRI</publish>
+                  </pubinfo>
+                  <origin>ESRI</origin>
+                  <title>ArcGIS&#174; 9.2 Business Analyst 2007 Update - USA Geocoding Service locator</title>
+                  <pubdate>20070701</pubdate>
+                  <geoform>vector digital data</geoform>
+                  <onlink>http://www.esri.com</onlink>
+                  <onlink>http://www.teleatlas.com</onlink>
+                  <othercit>ArcGIS 9.2 Business Analyst 2007 Update - USA Geocoding Service locator uses street-level data from Tele Atlas&#174; Address Points v. 8.3 (October 2006) and Dynamap&#174;/Transportation v. 8.2 (July 2006) in the geocoding process.</othercit>
+               </citeinfo>
+            </srccite>
+            <srccitea>ArcGIS 9.2 Business Analyst 2007 Update USA Geocoding Service with Tele Atlas</srccitea>
+            <srctime>
+               <timeinfo>
+                  <mdattim>
+                     <sngdate>
+                        <caldate>20070701</caldate>
+                     </sngdate>
+                     <sngdate>
+                        <caldate>200610</caldate>
+                     </sngdate>
+                     <sngdate>
+                        <caldate>200607</caldate>
+                     </sngdate>
+                  </mdattim>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <typesrc>DVD&#8211;ROM</typesrc>
+         </srcinfo>
+      </lineage>
+      <logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE&#174; to verify and validate the geometry.</logic>
+      <complete>If a hospital did not respond to the survey, the information was obtained from previously reported data.
+
+After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+      <posacc>
+         <horizpa>
+            <horizpar>The positional accuracy is not known.</horizpar>
+         </horizpa>
+      </posacc>
+   </dataqual>
+   <mdDateSt Sync="TRUE">20080930</mdDateSt>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.3.0.1746</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle>U.S. Hospitals</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+         <resEd>2008</resEd>
+         <resEdDate>20080401</resEdDate>
+         <resRefDate>
+            <refDate>20070808</refDate>
+            <refDateType>
+               <DateTypCd value="001" />
+            </refDateType>
+         </resRefDate>
+         <citRespParty>
+            <rpIndName>Data Team</rpIndName>
+            <rpOrgName>ESRI</rpOrgName>
+            <rpPosName>Data Team</rpPosName>
+            <role>
+               <RoleCd value="007" />
+            </role>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>380 New York Street</delPoint>
+                  <city>Redlands</city>
+                  <adminArea>California</adminArea>
+                  <postCode>92373-8100</postCode>
+                  <eMailAdd>info@esri.com</eMailAdd>
+                  <country>us</country>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>909-793-2853</voiceNum>
+                  <faxNum>909-793-5953</faxNum>
+               </cntPhone>
+            </rpCntInfo>
+         </citRespParty>
+         <resRefDate>
+            <refDate>20080401</refDate>
+            <refDateType>
+               <DateTypCd value="002" />
+            </refDateType>
+         </resRefDate>
+         <citRespParty>
+            <rpOrgName>Health Forum, L.L.C.</rpOrgName>
+            <rpCntInfo>
+               <cntAddress>
+                  <city>Chicago</city>
+                  <adminArea>Illinois</adminArea>
+                  <country>us</country>
+               </cntAddress>
+            </rpCntInfo>
+            <role>
+               <RoleCd value="006" />
+            </role>
+         </citRespParty>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">-165.40657</westBL>
+               <eastBL Sync="TRUE">-65.659686</eastBL>
+               <northBL Sync="TRUE">71.292578</northBL>
+               <southBL Sync="TRUE">17.970815</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+         <tempEle>
+            <TempExtent>
+               <exTemp>
+                  <TM_GeometricPrimitive>
+                     <TM_Period>
+                        <begin>2005</begin>
+                        <end>20070701</end>
+                     </TM_Period>
+                  </TM_GeometricPrimitive>
+               </exTemp>
+            </TempExtent>
+         </tempEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-165.40657</westBL>
+         <eastBL Sync="TRUE">-65.659686</eastBL>
+         <northBL Sync="TRUE">71.292578</northBL>
+         <southBL Sync="TRUE">17.970815</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+      <idAbs>U.S. Hospitals represents the locations and selected attributes for hospitals included in the FY2005 edition of the American Hospital Association (AHA) Annual Survey Database.</idAbs>
+      <resConst>
+         <Consts>
+            <useLimit>See legal constraints.</useLimit>
+         </Consts>
+         <LegConsts>
+            <accessConsts>
+               <RestrictCd value="005" />
+            </accessConsts>
+            <othConsts>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Internal Use Only. No redistribution rights are granted by the data vendor, and the data is for the end user's own internal use only.
+
+ESRI (End Users) shall not use the Health Forum, L.L.C. Data to rank hospitals in a report card context, or be used for regulatory purposes to determine compliance, claims acceptance, or claims verification.
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</othConsts>
+            <useConsts>
+               <RestrictCd value="008" />
+            </useConsts>
+         </LegConsts>
+      </resConst>
+      <dataScale>
+         <equScale>
+            <rfDenom>100000</rfDenom>
+         </equScale>
+      </dataScale>
+      <descKeys KeyTypCd="005">
+         <keyTyp>
+            <KeyTypCd value="005" />
+         </keyTyp>
+         <keyword>point, hospitals, services, admissions, visits, beds, Medicare, health, society, structure, location</keyword>
+      </descKeys>
+      <descKeys KeyTypCd="002">
+         <keyTyp>
+            <KeyTypCd value="002" />
+         </keyTyp>
+         <keyword>United States, Puerto Rico</keyword>
+      </descKeys>
+      <descKeys KeyTypCd="004">
+         <keyTyp>
+            <KeyTypCd value="004" />
+         </keyTyp>
+         <keyword>2005, 2007, 2006</keyword>
+      </descKeys>
+      <tpCat>
+         <TopicCatCd value="016" />
+      </tpCat>
+      <tpCat>
+         <TopicCatCd value="017" />
+      </tpCat>
+      <tpCat>
+         <TopicCatCd value="009" />
+      </tpCat>
+      <tpCat>
+         <TopicCatCd value="013" />
+      </tpCat>
+      <resMaint>
+         <maintFreq>
+            <MaintFreqCd value="008" />
+         </maintFreq>
+      </resMaint>
+      <idPoC Sync="TRUE">
+         <rpIndName Sync="TRUE">Data Team</rpIndName>
+         <rpOrgName Sync="TRUE">ESRI</rpOrgName>
+         <rpPosName Sync="TRUE">Data Team</rpPosName>
+         <rpCntInfo>
+            <cntPhone>
+               <voiceNum Sync="TRUE">909-793-2853</voiceNum>
+               <faxNum Sync="TRUE">909-793-5953</faxNum>
+            </cntPhone>
+            <cntAddress>
+               <delPoint Sync="TRUE">380 New York Street</delPoint>
+               <city Sync="TRUE">Redlands</city>
+               <adminArea Sync="TRUE">California</adminArea>
+               <postCode Sync="TRUE">92373-8100</postCode>
+               <country Sync="TRUE">us</country>
+               <eMailAdd Sync="TRUE">info@esri.com</eMailAdd>
+            </cntAddress>
+         </rpCntInfo>
+         <role>
+            <RoleCd Sync="TRUE" value="007" />
+         </role>
+      </idPoC>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc>003</orDesc>
+               <linkage Sync="TRUE">file://</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.851</transSize>
+            <offLineMed>
+               <medName>
+                  <MedNameCd value="003" />
+               </medName>
+            </offLineMed>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">SDC Feature Database</formatName>
+         </distorFormat>
+         <distorCont>
+            <rpOrgName>ESRI; ESRI International Distributors</rpOrgName>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>380 New York Street</delPoint>
+                  <city>Redlands</city>
+                  <adminArea>California</adminArea>
+                  <postCode>92373-8100</postCode>
+                  <country>us</country>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>800-447-9778</voiceNum>
+               </cntPhone>
+            </rpCntInfo>
+            <role>
+               <RoleCd value="005" />
+            </role>
+         </distorCont>
+         <distorOrdPrc>
+            <ordInstr>ESRI Data &amp; Maps is available only as part of ESRI&#174; software.
+
+In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.</ordInstr>
+            <resFees>Software purchase price. ESRI Data &amp; Maps is available only as part of ESRI&#174; software. To use this data requires software that supports SDC files.</resFees>
+         </distorOrdPrc>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="hospitals">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="004" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">6342</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdContact>
+      <rpIndName>Data Team</rpIndName>
+      <rpOrgName>ESRI</rpOrgName>
+      <rpPosName>Data Team</rpPosName>
+      <rpCntInfo>
+         <cntAddress>
+            <delPoint>380 New York Street</delPoint>
+            <city>Redlands</city>
+            <adminArea>California</adminArea>
+            <postCode>92373-8100</postCode>
+            <eMailAdd>info@esri.com</eMailAdd>
+            <country>us</country>
+         </cntAddress>
+         <cntPhone>
+            <voiceNum>909-793-2853</voiceNum>
+            <faxNum>909-793-5953</faxNum>
+         </cntPhone>
+      </rpCntInfo>
+      <role>
+         <RoleCd value="010" />
+      </role>
+   </mdContact>
+   <dqInfo>
+      <dataLineage>
+         <statement>Health Forum FY2005 (source 1 of 2) 
+
+Health Forum, L.L.C., 2007, American Hospital Association Annual Survey Database: American Hospital Association Annual Survey Database&#8482; FY2005 (2007 Edition), Health Forum, L.L.C., Chicago, Illinois, USA. 
+
+Other citation details: 
+1) This is a custom extract from the American Hospital Association (AHA) Annual Survey Database. 2) Health Forum, L.L.C. an American Hospital Association Company
+
+Type of source media: CD&#8211;ROM
+Source contribution:
+Attribute and geospatial data
+
+
+ArcGIS 9.2 Business Analyst 2007 Update USA Geocoding Service with Tele Atlas (source 2 of 2) 
+
+ESRI, 20070701, ArcGIS&#174; 9.2 Business Analyst 2007 Update - USA Geocoding Service locator: ESRI, Redlands, California, USA. 
+
+Online links: 
+http://www.esri.com 
+http://www.teleatlas.com 
+
+Other citation details: 
+ArcGIS 9.2 Business Analyst 2007 Update - USA Geocoding Service locator uses street-level data from Tele Atlas&#174; Address Points v. 8.3 (October 2006) and Dynamap&#174;/Transportation v. 8.2 (July 2006) in the geocoding process.
+
+Type of source media: DVD&#8211;ROM
+Source contribution:
+Attribute and geospatial data
+
+
+Date: 20070808 (change 1 of 2) 
+The following steps were performed by ESRI: Received an Excel file from Health Forum, L.L.C. Converted the file to dBASE&#174; (.dbf) and renamed the attributes. Removed features not in the fifty United States, District of Columbia, and Puerto Rico. Used the Business Analyst 2007 Update USA Geocoding Service to geocode the file using the address information included. Created a point shapefile from merging: 1) the locations from geocoding that matched to an address point or street address, and 2) the locations from the latitude/longitude values included in the Excel file when the address could only be geocoded using the ZIP Code or city value. Added description values for ADMIN_DESC and TYPE_DESC attributes using the American Hospital Association Annual Survey Database documentation. Converted the data set to SDC. Created ArcGIS&#174; layer file (.lyr), projection file (.prj), and spatial indices.
+
+Data sources used in this process: 
+Health Forum FY2005 
+ArcGIS 9.2 Business Analyst 2007 Update USA Geocoding Service with Tele Atlas 
+
+
+Date: 20071114 (change 2 of 2) 
+The following steps were performed by ESRI: Corrected the six numeric attributes that had incorrect negative values. Converted the data set to SDC. Created ArcGIS&#174; layer file (.lyr), projection file (.prj), and spatial indices.</statement>
+      </dataLineage>
+      <dqScope>
+         <scpLvl>
+            <ScopeCd value="005" />
+         </scpLvl>
+      </dqScope>
+   </dqInfo>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{6B7F9D93-4E33-44EE-899E-0C7202CF6485}</mdFileID>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+   </distinfo>
+</metadata>

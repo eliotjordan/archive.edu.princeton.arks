@@ -1,0 +1,368 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>County of Yuba GIS Unit</origin>
+        <pubdate>20090911</pubdate>
+        <title>Yuba County, California land parcels, 200</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/b2/77/3x/18/p/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Parcels for Yuba County. Digitized from fall 2002 aerial photograph, with reference to Assessor's parcel maps. Updated and maintained by a combination of digitizing the CAD Assessor's changes or COGO entering the updated info.</abstract>
+      <purpose>For use with GIS software for display and visual reference.</purpose>
+      <supplinf>Digitized at 1:1500 - 1:3000 for urban areas, 1:3000 - 1:5000 for rural areas.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20090911</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-121.635549</westbc>
+        <eastbc>-121.009593</eastbc>
+        <northbc>39.639386</northbc>
+        <southbc>38.915812</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcel</themekey>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property</themekey>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>ownership</themekey>
+        <themekey>mobile</themekey>
+        <themekey>mobile home</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>California</placekey>
+        <placekey>Yuba County</placekey>
+        <placekey>Sacramento</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Information on the map is not intended to constitute advise nor is it to be used as a substitute for specific advice from a licensed professional. You should not act (or refrain from acting) based upon information on the map without independently verifying the information and, as necessary, obtaining professional advice regarding your particular facts and circumstances. Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>County of Yuba Administrative Services Dept, Information Technology Division, GIS Unit</cntorg>
+          <cntper>Jerry Henry</cntper>
+        </cntorgp>
+        <cntpos>GIS Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>915 8th Street</address>
+          <city>Marysville</city>
+          <state>CA</state>
+          <postal>95901</postal>
+        </cntaddr>
+        <cntvoice>(530) 749-7890</cntvoice>
+        <cntemail>jhenry@co.yuba.ca.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{41e27d04-3751-421f-bfcc-a6b99dfebdd9}</PublishedDocID> 
+  </Esri>
+  <dataqual>
+    <logic>Parcels built from individual shapefiles for each Assessor's parcel book. These were merged, edited, then cleaned in Arc/Info to create coverage topology. Exported from coverage to shapefile for future edits and parcel additions from the Planning Division of the Community Development Department.</logic>
+    <complete>Shapefile is complete with latest edits from the Planning Division as of 5/18/04. Outstanding issues from the Assessor's department have yet to be incorporated into this file.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>Accuracy of the parcel boundaries is reflective of the scales at which the parcels were digitized (1:1500 to 1:5000 typically), and accuracy of the aerial photography and recognition of physical ground features that mark property boundaries. In some cases, coordinate geometry as noted in Assessor's parcel maps was used to help locate parcel boundaries.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <title>Yuba County aerial photograph</title>
+            <geoform>remote-sensing image</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>None</typesrc>
+        <srccitea>Yuba County aerial photograph</srccitea>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>County of Yuba Community Development Department</origin>
+            <title>Assessor's parcel maps</title>
+            <geoform>map</geoform>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>hardcopyPaper</typesrc>
+        <srccitea>Assessor's parcel maps</srccitea>
+      </srcinfo>
+      <procstep>
+        <procdesc>Export from coverage with complete and accurate topology to shapefile format.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>D. Slayter</cntper>
+            </cntperp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Individual parcel shapefiles for Assessor's books merged using ArcGIS 8.2 Geoprocessing wizard.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>D. Slayter</cntper>
+            </cntperp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+      <procstep>
+        <procdesc>Shapefile conversion to Arc/Info coverage using default fuzzy and dangle processing tolerances. Edited in coverage format to remove sliver polygons for accurate topology. Street rights-of-way attribute values added.</procdesc>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>D. Slayter</cntper>
+            </cntperp>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>31981</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel_06115</enttypl>
+        <enttypd>A "parcel" is an area of land in one ownership and one general use.</enttypd>
+        <enttypds>California State Board of Equalization. Assessors' Handbook Section 215.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>MH</attrlabl>
+        <attrdef>Mobile home identifier for parcel features.</attrdef>
+        <attrdefs>Yuba County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+        <attrdomv>
+          <udom />
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Area</attrlabl>
+        <attrdef>Area of feature in acres.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ROW</attrlabl>
+        <attrdef>Street right-of-way identifier.</attrdef>
+        <attrdefs>Yuba County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape_Leng</attrlabl>
+        <attrdef>Perimeter of feature in feet.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>Downloadable Data. The information on this map product is collected from various sources and will change over time without notice. Yuba County and its officials and employees assume no responsibility or legal liability for the accuracy, completeness, reliability, timeliness, or usefulness of any information available on this map or layers nor do they represent that the use of any information will not infringe on privately owned rights.</distliab>
+    <stdorder>
+      <fees>&amp;50 PLUS $5 shipping</fees>
+      <ordering>Download and print application online and return with a check to the address provided</ordering>
+      <turnarnd>1 week +/-</turnarnd>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140430</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>County of Yuba Administrative Services Dept, Information Technology Division, GIS Unit</cntorg>
+          <cntper>Jerry Henry</cntper>
+        </cntorgp>
+        <cntpos>GIS Coordinator</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>915 8th Street</address>
+          <city>Marysville</city>
+          <state>CA</state>
+          <postal>95901</postal>
+        </cntaddr>
+        <cntemail>jhenry@co.yuba.ca.us</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

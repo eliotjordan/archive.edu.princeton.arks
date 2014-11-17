@@ -1,0 +1,579 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>ML Infomap Pvt. Ltd.</origin>
+        <pubdate>20140501</pubdate>
+        <title>Subdistrict map of India, 2011</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/zp/38/wf/04/n/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Digital map of subdistrict boundaries in India, 2011. Boundaries of all subdistricts are shown linked to Primary Census Abstract 2011.</abstract>
+      <purpose>For use with GIS software. Mapping and analysis of census demographic and socio-economic data.</purpose>
+      <supplinf>Census demographic and socio-economic data included.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20140501</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Publication date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Irregular</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>68.110092</westbc>
+        <eastbc>97.409103</eastbc>
+        <northbc>37.050301</northbc>
+        <southbc>6.755698</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>subdistrict</themekey>
+        <themekey>tahsil</themekey>
+        <themekey>subdivision</themekey>
+        <themekey>village</themekey>
+        <themekey>villages</themekey>
+        <themekey>town</themekey>
+        <themekey>towns</themekey>
+        <themekey>district</themekey>
+        <themekey>districts</themekey>
+        <themekey>boundary</themekey>
+        <themekey>boundaries</themekey>
+        <themekey>demographic</themekey>
+        <themekey>population</themekey>
+        <themekey>census</themekey>
+        <themekey>household</themekey>
+        <themekey>households</themekey>
+        <themekey>sexes</themekey>
+        <themekey>sex ratio</themekey>
+        <themekey>male</themekey>
+        <themekey>female</themekey>
+        <themekey>age</themekey>
+        <themekey>age groups</themekey>
+        <themekey>caste</themekey>
+        <themekey>castes</themekey>
+        <themekey>tribe</themekey>
+        <themekey>tribes</themekey>
+        <themekey>literacy</themekey>
+        <themekey>employment</themekey>
+        <themekey>work</themekey>
+        <themekey>workers</themekey>
+        <themekey>labor</themekey>
+        <themekey>laborers</themekey>
+        <themekey>marginal</themekey>
+        <themekey>agriculture</themekey>
+        <themekey>agricultural</themekey>
+        <themekey>urban</themekey>
+        <themekey>rural</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>society</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>India</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Subdistrict map of India by ML Infomap New Delhi</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{13c457c9-834f-48b2-b9ac-b40a45f07dd5}</PublishedDocID> 
+  </Esri>
+  <dataqual>
+    <logic>Coastal boundary aligned with imagery, no gaps in polygon, no topological errors, aggregate and % figures verified.</logic>
+    <complete>Census 2011 data release for all attributes.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>30-50 meters</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Registrar General and Census Commissioner of India</origin>
+            <pubdate>20110101</pubdate>
+            <title>Village demographic profile of India 2011</title>
+            <onlink>http://www.mlinfomap.com</onlink>
+          </citeinfo>
+        </srccite>
+        <typesrc>None</typesrc>
+        <srccitea>Village demographic profile of India 2011</srccitea>
+        <srccontr>Census data.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Census operations across India.</procdesc>
+        <procdate>20110101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>6982</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>SUB_DISTRICT_2011</enttypl>
+        <enttypd>Administrative unit.</enttypd>
+        <enttypds>Government of India</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>M_L6</attrlabl>
+        <attrdef>Male population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_POP</attrlabl>
+        <attrdef>Total population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SUB_DIST_I</attrlabl>
+        <attrdef>Unique Identification number</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NAME</attrlabl>
+        <attrdef>Name/number of administrative division</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DISTRICT</attrlabl>
+        <attrdef>Name of district.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>M_W</attrlabl>
+        <attrdef>Male total workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_LIT</attrlabl>
+        <attrdef>Male literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_W</attrlabl>
+        <attrdef>Total workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_LIT</attrlabl>
+        <attrdef>Total literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ILLT</attrlabl>
+        <attrdef>Female illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_SC</attrlabl>
+        <attrdef>Male scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_POP</attrlabl>
+        <attrdef>Male population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ST</attrlabl>
+        <attrdef>Total scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE_UT</attrlabl>
+        <attrdef>Name of administrative state or union territory.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>M_ILLT</attrlabl>
+        <attrdef>Male illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>M_ST</attrlabl>
+        <attrdef>Male scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>F_POP</attrlabl>
+        <attrdef>Female population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_W</attrlabl>
+        <attrdef>Female total workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_SC</attrlabl>
+        <attrdef>Total scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_SC</attrlabl>
+        <attrdef>Female scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_L6</attrlabl>
+        <attrdef>Total population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_HH</attrlabl>
+        <attrdef>Total number of households.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CENSUS2011</attrlabl>
+        <attrdef>Census code of village/town in 2011.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+        <attrdomv>
+          <udom>Text</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TOT_ILLT</attrlabl>
+        <attrdef>Total illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_LIT</attrlabl>
+        <attrdef>Female literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_ST</attrlabl>
+        <attrdef>Female scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>F_L6</attrlabl>
+        <attrdef>Female population below 6 years</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_HH</attrlabl>
+        <attrdef>Total rural households.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_POP</attrlabl>
+        <attrdef>Total rural population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_M_POP</attrlabl>
+        <attrdef>Rural male population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_F_POP</attrlabl>
+        <attrdef>Rural female population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_L6</attrlabl>
+        <attrdef>Rural total population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_M_L6</attrlabl>
+        <attrdef>Rural male population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_F_L6</attrlabl>
+        <attrdef>Rural female population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_SC</attrlabl>
+        <attrdef>Total rural scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_M_SC</attrlabl>
+        <attrdef>Rural male scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_F_SC</attrlabl>
+        <attrdef>Rural female scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_ST</attrlabl>
+        <attrdef>Total rural scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_M_ST</attrlabl>
+        <attrdef>Rural male scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_F_ST</attrlabl>
+        <attrdef>Rural female scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_LIT</attrlabl>
+        <attrdef>Total rural literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_M_LIT</attrlabl>
+        <attrdef>Rural male literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_F_LIT</attrlabl>
+        <attrdef>Rural female literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_ILLT</attrlabl>
+        <attrdef>Total rural illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_M_ILLT</attrlabl>
+        <attrdef>Rural male illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_F_ILLT</attrlabl>
+        <attrdef>Rural female illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_TOT_W</attrlabl>
+        <attrdef>Total rural workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_M_W</attrlabl>
+        <attrdef>Rural male workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>R_F_W</attrlabl>
+        <attrdef>Rural female workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_HH</attrlabl>
+        <attrdef>Total urban households.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_POP</attrlabl>
+        <attrdef>Total urban population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_M_POP</attrlabl>
+        <attrdef>Urban male population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_F_POP</attrlabl>
+        <attrdef>Urban female population.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_L6</attrlabl>
+        <attrdef>Total urban population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_M_L6</attrlabl>
+        <attrdef>Urban male population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_F_L6</attrlabl>
+        <attrdef>Urban female population below 6 years.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_SC</attrlabl>
+        <attrdef>Total urban scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_M_SC</attrlabl>
+        <attrdef>Urban male scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_F_SC</attrlabl>
+        <attrdef>Urban female scheduled caste.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_ST</attrlabl>
+        <attrdef>Urban total scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_M_ST</attrlabl>
+        <attrdef>Urban male scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_F_ST</attrlabl>
+        <attrdef>Urban female scheduled tribe.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_LIT</attrlabl>
+        <attrdef>Total urban literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_M_LIT</attrlabl>
+        <attrdef>Urban male literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_F_LIT</attrlabl>
+        <attrdef>Urban female literates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_ILLT</attrlabl>
+        <attrdef>Urban total illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_M_ILLT</attrlabl>
+        <attrdef>Urban male illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_F_ILLT</attrlabl>
+        <attrdef>Urban female illiterates.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_TOT_W</attrlabl>
+        <attrdef>Total urban workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_M_W</attrlabl>
+        <attrdef>Urban male workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>U_F_W</attrlabl>
+        <attrdef>Urban female workers.</attrdef>
+        <attrdefs>Census of India</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140620</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

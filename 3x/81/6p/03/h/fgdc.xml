@@ -1,0 +1,552 @@
+<metadata>
+
+TransitStations
+<metadata>
+      <metadata />
+
+* Identification_Information &lt;#1&gt;
+* Spatial_Data_Organization_Information &lt;#2&gt;
+* Spatial_Reference_Information &lt;#3&gt;
+* Entity_and_Attribute_Information &lt;#4&gt;
+* Distribution_Information &lt;#5&gt;
+* Metadata_Reference_Information &lt;#6&gt;
+</metadata>
+------------------------------------------------------------------------
+
+/Identification_Information:/
+
+/Citation:/
+
+/Citation_Information:/
+
+/Originator:/
+REQUIRED: The name of an organization or individual that
+developed the data set.
+/Publication_Date:/
+REQUIRED: The date when the data set is published or
+otherwise made available for release.
+/Title:/ TransitStations
+/Geospatial_Data_Presentation_Form:/ vector digital data
+/Online_Linkage:/ \\Gis_server\Trenton\Final
+Data\Spatial\Trenton\TrentonGIS.mdb
+
+/Description:/
+
+/Abstract:/ Trenton Transit Station points
+/Purpose:/
+points showing location of Commuter Rail Stations in Trenton
+- includes Light Rail and Amtrak/NJTransit Northeast Corridor
+
+/Time_Period_of_Content:/
+
+/Time_Period_Information:/
+
+/Single_Date/Time:/
+
+/Calendar_Date:/
+REQUIRED: The year (and optionally month, or month
+and day) for which the data set corresponds to the
+ground.
+
+/Currentness_Reference:/
+REQUIRED: The basis on which the time period of content
+information is determined.
+
+/Status:/
+
+/Progress:/ REQUIRED: The state of the data set.
+/Maintenance_and_Update_Frequency:/
+REQUIRED: The frequency with which changes and additions are
+made to the data set after the initial data set is completed.
+
+/Spatial_Domain:/
+
+/Bounding_Coordinates:/
+
+/West_Bounding_Coordinate:/ -74.755743
+/East_Bounding_Coordinate:/ -74.754181
+/North_Bounding_Coordinate:/ 40.218833
+/South_Bounding_Coordinate:/ 40.205423
+
+/Keywords:/
+
+/Theme:/
+
+/Theme_Keyword_Thesaurus:/
+REQUIRED: Reference to a formally registered thesaurus
+or a similar authoritative source of theme keywords.
+/Theme_Keyword:/ Transit Stations
+
+/Access_Constraints:/ none
+/Use_Constraints:/ none
+/Native_Data_Set_Environment:/
+Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2;
+ESRI ArcCatalog 9.1.0.722
+
+------------------------------------------------------------------------
+
+/Spatial_Data_Organization_Information:/
+
+/Direct_Spatial_Reference_Method:/ Vector
+/Point_and_Vector_Object_Information:/
+
+/SDTS_Terms_Description:/
+
+/SDTS_Point_and_Vector_Object_Type:/ Entity point
+/Point_and_Vector_Object_Count:/ 4
+
+------------------------------------------------------------------------
+
+/Spatial_Reference_Information:/
+
+/Horizontal_Coordinate_System_Definition:/
+
+/Planar:/
+
+/Grid_Coordinate_System:/
+
+/Grid_Coordinate_System_Name:/ State Plane Coordinate
+System 1983
+/State_Plane_Coordinate_System:/
+
+/SPCS_Zone_Identifier:/ 2900
+/Transverse_Mercator:/
+
+/Scale_Factor_at_Central_Meridian:/ 0.999900
+/Longitude_of_Central_Meridian:/ -74.500000
+/Latitude_of_Projection_Origin:/ 38.833333
+/False_Easting:/ 492125.000000
+/False_Northing:/ 0.000000
+
+/Planar_Coordinate_Information:/
+
+/Planar_Coordinate_Encoding_Method:/ coordinate pair
+/Coordinate_Representation:/
+
+/Abscissa_Resolution:/ 0.000128
+/Ordinate_Resolution:/ 0.000128
+
+/Planar_Distance_Units:/ survey feet
+
+/Geodetic_Model:/
+
+/Horizontal_Datum_Name:/ North American Datum of 1983
+/Ellipsoid_Name:/ Geodetic Reference System 80
+/Semi-major_Axis:/ 6378137.000000
+/Denominator_of_Flattening_Ratio:/ 298.257222
+
+/Vertical_Coordinate_System_Definition:/
+
+/Altitude_System_Definition:/
+
+/Altitude_Resolution:/ 0.000010
+/Altitude_Encoding_Method:/
+Explicit elevation coordinate included with horizontal
+coordinates
+
+------------------------------------------------------------------------
+
+/Entity_and_Attribute_Information:/
+
+/Detailed_Description:/
+
+/Entity_Type:/
+
+/Entity_Type_Label:/ TransitStations
+
+/Attribute:/
+
+/Attribute_Label:/ OBJECTID
+/Attribute_Definition:/ Internal feature number.
+/Attribute_Definition_Source:/ ESRI
+/Attribute_Domain_Values:/
+
+/Unrepresentable_Domain:/
+Sequential unique whole numbers that are
+automatically generated.
+
+/Attribute:/
+
+/Attribute_Label:/ SHAPE
+/Attribute_Definition:/ Feature geometry.
+/Attribute_Definition_Source:/ ESRI
+/Attribute_Domain_Values:/
+
+/Unrepresentable_Domain:/ Coordinates defining the features.
+
+/Attribute:/
+
+/Attribute_Label:/ StationName
+
+/Attribute:/
+
+/Attribute_Label:/ Route
+
+------------------------------------------------------------------------
+
+/Distribution_Information:/
+
+/Resource_Description:/ Downloadable Data
+
+------------------------------------------------------------------------
+
+/Metadata_Reference_Information:/
+
+/Metadata_Date:/ 20061002
+/Metadata_Contact:/
+
+/Contact_Information:/
+
+/Contact_Organization_Primary:/
+
+/Contact_Organization:/
+REQUIRED: The organization responsible for the
+<metadata>information.</metadata>
+/Contact_Person:/ REQUIRED: The person responsible for
+the metadata information.
+
+/Contact_Address:/
+
+/Address_Type:/
+REQUIRED: The mailing and/or physical address for
+the organization or individual.
+/City:/ REQUIRED: The city of the address.
+/State_or_Province:/ REQUIRED: The state or province of
+the address.
+/Postal_Code:/ REQUIRED: The ZIP or other postal code of
+the address.
+
+/Contact_Voice_Telephone:/
+REQUIRED: The telephone number by which individuals can
+speak to the organization or individual.
+
+/Metadata_Standard_Name:/ FGDC Content Standards for Digital
+Geospatial Metadata
+/Metadata_Standard_Version:/ FGDC-STD-001-1998
+/Metadata_Time_Convention:/ local time
+/Metadata_Extensions:/
+
+/Online_Linkage:/ &lt;http://www.esri.com/metadata/esriprof80.html&gt;
+&lt;http://www.esri.com/metadata/esriprof80.html&gt;
+/Profile_Name:/ ESRI Metadata Profile
+
+------------------------------------------------------------------------
+Generated by mp
+&lt;http://geology.usgs.gov/tools/metadata/tools/doc/mp.html&gt; version 2.8.6
+on Mon Oct 02 10:12:16 2006
+<Esri>
+      <MetaID>{177D3F35-8CAA-4371-B09F-18072CC446AF}</MetaID>
+      <CreaDate>20081224</CreaDate>
+      <CreaTime>14530800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20081224</SyncDate>
+      <SyncTime>14372500</SyncTime>
+      <ModDate>20081224</ModDate>
+      <ModTime>14390700</ModTime>
+      <PublishedDocID>{1592E30F-2EB0-4B93-8955-A0B740E69015}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataqual>
+      <lineage />
+   </dataqual>
+   <idinfo>
+      <native>        Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2;
+        ESRI ArcCatalog 9.1.0.722 </native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>Trenton Transit Station points</abstract>
+         <purpose>points showing location of Commuter Rail Stations in Trenton
+            - includes Light Rail and Amtrak/NJTransit Northeast Corridor</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>City of Trenton Division of Planning</origin>
+            <title>Trenton Transit Stations</title>
+            <ftname Sync="TRUE">trenton_transitstations</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/3x/81/6p/03/h/content/restricted/data.zip</onlink>
+            <pubdate>2008?</pubdate>
+            <pubinfo>
+               <pubplace>Trenton, New Jersey</pubplace>
+               <publish>City of Trenton</publish>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>REQUIRED: The basis on which the time period of content information is determined.</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>REQUIRED: The year (and optionally month, or month and day) for which the data set corresponds to the ground.</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>REQUIRED: The state of the data set.</progress>
+         <update>REQUIRED: The frequency with which changes and additions are made to the data set after the initial data set is completed.</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-74.755743</westbc>
+            <eastbc Sync="TRUE">-74.754181</eastbc>
+            <northbc Sync="TRUE">40.218833</northbc>
+            <southbc Sync="TRUE">40.205423</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">420711.491501</leftbc>
+            <rightbc Sync="TRUE">421133.661741</rightbc>
+            <bottombc Sync="TRUE">499844.596340</bottombc>
+            <topbc Sync="TRUE">504728.406905</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekey>Transit Stations</themekey>
+            <themekt>None</themekt>
+            <themekey>Structure</themekey>
+         </theme>
+         <place>
+            <placekey>Trenton</placekey>
+         </place>
+      </keywords>
+      <accconst>none</accconst>
+      <useconst>none</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>9:00am - 5:00pm, Monday - Friday</hours>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">trenton_transitstations</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">420711.491501</westBL>
+               <eastBL Sync="TRUE">421133.661741</eastBL>
+               <northBL Sync="TRUE">504728.406905</northBL>
+               <southBL Sync="TRUE">499844.59634</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-74.755743</westBL>
+         <eastBL Sync="TRUE">-74.754181</eastBL>
+         <northBL Sync="TRUE">40.218833</northBL>
+         <southBL Sync="TRUE">40.205423</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+               <cntorg>City of Trenton</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20081224</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc Sync="TRUE">Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">0.000</transize>
+               <dssize Sync="TRUE">0.000</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Trenton\trenton_transitstations.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.000</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="trenton_transitstations">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Point</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">4</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="trenton_transitstations">
+            <sdtstype Sync="TRUE">Entity point</sdtstype>
+            <ptvctcnt Sync="TRUE">4</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+            <projcsn Sync="TRUE">NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet</projcsn>
+         </cordsysn>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <plandu Sync="TRUE">survey feet</plandu>
+               <coordrep>
+                  <absres>0.000128</absres>
+                  <ordres>0.000128</ordres>
+               </coordrep>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+               <transmer>
+                  <sfctrmer Sync="TRUE">0.999900</sfctrmer>
+                  <longcm Sync="TRUE">-74.500000</longcm>
+                  <latprjo Sync="TRUE">38.833333</latprjo>
+                  <feast Sync="TRUE">492125.000000</feast>
+                  <fnorth Sync="TRUE">0.000000</fnorth>
+               </transmer>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+            <ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257222</denflat>
+         </geodetic>
+      </horizsys>
+      <vertdef>
+         <altsys>
+            <altres>0.000010</altres>
+            <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+         </altsys>
+      </vertdef>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">NAD_1983_StatePlane_New_Jersey_FIPS_2900_Feet</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="trenton_transitstations">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="004" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">4</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="trenton_transitstations">
+         <enttyp>
+            <enttypl>TransitStations</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">4</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">StationNam</attrlabl>
+            <attalias Sync="TRUE">StationNam</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Route</attrlabl>
+            <attalias Sync="TRUE">Route</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">50</attwidth>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20081224</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{1592E30F-2EB0-4B93-8955-A0B740E69015}</mdFileID>
+</metadata>

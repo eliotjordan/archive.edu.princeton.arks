@@ -1,0 +1,240 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Globe Telecom</origin>
+        <pubdate>20140706</pubdate>
+        <title>Cairo Supermarkets</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/pc/28/9k/53/w/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Points representing supermarkets in Cairo.</abstract>
+      <purpose>For use with GIS software.</purpose>
+      <supplinf>Attributes include information in English and Arabic.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20140706</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>30.933431</westbc>
+        <eastbc>31.496172</eastbc>
+        <northbc>30.174193</northbc>
+        <southbc>29.843021</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>supermarkets</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>structure</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Egypt</placekey>
+        <placekey>Cairo</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Globe Telecom S.A.E.</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{2ae433f0-a341-47f6-97b2-9b7aa0c86938}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>Entity point</sdtstype>
+        <ptvctcnt>113</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>cairo_supermarkets</enttypl>
+        <enttypd>This attribute contains no information.</enttypd>
+        <enttypds>Globe Telecom</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>A_Name</attrlabl>
+        <attrdef>Name of feature in Arabic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>E_Name</attrlabl>
+        <attrdef>Name of feature in English.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A_Street</attrlabl>
+        <attrdef>Name of street in Arabic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>E_Street</attrlabl>
+        <attrdef>Name of street in English.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Num</attrlabl>
+        <attrdef>Street number.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Alpha</attrlabl>
+        <attrdef>Alphabetic component of street number.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Nots</attrlabl>
+        <attrdef>Notes.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Gov</attrlabl>
+        <attrdef>Governorate name.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Section</attrlabl>
+        <attrdef>Section name.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>City_Name</attrlabl>
+        <attrdef>City name.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>District</attrlabl>
+        <attrdef>District name.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Lat</attrlabl>
+        <attrdef>Degrees latitude.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Long</attrlabl>
+        <attrdef>Degrees longitude.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A_Type</attrlabl>
+        <attrdef>Type of feature in Arabic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>E_Type</attrlabl>
+        <attrdef>Type of feature in English.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A_Sub_Type</attrlabl>
+        <attrdef>More specific type of feature in Arabic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>E_Sub_Type</attrlabl>
+        <attrdef>More specific type of feature in English.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140801</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,174 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>LeadDog Consulting, LLC</origin>
+        <pubdate>20110401</pubdate>
+        <title>Sonora, Mexico Basic Geographic Statistical Areas, 2011</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/5h/73/px/82/c/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Basic Geographic Statistical Areas (AGEB, &#193;reas Geogr&#225;fico Estad&#237;sticas B&#225;sicas) in Sonora, Mexico, 2011.</abstract>
+      <purpose>LeadDog products are used in a variety of applications that require accurate and comprehensive GIS street and road centerline maps. LeadDog data products are widely used for routing, geocoding, asset-tracking, and site selection by the government, the military, and private security companies. LeadDog provides a topologically connected network of streets and roads to support routing. In areas where attributes are scarce, basic geometry based routing is supported. In areas where attributes are more complete, more advanced routing using both geometry and attributes describing one-way streets, ramps, etc., is supported. Attributes are empty for many road and street segments, due to scarce information in remote countries and regions. LeadDog is constantly working to collect and fill in missing information.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20110401</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-113.556681</westbc>
+        <eastbc>-108.713218</eastbc>
+        <northbc>31.884433</northbc>
+        <southbc>26.698397</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>statistical area</themekey>
+        <themekey>statistical areas</themekey>
+        <themekey>census</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+        <themekey>location</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Mexico</placekey>
+        <placekey>Sonora</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>These data can only be used by LeadDog customers, as detailed specifically in LeadDog licensing terms and agreements. Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>LeadDog Consulting, LLC</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{fce7926a-99ae-42ae-837c-f1791eb30d18}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>1716</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>AGEB_son_2011</enttypl>
+        <enttypd>Basic Geographic Statistical Areas (AGEBs, &#193;reas Geogr&#225;fico Estad&#237;sticas B&#225;sicas)</enttypd>
+        <enttypds>LeadDog</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Unique Id assigned automatically by ESRI ArcGIS. FID is used for ShapeFiles, OBJECTID is used for all other formats.</attrdef>
+        <attrdefs>LeadDog</attrdefs>
+        <attrdomv>
+          <udom>The set of all FID/OBJECTID values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature type assigned automatically by ESRI ArcGIS.</attrdef>
+        <attrdefs>LeadDog</attrdefs>
+        <attrdomv>
+          <udom>The set of all Shape values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CLAVE</attrlabl>
+        <attrdef>Individual number assigned to each polygon.  First two numbers in the string represent the province associated with that clave.</attrdef>
+        <attrdefs>LeadDog</attrdefs>
+        <attrdomv>
+          <udom>The set of all CLAVE values</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAYER</attrlabl>
+        <attrdef>Number represents country code.</attrdef>
+        <attrdefs>LeadDog</attrdefs>
+        <attrdomv>
+          <udom>The set of all LAYER values</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140711</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

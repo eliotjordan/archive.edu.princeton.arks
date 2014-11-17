@@ -1,0 +1,974 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20081006</CreaDate>
+      <CreaTime>13180800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20060329</SyncDate>
+      <SyncTime>12130400</SyncTime>
+      <ModDate>20081006</ModDate>
+      <ModTime>13161900</ModTime>
+      <Sync>FALSE</Sync>
+      <MetaID>{7EB863F7-4CDF-46AC-8EA6-C51C3303C522}</MetaID>
+      <PublishedDocID>{8E204B99-2038-447D-B6FC-41D31253467F}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.722</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>World Time Zones represents the time zones of the world.  The time zones are best displayed with World Countries or World Administrative Units.</abstract>
+         <purpose>World Time Zones provides time zones for countries and cities within them.  Note that daylight-savings time is not shown.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <pubdate>20080401</pubdate>
+            <title>World Time Zones 2008</title>
+            <ftname Sync="TRUE">timezone.sdc</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <edition>2008</edition>
+            <serinfo>
+               <sername>ESRI&#174; Data &amp; Maps</sername>
+               <issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+            </serinfo>
+            <pubinfo>
+               <pubplace>Redlands, California, USA</pubplace>
+               <publish>ESRI</publish>
+            </pubinfo>
+            <origin>ESRI</origin>
+            <onlink>http://map.princeton.edu/data/6m/31/1q/89/6/content/restricted/data.zip</onlink>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>ground condition: 20010401; publication date: 20010718, 20001020, 19920801, 19920601, 1996, 1991</current>
+         <timeinfo>
+            <mdattim>
+               <sngdate>
+                  <caldate>20010401</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>20010718</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>20001020</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>19920801</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>19920601</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>1996</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>1991</caldate>
+               </sngdate>
+            </mdattim>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Annually</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-180.000000</westbc>
+            <eastbc Sync="TRUE">180.000000</eastbc>
+            <northbc Sync="TRUE">90.000000</northbc>
+            <southbc Sync="TRUE">-90.000000</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-180.000000</leftbc>
+            <rightbc Sync="TRUE">180.000000</rightbc>
+            <bottombc Sync="TRUE">-90.000000</bottombc>
+            <topbc Sync="TRUE">90.000000</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>polygon</themekey>
+            <themekey>time</themekey>
+            <themekey>time zone</themekey>
+            <themekey>greenwich mean time</themekey>
+            <themekey>location</themekey>
+            <themekey>transportation</themekey>
+            <themekey>regions</themekey>
+         </theme>
+         <place>
+            <placekey>World</placekey>
+            <placekt>None</placekt>
+         </place>
+         <temporal>
+            <tempkey>2001</tempkey>
+            <tempkt>None</tempkt>
+            <tempkey>2001</tempkey>
+            <tempkey>2000</tempkey>
+            <tempkey>1992</tempkey>
+            <tempkey>1992</tempkey>
+            <tempkey>1996</tempkey>
+            <tempkey>1991</tempkey>
+         </temporal>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+      <natvform>shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University Library</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>Princeton</city>
+               <state>New Jersey</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>Princeton </city>
+               <state>New Jersey</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20081006</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="timezone">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">38</efeacnt>
+            <spindex>TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+            <featdesc>World Time Zone</featdesc>
+         </esriterm>
+         <sdtsterm Name="timezone">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">38</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000001</latres>
+            <longres Sync="TRUE">0.000001</longres>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="timezone">
+         <enttyp>
+            <enttypl Sync="TRUE">timezone</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">38</enttypc>
+            <enttypd>The polygon regions represent the thirty-eight time zones of the world and give a zone's difference in hours from Greenwich Mean Time.</enttypd>
+            <enttypds>ESRI</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">ObjectID</attrlabl>
+            <attalias Sync="TRUE">ObjectID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ZONE</attrlabl>
+            <attalias Sync="TRUE">ZONE</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <attrdef>The difference in hours between the zone and Greenwich Mean Time. Negative numbers represent zones west of 0 degrees Longitude and positive numbers represent zones east of 0 degrees Longitude.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Hours for the features.</udom>
+            </attrdomv>
+            <atnumdec Sync="TRUE">2</atnumdec>
+            <atprecis Sync="TRUE">7</atprecis>
+            <attscale Sync="TRUE">2</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SQ_MI</attrlabl>
+            <attalias Sync="TRUE">SQ_MI</attalias>
+            <attrtype Sync="TRUE">DOUBLE</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">16</atprecis>
+            <attscale Sync="TRUE">5</attscale>
+            <attrdefs>ESRI</attrdefs>
+            <attrdef>The measure of area in square miles.</attrdef>
+            <attrdomv>
+               <udom>Calculated area for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SQKM</attrlabl>
+            <attalias Sync="TRUE">SQKM</attalias>
+            <attrtype Sync="TRUE">DOUBLE</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">16</atprecis>
+            <attscale Sync="TRUE">5</attscale>
+            <attrdefs>ESRI</attrdefs>
+            <attrdef>The measure of area in square kilometers.</attrdef>
+            <attrdomv>
+               <udom>Calculated area for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">COLORMAP</attrlabl>
+            <attalias Sync="TRUE">COLORMAP</attalias>
+            <attrtype Sync="TRUE">LONG INTEGER</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">2</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdefs>ESRI</attrdefs>
+            <attrdef>The number allows the country to be shaded unique from its neighbors.</attrdef>
+            <attrdomv>
+               <rdom>
+                  <rdommin>1</rdommin>
+                  <rdommax>8</rdommax>
+               </rdom>
+            </attrdomv>
+         </attr>
+      </detailed>
+   </eainfo>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <procdesc>This data set was created from several sources and finalized.  Most features are based on a generalized version of the ArcWorld 1:3M coverage.  The country and administrative unit boundaries were utilized for most of the zone boundaries.  In a few instances, the ArcUSA 1:2M county level data for the United States and the ArcAtlas&#8482; data for some zone boundaries in Russia were used.  Most of the zones in ocean areas followed lines of longitude and latitude and were mathematically generated.  The values of plus and minus hours from Greenwich are from a Central Intelligence Agency (CIA) map and the Rand McNally New International Atlas.</procdesc>
+            <procsv>ARC/INFO&#174;, ArcView GIS 3.x</procsv>
+            <procdate>1999</procdate>
+            <srcused>ArcWorld 1:3M</srcused>
+            <srcused>ArcUSA 1:2M</srcused>
+            <srcused>ArcAtlas</srcused>
+            <srcused>Rand McNally Int.</srcused>
+         </procstep>
+         <srcinfo>
+            <typesrc>online</typesrc>
+            <srccontr>Attribute and geospatial data</srccontr>
+            <srccite>
+               <citeinfo>
+                  <origin>Commissioner of Nunavut</origin>
+                  <pubdate>20010329</pubdate>
+                  <title>An Act to Amend the Interpretation Act (Time Zones)</title>
+                  <pubinfo>
+                     <pubplace>online</pubplace>
+                     <publish>Commissioner of Nunavut</publish>
+                  </pubinfo>
+                  <onlink>http://www.nunavutcourtofjustice.ca/library/statutes/2001ch4.pdf</onlink>
+                  <geoform>document</geoform>
+                  <othercit>FIFTH SESSION FIRST LEGISLATIVE ASSEMBLY OF NUNAVUT,
+GOVERNMENT BILL,
+BILL 4</othercit>
+               </citeinfo>
+            </srccite>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>20010401</caldate>
+                     <time>1:59 a.m.</time>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>ground condition</srccurr>
+            </srctime>
+            <srccitea>www.nunavutcourtofjustice.ca</srccitea>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>nunavut.com</origin>
+                  <geoform>map</geoform>
+                  <pubinfo>
+                     <publish>nunavut.com</publish>
+                     <pubplace>online</pubplace>
+                  </pubinfo>
+                  <pubdate>Unknown</pubdate>
+                  <title>MAP OF NUNAVUT</title>
+                  <onlink>http://www.nunavut.com/nunavut99/english/map.html</onlink>
+               </citeinfo>
+            </srccite>
+            <typesrc>online</typesrc>
+            <srccitea>www.nunavut.com</srccitea>
+            <srccontr>geospatial data</srccontr>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>unknown</caldate>
+                  </sngdate>
+               </timeinfo>
+            </srctime>
+         </srcinfo>
+         <srcinfo>
+            <typesrc>online</typesrc>
+            <srccitea>www.nrc.ca</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+            <srccite>
+               <citeinfo>
+                  <origin>National Research Council Canada and the Institute for National Measurement Standards</origin>
+                  <title>INMS - Time Zones and Daylight Saving Time</title>
+                  <onlink>http://www.nrc.ca/inms/time/tze.html</onlink>
+                  <pubdate>20010718</pubdate>
+                  <geoform>map</geoform>
+                  <pubinfo>
+                     <pubplace>online</pubplace>
+                     <publish>National Research Council Canada and the Institute for National Measurement Standards</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>20010718</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <title>Canadian Data Bundle&#8211;Data sets from DMTI Spatial&#8482; CanMap&#174; with source scales of 1:2000 to 1:50,000.</title>
+                  <origin>DMTI Spatial Inc.</origin>
+                  <pubdate>20001020</pubdate>
+                  <edition>1</edition>
+                  <geoform>vector digital data</geoform>
+                  <pubinfo>
+                     <publish>DMTI Spatial Inc.</publish>
+                     <pubplace>Markham, Ontario, Canada</pubplace>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>2000&#8211;50000</srcscale>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>20001020</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>DMTI Spatial Inc. - 2 to 50</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>ESRI</origin>
+                  <pubdate>19920801</pubdate>
+                  <title>ArcWorld&#8482; 1:3M</title>
+                  <edition>1</edition>
+                  <geoform>vector digital data</geoform>
+                  <pubinfo>
+                     <pubplace>Redlands, California, USA</pubplace>
+                     <publish>ESRI</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>3000000</srcscale>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>19920801</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>ArcWorld 1:3M</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>ESRI</origin>
+                  <pubdate>19920601</pubdate>
+                  <title>ArcUSA&#8482; 1:2M</title>
+                  <edition>1</edition>
+                  <geoform>vector digital data</geoform>
+                  <pubinfo>
+                     <pubplace>Redlands, California, USA</pubplace>
+                     <publish>ESRI</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>2000000</srcscale>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>19920601</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>ArcUSA 1:2M</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>DATA+ (Russia)</origin>
+                  <origin>Institute of Geography of the Russian Academy of Sciences</origin>
+                  <origin>M. V. Lomonosov Moscow State University</origin>
+                  <origin>ESRI</origin>
+                  <title>ArcAtlas: Our Earth</title>
+                  <geoform>vector digital data</geoform>
+                  <pubinfo>
+                     <pubplace>Redlands, California, USA</pubplace>
+                     <publish>ESRI</publish>
+                  </pubinfo>
+                  <pubdate>1996</pubdate>
+               </citeinfo>
+            </srccite>
+            <srcscale>10000000, 20000000, 25000000</srcscale>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>1996</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>ArcAtlas</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>Rand McNally &amp; Company</origin>
+                  <pubdate>1991</pubdate>
+                  <title>Rand McNally New International Atlas</title>
+                  <edition>2nd printing, revised</edition>
+                  <serinfo>
+                     <sername>Rand McNally New International Atlas</sername>
+                     <issue>2nd printing, revised</issue>
+                  </serinfo>
+                  <pubinfo>
+                     <pubplace>Chicago, Illinois, USA</pubplace>
+                     <publish>Rand McNally &amp; Company</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <typesrc>paper</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>1991</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>Rand McNally Int.</srccitea>
+            <srccontr>Attribute data</srccontr>
+         </srcinfo>
+      </lineage>
+      <posacc>
+         <horizpa>
+            <horizpar>The horizontal positional accuracy is unknown.</horizpar>
+         </horizpa>
+      </posacc>
+      <logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE&#174; to verify and validate the geometry.</logic>
+      <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+   </dataqual>
+   <mdDateSt Sync="TRUE">20081006</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 1; ESRI ArcCatalog 9.1.0.722</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle>World Time Zones</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+         <resEd>2008</resEd>
+         <resEdDate>20080401</resEdDate>
+         <resRefDate>
+            <refDate>20020218</refDate>
+            <refDateType>
+               <DateTypCd value="001" />
+            </refDateType>
+         </resRefDate>
+         <citRespParty>
+            <rpIndName>Data Team</rpIndName>
+            <rpOrgName>ESRI</rpOrgName>
+            <rpPosName>Data Team</rpPosName>
+            <role>
+               <RoleCd value="007" />
+            </role>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>380 New York Street</delPoint>
+                  <city>Redlands</city>
+                  <adminArea>California</adminArea>
+                  <postCode>92373-8100</postCode>
+                  <eMailAdd>info@esri.com</eMailAdd>
+                  <country>us</country>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>909-793-2853</voiceNum>
+                  <faxNum>909-793-5953</faxNum>
+               </cntPhone>
+            </rpCntInfo>
+         </citRespParty>
+         <resRefDate>
+            <refDate>20080401</refDate>
+            <refDateType>
+               <DateTypCd value="002" />
+            </refDateType>
+         </resRefDate>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">-180</westBL>
+               <eastBL Sync="TRUE">180</eastBL>
+               <northBL Sync="TRUE">90</northBL>
+               <southBL Sync="TRUE">-90</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+         <tempEle>
+            <TempExtent>
+               <exTemp>
+                  <TM_GeometricPrimitive>
+                     <TM_Period>
+                        <begin>1991</begin>
+                        <end>20010718</end>
+                     </TM_Period>
+                  </TM_GeometricPrimitive>
+               </exTemp>
+            </TempExtent>
+         </tempEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-180</westBL>
+         <eastBL Sync="TRUE">180</eastBL>
+         <northBL Sync="TRUE">90</northBL>
+         <southBL Sync="TRUE">-90</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+      <idAbs>World Time Zones represents the time zones of the world.  The time zones are best displayed with World Countries or World Administrative Units.</idAbs>
+      <tpCat>
+         <TopicCatCd value="013" />
+      </tpCat>
+      <tpCat>
+         <TopicCatCd value="018" />
+      </tpCat>
+      <resConst>
+         <Consts>
+            <useLimit>See legal constraints.</useLimit>
+         </Consts>
+         <LegConsts>
+            <accessConsts>
+               <RestrictCd value="005" />
+            </accessConsts>
+            <othConsts>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</othConsts>
+            <useConsts>
+               <RestrictCd value="008" />
+            </useConsts>
+         </LegConsts>
+      </resConst>
+      <dataScale>
+         <equScale>
+            <rfDenom>25000000</rfDenom>
+         </equScale>
+      </dataScale>
+      <descKeys KeyTypCd="005">
+         <keyTyp>
+            <KeyTypCd value="005" />
+         </keyTyp>
+         <keyword>polygon, time, time zone, greenwich mean time, location, transportation, regions</keyword>
+      </descKeys>
+      <descKeys KeyTypCd="002">
+         <keyTyp>
+            <KeyTypCd value="002" />
+         </keyTyp>
+         <keyword>World</keyword>
+      </descKeys>
+      <descKeys KeyTypCd="004">
+         <keyTyp>
+            <KeyTypCd value="004" />
+         </keyTyp>
+         <keyword>2001, 2001, 2000, 1992, 1992, 1996, 1991</keyword>
+      </descKeys>
+      <resMaint>
+         <maintFreq>
+            <MaintFreqCd value="008" />
+         </maintFreq>
+      </resMaint>
+      <idPoC Sync="TRUE">
+         <rpIndName Sync="TRUE">Data Team</rpIndName>
+         <rpOrgName Sync="TRUE">ESRI</rpOrgName>
+         <rpPosName Sync="TRUE">Data Team</rpPosName>
+         <rpCntInfo>
+            <cntPhone>
+               <voiceNum Sync="TRUE">909-793-2853</voiceNum>
+               <faxNum Sync="TRUE">909-793-5953</faxNum>
+            </cntPhone>
+            <cntAddress>
+               <delPoint Sync="TRUE">380 New York Street</delPoint>
+               <city Sync="TRUE">Redlands</city>
+               <adminArea Sync="TRUE">California</adminArea>
+               <postCode Sync="TRUE">92373-8100</postCode>
+               <country Sync="TRUE">us</country>
+               <eMailAdd Sync="TRUE">info@esri.com</eMailAdd>
+            </cntAddress>
+         </rpCntInfo>
+         <role>
+            <RoleCd Sync="TRUE" value="007" />
+         </role>
+      </idPoC>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="005" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <transSize Sync="TRUE">0.144</transSize>
+            <onLineSrc>
+               <orDesc>003</orDesc>
+               <linkage Sync="TRUE">file://</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <offLineMed>
+               <medName>
+                  <MedNameCd value="003" />
+               </medName>
+            </offLineMed>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">SDC Feature Database</formatName>
+         </distorFormat>
+         <distorCont>
+            <rpOrgName>ESRI; ESRI International Distributors</rpOrgName>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>380 New York Street</delPoint>
+                  <city>Redlands</city>
+                  <adminArea>California</adminArea>
+                  <postCode>92373-8100</postCode>
+                  <country>us</country>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>800-447-9778</voiceNum>
+               </cntPhone>
+            </rpCntInfo>
+            <role>
+               <RoleCd value="005" />
+            </role>
+         </distorCont>
+         <distorOrdPrc>
+            <ordInstr>ESRI Data &amp; Maps is available only as part of ESRI&#174; software.
+
+In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.</ordInstr>
+            <resFees>Software purchase price. ESRI Data &amp; Maps is available only as part of ESRI&#174; software. To use this data requires software that supports SDC files.</resFees>
+         </distorOrdPrc>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="timezone">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">38</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdContact>
+      <rpIndName>Data Team</rpIndName>
+      <rpOrgName>ESRI</rpOrgName>
+      <rpPosName>Data Team</rpPosName>
+      <rpCntInfo>
+         <cntAddress>
+            <delPoint>380 New York Street</delPoint>
+            <city>Redlands</city>
+            <adminArea>California</adminArea>
+            <postCode>92373-8100</postCode>
+            <eMailAdd>info@esri.com</eMailAdd>
+            <country>us</country>
+         </cntAddress>
+         <cntPhone>
+            <voiceNum>909-793-2853</voiceNum>
+            <faxNum>909-793-5953</faxNum>
+         </cntPhone>
+      </rpCntInfo>
+      <role>
+         <RoleCd value="010" />
+      </role>
+   </mdContact>
+   <dqInfo>
+      <dataLineage>
+         <statement>www.nunavutcourtofjustice.ca (source 1 of 8) 
+
+Commissioner of Nunavut, 20010329, An Act to Amend the Interpretation Act (Time Zones): Commissioner of Nunavut, online. 
+
+Online links: 
+http://www.nunavutcourtofjustice.ca/library/statutes/2001ch4.pdf 
+
+Other citation details: 
+FIFTH SESSION FIRST LEGISLATIVE ASSEMBLY OF NUNAVUT, GOVERNMENT BILL, BILL 4
+
+Type of source media: online
+Source contribution:
+Attribute and geospatial data
+
+
+www.nunavut.com (source 2 of 8) 
+
+nunavut.com, Unknown, MAP OF NUNAVUT: nunavut.com, online. 
+
+Online links: 
+http://www.nunavut.com/nunavut99/english/map.html 
+
+Type of source media: online
+Source contribution:
+geospatial data
+
+
+www.nrc.ca (source 3 of 8) 
+
+National Research Council Canada and the Institute for National Measurement Standards, 20010718, INMS - Time Zones and Daylight Saving Time: National Research Council Canada and the Institute for National Measurement Standards, online. 
+
+Online links: 
+http://www.nrc.ca/inms/time/tze.html 
+
+Type of source media: online
+Source contribution:
+Attribute and geospatial data
+
+
+DMTI Spatial Inc. - 2 to 50 (source 4 of 8) 
+
+DMTI Spatial Inc., 20001020, Canadian Data Bundle&#8211;Data sets from DMTI Spatial&#8482; CanMap&#174; with source scales of 1:2000 to 1:50,000.: DMTI Spatial Inc., Markham, Ontario, Canada. 
+
+Type of source media: CD&#8211;ROM
+Source scale denominator: 2000&#8211;50000
+Source contribution:
+Attribute and geospatial data
+
+
+ArcWorld 1:3M (source 5 of 8) 
+
+ESRI, 19920801, ArcWorld&#8482; 1:3M: ESRI, Redlands, California, USA. 
+
+Type of source media: CD&#8211;ROM
+Source scale denominator: 3000000
+Source contribution:
+Attribute and geospatial data
+
+
+ArcUSA 1:2M (source 6 of 8) 
+
+ESRI, 19920601, ArcUSA&#8482; 1:2M: ESRI, Redlands, California, USA. 
+
+Type of source media: CD&#8211;ROM
+Source scale denominator: 2000000
+Source contribution:
+Attribute and geospatial data
+
+
+ArcAtlas (source 7 of 8) 
+
+DATA+ (Russia), Institute of Geography of the Russian Academy of Sciences, M. V. Lomonosov Moscow State University, ESRI, 1996, ArcAtlas: Our Earth: ESRI, Redlands, California, USA. 
+
+Type of source media: CD&#8211;ROM
+Source scale denominator: 10000000, 20000000, 25000000
+Source contribution:
+Attribute and geospatial data
+
+
+Rand McNally Int. (source 8 of 8) 
+
+Rand McNally &amp; Company, 1991, Rand McNally New International Atlas: Rand McNally New International Atlas 2nd printing, revised, Rand McNally &amp; Company, Chicago, Illinois, USA. 
+
+Type of source media: paper
+Source contribution:
+Attribute data
+
+
+Date: 1999 (change 1 of 5) 
+This data set was created from several sources and finalized.  Most features are based on a generalized version of the ArcWorld 1:3M coverage.  The country and administrative unit boundaries were utilized for most of the zone boundaries.  In a few instances, the ArcUSA 1:2M county level data for the United States and the ArcAtlas&#8482; data for some zone boundaries in Russia were used.  Most of the zones in ocean areas followed lines of longitude and latitude and were mathematically generated.  The values of plus and minus hours from Greenwich are from a Central Intelligence Agency (CIA) map and the Rand McNally New International Atlas.
+
+Data sources used in this process: 
+ArcWorld 1:3M 
+ArcUSA 1:2M 
+ArcAtlas 
+Rand McNally Int. 
+
+
+Date: 20020218 (change 2 of 5) 
+The following steps were performed by ESRI for Data &amp; Maps 2002: Extracted the finalized data set.  Updated areas in Canada including Nunavut.  Densified arcs at 0.1 decimal degrees to maintain curvature of longitude lines when projecting.  Generalized arcs at .02 decimal degrees.  Created regions based on the Zone attribute.  Output the data set as a shapefile.  Created ArcGIS&#174; layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC.
+
+Data sources used in this process: 
+ArcWorld 1:3M 
+ArcUSA 1:2M 
+ArcAtlas 
+Rand McNally Int. 
+www.nunavutcourtofjustice.ca 
+www.nunavut.com 
+www.nrc.ca 
+DMTI Spatial Inc. - 2 to 50 
+
+
+Date: 20040307 (change 3 of 5) 
+The following steps were performed by ESRI: Added SQKM attribute and calculated its values. Added SQ_MI attribute and calculated its values. Added COLORMAP attribute and calculated values between 1 and 8.
+
+
+Date: 20050211 (change 4 of 5) 
+The following steps were performed by ESRI: Densified all features so the data set lines project more smoothly.
+
+
+Date: 20060328 (change 5 of 5) 
+The following steps were performed by ESRI: Corrected the east, north, and south geographic extents. Converted the data set to SDC.</statement>
+      </dataLineage>
+      <dqScope>
+         <scpLvl>
+            <ScopeCd value="005" />
+         </scpLvl>
+      </dqScope>
+   </dqInfo>
+   <mdFileID Sync="TRUE">{E433D28A-7062-4B5F-849B-C0435818E78C}</mdFileID>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+   </distinfo>
+</metadata>

@@ -1,0 +1,216 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Kontex Geomatics</origin>
+        <pubdate>20120425</pubdate>
+        <title>Nigeria state boundaries</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/b5/64/4t/02/z/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>State-level administrative boundaries of Nigeria in .shp format.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20120425</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>2.668430</westbc>
+        <eastbc>14.680070</eastbc>
+        <northbc>13.892010</northbc>
+        <southbc>4.277140</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>states</themekey>
+        <themekey>state</themekey>
+        <themekey>boundaries</themekey>
+        <themekey>boundary</themekey>
+        <themekey>administrative boundaries</themekey>
+        <themekey>administrative divisions</themekey>
+        <themekey>area</themekey>
+        <themekey>population</themekey>
+        <themekey>male</themekey>
+        <themekey>female</themekey>
+        <themekey>households</themekey>
+        <themekey>LGA</themekey>
+        <themekey>local government area</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>boundaries</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Nigeria</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Kontex Geomatics, Ikeja, Nigeria</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{375e68d7-3586-4d26-91a4-7eac1fbb2a6f}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>37</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>stateadminboundaries</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>Name of state.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA_KM_</attrlabl>
+        <attrdef>Area of state in square kilometers.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LGAS</attrlabl>
+        <attrdef>Number of Local Government Areas within state.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HOUSEHOLDS</attrlabl>
+        <attrdef>Number of households within state.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MALES</attrlabl>
+        <attrdef>Number of male individuals within state.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FEMALES</attrlabl>
+        <attrdef>Number of female individuals within state.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOTAL</attrlabl>
+        <attrdef>Total population within state.</attrdef>
+        <attrdefs>Kontex Geomatics</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Settlements inside LGA</enttypl>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>LGA inside State</enttypl>
+      </enttyp>
+    </detailed>
+    <detailed>
+      <enttyp>
+        <enttypl>Anno_50_110</enttypl>
+      </enttyp>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140326</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,315 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>LAND INFO Worldwide Mapping, LLC</origin>
+            <pubdate>2006</pubdate>
+            <title>Madrid roads and streets</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/kp/78/gh/83/m/content/restricted/data.zip</onlink>
+            <ftname Sync="TRUE">MADRID_ROADS_CENTER</ftname>
+            <pubinfo>
+               <publish>LAND INFO Worldwide Mapping, LLC</publish>
+               <pubplace>Highlands Ranch, CO</pubplace>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>Madrid streets and roads data. DigitalGlobe QuickBird CitySphere acquired.</abstract>
+         <purpose>Provides street and road data in GIS data format.</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>2006</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>ground condition</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-3.828543</westbc>
+            <eastbc Sync="TRUE">-3.527997</eastbc>
+            <northbc Sync="TRUE">40.536825</northbc>
+            <southbc Sync="TRUE">40.278044</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">429830.584702</leftbc>
+            <rightbc Sync="TRUE">455114.700000</rightbc>
+            <bottombc Sync="TRUE">4458944.939249</bottombc>
+            <topbc Sync="TRUE">4487477.196400</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>Transportation networks</themekey>
+            <themekey>Roads</themekey>
+            <themekey>Streets</themekey>
+         </theme>
+         <place>
+            <placekey>Madrid</placekey>
+            <placekey>Spain</placekey>
+         </place>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>Licensed data.</useconst>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <sdtsterm Name="MADRID_ROADS_CENTER">
+            <sdtstype Sync="TRUE">String</sdtstype>
+            <ptvctcnt Sync="TRUE">78806</ptvctcnt>
+         </sdtsterm>
+         <esriterm Name="MADRID_ROADS_CENTER">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polyline</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">78806</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <coordrep>
+                  <absres Sync="TRUE">0.000000</absres>
+                  <ordres Sync="TRUE">0.000000</ordres>
+               </coordrep>
+               <plandu Sync="TRUE">meters</plandu>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+               <transmer>
+                  <sfctrmer Sync="TRUE">0.999600</sfctrmer>
+                  <longcm Sync="TRUE">-3.000000</longcm>
+                  <latprjo Sync="TRUE">0.000000</latprjo>
+                  <feast Sync="TRUE">500000.000000</feast>
+                  <fnorth Sync="TRUE">0.000000</fnorth>
+               </transmer>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">WGS84</horizdn>
+            <ellips Sync="TRUE">GRS 1980</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257222</denflat>
+         </geodetic>
+         <cordsysn>
+            <geogcsn Sync="TRUE">Geographic Coordinate System</geogcsn>
+            <projcsn Sync="TRUE">UTM Zone 30, Northern Hemisphere</projcsn>
+         </cordsysn>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="MADRID_ROADS_CENTER">
+         <enttyp>
+            <enttypl Sync="TRUE">MADRID_ROADS_CENTER</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">78806</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl>FID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>Shape</attrlabl>
+            <attrdef>Feature geometry.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Coordinates defining the features.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>DESCRIPTIO</attrlabl>
+            <attalias Sync="TRUE">DESCRIPTIO</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">100</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">REMARKS</attrlabl>
+            <attalias Sync="TRUE">REMARKS</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">100</attwidth>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize>7.188</transize>
+               <dssize Sync="TRUE">11.195</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20091014</metd>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+               <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metextns>
+         <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof>ESRI Metadata Profile</metprof>
+      </metextns>
+      <langmeta Sync="TRUE">en</langmeta>
+   </metainfo>
+   <Esri>
+      <MetaID>{0123B9A9-496B-47C2-968B-B3C8C4D67EB6}</MetaID>
+      <CreaDate>20091019</CreaDate>
+      <CreaTime>09244200</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20091014</SyncDate>
+      <SyncTime>10224600</SyncTime>
+      <ModDate>20091014</ModDate>
+      <ModTime>10225200</ModTime>
+      <PublishedDocID>{32AEBB38-5229-47E6-B38B-5544A844EDCD}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <procdesc Sync="TRUE">Metadata imported.</procdesc>
+            <procdate Sync="TRUE">20091012</procdate>
+            <proctime Sync="TRUE">09463200</proctime>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">MADRID_ROADS_CENTER</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">429830.584702</westBL>
+               <eastBL Sync="TRUE">455114.7</eastBL>
+               <northBL Sync="TRUE">4487477.1964</northBL>
+               <southBL Sync="TRUE">4458944.939249</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-3.828543</westBL>
+         <eastBL Sync="TRUE">-3.527997</eastBL>
+         <northBL Sync="TRUE">40.536825</northBL>
+         <southBL Sync="TRUE">40.278044</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\cities\CitySphereRoadVectors\Madrid\MADRID_ROADS_CENTER.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">11.195</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">UTM Zone 30, Northern Hemisphere</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="MADRID_ROADS_CENTER">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">78806</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20091014</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

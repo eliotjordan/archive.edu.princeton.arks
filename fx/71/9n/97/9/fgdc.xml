@@ -1,0 +1,1014 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Butte County Association of Governments</origin>
+        <pubdate>20090310</pubdate>
+        <title>Butte County, California land parcels, 2009</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Chico, CA</pubplace>
+          <publish>Butte County Association of Governments</publish>
+        </pubinfo>
+        <onlink>http://map.princeton.edu/data/fx/71/9n/97/9/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The parcel feature class is a polygon feature class representing the individual
+        parcels for Butte County, California, 2009, which was derived from assessor map pages in
+        digital and hardcopy formats. All new parcels are entered from assessor CAD pages registered
+        to orthorectified imagery.</abstract>
+      <purpose>For use with GIS software. This layer is designed as a Tax Parcel product. This
+        information is intended for cartographic use, general spatial analysis and as a spatial
+        index to Land related information. It is not intended for site specific analysis.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20090310</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-122.069193</westbc>
+        <eastbc>-121.076981</eastbc>
+        <northbc>40.151888</northbc>
+        <southbc>39.294206</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property maps</themekey>
+        <themekey>land use</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>parcel</themekey>
+        <themekey>property</themekey>
+        <themekey>ownership</themekey>
+        <themekey>land value</themekey>
+        <themekey>agriculture</themekey>
+        <themekey>timber</themekey>
+        <themekey>buildings</themekey>
+        <themekey>commercial</themekey>
+        <themekey>manufacture</themekey>
+        <themekey>manufacturing</themekey>
+        <themekey>industry</themekey>
+        <themekey>industrial</themekey>
+        <themekey>residential</themekey>
+        <themekey>garage</themekey>
+        <themekey>baths</themekey>
+        <themekey>bathrooms</themekey>
+        <themekey>bedrooms</themekey>
+        <themekey>wells</themekey>
+        <themekey>septic</themekey>
+        <themekey>sewer</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>California</placekey>
+        <placekey>Butte County</placekey>
+        <placekey>Oroville</placekey>
+        <placekey>Chico</placekey>
+        <placekey>Biggs</placekey>
+        <placekey>Gridley</placekey>
+        <placekey>Paradise</placekey>
+      </place>
+    </keywords>
+    <accconst>Data is licensed for use.</accconst>
+    <useconst>Refer to the License Agreement for Butte County Digital Geographic Data Sets. Data are
+      licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Butte County Association of Governments</cntorg>
+          <cntper>Chris Devine</cntper>
+        </cntorgp>
+        <cntpos>Planning Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>2580 Sierra Sunrise Terrace, Suite 100</address>
+          <city>Chico</city>
+          <state>CA</state>
+          <postal>95928</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(530)879-2468</cntvoice>
+        <cntfax>(530)879-2444</cntfax>
+        <cntemail>cdevine@bcag.org</cntemail>
+        <hours>Normal Business Hours (8:00am - 4:30pm)</hours>
+        <cntinst>Additional Contact Persons: Jon Clark (Director) (530)879-2468</cntinst>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{52b602c0-182a-492b-b558-1b11d47001bc}</PublishedDocID>
+  </Esri>
+  <dataqual>
+    <attracc>
+      <attraccr>Attributes are currently under review.</attraccr>
+    </attracc>
+    <logic>The data set is topologically structured polygon data.</logic>
+    <complete>All areas of Butte County and all incorporated areas have been mapped. Completeness is
+      100%.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>The relative horizontal positional accuracy for the information used to develop
+          the original tax parcel data is estimated at +/- 20 feet (NMAS 1:12000) in urban areas and
+          +/- 40 feet (NMAS 1:24000) in rural areas. With the implementation of the GPS centerline
+          positional accuracy is higher in areas.</horizpar>
+      </horizpa>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Butte County Department of Development Services</origin>
+            <title>Butte County Parcels</title>
+            <geoform>digital</geoform>
+            <pubinfo>
+              <pubplace>Oroville, CA</pubplace>
+              <publish>Butte County Department of Development Services</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>hardcopy</typesrc>
+        <srccitea>BCDDS</srccitea>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Butte County Association of Governments</origin>
+            <pubdate>unknown</pubdate>
+            <title>Butte County Parcels</title>
+            <geoform>digital</geoform>
+            <pubinfo>
+              <pubplace>Chico, CA</pubplace>
+              <publish>Butte County Association of Governments</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>2002, July</begdate>
+              <enddate>present</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>BCAG_2</srccitea>
+        <srccontr>Assessor&#146;s digital DWG files and hardcopy scans.</srccontr>
+      </srcinfo>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Butte County Association of Governments</origin>
+            <pubdate>unknown</pubdate>
+            <title>Butte County Parcels</title>
+            <geoform>digital</geoform>
+            <pubinfo>
+              <pubplace>Oroville, CA</pubplace>
+              <publish>Butte County Association of Governments</publish>
+            </pubinfo>
+          </citeinfo>
+        </srccite>
+        <srcscale>0</srcscale>
+        <typesrc>hardcopy</typesrc>
+        <srctime>
+          <timeinfo>
+            <rngdates>
+              <begdate>19980101</begdate>
+              <enddate>20000101</enddate>
+            </rngdates>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>BCAG_1</srccitea>
+        <srccontr>BCAG contracted with the consulting firm Quad Knopf Engineering, Inc., to take
+          BCDDS&#146;s countywide parcel file and improve its spatial accuracy by rectifying it to
+          BCAG&#146;s highly accurate centerline road file. Also, base was brought up-to-date by
+          adding missing parcels.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>The process for the parcel file cleaning was made up of four (4) phases that
+          resulted in a more accurate parcel layer. The four phases consisted of: 1) importing or
+          digitizing page; 2) cleaning; 3) registering; 4) implementing. The first phase in the
+          adjustment process began with the importing of the Assessor CAD pages. The County Assessor
+          maintains its pages as AutoCAD drawings (.dwg files). The prevailing factor in using the
+          Assessors&#146; CAD drawings is to maintain the parcel pages&#146; scale and geometric
+          accuracy. Each CAD drawing received from the Assessors&#146; Office was generated using
+          Coordinate Geometry (COGO), which allows for accurate segment lengths and scale. Relevant
+          layers from each CAD drawing are delineated and imported into an ArcInfo coverage.
+          Important layers consist of lots, easements, roads, and parcels. If the CAD page was not
+          available from the Assessor then the page needed to be manually digitized. Each paper
+          parcel page was scanned at 300 dpi and converted to a vector format using heads-up
+          digitizing. This work was subcontracted with ETS Digital in Chico. In order for the GIC to
+          make the appropriate adjustments, all Assessor parcel pages need to be in digital format
+          with parcel boundary lines digitized as a single vector layer in DWG file format. Thus,
+          approximately 1,200 assessor parcel pages needed to be scanned, and the vector lines
+          representing parcel boundaries needed to be extracted and saved as a DWG file. ETS scanned
+          each Assessor parcel page, and digitized only the parcel boundary vector lines (no rivers,
+          easements, etc), and were saved as a single DWG file. The parcel boundary vector lines
+          were the only lines to be digitized as part of this contract. Page breakdown: Chico 303
+          pages, Oroville 176 pages, Paradise 376 pages, Butte County and remaining areas 371.
+          Unfortunately the CAD parcel page drawings&#146; topology (connectivity, area definition,
+          and contiguity) from either the Assessor or ETS sometimes contained errors that would not
+          allow the newly created Arc coverage to work correctly with the ArcInfo GIS master
+          coverage. The most frequent example of this was lines/arcs that cross one another without
+          actually connecting at the point of intersection. To correct this discrepancy, the clean
+          command was used. This command: corrects geometric coordinate errors, assembles arcs
+          (lines) into polygons and creates feature attribute information (shape/area/length) for
+          each polygon or arc. A two-foot tolerance was used for this process. Essentially the end
+          point of any arc/line was connected or snapped to another arc that was within a two-foot
+          radius. After the clean operation was performed, a GIS technician manually rechecked each
+          newly created parcel page coverage for any topological errors. If there were any errors
+          found, the technician used ArcEdit to correct any remaining errors. Following the import
+          and clean procedures was the registration phase. During this stage, the newly created and
+          cleaned Arc coverages were registered using ArcGIS. Registration changes the Arc coverage
+          coordinates using a projective transformation based on a set of control points. This
+          process basically designated a real world location for the parcel page coverage. The real
+          world location was referenced to an ortho-rectified aerial photo of the area and control
+          points were derived. Control points are specific locations on the photo such as fence
+          lines, intersections, and sidewalks. Once the parcel page coverage had been moved to
+          its&#146; relative real world location, the rotate function was used to properly align the
+          new page to the county master GIS coverage and aerial photo. Since the original AutoCAD
+          drawing file was created with the appropriate scale, the coverage did not require any
+          further scaling. After the newly created parcel page coverage had been registered, it was
+          ready to be implemented. The implementation stage consisted of weaving the registered
+          parcel pages into one master GIS coverage for the entire county within ArcEdit. The
+          technician used his/her best judgment when sorting out discrepancies among pages. In
+          addition to creating a master coverage that consisted of arcs/lines and nodes/points of
+          connection, label points were created or updated as well.</procdesc>
+        <srcused>BCAG_2</srcused>
+      </procstep>
+      <procstep>
+        <procdesc>Parcel linework was digitized from hardcopy assessor?s maps and controlled to US
+          Census Bureau TIGER files.</procdesc>
+        <srcused>BCDDS</srcused>
+      </procstep>
+      <procstep>
+        <procdesc>Processed file using &#145;adjust&#146; arcinfo command. Command rubbersheets file
+          based on centerline control. In an effort to make the parcel file current with the Butte
+          County Assessor&#146;s Parcel Books, the consultant also added approximately 4,500 parcels
+          to the parcel file that had been missing from the County&#146;s original parcel
+          file.</procdesc>
+        <srcused>BCAG_1</srcused>
+        <procdate>19990101</procdate>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <indspref>None</indspref>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>92979</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>PoolCode</attrlabl>
+        <attrdef>Pool Code - A code designating the type of pool installed on the parcel.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Trn_Doc</attrlabl>
+        <attrdef>Transfer Document Number - The number assigned by the County Clerk Recorder's
+          Office to the most recent title transfer document.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Use_Code</attrlabl>
+        <attrdef>Use Code - Land Use Code</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>AA</edomv>
+            <edomvd>Almonds</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>99</edomv>
+            <edomvd>Not Yet Defined</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>R3</edomv>
+            <edomvd>Triplex</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CP</edomv>
+            <edomvd>Commercial Prof (Bank, Etc.)</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CS</edomv>
+            <edomvd>Commercial Retail (Stores, Etc.)</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RZ</edomv>
+            <edomvd>Miscellaneous</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>UU</edomv>
+            <edomvd>Unusable (Ditches, Etc.)</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AM</edomv>
+            <edomvd>Mixed Fruit Crops</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>MZ</edomv>
+            <edomvd>Timber Oil and Gas Rights</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RM</edomv>
+            <edomvd>Single Family Dwel-Prop Tax MH</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AJ</edomv>
+            <edomvd>Peaches</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AC</edomv>
+            <edomvd>Citrus</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>IW</edomv>
+            <edomvd>Wharehouse/Wholesale Operations</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AE</edomv>
+            <edomvd>Pears</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AK</edomv>
+            <edomvd>Kiwis</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AO</edomv>
+            <edomvd>Olives</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AN</edomv>
+            <edomvd>Mixed Fruit/Nut Crops</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CI</edomv>
+            <edomvd>Institutional (Church Hos)</edomvd>
+          </edom>
+          <edom>
+            <edomv>AP</edomv>
+            <edomvd>Prunes</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CV</edomv>
+            <edomvd>Commercial Vacant</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AF</edomv>
+            <edomvd>Field and Row Crops</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AU</edomv>
+            <edomvd>Pistachios</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AZ</edomv>
+            <edomvd>Miscellaneous</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AI</edomv>
+            <edomvd>Irrigated Pasture</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AG</edomv>
+            <edomvd>Grazing</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AT</edomv>
+            <edomvd>Timber</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RV</edomv>
+            <edomvd>Vacant</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RS</edomv>
+            <edomvd>Single Family Dwel-Stick Built</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RW</edomv>
+            <edomvd>Modular</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RP</edomv>
+            <edomvd>Permanent Found. MH</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RN</edomv>
+            <edomvd>Single Family Dwel-Lic Fee MH</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RQ</edomv>
+            <edomvd>Single Family Dwel-MH Unk Stat</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AR</edomv>
+            <edomvd>Rice</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>00</edomv>
+            <edomvd>Valid 0 Value</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>9999</edomv>
+            <edomvd>Not Yet Defined</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>R4</edomv>
+            <edomvd>Fourplex</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>R7</edomv>
+            <edomvd>Multiple Res. Not Matching</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CU</edomv>
+            <edomvd>Utilities</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CZ</edomv>
+            <edomvd>Commercial-Misc</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RC</edomv>
+            <edomvd>Condominium</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AB</edomv>
+            <edomvd>Mixed Nuts</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>IV</edomv>
+            <edomvd>Industrial Vacant</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>IM</edomv>
+            <edomvd>Manufacturing</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>IZ</edomv>
+            <edomvd>Miscellaneous Industrial</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AQ</edomv>
+            <edomvd>Christmas Trees</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AY</edomv>
+            <edomvd>Mixed Agricultural</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CR</edomv>
+            <edomvd>Residential (Motel, Hotel, MH Pk)</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CT</edomv>
+            <edomvd>Recreational (Theater, Golf, Etc.)</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>R2</edomv>
+            <edomvd>Duplex</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AW</edomv>
+            <edomvd>Walnuts</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AD</edomv>
+            <edomvd>Dry Farming</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>RA</edomv>
+            <edomvd>Five or More Unit-Apartments</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>AV</edomv>
+            <edomvd>Vines</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+          <edom>
+            <edomv>CC</edomv>
+            <edomvd>Service (Garage Shop Mini St)</edomvd>
+            <edomvds>Butte County Assessor</edomvds>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ot_Vl</attrlabl>
+        <attrdef>Other Value - The assessed value assigned to non-structural improvement component
+          of the parcel by the County Assessor's office.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessor's parcel number.</attrdef>
+        <attrdefs>Butte County Association of Governments</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>BldgClass</attrlabl>
+        <attrdef>Building Class - The codified value for quality class of the structure on the
+          parcel. The codification is based on the California State Board of Equalization rules for
+          appraisal.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HasSeptic</attrlabl>
+        <attrdef>Has Septic - A Boolean value assigned to the parcel indicating that it has a septic
+          system on site.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GarageSize</attrlabl>
+        <attrdef>Garage Size - The size of the garage measured in square feet.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>UnitSize</attrlabl>
+        <attrdef>i. Unit Size - The size of the unit measured in square feet.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Tim_Pre</attrlabl>
+        <attrdef>Timber Preserve - Also known as Timberland Production Zone created by Timberland
+          Productivity Act of 1982.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Hmewnr_Exe</attrlabl>
+        <attrdef>Homeowner Exemption - A Boolean value assigned the parcel indicating that the owner
+          is receiving the Homeowner's Exemption currently valued at $7000 in taxable value
+          reduction.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Tax_Amnt</attrlabl>
+        <attrdef>Tax Amount - The annual amount of taxes assessed against the parcel. This value
+          does not include additional supplemental taxes that might be assessed against the
+          parcel.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_DIR</attrlabl>
+        <attrdef>Street direction.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_SF</attrlabl>
+        <attrdef>Street suffix.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_CITY</attrlabl>
+        <attrdef>Situs city name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_ZIP</attrlabl>
+        <attrdef>Situs ZIP code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TaxRate</attrlabl>
+        <attrdef>Tax Rate - Tax Rate Area (TRA) assigned to the parcel.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER2</attrlabl>
+        <attrdef>Additional owners.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ttl_Vl</attrlabl>
+        <attrdef>Total Value - The sum total of the Land, Improvement, and the Other value
+          components of the parcel.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NumFullBat</attrlabl>
+        <attrdef>Number of Full Bathrooms - The number of full bathrooms contained within in the
+          unit.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Lt_SqFt</attrlabl>
+        <attrdef>Lot Square Feet - The area of the parcel measured in square feet.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Lgl_Desc</attrlabl>
+        <attrdef>Legal Description - The legal description of the parcel.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Lt_Acre</attrlabl>
+        <attrdef>Lot Acres - The area of the parcel measured in acres.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TaxCode</attrlabl>
+        <attrdef>Taxability Code - The code used to designate how a property is to be
+          taxed.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Ass_Yr</attrlabl>
+        <attrdef>Assessment Year - The assessment year for the values assigned to the
+          parcel.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Owner</attrlabl>
+        <attrdef>Primary Land Owner - First owner listed on the deed.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ag_Pres</attrlabl>
+        <attrdef>Agriculture Preserve - Property identified under the California Land Conservation
+          Act (CLCA) of 1965 (also known as The Williamson Act.)</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NumFirePla</attrlabl>
+        <attrdef>Number of Fireplaces - The number of fireplaces contained within the
+          unit.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Land_Vl</attrlabl>
+        <attrdef>Land Value - The assessed value assigned to the land component of the parcel by the
+          County Assessor's office.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Impr_Vl</attrlabl>
+        <attrdef>Improvement Value - The assessed value assigned to the structural improvement
+          component of the parcel by the County Assessor's office.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NumHalfBat</attrlabl>
+        <attrdef>Number of Half Bathrooms - The number of half bathrooms contained within the
+          unit.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>S_Unit</attrlabl>
+        <attrdef>Situs Unit Number - The unit number portion of the street address assigned to the
+          situs.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NumBedroom</attrlabl>
+        <attrdef>Number of Bedrooms - The number of bedrooms in the unit.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Yr_Blt</attrlabl>
+        <attrdef>Year Built - The year that the building structure was completed.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HasWell</attrlabl>
+        <attrdef>Has Well - A Boolean value assigned to the parcel indicating that it has a well on
+          site.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NumUnits</attrlabl>
+        <attrdef>Number of Units - Number of residential units on the parcel.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>HasSewer</attrlabl>
+        <attrdef>Has Sewer - A Boolean value assigned to the parcel indicating that it has sewer
+          hookup to a municipal sewer system.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>NumBldgs</attrlabl>
+        <attrdef>Number of Buildings - Number of buildings on the parcel. Each building may contain
+          multiple units of multiple types.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BldgSize</attrlabl>
+        <attrdef>Building Size - The size of the building measured in square feet.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Eff_Yr</attrlabl>
+        <attrdef>Effective Year - The equivalent year of the building structure after any remodeling
+          has been completed.</attrdef>
+        <attrdefs>Butte County Assessor</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Butte County Association of Governments</cntorg>
+          <cntper>Chris Devine</cntper>
+        </cntorgp>
+        <cntpos>Planning Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>2580 Sierra Sunrise Terrace, Suite 100</address>
+          <city>Chico</city>
+          <state>CA</state>
+          <postal>95928</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(530)879-2468</cntvoice>
+        <cntfax>(530)879-2444</cntfax>
+        <cntemail>cdevine@bcag.org</cntemail>
+        <hours>Normal Business Hours (8:00am - 4:30pm)</hours>
+        <cntinst>Additional Contact Persons: Jon Clark (Director), (530)879-2468.</cntinst>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>BCAG member jurisdictions may distribute the GIS base data according to their own
+      discretion. Non-member jurisdictions are permitted to use the GIS base data for internal
+      business purposes only, and cannot sell, transfer, license, sublicense, disclose or allow
+      access to the digital data to any third party without express written permission from BCAG.
+      However, if any manipulation and/or processing of data are required to fulfill a request, an
+      entity may charge the cost incurred for those services. BCAG does not guarantee the accuracy
+      or quality of the digital data. The information is taken ?AS IS? without any representations
+      or implied warranties as to the fitness for a particular purpose or otherwise. It is further
+      understood that any and all rights, claims, causes of action or other recourse against BCAG
+      for injuries or damages of any type, whether direct, indirect, incidental, consequential or
+      otherwise, resulting from any error or omission in the data or in any programming used to
+      obtain the data, or in any manner arising out of or related to the data retrieved herein, are
+      forever waived. It is agreed that BCAG shall not be liable for any liability, claim, loss,
+      damage, injury or expense of any kind caused or alleged to be caused, directly or indirectly,
+      by the inadequacy of data obtained from BCAG, by any deficiency of BCAG or user systems, by
+      any delay or failure to provide service, or by any other interruption, disruption or loss to
+      operations.</distliab>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <formname>Shapefile</formname>
+          <formvern>[1]</formvern>
+          <formcont>Shapefile</formcont>
+          <transize>37.243</transize>
+        </digtinfo>
+        <digtopt>
+          <offoptn>
+            <offmedia>CD-ROM</offmedia>
+            <reccap>
+              <recden>650</recden>
+              <recdenu>Megabytes</recdenu>
+            </reccap>
+          </offoptn>
+        </digtopt>
+      </digform>
+      <fees>A fee will be levied to non-BCAG member agencies for monthly, quarterly, bi-annual and
+        annual updates. The costs for receiving the updates are detailed in BCAG?s GIS base data
+        subscription plan.</fees>
+      <ordering>Contact Butte County Association of Governments.</ordering>
+    </stdorder>
+  </distinfo>
+  <metainfo>
+    <metd>20140325</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Butte County Association of Governments</cntorg>
+          <cntper>Chris Devine</cntper>
+        </cntorgp>
+        <cntpos>Planning Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>2580 Sierra Sunrise Terrace, Suite 100</address>
+          <city>Chico</city>
+          <state>CA</state>
+          <postal>95928</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(530)879-2468</cntvoice>
+        <cntfax>(530)879-2444</cntfax>
+        <cntemail>cdevine@bcag.org</cntemail>
+        <hours>Normal Business Hours (8:00am - 4:30pm)</hours>
+        <cntinst>Additional Contact Persons: Jon Clark (Director) (530)879-2468</cntinst>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,384 @@
+<metadata xml:lang="en">
+   <Esri>
+      <MetaID>{9B88A2AA-A32B-44BB-945C-83FB7250B873}</MetaID>
+      <CreaDate>20091019</CreaDate>
+      <CreaTime>09133800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20091014</SyncDate>
+      <SyncTime>09534500</SyncTime>
+      <ModDate>20091014</ModDate>
+      <ModTime>09535000</ModTime>
+      <DataProperties>
+         <lineage>
+            <Process Date="20090925" Time="095807" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection C:\GISData\Asia\India\HistoricMap\DISTRICT51.shp GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\GISData\Asia\India\HistoricMap\DISTRICT51.shp</Process>
+         </lineage>
+      </DataProperties>
+      <PublishedDocID>{8DE7F774-5C63-4842-B510-B4AB539CA6F8}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>District boundary data of India, 1951. Includes socio-demographic data. </abstract>
+         <purpose>Map provides distric bounday data in GIS file format. </purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>ML InfoMap Pvt. Ltd.</origin>
+            <pubdate>2006</pubdate>
+            <title>District boundary of India, 1951</title>
+            <ftname Sync="TRUE">DISTRICT51</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/data/mw/22/v7/06/m/content/restricted/data.zip</onlink>
+            <pubinfo>
+               <publish>ML InfoMap Pvt. Ltd.</publish>
+               <pubplace>New Delhi, India</pubplace>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>ground condition</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>1951</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">68.196831</westbc>
+            <eastbc Sync="TRUE">97.409096</eastbc>
+            <northbc Sync="TRUE">37.069954</northbc>
+            <southbc Sync="TRUE">6.767454</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">68.196831</leftbc>
+            <rightbc Sync="TRUE">97.409096</rightbc>
+            <bottombc Sync="TRUE">6.767454</bottombc>
+            <topbc Sync="TRUE">37.069954</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>Administrative and political boundaries</themekey>
+            <themekey>District boundary</themekey>
+            <themekey>District</themekey>
+            <themekey>Boundary</themekey>
+         </theme>
+         <place>
+            <placekey>India</placekey>
+         </place>
+         <temporal>
+            <tempkey>1951</tempkey>
+         </temporal>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>Licensed data</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa </cntper>
+               <cntorg>Princeton University </cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 am - 5:00 pm </hours>
+         </cntinfo>
+      </ptcontac>
+      <secinfo>
+         <secclass>Unclassified</secclass>
+      </secinfo>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">DISTRICT51</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">68.196831</westBL>
+               <eastBL Sync="TRUE">97.409096</eastBL>
+               <northBL Sync="TRUE">37.069954</northBL>
+               <southBL Sync="TRUE">6.767454</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">68.196831</westBL>
+         <eastBL Sync="TRUE">97.409096</eastBL>
+         <northBL Sync="TRUE">37.069954</northBL>
+         <southBL Sync="TRUE">6.767454</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Tsering Wangyal Shawa </cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>609-258-6804 </cntvoice>
+            <cntemail>shawatw@princeton.edu </cntemail>
+            <hours>8:45 am - 5:00 pm</hours>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20091014</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc Sync="TRUE">Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">11.070</transize>
+               <dssize Sync="TRUE">11.070</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Asia\India\HistoricMap\DISTRICT51.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">11.070</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="DISTRICT51">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">477</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="DISTRICT51">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">477</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="DISTRICT51">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">477</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="DISTRICT51">
+         <enttyp>
+            <enttypl Sync="TRUE">DISTRICT51</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">477</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AREA</attrlabl>
+            <attalias Sync="TRUE">AREA</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <atnumdec Sync="TRUE">6</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PERIMETER</attrlabl>
+            <attalias Sync="TRUE">PERIMETER</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">13</attwidth>
+            <atnumdec Sync="TRUE">6</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DIST51_</attrlabl>
+            <attalias Sync="TRUE">DIST51_</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>File ID</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DIST51_ID</attrlabl>
+            <attalias Sync="TRUE">DIST51_ID</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Unique Identification Number</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME</attrlabl>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <attrdef>Name of the district</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">STATE_UT</attrlabl>
+            <attalias Sync="TRUE">STATE_UT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">45</attwidth>
+            <attrdef>Name of the administrative state or union territory</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TOT_POP</attrlabl>
+            <attalias Sync="TRUE">TOT_POP</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total population</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">M_POP</attrlabl>
+            <attalias Sync="TRUE">M_POP</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total male population</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">F_POP</attrlabl>
+            <attalias Sync="TRUE">F_POP</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total female population</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">R_POP</attrlabl>
+            <attalias Sync="TRUE">R_POP</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total rural population</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">U_POP</attrlabl>
+            <attalias Sync="TRUE">U_POP</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total urban population</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POP_1941</attrlabl>
+            <attalias Sync="TRUE">POP_1941</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total population in 1941</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SEX_RATIO</attrlabl>
+            <attalias Sync="TRUE">SEX_RATIO</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Total number of females per 1000 males</attrdef>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20091014</mdDateSt>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{8DE7F774-5C63-4842-B510-B4AB539CA6F8}</mdFileID>
+</metadata>

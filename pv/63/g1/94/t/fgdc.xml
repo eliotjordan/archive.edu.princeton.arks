@@ -1,0 +1,455 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Baldwin County Commission</origin>
+        <pubdate>20080313</pubdate>
+        <title>Baldwin County, Alabama land parcels, 2008</title>
+        <edition>Updated Daily</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Bay Minette, Alabama</pubplace>
+          <publish>Baldwin County Revenue Commission</publish>
+        </pubinfo>
+        <onlink>http://map.princeton.edu/data/pv/63/g1/94/t/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Tax Parcel Boundaries for Baldwin County, Alabama.</abstract>
+      <purpose>This dataset was developed to help show ownership and more easily display taxation
+        based on parcels in Baldwin County.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20080313</caldate>
+          <time>unknown</time>
+        </sngdate>
+      </timeinfo>
+      <current>Updated daily</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-88.035309</westbc>
+        <eastbc>-87.387928</eastbc>
+        <northbc>31.318653</northbc>
+        <southbc>30.223173</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>parcel</themekey>
+        <themekey>land value</themekey>
+        <themekey>ownership</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Baldwin County</placekey>
+        <placekey>Alabama</placekey>
+      </place>
+    </keywords>
+    <accconst>According to Baldwin County Disclaimer. Data are licensed for Princeton
+      University-affiliated persons only.</accconst>
+    <useconst>The information contained in the digital data distributed by the Baldwin County
+      Commission is derived from a variety of public and private sources considered to be
+      dependable, but the accuracy, completeness, currency, thereof are not guaranteed. The Baldwin
+      County Commission makes no warranties, expressed or implied, as to the accuracy, completeness,
+      currency, reliability, or suitability for any particular purpose of information or data
+      contained in or generated from the county geographic database. Additionally, the Baldwin
+      County Commission or any agent, servant, or employee thereof assume no liability associated
+      with the use of the data and assume no responsibility to maintain it in any matter or
+      form.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Baldwin County Revenue Commission</cntorg>
+          <cntper>Phil Nix</cntper>
+        </cntorgp>
+        <cntpos>Revenue Commissioner</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>P.O.Box1549</address>
+          <city>Bay Minette</city>
+          <state>Alabama</state>
+          <postal>36507</postal>
+          <country>U.S.A</country>
+        </cntaddr>
+        <cntvoice>334-937-0245</cntvoice>
+        <cntfax>334-937-0388</cntfax>
+        <cntemail>pnix@co.baldwin.al.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <secinfo>
+      <secsys>None</secsys>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{d2b0b7fa-1bc7-4b08-b253-a19b16c51c62}</PublishedDocID>
+  </Esri>
+  <dataqual>
+    <complete>Digital maps are created from MYLAR maps. These maps were digitized by Southern
+      Digital Mapping Inc. and delivered to Baldwin County in May 2000. Subsequent updates are done
+      daily and are based on the changed deeds or new deeds and subdivision plats. The maps existed
+      in ArcInfo Librarian were imported into ArcSDE. Maps were double precisioned in
+      Librarian.</complete>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>Baldwin County Revenue Commission</origin>
+            <pubdate>unknown</pubdate>
+            <title>Tax Parcels</title>
+            <geoform>vector digital data</geoform>
+          </citeinfo>
+        </srccite>
+        <typesrc>None</typesrc>
+        <srccitea>Tax Parcels</srccitea>
+      </srcinfo>
+      <procstep>
+        <procdesc>The data set is created from MYLAR maps. These maps were digitized by Southern
+          Digital Mapping Inc. and delivered to Baldwin County</procdesc>
+        <procdate>unknown</procdate>
+        <proccont>
+          <cntinfo>
+            <cntorgp>
+              <cntorg>BCC Revenue Commission</cntorg>
+              <cntper>Phil Nix</cntper>
+            </cntorgp>
+            <cntpos>Revenue Commissioner</cntpos>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>121438</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <planar>
+        <mapproj>
+          <mapprojn>NAD 1983 StatePlane Alabama West FIPS 0102 Feet</mapprojn>
+          <transmer>
+            <sfctrmer>0.9999333333333333</sfctrmer>
+            <longcm>-87.5</longcm>
+            <latprjo>30.0</latprjo>
+            <feast>1968500.0</feast>
+            <fnorth>0.0</fnorth>
+          </transmer>
+        </mapproj>
+        <planci>
+          <plance>coordinate pair</plance>
+          <coordrep>
+            <absres>0.000000007285949621405053</absres>
+            <ordres>0.000000007285949621405053</ordres>
+          </coordrep>
+          <plandu>foot_us</plandu>
+        </planci>
+      </planar>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Parcel_01003</enttypl>
+        <enttypd>Parcels Information</enttypd>
+        <enttypds>BCC Revenue Commission</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>PIN</attrlabl>
+        <attrdef>Parcel Identification Number</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OBJECTID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SYMBOL</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LAND_GRANT</attrlabl>
+        <attrdef>Grant for a section</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Q_SECTION</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PLS_AREA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LOCATOR</attrlabl>
+        <attrdef>Locator - 6 mile X 6 mile strip</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RANGE</attrlabl>
+        <attrdef>Range 1 mile X 1 mile, East-West</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_Area</attrlabl>
+        <attrdef>Area of feature in internal units squared.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Positive real numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>LOT_NUM</attrlabl>
+        <attrdef>Assigned Lot number in a subdivision</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_Leng</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SUB_DIV</attrlabl>
+        <attrdef>Subdivision Code</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAP_BLOCK</attrlabl>
+        <attrdef>Block number for Maps</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>CALC_ACRE</attrlabl>
+        <attrdef>Total Area of the Parcel in Acres</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SECTION_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PAR_NUM</attrlabl>
+        <attrdef>Parcel Number assigned to a property</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PID</attrlabl>
+        <attrdef>Parcel Identification Number</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County code.</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOWNSHIP</attrlabl>
+        <attrdef>Township- 6 mile X 6 mile</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CIT_LIM</attrlabl>
+        <attrdef>Part of the County where the Parcel is located</attrdef>
+        <attrdefs>BCC Revenue Commission</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OID_</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN2</attrlabl>
+        <attrdef>APN without punctuation and/or another indexing field in GIS</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY_1</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_VALUE</attrlabl>
+        <attrdef>Total assessed value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140324</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Baldwin County Revenue Commission</cntorg>
+          <cntper>Phil Nix</cntper>
+        </cntorgp>
+        <cntpos>Revenue Commissiner</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>312 Courthouse Square, Suite 13</address>
+          <city>Bay Minette</city>
+          <state>AL</state>
+          <postal>36507</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>251-937-0245</cntvoice>
+        <cntfax>251-937-0388</cntfax>
+        <cntemail>pnix@co.baldwin.al.us</cntemail>
+        <hours>8:00 a.m.-4:30 p.m. Central time, Monday-Friday</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metac>According to Baldwin County Disclaimer</metac>
+    <metuc>The information contained in the digital data distributed by the Baldwin County
+      Commission is derived from a variety of public and private sources considered to be
+      dependable, but the accuracy, completeness, currency, thereof are not guaranteed. The Baldwin
+      County Commission makes no warranties, expressed or implied, as to the accuracy, completeness,
+      currency, reliability, or suitability for any particular purpose of information or data
+      contained in or generated from the county geographic database. Additionally, the Baldwin
+      County Commission or any agent, servant, or employee thereof assume no liability associated
+      with the use of the data and assume no responsibility to maintain it in any matter or
+      form.</metuc>
+    <metsi>
+      <metscs>None</metscs>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

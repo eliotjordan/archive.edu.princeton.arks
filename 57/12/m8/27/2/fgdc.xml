@@ -1,0 +1,723 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20080930</CreaDate>
+      <CreaTime>14574800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20040115</SyncDate>
+      <SyncTime>20492200</SyncTime>
+      <ModDate>20080930</ModDate>
+      <ModTime>14513800</ModTime>
+      <Sync>FALSE</Sync>
+      <MetaID>{F6D9E908-0C85-4010-999F-449832970C58}</MetaID>
+      <PublishedDocID>{EC7F6325-E27C-4B77-90C1-28EFFDF39B36}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.3.0.800</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>U.S. Major Parks represents National Parks, National Forests, State and local parks and forests within United States.</abstract>
+         <purpose>U.S. Major Parks provides thousands of named parks and forests at National, State, and local levels. </purpose>
+         <supplinf>Largest scale when displaying the data: 1:500,000.</supplinf>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>National Park Service</origin>
+            <pubdate>20080401</pubdate>
+            <title>U.S. Major Parks 2008</title>
+            <ftname Sync="TRUE">parks.sdc</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <edition>2008</edition>
+            <serinfo>
+               <sername>ESRI&#174; Data &amp; Maps</sername>
+               <issue>2008 World, Europe, United States, Canada, and Mexico</issue>
+            </serinfo>
+            <pubinfo>
+               <pubplace>Redlands, California, USA</pubplace>
+               <publish>ESRI</publish>
+            </pubinfo>
+            <origin>ESRI</origin>
+            <origin>Tele Atlas North America, Inc.</origin>
+            <onlink>http://map.princeton.edu/data/57/12/m8/27/2/content/restricted/data.zip</onlink>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>publication date</current>
+         <timeinfo>
+            <mdattim>
+               <sngdate>
+                  <caldate>19921001</caldate>
+               </sngdate>
+               <sngdate>
+                  <caldate>199710</caldate>
+               </sngdate>
+            </mdattim>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Annually</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-167.535945</westbc>
+            <eastbc Sync="TRUE">-67.131645</eastbc>
+            <northbc Sync="TRUE">68.655500</northbc>
+            <southbc Sync="TRUE">18.910845</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-167.535945</leftbc>
+            <rightbc Sync="TRUE">-67.131645</rightbc>
+            <bottombc Sync="TRUE">18.910845</bottombc>
+            <topbc Sync="TRUE">68.655500</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>polygon</themekey>
+            <themekey>parks</themekey>
+            <themekey>national park or forest</themekey>
+            <themekey>state park or forest</themekey>
+            <themekey>local park or forest</themekey>
+            <themekey>environment</themekey>
+         </theme>
+         <place>
+            <placekey>United States</placekey>
+            <placekt>None</placekt>
+         </place>
+         <temporal>
+            <tempkey>1992</tempkey>
+            <tempkt>None</tempkt>
+            <tempkey>1997</tempkey>
+         </temporal>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+      <natvform>shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Princeton University Library</cntorg>
+               <cntper>Tsering Wangyal Shawa</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>Princeton</city>
+               <state>New Jersey</state>
+               <postal>08540</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>Princeton</city>
+               <state>New Jersey</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45 a.m.&#8211;5:00 p.m. EST, Monday&#8211;Friday</hours>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20080930</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="parks">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">6371</efeacnt>
+            <spindex>TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+            <featdesc>U.S. Major Park</featdesc>
+         </esriterm>
+         <sdtsterm Name="parks">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">6371</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000009</latres>
+            <longres Sync="TRUE">0.000009</longres>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="parks">
+         <enttyp>
+            <enttypl Sync="TRUE">parks</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">6371</enttypc>
+            <enttypd>The polygons represent National Parks, National Forests, State and local parks and forests within United States.</enttypd>
+            <enttypds>ESRI</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">ObjectID</attrlabl>
+            <attalias Sync="TRUE">ObjectID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME</attrlabl>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">30</attwidth>
+            <attrdef>The proper name of the park or forest.</attrdef>
+            <attrdefs>National Park Service; ESRI; Tele Atlas North America, Inc.</attrdefs>
+            <attrdomv>
+               <udom>Names for the features.</udom>
+            </attrdomv>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FCC</attrlabl>
+            <attalias Sync="TRUE">FCC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">3</attwidth>
+            <attrdef>The Feature Classification Code of the park or forest.</attrdef>
+            <attrdefs>Department of Commerce, Census Bureau</attrdefs>
+            <attrdomv>
+               <codesetd>
+                  <codesetn>Census Feature Classification Codes (also called "FCC")</codesetn>
+                  <codesets>Department of Commerce, Census Bureau</codesets>
+               </codesetd>
+            </attrdomv>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SQMI</attrlabl>
+            <attalias Sync="TRUE">SQMI</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdefs>ESRI</attrdefs>
+            <attrdef>The area in square miles.</attrdef>
+            <attrdomv>
+               <udom>Calculated areas for the features.</udom>
+            </attrdomv>
+            <atprecis Sync="TRUE">11</atprecis>
+            <attscale Sync="TRUE">5</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+      </detailed>
+   </eainfo>
+   <dataqual>
+      <lineage>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>National Park Service</origin>
+                  <geoform>vector digital data</geoform>
+                  <pubinfo>
+                     <publish>National Park Service</publish>
+                     <pubplace>Washington, DC, USA</pubplace>
+                  </pubinfo>
+                  <pubdate>Unknown</pubdate>
+               </citeinfo>
+            </srccite>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>unknown</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>NPS</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <procstep>
+            <procdesc>The following steps were performed by ESRI: Extracted the National Parks from the National Park Service, the National Forests from ESRI ArcUSA 1:2M and the rest of the parks from Tele Atlas North America, Inc. Dynamap/2000 v7.3. Converted to North American Datum of 1983 (NAD83).  Created ArcGIS&#174; layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue&#8482; request ExportClean, and created spatial indices. Converted the data set to SDC.</procdesc>
+            <procsv>ArcView GIS 3.x</procsv>
+            <srcused>NPS</srcused>
+            <procdate>20000727</procdate>
+            <srcused>ArcUSA 1:2M</srcused>
+            <srcused>Tele Atlas Dynamap/2000 v7.3</srcused>
+         </procstep>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>ESRI</origin>
+                  <pubdate>19921001</pubdate>
+                  <title>ArcUSA&#8482; 1:2M</title>
+                  <edition>1</edition>
+                  <geoform>vector digital data</geoform>
+                  <pubinfo>
+                     <pubplace>Redlands, California, USA</pubplace>
+                     <publish>ESRI</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>2000000</srcscale>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>19921001</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>ArcUSA 1:2M</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <srcinfo>
+            <srcscale>100000</srcscale>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srccitea>Tele Atlas Dynamap/2000 v7.3</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+            <srccite>
+               <citeinfo>
+                  <origin>Tele Atlas North America, Inc.</origin>
+                  <pubdate>199710</pubdate>
+                  <title>Dynamap/2000 v7.3</title>
+                  <edition>Version 7.3</edition>
+                  <geoform>vector digital data</geoform>
+                  <serinfo>
+                     <sername>Tele Atlas&#174; Dynamap&#174;/2000</sername>
+                     <issue>v7.3</issue>
+                  </serinfo>
+                  <pubinfo>
+                     <pubplace>Lebanon, New Hampshire, USA</pubplace>
+                     <publish>Tele Atlas North America, Inc.</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>199710</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+         </srcinfo>
+      </lineage>
+      <posacc>
+         <horizpa>
+            <horizpar>The geospatial part of this data set was extracted from several sources at different scales.  The positional accuracy is unknown.</horizpar>
+         </horizpa>
+      </posacc>
+      <logic>The shapefile is converted to SDC (Smart Data Compression) format using either ESRI SDC Data Development Kit Professional 2 (DDKP2) or tools in ArcGIS.  The SDC data set is then loaded into ArcSDE&#174; to verify and validate the geometry.</logic>
+      <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+   </dataqual>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 3; ESRI ArcCatalog 8.3.0.800</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle>U.S. Major Parks</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+         <resEd>2008</resEd>
+         <resEdDate>20080401</resEdDate>
+         <resRefDate>
+            <refDate>20000727</refDate>
+            <refDateType>
+               <DateTypCd value="001" />
+            </refDateType>
+         </resRefDate>
+         <citRespParty>
+            <rpIndName>Data Team</rpIndName>
+            <rpOrgName>ESRI</rpOrgName>
+            <rpPosName>Data Team</rpPosName>
+            <role>
+               <RoleCd value="007" />
+            </role>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>380 New York Street</delPoint>
+                  <city>Redlands</city>
+                  <adminArea>California</adminArea>
+                  <postCode>92373-8100</postCode>
+                  <eMailAdd>info@esri.com</eMailAdd>
+                  <country>us</country>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>909-793-2853</voiceNum>
+                  <faxNum>909-793-5953</faxNum>
+               </cntPhone>
+            </rpCntInfo>
+         </citRespParty>
+         <citRespParty>
+            <rpOrgName>National Park Service</rpOrgName>
+            <rpCntInfo>
+               <cntAddress>
+                  <city>Washington</city>
+                  <adminArea>District of Columbia</adminArea>
+                  <country>us</country>
+               </cntAddress>
+            </rpCntInfo>
+            <role>
+               <RoleCd value="006" />
+            </role>
+         </citRespParty>
+         <citRespParty>
+            <rpOrgName>Tele Atlas North America, Inc.</rpOrgName>
+            <rpCntInfo>
+               <cntAddress>
+                  <city>Lebanon</city>
+                  <adminArea>New Hampshire</adminArea>
+                  <country>us</country>
+               </cntAddress>
+            </rpCntInfo>
+            <role>
+               <RoleCd value="006" />
+            </role>
+         </citRespParty>
+         <resRefDate>
+            <refDate>20080401</refDate>
+            <refDateType>
+               <DateTypCd value="002" />
+            </refDateType>
+         </resRefDate>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">-167.535945</westBL>
+               <eastBL Sync="TRUE">-67.131645</eastBL>
+               <northBL Sync="TRUE">68.6555</northBL>
+               <southBL Sync="TRUE">18.910845</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+         <tempEle>
+            <TempExtent>
+               <exTemp>
+                  <TM_GeometricPrimitive>
+                     <TM_Period>
+                        <begin>19921001</begin>
+                        <end>199710</end>
+                     </TM_Period>
+                  </TM_GeometricPrimitive>
+               </exTemp>
+            </TempExtent>
+         </tempEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-167.535945</westBL>
+         <eastBL Sync="TRUE">-67.131645</eastBL>
+         <northBL Sync="TRUE">68.6555</northBL>
+         <southBL Sync="TRUE">18.910845</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+      <idAbs>U.S. Major Parks represents National Parks, National Forests, State and local parks and forests within United States.</idAbs>
+      <tpCat>
+         <TopicCatCd value="007" />
+      </tpCat>
+      <resConst>
+         <Consts>
+            <useLimit>See legal constraints.</useLimit>
+         </Consts>
+         <LegConsts>
+            <accessConsts>
+               <RestrictCd value="005" />
+            </accessConsts>
+            <othConsts>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s).  Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s).
+
+The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+HIGH RISK ACTIVITIES: 
+(A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES.
+
+(B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</othConsts>
+            <useConsts>
+               <RestrictCd value="008" />
+            </useConsts>
+         </LegConsts>
+      </resConst>
+      <dataScale>
+         <equScale>
+            <rfDenom>2000000</rfDenom>
+         </equScale>
+      </dataScale>
+      <descKeys KeyTypCd="005">
+         <keyTyp>
+            <KeyTypCd value="005" />
+         </keyTyp>
+         <keyword>polygon, parks, national park or forest, state park or forest, local park or forest, environment</keyword>
+      </descKeys>
+      <descKeys KeyTypCd="002">
+         <keyTyp>
+            <KeyTypCd value="002" />
+         </keyTyp>
+         <keyword>United States</keyword>
+      </descKeys>
+      <descKeys KeyTypCd="004">
+         <keyTyp>
+            <KeyTypCd value="004" />
+         </keyTyp>
+         <keyword>1992, 1997</keyword>
+      </descKeys>
+      <resMaint>
+         <maintFreq>
+            <MaintFreqCd value="008" />
+         </maintFreq>
+      </resMaint>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc>003</orDesc>
+               <linkage Sync="TRUE">file://</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">2.600</transSize>
+            <offLineMed>
+               <medName>
+                  <MedNameCd value="003" />
+               </medName>
+            </offLineMed>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">SDC Feature Database</formatName>
+         </distorFormat>
+         <distorCont>
+            <rpOrgName>ESRI; ESRI International Distributors</rpOrgName>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>380 New York Street</delPoint>
+                  <city>Redlands</city>
+                  <adminArea>California</adminArea>
+                  <postCode>92373-8100</postCode>
+                  <country>us</country>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>800-447-9778</voiceNum>
+               </cntPhone>
+            </rpCntInfo>
+            <role>
+               <RoleCd value="005" />
+            </role>
+         </distorCont>
+         <distorOrdPrc>
+            <ordInstr>ESRI Data &amp; Maps is available only as part of ESRI&#174; software.
+
+In the United States, contact the ESRI Telebusiness staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contact/.</ordInstr>
+            <resFees>Software purchase price. ESRI Data &amp; Maps is available only as part of ESRI&#174; software. To use this data requires software that supports SDC files.</resFees>
+         </distorOrdPrc>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="parks">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">6371</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20080930</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdContact>
+      <rpIndName>Data Team</rpIndName>
+      <rpOrgName>ESRI</rpOrgName>
+      <rpPosName>Data Team</rpPosName>
+      <rpCntInfo>
+         <cntAddress>
+            <delPoint>380 New York Street</delPoint>
+            <city>Redlands</city>
+            <adminArea>California</adminArea>
+            <postCode>92373-8100</postCode>
+            <eMailAdd>info@esri.com</eMailAdd>
+            <country>us</country>
+         </cntAddress>
+         <cntPhone>
+            <voiceNum>909-793-2853</voiceNum>
+            <faxNum>909-793-5953</faxNum>
+         </cntPhone>
+      </rpCntInfo>
+      <role>
+         <RoleCd value="010" />
+      </role>
+   </mdContact>
+   <dqInfo>
+      <dataLineage>
+         <statement>NPS (source 1 of 3) 
+
+National Park Service, Unknown, : National Park Service, Washington, DC, USA. 
+
+Type of source media: CD&#8211;ROM
+Source contribution:
+Attribute and geospatial data
+
+
+ArcUSA 1:2M (source 2 of 3) 
+
+ESRI, 19921001, ArcUSA&#8482; 1:2M: ESRI, Redlands, California, USA. 
+
+Type of source media: CD&#8211;ROM
+Source scale denominator: 2000000
+Source contribution:
+Attribute and geospatial data
+
+
+Tele Atlas Dynamap/2000 v7.3 (source 3 of 3) 
+
+Tele Atlas North America, Inc., 199710, Dynamap/2000 v7.3: Tele Atlas&#174; Dynamap&#174;/2000 v7.3, Tele Atlas North America, Inc., Lebanon, New Hampshire, USA. 
+
+Type of source media: CD&#8211;ROM
+Source scale denominator: 100000
+Source contribution:
+Attribute and geospatial data
+
+
+Date: 20000727 (change 1 of 2) 
+The following steps were performed by ESRI: Extracted the National Parks from the National Park Service, the National Forests from ESRI ArcUSA 1:2M and the rest of the parks from Tele Atlas North America, Inc. Dynamap/2000 v7.3. Converted to North American Datum of 1983 (NAD83).  Created ArcGIS&#174; layer file (.lyr).  Created projection file (.prj).  Ran ArcView GIS Avenue&#8482; request ExportClean, and created spatial indices. Converted the data set to SDC.
+
+Data sources used in this process: 
+NPS 
+ArcUSA 1:2M 
+Tele Atlas Dynamap/2000 v7.3
+
+
+Date: 20040308 (change 2 of 2)
+The following steps were performed by ESRI: Added SQMI attribute and calculated its values.
+</statement>
+      </dataLineage>
+      <dqScope>
+         <scpLvl>
+            <ScopeCd value="005" />
+         </scpLvl>
+      </dqScope>
+   </dqInfo>
+   <mdFileID Sync="TRUE">{5708FDB9-A430-499F-B9D5-E8EE1C62F993}</mdFileID>
+   <distinfo>
+      <resdesc>Downloadable Data</resdesc>
+   </distinfo>
+</metadata>

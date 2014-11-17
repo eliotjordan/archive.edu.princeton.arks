@@ -1,0 +1,449 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Boundary Solutions, Inc.</origin>
+        <pubdate>20060801</pubdate>
+        <title>Matanuska-Susitna Borough, Alaska land parcels, 2006</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/41/68/7k/14/f/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land parcels in Matanuska-Susitna Borough, Alaska, 2006.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20060801</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-153.025909</westbc>
+        <eastbc>-146.421784</eastbc>
+        <northbc>63.478061</northbc>
+        <southbc>61.193080</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>parcel</themekey>
+        <themekey>ownership</themekey>
+        <themekey>property</themekey>
+        <themekey>land value</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Alaska</placekey>
+        <placekey>Matanuska-Susitna Borough</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{c8c3c648-5d30-43ce-9322-eb808f450c3f}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>89872</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Parcels</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MAXY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>XCOORD</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>YCOORD</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN2</attrlabl>
+        <attrdef>APN without punctuation and/or another indexing field in GIS.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MINX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Area of parcel.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of parcel.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Area of parcel in acres.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>FTYPE</attrlabl>
+        <attrdef>Feature type.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>GENOWN</attrlabl>
+        <attrdef>Type of ownership.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TAX_ZONE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TAXROLLCOD</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BUYER_1</attrlabl>
+        <attrdef>Buyer name.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>OWN_NAME1</attrlabl>
+        <attrdef>Owner name.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>OWN_NAME2</attrlabl>
+        <attrdef>Second owner name.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>OWN_NAME3</attrlabl>
+        <attrdef>Third owner name.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>OWN_CAREOF</attrlabl>
+        <attrdef>Intermediary for contacting owner.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TAX_AC</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SUBD_NO</attrlabl>
+        <attrdef>Number of subdivision.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>MERIDIAN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TOWNSHIP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>TWP_NS</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RANGE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RNG_EW</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SECTION</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BASEMAP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MAP_NUM</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ESN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ECN</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>VOTING_PRC</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ASSEM_DIST</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COMM_COUNC</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PLAN_DIST</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FLOOD_HAZ</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FSA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RSA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SPECIAL1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SPECIAL2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>SPECIAL3</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CITY</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>BEV_DISP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LID1</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LID2</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPAX26</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPAX27</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPAX28</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPAX29</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPAX30</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPAX31</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LANDAPPR</attrlabl>
+        <attrdef>Appraised land value.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>LANDASSD</attrlabl>
+        <attrdef>Assessed land value.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>BLDGAPPR</attrlabl>
+        <attrdef>Appraised building value.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>BLDGASSD</attrlabl>
+        <attrdef>Assessed building value.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>RPNLAP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPNLAS</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPNBAP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RPNBAS</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>RES_UNITS</attrlabl>
+        <attrdef>Number of residential units.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TOT_SHEETS</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>USE1ASSR</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>USE2ASSR</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>USE3ASSR</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>USE4ASSR</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>CONDO</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>MULTIPLE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PHASE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>YRFLAG</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>QC_CODE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>QC_DATE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>QC_WHO</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>ORIGTAXID</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>INALEA</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>COVLASTUPD</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PRCLUPDT</attrlabl>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140324</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed for Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,213 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Globe Telecom</origin>
+        <pubdate>20140706</pubdate>
+        <title>Cairo Roads</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/1c/18/dh/44/b/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Polylines representing roads in Cairo.</abstract>
+      <purpose>For use with GIS software.</purpose>
+      <supplinf>Attributes include information in English and Arabic.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20140706</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>30.799714</westbc>
+        <eastbc>31.781494</eastbc>
+        <northbc>30.289201</northbc>
+        <southbc>29.722872</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>roads</themekey>
+        <themekey>highways</themekey>
+        <themekey>road type</themekey>
+        <themekey>public</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>transportation</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Egypt</placekey>
+        <placekey>Cairo</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Globe Telecom S.A.E.</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{c42fc369-e0ec-4460-903a-a8fd1c4e4ad1}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>340043</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.983152841195215e-009</latres>
+        <longres>8.983152841195215e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D WGS 1984</horizdn>
+        <ellips>WGS 1984</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257223563</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>cairo_roads</enttypl>
+        <enttypd>This attribute contains no information.</enttypd>
+        <enttypds>Globe Telecom</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>A_Name</attrlabl>
+        <attrdef>Name of feature in Arabic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>E_Name</attrlabl>
+        <attrdef>Name of feature in English.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>A_Name2</attrlabl>
+        <attrdef>Additional name in Arabic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RD_Class</attrlabl>
+        <attrdef>Road classification.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RD_Flow</attrlabl>
+        <attrdef>Indicates whether road has one- or two-way traffic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RD_Num</attrlabl>
+        <attrdef>Road number.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RD_Priv</attrlabl>
+        <attrdef>Indicates whether road is public or private.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RD_User</attrlabl>
+        <attrdef>Type of traffic.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RD_Struc</attrlabl>
+        <attrdef>Type of road construction.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RD_Width</attrlabl>
+        <attrdef>Road width.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Speed_Rang</attrlabl>
+        <attrdef>Speed range.</attrdef>
+        <attrdefs>Globe Telecom</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140801</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

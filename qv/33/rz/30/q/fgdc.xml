@@ -1,0 +1,3968 @@
+<metadata xml:lang="en">
+  <Esri>
+    <CreaDate>20090515</CreaDate>
+    <CreaTime>15300000</CreaTime>
+    <SyncOnce>FALSE</SyncOnce>
+    <SyncDate>20090515</SyncDate>
+    <SyncTime>14142600</SyncTime>
+    <ModDate>20090515</ModDate>
+    <ModTime>16014200</ModTime>
+    <DataProperties>
+      <lineage>
+        <Process Date="20090501" Time="150151" ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection C:\GISData\Asia\China\Anhui\townshipa.shp GEOGCS['GCS_Krasovsky_1940',DATUM['D_Krasovsky_1940',SPHEROID['Krasovsky_1940',6378245.0,298.3]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] C:\GISData\Asia\China\Anhui\townshipa.shp</Process>
+      </lineage>
+    </DataProperties>
+    <MetaID>{9AF31688-EE64-4BEC-ABC9-73CE98EA0055}</MetaID>
+    <PublishedDocID>{ABF829C0-F72A-4693-8DEE-55604A7E084E}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <idinfo>
+    <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+    <descript>
+      <langdata Sync="TRUE">en</langdata>
+      <abstract>China counties with 2000 population Census data from 9.95% Long Form data (table L7-L8).</abstract>
+      <purpose>To make digital use of this data set.</purpose>
+    </descript>
+    <citation>
+      <citeinfo>
+        <origin>All China Marketing Research Co., Ltd.</origin>
+        <pubdate>2005</pubdate>
+        <title>China County Census Long Form Data (L7-L8), 2000</title>
+        <ftname Sync="TRUE">china_countiesl2</ftname>
+        <geoform Sync="TRUE">vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/qv/33/rz/30/q/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <timeperd>
+      <current>ground condition: 2000</current>
+      <timeinfo>
+        <sngdate>
+          <caldate>2000</caldate>
+        </sngdate>
+      </timeinfo>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc Sync="TRUE">73.446960</westbc>
+        <eastbc Sync="TRUE">135.085831</eastbc>
+        <northbc Sync="TRUE">53.557926</northbc>
+        <southbc Sync="TRUE">6.318641</southbc>
+      </bounding>
+      <lboundng>
+        <leftbc Sync="TRUE">73.446960</leftbc>
+        <rightbc Sync="TRUE">135.085831</rightbc>
+        <bottombc Sync="TRUE">6.318641</bottombc>
+        <topbc Sync="TRUE">53.557926</topbc>
+      </lboundng>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO Topic</themekt>
+        <themekey>Counties</themekey>
+        <themekey>Census</themekey>
+        <themekey>boundaries</themekey>
+        <themekey>Demographics</themekey>
+        <themekey>county boundaries</themekey>
+      </theme>
+      <place>
+        <placekey>China</placekey>
+      </place>
+      <temporal>
+        <tempkey>2005</tempkey>
+        <tempkey>2000</tempkey>
+      </temporal>
+    </keywords>
+    <accconst>Data access and data use are copyrighted, require a license, and are restricted.</accconst>
+    <useconst>Data access and data use are copyrighted, require a license, and are restricted.</useconst>
+    <natvform Sync="TRUE">Shapefile</natvform>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University Library</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>9:00am - 5:00pm, Monday - Friday</hours>
+      </cntinfo>
+    </ptcontac>
+  </idinfo>
+  <dataIdInfo>
+    <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+    <dataLang>
+      <languageCode Sync="TRUE" value="en" />
+    </dataLang>
+    <idCitation>
+      <resTitle Sync="TRUE">china_countiesl2</resTitle>
+      <presForm>
+        <PresFormCd Sync="TRUE" value="005" />
+      </presForm>
+    </idCitation>
+    <spatRpType>
+      <SpatRepTypCd Sync="TRUE" value="001" />
+    </spatRpType>
+    <dataExt>
+      <geoEle>
+        <GeoBndBox esriExtentType="native">
+          <westBL Sync="TRUE">73.44696</westBL>
+          <eastBL Sync="TRUE">135.085831</eastBL>
+          <northBL Sync="TRUE">53.557926</northBL>
+          <southBL Sync="TRUE">6.318641</southBL>
+          <exTypeCode Sync="TRUE">1</exTypeCode>
+        </GeoBndBox>
+      </geoEle>
+    </dataExt>
+    <geoBox esriExtentType="decdegrees">
+      <westBL Sync="TRUE">73.44696</westBL>
+      <eastBL Sync="TRUE">135.085831</eastBL>
+      <northBL Sync="TRUE">53.557926</northBL>
+      <southBL Sync="TRUE">6.318641</southBL>
+      <exTypeCode Sync="TRUE">1</exTypeCode>
+    </geoBox>
+  </dataIdInfo>
+  <metainfo>
+    <langmeta Sync="TRUE">en</langmeta>
+    <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+    <mettc Sync="TRUE">local time</mettc>
+    <metc>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>Digital Map and Geospatial Information Center, The Lewis Library, Room 228, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntorgp>
+          <cntper>Tsering Wangyal Shawa</cntper>
+          <cntorg>Princeton University Library</cntorg>
+        </cntorgp>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>9:00am - 5:00pm, Monday - Friday</hours>
+      </cntinfo>
+    </metc>
+    <metd Sync="TRUE">20090515</metd>
+    <metextns>
+      <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <mdLang>
+    <languageCode Sync="TRUE" value="en" />
+  </mdLang>
+  <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+  <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+  <mdChar>
+    <CharSetCd Sync="TRUE" value="004" />
+  </mdChar>
+  <mdHrLv>
+    <ScopeCd Sync="TRUE" value="005" />
+  </mdHrLv>
+  <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+  <distinfo>
+    <resdesc Sync="TRUE">Downloadable Data</resdesc>
+    <stdorder>
+      <digform>
+        <digtinfo>
+          <transize Sync="TRUE">14.446</transize>
+          <dssize Sync="TRUE">14.446</dssize>
+        </digtinfo>
+      </digform>
+    </stdorder>
+  </distinfo>
+  <distInfo>
+    <distributor>
+      <distorTran>
+        <onLineSrc>
+          <orDesc Sync="TRUE">002</orDesc>
+          <linkage Sync="TRUE">file://\\LIB-GIS003\GISData\Asia\China\County Data\china_countiesl2.shp</linkage>
+          <protocol Sync="TRUE">Local Area Network</protocol>
+        </onLineSrc>
+        <transSize Sync="TRUE">14.446</transSize>
+      </distorTran>
+      <distorFormat>
+        <formatName Sync="TRUE">Shapefile</formatName>
+      </distorFormat>
+    </distributor>
+  </distInfo>
+  <spdoinfo>
+    <direct Sync="TRUE">Vector</direct>
+    <ptvctinf>
+      <esriterm Name="china_countiesl2">
+        <efeatyp Sync="TRUE">Simple</efeatyp>
+        <efeageom Sync="TRUE">Polygon</efeageom>
+        <esritopo Sync="TRUE">FALSE</esritopo>
+        <efeacnt Sync="TRUE">2876</efeacnt>
+        <spindex Sync="TRUE">FALSE</spindex>
+        <linrefer Sync="TRUE">FALSE</linrefer>
+      </esriterm>
+      <sdtsterm Name="china_countiesl2">
+        <sdtstype Sync="TRUE">G-polygon</sdtstype>
+        <ptvctcnt Sync="TRUE">2876</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spatRepInfo>
+    <VectSpatRep>
+      <topLvl>
+        <TopoLevCd Sync="TRUE" value="001" />
+      </topLvl>
+      <geometObjs Name="china_countiesl2">
+        <geoObjTyp>
+          <GeoObjTypCd Sync="TRUE" value="001" />
+        </geoObjTyp>
+        <geoObjCnt Sync="TRUE">2876</geoObjCnt>
+      </geometObjs>
+    </VectSpatRep>
+  </spatRepInfo>
+  <eainfo>
+    <detailed Name="china_countiesl2">
+      <enttyp>
+        <enttypl Sync="TRUE">china_countiesl2</enttypl>
+        <enttypt Sync="TRUE">Feature Class</enttypt>
+        <enttypc Sync="TRUE">2876</enttypc>
+        <enttypd>The points represent China counties</enttypd>
+      </enttyp>
+      <attr>
+        <attrlabl Sync="TRUE">FID</attrlabl>
+        <attalias Sync="TRUE">FID</attalias>
+        <attrtype Sync="TRUE">OID</attrtype>
+        <attwidth Sync="TRUE">4</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Internal feature number.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">Shape</attrlabl>
+        <attalias Sync="TRUE">Shape</attalias>
+        <attrtype Sync="TRUE">Geometry</attrtype>
+        <attwidth Sync="TRUE">0</attwidth>
+        <atprecis Sync="TRUE">0</atprecis>
+        <attscale Sync="TRUE">0</attscale>
+        <attrdef Sync="TRUE">Feature geometry.</attrdef>
+        <attrdefs Sync="TRUE">ESRI</attrdefs>
+        <attrdomv>
+          <udom Sync="TRUE">Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">AREA</attrlabl>
+        <attalias Sync="TRUE">AREA</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">12</attwidth>
+        <attrdef>County Area</attrdef>
+        <atnumdec Sync="TRUE">3</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">PERIMETER</attrlabl>
+        <attalias Sync="TRUE">PERIMETER</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">12</attwidth>
+        <attrdef>County Boundary Perimeter</attrdef>
+        <atnumdec Sync="TRUE">3</atnumdec>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">COUNT</attrlabl>
+        <attalias Sync="TRUE">COUNT</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">11</attwidth>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">GBPROV</attrlabl>
+        <attalias Sync="TRUE">GBPROV</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Two digit code of Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">GBCITY</attrlabl>
+        <attalias Sync="TRUE">GBCITY</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Four digit code of city</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">GBCNTY</attrlabl>
+        <attalias Sync="TRUE">GBCNTY</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Six digit code of county</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">CNAME</attrlabl>
+        <attalias Sync="TRUE">CNAME</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">27</attwidth>
+        <attrdef>Chinese name of County</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">ENAME</attrlabl>
+        <attalias Sync="TRUE">ENAME</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">34</attwidth>
+        <attrdef>English name of County</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701001</attrlabl>
+        <attalias Sync="TRUE">L701001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701002</attrlabl>
+        <attalias Sync="TRUE">L701002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from This County, City and District</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701003</attrlabl>
+        <attalias Sync="TRUE">L701003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from This Province, Outside This County, City and District</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701004</attrlabl>
+        <attalias Sync="TRUE">L701004</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Beijing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701005</attrlabl>
+        <attalias Sync="TRUE">L701005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Tianjin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701006</attrlabl>
+        <attalias Sync="TRUE">L701006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hebei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701007</attrlabl>
+        <attalias Sync="TRUE">L701007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701008</attrlabl>
+        <attalias Sync="TRUE">L701008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Inner Mongolia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701009</attrlabl>
+        <attalias Sync="TRUE">L701009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Liaoning</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701010</attrlabl>
+        <attalias Sync="TRUE">L701010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jilin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701011</attrlabl>
+        <attalias Sync="TRUE">L701011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Heilongjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701012</attrlabl>
+        <attalias Sync="TRUE">L701012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shanghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701013</attrlabl>
+        <attalias Sync="TRUE">L701013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jiangsu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701014</attrlabl>
+        <attalias Sync="TRUE">L701014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Zhejiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701015</attrlabl>
+        <attalias Sync="TRUE">L701015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Anhui</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701016</attrlabl>
+        <attalias Sync="TRUE">L701016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Fujian</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701017</attrlabl>
+        <attalias Sync="TRUE">L701017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jiangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701018</attrlabl>
+        <attalias Sync="TRUE">L701018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shandong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701019</attrlabl>
+        <attalias Sync="TRUE">L701019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Henan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701020</attrlabl>
+        <attalias Sync="TRUE">L701020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hubei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701021</attrlabl>
+        <attalias Sync="TRUE">L701021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hunan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701022</attrlabl>
+        <attalias Sync="TRUE">L701022</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guangdong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701023</attrlabl>
+        <attalias Sync="TRUE">L701023</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701024</attrlabl>
+        <attalias Sync="TRUE">L701024</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hainan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701025</attrlabl>
+        <attalias Sync="TRUE">L701025</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Chongqing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701026</attrlabl>
+        <attalias Sync="TRUE">L701026</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Sichuan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701027</attrlabl>
+        <attalias Sync="TRUE">L701027</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guizhou</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701028</attrlabl>
+        <attalias Sync="TRUE">L701028</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Yunnan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701029</attrlabl>
+        <attalias Sync="TRUE">L701029</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Tibet</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701030</attrlabl>
+        <attalias Sync="TRUE">L701030</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shaanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701031</attrlabl>
+        <attalias Sync="TRUE">L701031</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Gansu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701032</attrlabl>
+        <attalias Sync="TRUE">L701032</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Qinghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701033</attrlabl>
+        <attalias Sync="TRUE">L701033</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Ningxia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701034</attrlabl>
+        <attalias Sync="TRUE">L701034</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Xinjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L701035</attrlabl>
+        <attalias Sync="TRUE">L701035</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hong Kong, Macao and Taiwan or Abroad </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702001</attrlabl>
+        <attalias Sync="TRUE">L702001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702002</attrlabl>
+        <attalias Sync="TRUE">L702002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Current Residents Migrated from Other Places Who Has Been Living in This Place After Birth</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702003</attrlabl>
+        <attalias Sync="TRUE">L702003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places Before October 31, 1995</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702004</attrlabl>
+        <attalias Sync="TRUE">L702004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places Between November 1, 1995 and December 31, 1995</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702005</attrlabl>
+        <attalias Sync="TRUE">L702005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1996</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702006</attrlabl>
+        <attalias Sync="TRUE">L702006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1997</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702007</attrlabl>
+        <attalias Sync="TRUE">L702007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1998</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702008</attrlabl>
+        <attalias Sync="TRUE">L702008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places in 1999</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L702009</attrlabl>
+        <attalias Sync="TRUE">L702009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places in 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703001</attrlabl>
+        <attalias Sync="TRUE">L703001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703002</attrlabl>
+        <attalias Sync="TRUE">L703002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703003</attrlabl>
+        <attalias Sync="TRUE">L703003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703004</attrlabl>
+        <attalias Sync="TRUE">L703004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of The Town of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703005</attrlabl>
+        <attalias Sync="TRUE">L703005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703006</attrlabl>
+        <attalias Sync="TRUE">L703006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from the Jie Dao of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703007</attrlabl>
+        <attalias Sync="TRUE">L703007</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Beijing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703008</attrlabl>
+        <attalias Sync="TRUE">L703008</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township Beijing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703009</attrlabl>
+        <attalias Sync="TRUE">L703009</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of the Town of Beijing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703010</attrlabl>
+        <attalias Sync="TRUE">L703010</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of the Town of Beijing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703011</attrlabl>
+        <attalias Sync="TRUE">L703011</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Beijing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703012</attrlabl>
+        <attalias Sync="TRUE">L703012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Tianjin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703013</attrlabl>
+        <attalias Sync="TRUE">L703013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Tianjin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703014</attrlabl>
+        <attalias Sync="TRUE">L703014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of the Town of Tianjin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703015</attrlabl>
+        <attalias Sync="TRUE">L703015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of the Town of Tianjin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703016</attrlabl>
+        <attalias Sync="TRUE">L703016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Tianjin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703017</attrlabl>
+        <attalias Sync="TRUE">L703017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hebei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703018</attrlabl>
+        <attalias Sync="TRUE">L703018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Hebei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703019</attrlabl>
+        <attalias Sync="TRUE">L703019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hebei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703020</attrlabl>
+        <attalias Sync="TRUE">L703020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hebei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703021</attrlabl>
+        <attalias Sync="TRUE">L703021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hebei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703022</attrlabl>
+        <attalias Sync="TRUE">L703022</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703023</attrlabl>
+        <attalias Sync="TRUE">L703023</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Shanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703024</attrlabl>
+        <attalias Sync="TRUE">L703024</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef> 	Total Number of Persons Migrated from Neighborhood committee of The Town of Shanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703025</attrlabl>
+        <attalias Sync="TRUE">L703025</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703026</attrlabl>
+        <attalias Sync="TRUE">L703026</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703027</attrlabl>
+        <attalias Sync="TRUE">L703027</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Inner Mongolia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703028</attrlabl>
+        <attalias Sync="TRUE">L703028</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Inner Mongolia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703029</attrlabl>
+        <attalias Sync="TRUE">L703029</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Inner Mongolia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703030</attrlabl>
+        <attalias Sync="TRUE">L703030</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Inner Mongolia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703031</attrlabl>
+        <attalias Sync="TRUE">L703031</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Inner Mongolia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703032</attrlabl>
+        <attalias Sync="TRUE">L703032</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Liaoning</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703033</attrlabl>
+        <attalias Sync="TRUE">L703033</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Liaoning</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703034</attrlabl>
+        <attalias Sync="TRUE">L703034</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Liaoning</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703035</attrlabl>
+        <attalias Sync="TRUE">L703035</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Liaoning</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703036</attrlabl>
+        <attalias Sync="TRUE">L703036</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Liaoning</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703037</attrlabl>
+        <attalias Sync="TRUE">L703037</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jilin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703038</attrlabl>
+        <attalias Sync="TRUE">L703038</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Jilin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703039</attrlabl>
+        <attalias Sync="TRUE">L703039</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Jilin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703040</attrlabl>
+        <attalias Sync="TRUE">L703040</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Jilin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703041</attrlabl>
+        <attalias Sync="TRUE">L703041</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Jilin</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703042</attrlabl>
+        <attalias Sync="TRUE">L703042</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Heilongjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703043</attrlabl>
+        <attalias Sync="TRUE">L703043</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Heilongjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703044</attrlabl>
+        <attalias Sync="TRUE">L703044</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Heilongjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703045</attrlabl>
+        <attalias Sync="TRUE">L703045</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Heilongjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703046</attrlabl>
+        <attalias Sync="TRUE">L703046</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Heilongjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703047</attrlabl>
+        <attalias Sync="TRUE">L703047</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shanghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703048</attrlabl>
+        <attalias Sync="TRUE">L703048</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Shanghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703049</attrlabl>
+        <attalias Sync="TRUE">L703049</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Shanghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703050</attrlabl>
+        <attalias Sync="TRUE">L703050</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shanghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703051</attrlabl>
+        <attalias Sync="TRUE">L703051</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shanghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703052</attrlabl>
+        <attalias Sync="TRUE">L703052</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jiangsu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703053</attrlabl>
+        <attalias Sync="TRUE">L703053</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Jiangsu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703054</attrlabl>
+        <attalias Sync="TRUE">L703054</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Jiangsu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703055</attrlabl>
+        <attalias Sync="TRUE">L703055</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Jiangsu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703056</attrlabl>
+        <attalias Sync="TRUE">L703056</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Jiangsu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703057</attrlabl>
+        <attalias Sync="TRUE">L703057</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Zhejiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703058</attrlabl>
+        <attalias Sync="TRUE">L703058</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Zhejiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703059</attrlabl>
+        <attalias Sync="TRUE">L703059</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Zhejiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703060</attrlabl>
+        <attalias Sync="TRUE">L703060</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Zhejiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703061</attrlabl>
+        <attalias Sync="TRUE">L703061</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Zhejiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703062</attrlabl>
+        <attalias Sync="TRUE">L703062</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Anhui</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703063</attrlabl>
+        <attalias Sync="TRUE">L703063</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Anhui</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703064</attrlabl>
+        <attalias Sync="TRUE">L703064</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Anhui</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703065</attrlabl>
+        <attalias Sync="TRUE">L703065</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Anhui</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703066</attrlabl>
+        <attalias Sync="TRUE">L703066</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Anhui</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703067</attrlabl>
+        <attalias Sync="TRUE">L703067</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Fujian</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703068</attrlabl>
+        <attalias Sync="TRUE">L703068</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Fujian</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703069</attrlabl>
+        <attalias Sync="TRUE">L703069</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Fujian</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703070</attrlabl>
+        <attalias Sync="TRUE">L703070</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Fujian</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703071</attrlabl>
+        <attalias Sync="TRUE">L703071</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Fujian</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703072</attrlabl>
+        <attalias Sync="TRUE">L703072</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jiangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703073</attrlabl>
+        <attalias Sync="TRUE">L703073</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Jiangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703074</attrlabl>
+        <attalias Sync="TRUE">L703074</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Jiangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703075</attrlabl>
+        <attalias Sync="TRUE">L703075</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Jiangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703076</attrlabl>
+        <attalias Sync="TRUE">L703076</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Jiangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703077</attrlabl>
+        <attalias Sync="TRUE">L703077</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shandong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703078</attrlabl>
+        <attalias Sync="TRUE">L703078</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Shandong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703079</attrlabl>
+        <attalias Sync="TRUE">L703079</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Shandong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703080</attrlabl>
+        <attalias Sync="TRUE">L703080</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shandong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703081</attrlabl>
+        <attalias Sync="TRUE">L703081</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shandong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703082</attrlabl>
+        <attalias Sync="TRUE">L703082</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Henan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703083</attrlabl>
+        <attalias Sync="TRUE">L703083</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Henan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703084</attrlabl>
+        <attalias Sync="TRUE">L703084</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Henan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703085</attrlabl>
+        <attalias Sync="TRUE">L703085</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Henan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703086</attrlabl>
+        <attalias Sync="TRUE">L703086</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Henan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703087</attrlabl>
+        <attalias Sync="TRUE">L703087</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hubei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703088</attrlabl>
+        <attalias Sync="TRUE">L703088</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Hubei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703089</attrlabl>
+        <attalias Sync="TRUE">L703089</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hubei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703090</attrlabl>
+        <attalias Sync="TRUE">L703090</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hubei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703091</attrlabl>
+        <attalias Sync="TRUE">L703091</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hubei</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703092</attrlabl>
+        <attalias Sync="TRUE">L703092</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hunan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703093</attrlabl>
+        <attalias Sync="TRUE">L703093</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Hunan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703094</attrlabl>
+        <attalias Sync="TRUE">L703094</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hunan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703095</attrlabl>
+        <attalias Sync="TRUE">L703095</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hunan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703096</attrlabl>
+        <attalias Sync="TRUE">L703096</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hunan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703097</attrlabl>
+        <attalias Sync="TRUE">L703097</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guangdong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703098</attrlabl>
+        <attalias Sync="TRUE">L703098</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Guangdong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703099</attrlabl>
+        <attalias Sync="TRUE">L703099</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Guangdong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703100</attrlabl>
+        <attalias Sync="TRUE">L703100</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Guangdong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703101</attrlabl>
+        <attalias Sync="TRUE">L703101</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Guangdong</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703102</attrlabl>
+        <attalias Sync="TRUE">L703102</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703103</attrlabl>
+        <attalias Sync="TRUE">L703103</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Guangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703104</attrlabl>
+        <attalias Sync="TRUE">L703104</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Guangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703105</attrlabl>
+        <attalias Sync="TRUE">L703105</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Guangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703106</attrlabl>
+        <attalias Sync="TRUE">L703106</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Guangxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703107</attrlabl>
+        <attalias Sync="TRUE">L703107</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hainan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703108</attrlabl>
+        <attalias Sync="TRUE">L703108</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Hainan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703109</attrlabl>
+        <attalias Sync="TRUE">L703109</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Hainan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703110</attrlabl>
+        <attalias Sync="TRUE">L703110</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Hainan  </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703111</attrlabl>
+        <attalias Sync="TRUE">L703111</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Hainan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703112</attrlabl>
+        <attalias Sync="TRUE">L703112</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Chongqing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703113</attrlabl>
+        <attalias Sync="TRUE">L703113</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Chongqing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703114</attrlabl>
+        <attalias Sync="TRUE">L703114</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Chongqing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703115</attrlabl>
+        <attalias Sync="TRUE">L703115</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Chongqing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703116</attrlabl>
+        <attalias Sync="TRUE">L703116</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Chongqing</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703117</attrlabl>
+        <attalias Sync="TRUE">L703117</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Sichuan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703118</attrlabl>
+        <attalias Sync="TRUE">L703118</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Sichuan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703119</attrlabl>
+        <attalias Sync="TRUE">L703119</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Sichuan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703120</attrlabl>
+        <attalias Sync="TRUE">L703120</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Sichuan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703121</attrlabl>
+        <attalias Sync="TRUE">L703121</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Sichuan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703122</attrlabl>
+        <attalias Sync="TRUE">L703122</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guizhou</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703123</attrlabl>
+        <attalias Sync="TRUE">L703123</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Guizhou</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703124</attrlabl>
+        <attalias Sync="TRUE">L703124</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Guizhou</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703125</attrlabl>
+        <attalias Sync="TRUE">L703125</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Guizhou</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703126</attrlabl>
+        <attalias Sync="TRUE">L703126</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Guizhou</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703127</attrlabl>
+        <attalias Sync="TRUE">L703127</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Yunnan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703128</attrlabl>
+        <attalias Sync="TRUE">L703128</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Yunnan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703129</attrlabl>
+        <attalias Sync="TRUE">L703129</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Yunnan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703130</attrlabl>
+        <attalias Sync="TRUE">L703130</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Yunnan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703131</attrlabl>
+        <attalias Sync="TRUE">L703131</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Yunnan</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703132</attrlabl>
+        <attalias Sync="TRUE">L703132</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Tibet</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703133</attrlabl>
+        <attalias Sync="TRUE">L703133</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Tibet</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703134</attrlabl>
+        <attalias Sync="TRUE">L703134</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Tibet</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703135</attrlabl>
+        <attalias Sync="TRUE">L703135</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Tibet</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703136</attrlabl>
+        <attalias Sync="TRUE">L703136</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Tibet</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703137</attrlabl>
+        <attalias Sync="TRUE">L703137</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shaanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703138</attrlabl>
+        <attalias Sync="TRUE">L703138</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Shaanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703139</attrlabl>
+        <attalias Sync="TRUE">L703139</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Shaanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703140</attrlabl>
+        <attalias Sync="TRUE">L703140</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Shaanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703141</attrlabl>
+        <attalias Sync="TRUE">L703141</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Shaanxi</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703142</attrlabl>
+        <attalias Sync="TRUE">L703142</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Gansu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703143</attrlabl>
+        <attalias Sync="TRUE">L703143</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Gansu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703144</attrlabl>
+        <attalias Sync="TRUE">L703144</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Gansu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703145</attrlabl>
+        <attalias Sync="TRUE">L703145</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Gansu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703146</attrlabl>
+        <attalias Sync="TRUE">L703146</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Gansu</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703147</attrlabl>
+        <attalias Sync="TRUE">L703147</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Qinghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703148</attrlabl>
+        <attalias Sync="TRUE">L703148</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Qinghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703149</attrlabl>
+        <attalias Sync="TRUE">L703149</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Qinghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703150</attrlabl>
+        <attalias Sync="TRUE">L703150</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Qinghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703151</attrlabl>
+        <attalias Sync="TRUE">L703151</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Qinghai</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703152</attrlabl>
+        <attalias Sync="TRUE">L703152</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Ningxia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703153</attrlabl>
+        <attalias Sync="TRUE">L703153</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Ningxia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703154</attrlabl>
+        <attalias Sync="TRUE">L703154</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Ningxia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703155</attrlabl>
+        <attalias Sync="TRUE">L703155</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Ningxia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703156</attrlabl>
+        <attalias Sync="TRUE">L703156</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Ningxia</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703157</attrlabl>
+        <attalias Sync="TRUE">L703157</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Xinjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703158</attrlabl>
+        <attalias Sync="TRUE">L703158</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Xinjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703159</attrlabl>
+        <attalias Sync="TRUE">L703159</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood committee of The Town of Xinjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703160</attrlabl>
+        <attalias Sync="TRUE">L703160</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Xinjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703161</attrlabl>
+        <attalias Sync="TRUE">L703161</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Xinjiang</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L703162</attrlabl>
+        <attalias Sync="TRUE">L703162</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hong Kong, Macao and Taiwan or abroad </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704001</attrlabl>
+        <attalias Sync="TRUE">L704001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704002</attrlabl>
+        <attalias Sync="TRUE">L704002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from This Province, Outside This Township, Town Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704003</attrlabl>
+        <attalias Sync="TRUE">L704003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Provinces Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704004</attrlabl>
+        <attalias Sync="TRUE">L704004</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Beijing Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704005</attrlabl>
+        <attalias Sync="TRUE">L704005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Tianjin Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704006</attrlabl>
+        <attalias Sync="TRUE">L704006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hebei Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704007</attrlabl>
+        <attalias Sync="TRUE">L704007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shanxi Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704008</attrlabl>
+        <attalias Sync="TRUE">L704008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Inner Mongolia Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704009</attrlabl>
+        <attalias Sync="TRUE">L704009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Liaoning Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704010</attrlabl>
+        <attalias Sync="TRUE">L704010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jilin Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704011</attrlabl>
+        <attalias Sync="TRUE">L704011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Heilongjiang Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704012</attrlabl>
+        <attalias Sync="TRUE">L704012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shanghai Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704013</attrlabl>
+        <attalias Sync="TRUE">L704013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jiangsu Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704014</attrlabl>
+        <attalias Sync="TRUE">L704014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Zhejiang Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704015</attrlabl>
+        <attalias Sync="TRUE">L704015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Anhui Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704016</attrlabl>
+        <attalias Sync="TRUE">L704016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Fujian Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704017</attrlabl>
+        <attalias Sync="TRUE">L704017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jiangxi Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704018</attrlabl>
+        <attalias Sync="TRUE">L704018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shandong Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704019</attrlabl>
+        <attalias Sync="TRUE">L704019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Henan Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704020</attrlabl>
+        <attalias Sync="TRUE">L704020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hubei Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704021</attrlabl>
+        <attalias Sync="TRUE">L704021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hunan Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704022</attrlabl>
+        <attalias Sync="TRUE">L704022</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guangdong Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704023</attrlabl>
+        <attalias Sync="TRUE">L704023</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guangxi Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704024</attrlabl>
+        <attalias Sync="TRUE">L704024</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hainan Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704025</attrlabl>
+        <attalias Sync="TRUE">L704025</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Chongqing Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704026</attrlabl>
+        <attalias Sync="TRUE">L704026</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Sichuan Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704027</attrlabl>
+        <attalias Sync="TRUE">L704027</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Guizhou Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704028</attrlabl>
+        <attalias Sync="TRUE">L704028</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Yunnan Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704029</attrlabl>
+        <attalias Sync="TRUE">L704029</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Tibet Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704030</attrlabl>
+        <attalias Sync="TRUE">L704030</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Shaanxi Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704031</attrlabl>
+        <attalias Sync="TRUE">L704031</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Gansu Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704032</attrlabl>
+        <attalias Sync="TRUE">L704032</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Qinghai Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704033</attrlabl>
+        <attalias Sync="TRUE">L704033</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Ningxia Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704034</attrlabl>
+        <attalias Sync="TRUE">L704034</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Xinjiang Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L704035</attrlabl>
+        <attalias Sync="TRUE">L704035</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Hong Kong, Macao and Taiwan or abroad Five Years Ago</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A001</attrlabl>
+        <attalias Sync="TRUE">L706A001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A002</attrlabl>
+        <attalias Sync="TRUE">L706A002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A003</attrlabl>
+        <attalias Sync="TRUE">L706A003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A004</attrlabl>
+        <attalias Sync="TRUE">L706A004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A005</attrlabl>
+        <attalias Sync="TRUE">L706A005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A006</attrlabl>
+        <attalias Sync="TRUE">L706A006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A007</attrlabl>
+        <attalias Sync="TRUE">L706A007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A008</attrlabl>
+        <attalias Sync="TRUE">L706A008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Neighborhood Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A009</attrlabl>
+        <attalias Sync="TRUE">L706A009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A010</attrlabl>
+        <attalias Sync="TRUE">L706A010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A011</attrlabl>
+        <attalias Sync="TRUE">L706A011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A012</attrlabl>
+        <attalias Sync="TRUE">L706A012</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A013</attrlabl>
+        <attalias Sync="TRUE">L706A013</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A014</attrlabl>
+        <attalias Sync="TRUE">L706A014</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A015</attrlabl>
+        <attalias Sync="TRUE">L706A015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A016</attrlabl>
+        <attalias Sync="TRUE">L706A016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A017</attrlabl>
+        <attalias Sync="TRUE">L706A017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A018</attrlabl>
+        <attalias Sync="TRUE">L706A018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A019</attrlabl>
+        <attalias Sync="TRUE">L706A019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A020</attrlabl>
+        <attalias Sync="TRUE">L706A020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A021</attrlabl>
+        <attalias Sync="TRUE">L706A021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A022</attrlabl>
+        <attalias Sync="TRUE">L706A022</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A023</attrlabl>
+        <attalias Sync="TRUE">L706A023</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A024</attrlabl>
+        <attalias Sync="TRUE">L706A024</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A025</attrlabl>
+        <attalias Sync="TRUE">L706A025</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A026</attrlabl>
+        <attalias Sync="TRUE">L706A026</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A027</attrlabl>
+        <attalias Sync="TRUE">L706A027</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A028</attrlabl>
+        <attalias Sync="TRUE">L706A028</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A029</attrlabl>
+        <attalias Sync="TRUE">L706A029</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A030</attrlabl>
+        <attalias Sync="TRUE">L706A030</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A031</attrlabl>
+        <attalias Sync="TRUE">L706A031</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A032</attrlabl>
+        <attalias Sync="TRUE">L706A032</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A033</attrlabl>
+        <attalias Sync="TRUE">L706A033</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A034</attrlabl>
+        <attalias Sync="TRUE">L706A034</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A035</attrlabl>
+        <attalias Sync="TRUE">L706A035</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized secondary School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A036</attrlabl>
+        <attalias Sync="TRUE">L706A036</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A037</attrlabl>
+        <attalias Sync="TRUE">L706A037</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A038</attrlabl>
+        <attalias Sync="TRUE">L706A038</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A039</attrlabl>
+        <attalias Sync="TRUE">L706A039</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A040</attrlabl>
+        <attalias Sync="TRUE">L706A040</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A041</attrlabl>
+        <attalias Sync="TRUE">L706A041</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A042</attrlabl>
+        <attalias Sync="TRUE">L706A042</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A043</attrlabl>
+        <attalias Sync="TRUE">L706A043</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A044</attrlabl>
+        <attalias Sync="TRUE">L706A044</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A045</attrlabl>
+        <attalias Sync="TRUE">L706A045</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A046</attrlabl>
+        <attalias Sync="TRUE">L706A046</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A047</attrlabl>
+        <attalias Sync="TRUE">L706A047</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Township of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A048</attrlabl>
+        <attalias Sync="TRUE">L706A048</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Neighborhood committee of the town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A049</attrlabl>
+        <attalias Sync="TRUE">L706A049</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Village Committee of The Town of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706A050</attrlabl>
+        <attalias Sync="TRUE">L706A050</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Jie Dao of Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B001</attrlabl>
+        <attalias Sync="TRUE">L706B001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B002</attrlabl>
+        <attalias Sync="TRUE">L706B002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B003</attrlabl>
+        <attalias Sync="TRUE">L706B003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Neighborhood Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B004</attrlabl>
+        <attalias Sync="TRUE">L706B004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B005</attrlabl>
+        <attalias Sync="TRUE">L706B005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B006</attrlabl>
+        <attalias Sync="TRUE">L706B006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B007</attrlabl>
+        <attalias Sync="TRUE">L706B007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B008</attrlabl>
+        <attalias Sync="TRUE">L706B008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Neighborhood Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B009</attrlabl>
+        <attalias Sync="TRUE">L706B009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B010</attrlabl>
+        <attalias Sync="TRUE">L706B010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with No School Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B011</attrlabl>
+        <attalias Sync="TRUE">L706B011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B012</attrlabl>
+        <attalias Sync="TRUE">L706B012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B013</attrlabl>
+        <attalias Sync="TRUE">L706B013</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B014</attrlabl>
+        <attalias Sync="TRUE">L706B014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B015</attrlabl>
+        <attalias Sync="TRUE">L706B015</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Eliminate Illiteracy Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B016</attrlabl>
+        <attalias Sync="TRUE">L706B016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B017</attrlabl>
+        <attalias Sync="TRUE">L706B017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B018</attrlabl>
+        <attalias Sync="TRUE">L706B018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B019</attrlabl>
+        <attalias Sync="TRUE">L706B019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B020</attrlabl>
+        <attalias Sync="TRUE">L706B020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Primary School Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B021</attrlabl>
+        <attalias Sync="TRUE">L706B021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B022</attrlabl>
+        <attalias Sync="TRUE">L706B022</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B023</attrlabl>
+        <attalias Sync="TRUE">L706B023</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B024</attrlabl>
+        <attalias Sync="TRUE">L706B024</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B025</attrlabl>
+        <attalias Sync="TRUE">L706B025</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior Middle School Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B026</attrlabl>
+        <attalias Sync="TRUE">L706B026</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B027</attrlabl>
+        <attalias Sync="TRUE">L706B027</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B028</attrlabl>
+        <attalias Sync="TRUE">L706B028</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B029</attrlabl>
+        <attalias Sync="TRUE">L706B029</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B030</attrlabl>
+        <attalias Sync="TRUE">L706B030</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Senior Middle School Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B031</attrlabl>
+        <attalias Sync="TRUE">L706B031</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B032</attrlabl>
+        <attalias Sync="TRUE">L706B032</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B033</attrlabl>
+        <attalias Sync="TRUE">L706B033</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B034</attrlabl>
+        <attalias Sync="TRUE">L706B034</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B035</attrlabl>
+        <attalias Sync="TRUE">L706B035</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Specialized Secondary School Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B036</attrlabl>
+        <attalias Sync="TRUE">L706B036</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B037</attrlabl>
+        <attalias Sync="TRUE">L706B037</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B038</attrlabl>
+        <attalias Sync="TRUE">L706B038</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B039</attrlabl>
+        <attalias Sync="TRUE">L706B039</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B040</attrlabl>
+        <attalias Sync="TRUE">L706B040</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Junior College Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B041</attrlabl>
+        <attalias Sync="TRUE">L706B041</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B042</attrlabl>
+        <attalias Sync="TRUE">L706B042</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B043</attrlabl>
+        <attalias Sync="TRUE">L706B043</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B044</attrlabl>
+        <attalias Sync="TRUE">L706B044</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B045</attrlabl>
+        <attalias Sync="TRUE">L706B045</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with University Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B046</attrlabl>
+        <attalias Sync="TRUE">L706B046</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Other Places of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B047</attrlabl>
+        <attalias Sync="TRUE">L706B047</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Township of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B048</attrlabl>
+        <attalias Sync="TRUE">L706B048</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Neighborhood committee of the town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B049</attrlabl>
+        <attalias Sync="TRUE">L706B049</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Village Committee of The Town of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L706B050</attrlabl>
+        <attalias Sync="TRUE">L706B050</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with Graduate School Education Migrated from Jie Dao of Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A001</attrlabl>
+        <attalias Sync="TRUE">L707A001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A002</attrlabl>
+        <attalias Sync="TRUE">L707A002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A003</attrlabl>
+        <attalias Sync="TRUE">L707A003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A004</attrlabl>
+        <attalias Sync="TRUE">L707A004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Administrator/Manager Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A005</attrlabl>
+        <attalias Sync="TRUE">L707A005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Administrator/Manager Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A006</attrlabl>
+        <attalias Sync="TRUE">L707A006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Administrator/Manager Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A007</attrlabl>
+        <attalias Sync="TRUE">L707A007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Professional/Technical Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A008</attrlabl>
+        <attalias Sync="TRUE">L707A008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Professional/Technical Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A009</attrlabl>
+        <attalias Sync="TRUE">L707A009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Professional/Technical Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A010</attrlabl>
+        <attalias Sync="TRUE">L707A010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Clerical &amp;  Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A011</attrlabl>
+        <attalias Sync="TRUE">L707A011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Clerical &amp;  Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A012</attrlabl>
+        <attalias Sync="TRUE">L707A012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Clerical &amp;  Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A013</attrlabl>
+        <attalias Sync="TRUE">L707A013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Sales &amp;  Service Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A014</attrlabl>
+        <attalias Sync="TRUE">L707A014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Sales &amp;  Service Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A015</attrlabl>
+        <attalias Sync="TRUE">L707A015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Sales &amp;  Service Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A016</attrlabl>
+        <attalias Sync="TRUE">L707A016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Agriculture &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A017</attrlabl>
+        <attalias Sync="TRUE">L707A017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Agriculture &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A018</attrlabl>
+        <attalias Sync="TRUE">L707A018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Agriculture &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A019</attrlabl>
+        <attalias Sync="TRUE">L707A019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Production &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A020</attrlabl>
+        <attalias Sync="TRUE">L707A020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Production &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A021</attrlabl>
+        <attalias Sync="TRUE">L707A021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Production &amp; Related Workers Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A022</attrlabl>
+        <attalias Sync="TRUE">L707A022</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Not Stated Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A023</attrlabl>
+        <attalias Sync="TRUE">L707A023</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Not Stated Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707A024</attrlabl>
+        <attalias Sync="TRUE">L707A024</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Not Stated Migrated from Other Places of This Province</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B001</attrlabl>
+        <attalias Sync="TRUE">L707B001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B002</attrlabl>
+        <attalias Sync="TRUE">L707B002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B003</attrlabl>
+        <attalias Sync="TRUE">L707B003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B004</attrlabl>
+        <attalias Sync="TRUE">L707B004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Administrator/Manager Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B005</attrlabl>
+        <attalias Sync="TRUE">L707B005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Administrator/Manager Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B006</attrlabl>
+        <attalias Sync="TRUE">L707B006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Administrator/Manager Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B007</attrlabl>
+        <attalias Sync="TRUE">L707B007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Professional/Technical Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B008</attrlabl>
+        <attalias Sync="TRUE">L707B008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Professional/Technical Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B009</attrlabl>
+        <attalias Sync="TRUE">L707B009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Professional/Technical Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B010</attrlabl>
+        <attalias Sync="TRUE">L707B010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Clerical &amp;  Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B011</attrlabl>
+        <attalias Sync="TRUE">L707B011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Clerical &amp;  Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B012</attrlabl>
+        <attalias Sync="TRUE">L707B012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Clerical &amp;  Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B013</attrlabl>
+        <attalias Sync="TRUE">L707B013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Sales &amp;  Service Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B014</attrlabl>
+        <attalias Sync="TRUE">L707B014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Sales &amp;  Service Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B015</attrlabl>
+        <attalias Sync="TRUE">L707B015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Sales &amp;  Service Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B016</attrlabl>
+        <attalias Sync="TRUE">L707B016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Agriculture &amp; Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B017</attrlabl>
+        <attalias Sync="TRUE">L707B017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Agriculture &amp; Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B018</attrlabl>
+        <attalias Sync="TRUE">L707B018</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Agriculture &amp; Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B019</attrlabl>
+        <attalias Sync="TRUE">L707B019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Production &amp; Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B020</attrlabl>
+        <attalias Sync="TRUE">L707B020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Production &amp; Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B021</attrlabl>
+        <attalias Sync="TRUE">L707B021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Production &amp; Related Workers Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B022</attrlabl>
+        <attalias Sync="TRUE">L707B022</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Persons with the Occupation of Not Stated Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B023</attrlabl>
+        <attalias Sync="TRUE">L707B023</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Male with the Occupation of Not Stated Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L707B024</attrlabl>
+        <attalias Sync="TRUE">L707B024</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Female with the Occupation of Not Stated Migrated from Other Provinces</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708001</attrlabl>
+        <attalias Sync="TRUE">L708001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women Who Gave Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708002</attrlabl>
+        <attalias Sync="TRUE">L708002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women Who Gave 1st Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708003</attrlabl>
+        <attalias Sync="TRUE">L708003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women Who Gave 2nd Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708004</attrlabl>
+        <attalias Sync="TRUE">L708004</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women Who Gave 3rd Birth &amp; Over from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708005</attrlabl>
+        <attalias Sync="TRUE">L708005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from This Province Who Gave Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708006</attrlabl>
+        <attalias Sync="TRUE">L708006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from This Province Who Gave 1st Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708007</attrlabl>
+        <attalias Sync="TRUE">L708007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from This Province Who Gave 2nd Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708008</attrlabl>
+        <attalias Sync="TRUE">L708008</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from This Province Who Gave 3rd Birth &amp; Over from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708009</attrlabl>
+        <attalias Sync="TRUE">L708009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from Other Provinces Who Gave Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708010</attrlabl>
+        <attalias Sync="TRUE">L708010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from Other Provinces Who Gave 1st Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708011</attrlabl>
+        <attalias Sync="TRUE">L708011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from Other Provinces Who Gave 2nd Birth from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L708012</attrlabl>
+        <attalias Sync="TRUE">L708012</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Women from Other Provinces Who Gave 3rd Birth &amp; Over from November 1, 1999 to October 31, 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801001</attrlabl>
+        <attalias Sync="TRUE">L801001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801002</attrlabl>
+        <attalias Sync="TRUE">L801002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Use Their Houses as Residence</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801003</attrlabl>
+        <attalias Sync="TRUE">L801003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Use Their Houses as both Residence and Commercial Place</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801004</attrlabl>
+        <attalias Sync="TRUE">L801004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Sharing Their House With Other Household </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801005</attrlabl>
+        <attalias Sync="TRUE">L801005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Un-Sharing Their House With Other Household</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801006</attrlabl>
+        <attalias Sync="TRUE">L801006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Have A Bungalow</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801007</attrlabl>
+        <attalias Sync="TRUE">L801007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Have An Apartment in A Building under 6 Stories </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801008</attrlabl>
+        <attalias Sync="TRUE">L801008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Have An Apartment in A Building under 7 Stories</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801009</attrlabl>
+        <attalias Sync="TRUE">L801009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Concrete</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801010</attrlabl>
+        <attalias Sync="TRUE">L801010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Brick, Stone</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801011</attrlabl>
+        <attalias Sync="TRUE">L801011</attalias>
+        <attrtype Sync="TRUE">String</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Timber, Bamboo, Grass</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L801012</attrlabl>
+        <attalias Sync="TRUE">L801012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Whose House with The Wall Built in Other Material</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802001</attrlabl>
+        <attalias Sync="TRUE">L802001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802002</attrlabl>
+        <attalias Sync="TRUE">L802002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Rooms</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802003</attrlabl>
+        <attalias Sync="TRUE">L802003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Area of Floor Space</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802004</attrlabl>
+        <attalias Sync="TRUE">L802004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Before 1949</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802005</attrlabl>
+        <attalias Sync="TRUE">L802005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Rooms Before 1949</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802006</attrlabl>
+        <attalias Sync="TRUE">L802006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Floor Space Before 1949</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802007</attrlabl>
+        <attalias Sync="TRUE">L802007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Between 1950 and 1959</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802008</attrlabl>
+        <attalias Sync="TRUE">L802008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Rooms Between 1950 and 1959</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802009</attrlabl>
+        <attalias Sync="TRUE">L802009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Area of Floor Space Between 1950 And 1959</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802010</attrlabl>
+        <attalias Sync="TRUE">L802010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Between 1960 and 1969</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802011</attrlabl>
+        <attalias Sync="TRUE">L802011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Rooms Between 1960 and 1969</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802012</attrlabl>
+        <attalias Sync="TRUE">L802012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Area of Floor Space Between 1960 and 1969</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802013</attrlabl>
+        <attalias Sync="TRUE">L802013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Between 1970 and 1979</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802014</attrlabl>
+        <attalias Sync="TRUE">L802014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Rooms Between 1970 and 1979</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802015</attrlabl>
+        <attalias Sync="TRUE">L802015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Area of Floor Space Between 1970 and 1979</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802016</attrlabl>
+        <attalias Sync="TRUE">L802016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Between 1980 and 1989</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802017</attrlabl>
+        <attalias Sync="TRUE">L802017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Rooms Between 1980 and 1989</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802018</attrlabl>
+        <attalias Sync="TRUE">L802018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Area of Floor Space Between 1980 and 1989</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802019</attrlabl>
+        <attalias Sync="TRUE">L802019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Between 1990 and 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802020</attrlabl>
+        <attalias Sync="TRUE">L802020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Rooms Between 1990 and 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L802021</attrlabl>
+        <attalias Sync="TRUE">L802021</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Area of Floor Space Between 1990 and 2000</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803001</attrlabl>
+        <attalias Sync="TRUE">L803001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803002</attrlabl>
+        <attalias Sync="TRUE">L803002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Using Kitchen Independently</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803003</attrlabl>
+        <attalias Sync="TRUE">L803003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Using Kitchen with other Household</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803004</attrlabl>
+        <attalias Sync="TRUE">L803004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households With No Kitchen</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803005</attrlabl>
+        <attalias Sync="TRUE">L803005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Cooking with Gas</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803006</attrlabl>
+        <attalias Sync="TRUE">L803006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Cooking with Electricity</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803007</attrlabl>
+        <attalias Sync="TRUE">L803007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Cooking with Coal</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803008</attrlabl>
+        <attalias Sync="TRUE">L803008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Cooking with Firewood</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803009</attrlabl>
+        <attalias Sync="TRUE">L803009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Cooking with Other</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803010</attrlabl>
+        <attalias Sync="TRUE">L803010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Using Tap Water</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803011</attrlabl>
+        <attalias Sync="TRUE">L803011</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Without Tap Water</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803012</attrlabl>
+        <attalias Sync="TRUE">L803012</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Using Centralized Support of Hot Water </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803013</attrlabl>
+        <attalias Sync="TRUE">L803013</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Installed Their Own Water Heater </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803014</attrlabl>
+        <attalias Sync="TRUE">L803014</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Using Other Facility for Bath </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803015</attrlabl>
+        <attalias Sync="TRUE">L803015</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households No Facility for Bath </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803016</attrlabl>
+        <attalias Sync="TRUE">L803016</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Using the Drawing Water Type Lavatory Independently</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803017</attrlabl>
+        <attalias Sync="TRUE">L803017</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Sharing the Drawing Water Type Lavatory With Other Households</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803018</attrlabl>
+        <attalias Sync="TRUE">L803018</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Using Other Type of Lavatory Independently</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803019</attrlabl>
+        <attalias Sync="TRUE">L803019</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households Sharing Other of Type Lavatory With Other Households</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L803020</attrlabl>
+        <attalias Sync="TRUE">L803020</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households With No Lavatory</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804001</attrlabl>
+        <attalias Sync="TRUE">L804001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804002</attrlabl>
+        <attalias Sync="TRUE">L804002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Have Self-built House</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804003</attrlabl>
+        <attalias Sync="TRUE">L804003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Buy Commercial Residence </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804004</attrlabl>
+        <attalias Sync="TRUE">L804004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Buy Economic and Functional Residence </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804005</attrlabl>
+        <attalias Sync="TRUE">L804005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Buy Residence from the Originally Public-owned House </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804006</attrlabl>
+        <attalias Sync="TRUE">L804006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Rent Public-owned House </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804007</attrlabl>
+        <attalias Sync="TRUE">L804007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Rent Commercial Residence </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L804008</attrlabl>
+        <attalias Sync="TRUE">L804008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Households That Get Residence from Other Sources</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805001</attrlabl>
+        <attalias Sync="TRUE">L805001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805002</attrlabl>
+        <attalias Sync="TRUE">L805002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent Less Than 10, 000 Yuans on Purchasing or Building Houses</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805003</attrlabl>
+        <attalias Sync="TRUE">L805003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 10, 000 to 20, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805004</attrlabl>
+        <attalias Sync="TRUE">L805004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 20, 00 to 30, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805005</attrlabl>
+        <attalias Sync="TRUE">L805005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 30, 000 to 50, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805006</attrlabl>
+        <attalias Sync="TRUE">L805006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 50, 000 to 100, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805007</attrlabl>
+        <attalias Sync="TRUE">L805007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 100, 000 to 200, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805008</attrlabl>
+        <attalias Sync="TRUE">L805008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 200, 000 to 300, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805009</attrlabl>
+        <attalias Sync="TRUE">L805009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 300, 000 to 500, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L805010</attrlabl>
+        <attalias Sync="TRUE">L805010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent More Than 500, 000 Yuans on Purchasing or Building Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806001</attrlabl>
+        <attalias Sync="TRUE">L806001</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806002</attrlabl>
+        <attalias Sync="TRUE">L806002</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent Less Than 20 Yuans Monthly on Renting Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806003</attrlabl>
+        <attalias Sync="TRUE">L806003</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 20 to 50 Yuans Monthly on Renting Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806004</attrlabl>
+        <attalias Sync="TRUE">L806004</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 50 to 100 Yuans Monthly on Renting Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806005</attrlabl>
+        <attalias Sync="TRUE">L806005</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 100 to 200 Yuans Monthly on Renting Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806006</attrlabl>
+        <attalias Sync="TRUE">L806006</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 200 to 500 Yuans Monthly on Renting Houses </attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806007</attrlabl>
+        <attalias Sync="TRUE">L806007</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 500 to 1000 Yuans Monthly on Renting Houses</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806008</attrlabl>
+        <attalias Sync="TRUE">L806008</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 1000 to 1500 Yuans Monthly on Renting Houses</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806009</attrlabl>
+        <attalias Sync="TRUE">L806009</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent from 1500 to 2000 Yuans Monthly on Renting Houses</attrdef>
+      </attr>
+      <attr>
+        <attrlabl Sync="TRUE">L806010</attrlabl>
+        <attalias Sync="TRUE">L806010</attalias>
+        <attrtype Sync="TRUE">Number</attrtype>
+        <attwidth Sync="TRUE">9</attwidth>
+        <attrdef>Total Number of Family Households That Spent More Than 2000 Yuans Monthly on Renting Houses</attrdef>
+      </attr>
+    </detailed>
+  </eainfo>
+  <mdDateSt Sync="TRUE">20090515</mdDateSt>
+  <spref>
+    <horizsys>
+      <cordsysn>
+        <geogcsn Sync="TRUE">GCS_Krasovsky_1940</geogcsn>
+      </cordsysn>
+      <geograph>
+        <geogunit Sync="TRUE">Decimal degrees</geogunit>
+        <latres Sync="TRUE">0.000000</latres>
+        <longres Sync="TRUE">0.000000</longres>
+      </geograph>
+      <geodetic>
+        <horizdn Sync="TRUE">D_Krasovsky_1940</horizdn>
+        <ellips Sync="TRUE">Krasovsky_1940</ellips>
+        <semiaxis Sync="TRUE">6378245.000000</semiaxis>
+        <denflat Sync="TRUE">298.300000</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <refSysInfo>
+    <RefSystem>
+      <refSysID>
+        <identCode Sync="TRUE">GCS_Krasovsky_1940</identCode>
+      </refSysID>
+    </RefSystem>
+  </refSysInfo>
+  <Binary>
+    <Thumbnail>
+      <Data EsriPropertyType="Image" OriginalFileName="thumbnail.jpg">/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/2wBDAQEBAQEBAQEBAQEBAQEBAQEBAQEB
+AQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQH/wAARCACFAMgDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD+/iii
+igAooooAKKKKACiiigAooooAKKKKACiiigAooooAKyNa17R/D1rFd6zfQ2MNxdQ2FoHEktxfX9wH
+NvYafZwJLd399MscrxWdnBPcvHFLIsRSKRl0nngjYJJNFG5ilnCPIiMYIDGJ5grEExQmaESyY2Rm
+WMOQXXPw/wDHT4neFNe1zRre20nR/EWleGNesdHtfETWK6j5+veKdJtrxP7J1CKwnn1bwOI7jQfD
+vjLT/CWoFvFF54hPh7xJqXh/QdB1uPXPA4mz2jw7k+LzKpyzrQpyhgsM782Lxs4tYfDxjFqT5525
++VrlgpSurGtGk6tSMFom1zP+WN1d/wCXmfR118bvhvZWWk6ndatrEOl65cWltpeqN4L8bnS7ma/G
+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
+FFFAH//Z</Data>
+    </Thumbnail>
+  </Binary>
+  <dataqual>
+    <lineage />
+  </dataqual>
+</metadata>

@@ -1,0 +1,621 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Pima County Department of Transportation - Geographic Information Services
+          Division</origin>
+        <pubdate>20080618</pubdate>
+        <title>Pima County, Arizona land parcels, 2008</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/pr/76/f4/92/7/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land parcels in Pima County, Arizona, 2008.</abstract>
+      <purpose>For use with GIS software.</purpose>
+      <supplinf>Known Errors/Qualifications: paregion contains duplicate taxcodes for parcels, i.e.
+        undeveloped subdivisions in which all lots are assigned the same taxcode, until the lots are
+        developed. Users should normalize their analysis results based on the frequency of duplicate
+        taxcodes. Reference Scale: 3000 Spatial Domain: Pima County Control: ADOT Rectified: parcel
+        Maintenance Organization: PC DOT GIS Division Maintenance Frequency: Daily Maintenance
+        Format: Coverage Primary Source Organization: PC DOT GIS Division Primary Source Contact:
+        Steve Whitney Primary Source Date: 2006 Primary Source Scale: 200 Primary Source Format: DWG
+        Technical Services Contact: Steve Whitney MapGuide Layer Name: Parcels (Landbase) MapGuide
+        Scale Range: 0 - 25000</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20080618</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>The date of last update. May not be accurate.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-113.334221</westbc>
+        <eastbc>-110.447680</eastbc>
+        <northbc>32.514068</northbc>
+        <southbc>31.426106</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>land use</themekey>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>parcel</themekey>
+        <themekey>ownership</themekey>
+        <themekey>property</themekey>
+        <themekey>tax</themekey>
+        <themekey>land value</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Arizona</placekey>
+        <placekey>Pima County</placekey>
+        <placekey>Tucson</placekey>
+      </place>
+    </keywords>
+    <accconst>Public</accconst>
+    <useconst>Ownership of Products All information, web pages, data (including digital data), maps,
+      programs, software, studies, reports, patents, copyrights and plans obtained by and prepared
+      for and by the Pima County Department of Transportation (hereafter "Products") shall
+      remain the property of Pima County. It is expressly understood that Pima County (hereafter
+      "County") has exclusive control of all information developed for this work. Any
+      for-value use of Products shall be retained by the County and negotiated for use by the Pima
+      County Department of Transportation. Requestor agrees that any misappropriation or misuse of
+      the Products will cause serious damage to the County and that, because money damages may not
+      constitute sufficient compensation, any misappropriation or misuse shall justify and allow the
+      County to apply to any court having jurisdiction for an injunction or other proper relief and,
+      if relief is granted, the County shall be entitled to the reasonable expenses of the action
+      including attorney&#65533;s fees. Limitation of Use County Products are provided only for use
+      in a computerized records keeping system or for study maps to depict approximate locations.
+      Any other use is not authorized by County. Products shall not be copied, reproduced or used in
+      any form by any party other than User or an agent of User. Digital data shall not be used by
+      any party for any commercial purpose without completing a Verified Statement of Commercial
+      Purpose Public Data Request and payment of fees. In addition to other remedies, a violation of
+      this limitation of use may result in the assessment of penalties in accordance with A.R.S.
+      39-121.03. Products are for illustration purposes only and are not suitable for site-specific
+      decision making. Use of Products as an engineering tool is expressly forbidden. Products
+      should not be used for making financial or any other commitments. The County provides these
+      Products with the understanding that they are not guaranteed to be accurate, correct or
+      complete and conclusions drawn from the Products are the responsibility of the User. While
+      every effort has been made to ensure the accuracy, correctness and timeliness of materials
+      presented anywhere within the Products, the County assumes no responsibility for errors or
+      omissions, even if the County is advised of the possibility of such damage. Project
+      information is for planning purposes only. The listing of any project by the owner agency does
+      not constitute an official commitment by that agency to build the project in the time period
+      shown, or at all. The information for any project is subject to change as the project
+      development process proceeds over time. Assumption of Risk User understands and acknowledges
+      that Products are subject to constant change and accuracy cannot be guaranteed. The County
+      gathers information from different sources and agencies. ALL PRODUCTS ARE PROVIDED AS IS, WITH
+      ALL FAULTS, AND WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING, BUT NOT
+      LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+      County does not warrant that the functions contained in the Products will meet the
+      requirements of User or that the operation of Products will be uninterrupted or error free, or
+      that defects will be corrected. The entire risk as to the quality, performance and usefulness
+      of the Products rests with User. Products may have a number of errors which may include but
+      are not limited to the following types of errors: Spatial errors - The areas depicted by these
+      Products are approximate, and are not necessarily accurate to surveying or engineering
+      standards. X/Y coordinates may be in error by several hundred feet or more. Registration
+      errors - Geographic Information System (hereafter "GIS") data layers may not overlay
+      each other correctly. Attribute errors - Database information may be incorrect. Currency
+      errors - GIS data layers, databases and documents may not be the most current available or may
+      not depict the specified time. All data is subject to constant change. Data input lags
+      real-world changes by varying periods of time. Completeness errors - Data may be missing or
+      data may be included that does not belong. Projection distortion - All map projections
+      introduce distortion by representing the irregular shape of the earth's surface on flat maps.
+      This affects feature shapes, angles, map distances and areas. We choose projections which
+      minimize these distortions when viewing most County maps. Calculation errors - Results of
+      calculations may not be exact due to rounding, precision of stored values or algorithm
+      differences. Representation errors - Maps or other displays may not properly represent the
+      data. For instance, a white line on a white background would appear as if it wasn't there.
+      Color coded ("themed") map layers colors and categories may not match the current
+      range of data values. Data may be displayed at an inappropriate scale. For example, selecting
+      map features on MapGuide maps changes the color of the displayed map features. (Clear selected
+      map features to ensure colors match the legend.) Availability Availability of County Internet
+      services and Products is not guaranteed. Applications, servers, and network connections may be
+      unavailable at any time for maintenance or unscheduled outages. Outages may be of long
+      duration. Do not create dependencies on these services for critical needs. Indemnify; Defend;
+      Hold Harmless User releases County and their officers, agents, consultants, contractors and
+      employees from any and all claims, actions or causes of action for damages including, but not
+      limited to, any costs of recovering, reprogramming or reproducing and programs or data stored
+      in or used with the Products, damage to property, damages for personal injury or for any lost
+      profits, lost savings or other special, incidental or consequential damages arising out of the
+      use of or inability to use the Products. User shall indemnify and hold harmless County, its
+      officers, agents, consultants, contractors and employees from any and all liability claims or
+      damages to any person or property arising from or connected with the use of the Products. THE
+      FOREGOING WARRANTY IS EXCLUSIVE AND IN LIEU OF ALL OTHER WARRANTIES OF MERCHANTABILITY,
+      FITNESS FOR PARTICULAR PURPOSE AND/OR ANY OTHER TYPE WHETHER EXPRESSED OR IMPLIED. In no event
+      shall the County become liable to Users of these Products or any other party, for any loss or
+      direct, indirect, special, incidental or consequential damages, including but not limited to
+      time, money or goodwill, arising from the use or modification of the Products. Maintenance of
+      Products To assist the County in the maintenance of the Products, Users should provide the
+      County information concerning errors or discrepancies found in using the Products. If there is
+      an E-mail contact address on affected web page(s), then use it. Otherwise contact: Pima County
+      Department of Transportation Geographic Information Services Division 201 N. Stone Ave., 9th
+      Floor Tucson, Arizona 85701-1207 Phone: 520-740-6670 Fax: 520-798-3429 E-mail: Acknowledgement
+      and Logotype The Pima County Department of Transportation and/or Geographic Information
+      Services logotype on the Products shall not be removed or obscured. When logotypes are
+      provided with Products, they shall be clearly displayed on all copies or reproductions of the
+      Products or parts of the Products. Please acknowledge Pima County as the source when County
+      Products are used in the preparation of reports, papers, publications, maps, or other
+      products.Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Pima County Department of Transportation - Geographic Information Services
+            Division</cntorg>
+          <cntper>Steve Whitney</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>201 N Stone Ave., 9th Floor</address>
+          <city>Tucson</city>
+          <state>Arizona</state>
+          <postal>85701</postal>
+          <country>United States of America</country>
+        </cntaddr>
+        <cntvoice>520-740-6670</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{482f41a4-3a3e-4eaf-a298-53002d8caa54}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>429677</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Parcels</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>EXEMPT</attrlabl>
+        <attrdef>Whether parcel is exempt from property taxes.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IMPRATIO</attrlabl>
+        <attrdef>Ratio use in calculation of accessed value.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>APN2</attrlabl>
+        <attrdef>APN without punctuation and/or another indexing field in GIS.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_DIR</attrlabl>
+        <attrdef>Street direction.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_CITY</attrlabl>
+        <attrdef>Situs city name.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LAND_VALUE</attrlabl>
+        <attrdef>Assessed land value.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IMPR_VALUE</attrlabl>
+        <attrdef>Assessed improvement value.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_VALUE</attrlabl>
+        <attrdef>Total assessed value.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STD_LAND_U</attrlabl>
+        <attrdef>Standardized land use code.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT_SIZE</attrlabl>
+        <attrdef>Lot size or area.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER2</attrlabl>
+        <attrdef>Additional owners.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRES2</attrlabl>
+        <attrdef>Additional owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IMPSOURCE</attrlabl>
+        <attrdef>Valuation source code.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LANDUNIT</attrlabl>
+        <attrdef>Type of land unit ( A=acres, F= sq.ft., S=site).</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Y_HPGN</attrlabl>
+        <attrdef>Y coordinate in the native coordinate system (centroid).</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TRACT</attrlabl>
+        <attrdef>Census tract.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>PAGE</attrlabl>
+        <attrdef>Recorder's page number.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TRS_OL</attrlabl>
+        <attrdef>Township/Range/Section (overlay derived).</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PARCELIDX</attrlabl>
+        <attrdef>Parcel, map, and book number, first five digits of APN.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNERIDX</attrlabl>
+        <attrdef>First five characters of owner name or address.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TRS</attrlabl>
+        <attrdef>Township/Range/Section.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LANDRATIO</attrlabl>
+        <attrdef>Ratio use in calculation of accessed value.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CURZONE</attrlabl>
+        <attrdef>Current zoning code.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AUXISTAT</attrlabl>
+        <attrdef>Auxillary status.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MRKT</attrlabl>
+        <attrdef>Market area.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LASTCHANGE</attrlabl>
+        <attrdef>Last change date.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Area in acres.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEGAL4</attrlabl>
+        <attrdef>Fourth line of legal description.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEGAL5</attrlabl>
+        <attrdef>Former tax code (before split, if any).</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEGAL1</attrlabl>
+        <attrdef>First line of legal description.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LANDMEAS</attrlabl>
+        <attrdef>Total number of land units.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FILEID</attrlabl>
+        <attrdef>Parcel's assessment indicator.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>MP</attrlabl>
+        <attrdef>Map and plot number.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEGAL3</attrlabl>
+        <attrdef>Third line of legal description.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT</attrlabl>
+        <attrdef>Subdivision lot number.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SECTMODIF</attrlabl>
+        <attrdef>Section modifier (parcel crosses section lines).</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTYCODE</attrlabl>
+        <attrdef>State of Arizona county code.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PAREGION_I</attrlabl>
+        <attrdef>Stump</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LANDCLASS</attrlabl>
+        <attrdef>Revised land use code.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLOCK</attrlabl>
+        <attrdef>Subdivision block number.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Stump</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PRIORLMTD</attrlabl>
+        <attrdef>Prior limited assessment value.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT_R</attrlabl>
+        <attrdef>Same as field LOT with leadings zeros removed.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PAREGION_</attrlabl>
+        <attrdef>Stump</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>IMPCLASS</attrlabl>
+        <attrdef>Improvement legislative class.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DOCKET</attrlabl>
+        <attrdef>Recorder's docket number.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Stump</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>CENSUS</attrlabl>
+        <attrdef>Census tract 1990.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>X_HPGN</attrlabl>
+        <attrdef>X coordinate in the native coordinate system (centroid).</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LEGAL2</attrlabl>
+        <attrdef>Second line of legal description.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GROUPCODE</attrlabl>
+        <attrdef>Tax group code.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ASRAREA</attrlabl>
+        <attrdef>Tax area.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>RECORDDATE</attrlabl>
+        <attrdef>Recording date.</attrdef>
+        <attrdefs>Pima County Department of Transportation</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140324</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Pima County Department of Transportation - Geographic Information Services
+            Division</cntorg>
+          <cntper>Metadata Librarian</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>201 N Stone Ave., 9th Floor</address>
+          <city>Tucson</city>
+          <state>Arizona</state>
+          <postal>85701</postal>
+          <country>United States of America</country>
+        </cntaddr>
+        <cntvoice>520-740-6670</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

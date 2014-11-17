@@ -1,0 +1,504 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20081013</CreaDate>
+      <CreaTime>13050300</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20081013</SyncDate>
+      <SyncTime>12133600</SyncTime>
+      <ModDate>20081013</ModDate>
+      <ModTime>12141000</ModTime>
+      <PublishStatus>Published</PublishStatus>
+      <MetaID>{EFE55674-5658-4999-A5DD-F3665174BB00}</MetaID>
+      <DataProperties>
+         <lineage>
+            <Process Date="20080618" Time="164626" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures">CopyFeatures C:\Temp\DCP_Convert\DCP_SR.gdb\temp C:\temp\08A\Districts\shp\nyha.shp # 0 0 0</Process>
+            <Process Date="20080618" Name="DCP_Convert_17" Time="164942" ToolSource="M:\ESRI\Product\python\Z-Tools-Data Toolbox\Z-Tools-Data.tbx\DCP_Convert">DCP_Convert "C:\Temp\08A\Districts\mif\NY_ha.mif\NY_ha Polygon" # # M:\ESRI\Product\Metadata\Districts\nyha.shp.xml 08A "May, 2008" "May, 2008" # C:\temp\08A\Districts\shp\nyha.shp C:\temp\08A\Districts\fGDB\Districts.gdb\nyha C:\TEMP\08A\Districts\tab\nyha.tab M:\ESRI\Product\DCPGIS@DCP@SDE.sde\DISTRICTS\sde.DCP.v08A_nyha_uk true true</Process>
+         </lineage>
+      </DataProperties>
+      <PublishedDocID>{F083F09F-87BA-4C1C-BC1E-03C33F0BE7CE}</PublishedDocID>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>The boundaries for New York City's Health Areas.</abstract>
+         <purpose>These districts were created by the Department of City Planning to aid city agencies in administering public services.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>New York City Department of City Planning</origin>
+            <pubdate>July, 2008</pubdate>
+            <title>New York City Health Areas 2008</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <edition>08A</edition>
+            <serinfo>
+               <sername>BYTES of the BIG APPLE</sername>
+               <issue>08A</issue>
+            </serinfo>
+            <pubinfo>
+               <publish>City of New York Department of City Planning</publish>
+            </pubinfo>
+            <onlink>http://map.princeton.edu/data/mg/74/qn/85/3/content/restricted/data.zip</onlink>
+            <ftname Sync="FALSE">nyha</ftname>
+            <othercit>No major changes since previous version.</othercit>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>ground condition</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>April, 2008</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Quarterly</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-74.257233</westbc>
+            <eastbc Sync="TRUE">-73.699214</eastbc>
+            <northbc Sync="TRUE">40.915808</northbc>
+            <southbc Sync="TRUE">40.495972</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">913154.845900</leftbc>
+            <rightbc Sync="TRUE">1067382.508300</rightbc>
+            <bottombc Sync="TRUE">120114.578800</bottombc>
+            <topbc Sync="TRUE">272932.037400</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <place>
+            <placekey>New York</placekey>
+            <placekey>New York City</placekey>
+            <placekey>Manhattan</placekey>
+            <placekey>Staten Island</placekey>
+            <placekey>Brooklyn</placekey>
+            <placekey>Bronx</placekey>
+            <placekey>Queens</placekey>
+            <placekt>NONE</placekt>
+         </place>
+         <theme>
+            <themekey>boundary</themekey>
+            <themekey>borough</themekey>
+            <themekey>boundaries</themekey>
+            <themekt>NONE</themekt>
+         </theme>
+      </keywords>
+      <accconst>The data is freely available to all New York City agencies and the public.</accconst>
+      <useconst>While all possible measures have been taken to ensure the accuracy of this data, the NYC Department of City Planning and the City of New York assume no responsibility for the accuracy of this data.  All users should independently verify the accuracy of the data for their purposes.</useconst>
+      <natvform>ESRI Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntvoice>212.720.3505</cntvoice>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>22 Reade St, 5N</address>
+               <city>New York</city>
+               <state>NY</state>
+               <postal>10007</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+            <cntorgp>
+               <cntorg>New York City Department of City Planning</cntorg>
+            </cntorgp>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>New York</city>
+               <state>New York</state>
+               <postal>10007</postal>
+               <address>22 Reade St, 5N</address>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>212.720.3505</cntvoice>
+            <cntperp>
+               <cntorg>New York City Department of City Planning</cntorg>
+            </cntperp>
+            <cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20081013</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="nyha">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">354</efeacnt>
+            <spindex Sync="TRUE">FALSE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="nyha">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">354</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <eainfo>
+      <detailed Name="nyha">
+         <enttyp>
+            <enttypl>NYHA</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">354</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">BoroCode</attrlabl>
+            <attalias Sync="TRUE">BoroCode</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <attrdef>Borough Code</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>1</edomv>
+                  <edomvd>Manhattan</edomvd>
+               </edom>
+               <edom>
+                  <edomv>2</edomv>
+                  <edomvd>Bronx</edomvd>
+               </edom>
+               <edom>
+                  <edomv>3</edomv>
+                  <edomvd>Brooklyn</edomvd>
+               </edom>
+               <edom>
+                  <edomv>4</edomv>
+                  <edomvd>Queens</edomvd>
+               </edom>
+               <edom>
+                  <edomv>5</edomv>
+                  <edomvd>Staten Island</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HealthArea</attrlabl>
+            <attalias Sync="TRUE">HealthArea</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <attrdef>Health area number.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BoroName</attrlabl>
+            <attalias Sync="TRUE">BoroName</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">32</attwidth>
+            <attrdef>Borough name of the health area.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SHAPE_Leng</attrlabl>
+            <attalias Sync="TRUE">SHAPE_Leng</attalias>
+            <attrtype Sync="TRUE">Float</attrtype>
+            <attwidth Sync="TRUE">19</attwidth>
+            <atnumdec Sync="TRUE">11</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SHAPE_Area</attrlabl>
+            <attalias Sync="TRUE">SHAPE_Area</attalias>
+            <attrtype Sync="TRUE">Float</attrtype>
+            <attwidth Sync="TRUE">19</attwidth>
+            <attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+            <atnumdec Sync="TRUE">11</atnumdec>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="FALSE">0.440</transize>
+               <dssize Sync="FALSE">0.440</dssize>
+            </digtinfo>
+         </digform>
+         <fees>Free</fees>
+      </stdorder>
+      <distrib>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>New York City Department of City Planning</cntorg>
+            </cntorgp>
+            <cntinst>Available at the following website:
+http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml</cntinst>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>22 Reade St</address>
+               <city>New York</city>
+               <state>New York</state>
+               <postal>10007</postal>
+               <country>USA</country>
+            </cntaddr>
+         </cntinfo>
+      </distrib>
+      <resdesc Sync="FALSE">Downloadable Data</resdesc>
+   </distinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+            <projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+         </cordsysn>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <plandu Sync="TRUE">survey feet</plandu>
+               <coordrep>
+                  <absres Sync="TRUE">0.000000</absres>
+                  <ordres Sync="TRUE">0.000000</ordres>
+               </coordrep>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+               <lambertc>
+                  <stdparll Sync="TRUE">40.666667</stdparll>
+                  <stdparll Sync="TRUE">41.033333</stdparll>
+                  <longcm Sync="TRUE">-74.000000</longcm>
+                  <latprjo Sync="TRUE">40.166667</latprjo>
+                  <feast Sync="TRUE">984250.000000</feast>
+                  <fnorth Sync="TRUE">0.000000</fnorth>
+               </lambertc>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+            <ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257222</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <dataqual>
+      <complete>These data are accurate as of the redistricting after the US Census 2000.</complete>
+      <posacc>
+         <horizpa>
+            <horizpar>The District files are created from the same release version of the Department of City Planning LION file.  The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
+         </horizpa>
+      </posacc>
+      <lineage />
+   </dataqual>
+   <mdDateSt Sync="TRUE">20081013</mdDateSt>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle>nyha</resTitle>
+         <presForm>
+            <PresFormCd Sync="FALSE" value="005" />
+         </presForm>
+         <resEd>03D</resEd>
+         <resEdDate>200403</resEdDate>
+         <resRefDate>
+            <refDate>200311</refDate>
+            <refDateType>
+               <DateTypCd value="001" />
+            </refDateType>
+         </resRefDate>
+         <citRespParty>
+            <rpOrgName>Department of City Planning</rpOrgName>
+            <rpPosName>GIS Specialist</rpPosName>
+            <role>
+               <RoleCd value="003" />
+            </role>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>22 Reade St</delPoint>
+                  <city>New York</city>
+                  <adminArea>NY</adminArea>
+                  <postCode>10012</postCode>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>212.720.3505</voiceNum>
+               </cntPhone>
+            </rpCntInfo>
+         </citRespParty>
+         <resRefDate>
+            <refDate>200403</refDate>
+            <refDateType>
+               <DateTypCd value="002" />
+            </refDateType>
+         </resRefDate>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="FALSE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">913154.8459</westBL>
+               <eastBL Sync="TRUE">1067382.5083</eastBL>
+               <northBL Sync="TRUE">272932.0374</northBL>
+               <southBL Sync="TRUE">120114.5788</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-74.257233</westBL>
+         <eastBL Sync="TRUE">-73.699214</eastBL>
+         <northBL Sync="TRUE">40.915808</northBL>
+         <southBL Sync="TRUE">40.495972</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+      <tpCat>
+         <TopicCatCd value="003" />
+      </tpCat>
+      <descKeys KeyTypCd="002">
+         <keyTyp>
+            <KeyTypCd value="002" />
+         </keyTyp>
+         <keyword>New York City</keyword>
+         <keyword>New York</keyword>
+         <keyword>Bronx</keyword>
+         <keyword>Brooklyn</keyword>
+         <keyword>Manhattan</keyword>
+         <keyword>Queens</keyword>
+         <keyword>Staten Island</keyword>
+         <keyword>Richmond</keyword>
+         <keyword>Kings</keyword>
+      </descKeys>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="FALSE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="FALSE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="FALSE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <transSize Sync="FALSE">0.440</transSize>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS001\C\NYC\new\nyha.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+               <orFunct>
+                  <OnFunctCd value="001" />
+               </orFunct>
+            </onLineSrc>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+            <formatVer>8.3</formatVer>
+         </distorFormat>
+         <distorCont>
+            <rpOrgName>Department of City Planning</rpOrgName>
+            <rpPosName>GIS Specialist</rpPosName>
+            <rpCntInfo>
+               <cntAddress>
+                  <delPoint>22 Reade St</delPoint>
+                  <city>New York</city>
+                  <adminArea>NY</adminArea>
+                  <postCode>10012</postCode>
+               </cntAddress>
+               <cntPhone>
+                  <voiceNum>212.720.3505</voiceNum>
+               </cntPhone>
+            </rpCntInfo>
+            <role>
+               <RoleCd value="003" />
+            </role>
+         </distorCont>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+            <formatVer>7.5</formatVer>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="FALSE" value="001" />
+         </topLvl>
+         <geometObjs Name="nyha">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">354</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdContact>
+      <rpOrgName>Department of City Planning</rpOrgName>
+      <rpPosName>GIS Specialist</rpPosName>
+      <rpCntInfo>
+         <cntAddress>
+            <delPoint>22 Reade St</delPoint>
+            <city>New York</city>
+            <adminArea>NY</adminArea>
+            <postCode>10012</postCode>
+         </cntAddress>
+         <cntPhone>
+            <voiceNum>212.720.3505</voiceNum>
+         </cntPhone>
+      </rpCntInfo>
+      <role>
+         <RoleCd value="003" />
+      </role>
+   </mdContact>
+   <mdFileID Sync="TRUE">{D47784A4-737D-42B5-89FC-20E897EF4042}</mdFileID>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

@@ -1,0 +1,40 @@
+<add>
+  <doc>
+    <field name="uuid">ark:/88435/3b591b113</field>
+    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/3b591b113</field>
+    <field name="dc_title_s">Canada FSA Postal Centroids 2002</field>
+    <field name="dc_description_s">Canada FSA Postal Centroids represents the Forward Sortation Areas (FSA) of Canada as centroids, which are identified by the first three characters of the postal code. The sequence of the three-character FSA is always Alphabetical character/Number/Alphabetical character. The centroids are calculated from the DMTI Spatial FSA boundary file, which is created from the DMTI Spatial six-character postal code point file and CanMap&#174;. The FSA boundaries encompass the six-character postal code points starting with that FSA designation, and conform to the streets and other physical features within CanMap.Canada FSA Postal Centroids provides the Forward Sortation Areas (FSA) of Canada with their population and number of dwellings.</field>
+    <field name="dc_rights_s">Restricted</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/3b/59/1b/11/3/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/3b/59/1b/11/3/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/3b/59/1b/11/3/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3b591b113"}</field>
+    <field name="layer_id_s">3b591b113</field>
+    <field name="layer_slug_s">princeton-3b591b113</field>
+    <field name="layer_geom_type_s">Point</field>
+    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_creator_sm">DMTI Spatial Inc.</field>
+    <field name="dc_creator_sm">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_subject_sm">point</field>
+    <field name="dc_subject_sm">postal codes</field>
+    <field name="dc_subject_sm">forward sortation areas</field>
+    <field name="dc_subject_sm">three-character postal codes</field>
+    <field name="dc_subject_sm">location</field>
+    <field name="dct_issued_s">2002</field>
+    <field name="dct_temporal_sm">2000</field>
+    <field name="dct_temporal_sm">1996</field>
+    <field name="dct_spatial_sm">Canada</field>
+    <field name="georss_box_s">42.033581 -135.066895 70.780014 -52.711426</field>
+    <field name="georss_polygon_s">42.033581 -135.066895 70.780014 -135.066895 70.780014 -52.711426 42.033581 -52.711426 42.033581 -135.066895</field>
+    <field name="solr_geom">ENVELOPE(-135.066895, -52.711426, 70.780014, 42.033581)</field>
+    <field name="solr_bbox">-135.066895 42.033581 -52.711426 70.780014</field>
+    <field name="solr_sw_pt">42.033581,-135.066895</field>
+    <field name="solr_ne_pt">70.780014,-52.711426</field>
+    <field name="solr_year_i">2000</field>
+    <field name="solr_wms_url" />
+    <field name="solr_wfs_url" />
+    <field name="solr_wcs_url" />
+  </doc>
+</add>

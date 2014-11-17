@@ -1,0 +1,92 @@
+<add>
+  <doc>
+    <field name="uuid">ark:/88435/z316q3034</field>
+    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/z316q3034</field>
+    <field name="dc_title_s">Monterey County, California land parcels, 2006</field>
+    <field name="dc_description_s">The County of Monterey Assessor's Parcel Layer is intended to be used to locate and
+        identify taxable property within Monterey County as of 2006. A combination of original
+        source data were used to create the dataset. Source data may include, but is not limited to:
+        assessor maps, parcel maps, survey maps, cities and towns maps, property deeds, County of
+        Monterey Megabyte database, satellite imagery, aerial imagery, and recorded documents. Data
+        has been updated by comparing those parcel numbers listed in the Megabyte database to those
+        that exist in the GIS layer and generating difference reports. Parcels were then researched
+        and updated accordingly. The County of Monterey does not garauntee the accuracy of this
+        data, and assumes no liability for the use of this data.For use with GIS software. This layer intended to show the location, boundary, size,
+        and dimensions of parcels in relation to their surroundings.</field>
+    <field name="dc_rights_s">Restricted</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/z3/16/q3/03/4/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/z3/16/q3/03/4/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/z3/16/q3/03/4/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z316q3034"}</field>
+    <field name="layer_id_s">z316q3034</field>
+    <field name="layer_slug_s">princeton-z316q3034</field>
+    <field name="layer_geom_type_s">Line</field>
+    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dc_publisher_s" />
+    <field name="dc_creator_sm">Boundary Solutions, Inc.</field>
+    <field name="dc_subject_sm">parcel</field>
+    <field name="dc_subject_sm">parcels</field>
+    <field name="dc_subject_sm">tax parcels</field>
+    <field name="dc_subject_sm">property maps</field>
+    <field name="dc_subject_sm">cadastral maps</field>
+    <field name="dc_subject_sm">cadastre</field>
+    <field name="dc_subject_sm">ownership</field>
+    <field name="dc_subject_sm">boundary</field>
+    <field name="dc_subject_sm">assessment</field>
+    <field name="dc_subject_sm">lot line</field>
+    <field name="dc_subject_sm">property</field>
+    <field name="dc_subject_sm">Planning and Cadastral</field>
+    <field name="dct_issued_s">2006</field>
+    <field name="dct_temporal_sm">2006</field>
+    <field name="dct_spatial_sm">California</field>
+    <field name="dct_spatial_sm">Monterey County</field>
+    <field name="dct_spatial_sm">Big Sur</field>
+    <field name="dct_spatial_sm">Bolsa Knolls</field>
+    <field name="dct_spatial_sm">Spreckels</field>
+    <field name="dct_spatial_sm">Pajaro</field>
+    <field name="dct_spatial_sm">San Lucas</field>
+    <field name="dct_spatial_sm">San Ardo</field>
+    <field name="dct_spatial_sm">Lockwood</field>
+    <field name="dct_spatial_sm">Bradley</field>
+    <field name="dct_spatial_sm">Greenfield</field>
+    <field name="dct_spatial_sm">Monterey</field>
+    <field name="dct_spatial_sm">Seaside</field>
+    <field name="dct_spatial_sm">Lucia</field>
+    <field name="dct_spatial_sm">Aromas</field>
+    <field name="dct_spatial_sm">Soledad</field>
+    <field name="dct_spatial_sm">Parkfield</field>
+    <field name="dct_spatial_sm">Jolon</field>
+    <field name="dct_spatial_sm">Moss Landing</field>
+    <field name="dct_spatial_sm">Pacific Grove</field>
+    <field name="dct_spatial_sm">Castroville</field>
+    <field name="dct_spatial_sm">Marina</field>
+    <field name="dct_spatial_sm">Arroyo Seco</field>
+    <field name="dct_spatial_sm">Gonzales</field>
+    <field name="dct_spatial_sm">Jamesburg</field>
+    <field name="dct_spatial_sm">assessment</field>
+    <field name="dct_spatial_sm">Carmel-by-the-Sea</field>
+    <field name="dct_spatial_sm">Prunedale</field>
+    <field name="dct_spatial_sm">King City</field>
+    <field name="dct_spatial_sm">Cachugua</field>
+    <field name="dct_spatial_sm">Pebble Beach</field>
+    <field name="dct_spatial_sm">Carmel Valley</field>
+    <field name="dct_spatial_sm">Tassajara Hot Springs</field>
+    <field name="dct_spatial_sm">Carmel Highlands</field>
+    <field name="dct_spatial_sm">Sand City</field>
+    <field name="dct_spatial_sm">Salinas Valley</field>
+    <field name="dct_spatial_sm">Salinas</field>
+    <field name="dct_spatial_sm">Carmel Valley Village</field>
+    <field name="dct_spatial_sm">Del Rey Oaks</field>
+    <field name="georss_box_s">35.788665 -121.978141 36.918989 -120.214916</field>
+    <field name="georss_polygon_s">35.788665 -121.978141 36.918989 -121.978141 36.918989 -120.214916 35.788665 -120.214916 35.788665 -121.978141</field>
+    <field name="solr_geom">ENVELOPE(-121.978141, -120.214916, 36.918989, 35.788665)</field>
+    <field name="solr_bbox">-121.978141 35.788665 -120.214916 36.918989</field>
+    <field name="solr_sw_pt">35.788665,-121.978141</field>
+    <field name="solr_ne_pt">36.918989,-120.214916</field>
+    <field name="solr_year_i">2006</field>
+    <field name="solr_wms_url" />
+    <field name="solr_wfs_url" />
+    <field name="solr_wcs_url" />
+  </doc>
+</add>

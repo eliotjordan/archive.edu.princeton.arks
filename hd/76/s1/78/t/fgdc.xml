@@ -1,0 +1,617 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Originally developed by R &amp; S Digital, Goodland, KS. Currenty updated, edited, and maintained by Assessment Division, City &amp; County of Denver</origin>
+        <pubdate>20061201</pubdate>
+        <title>Denver County, Colorado land parcels, 2006</title>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/hd/76/s1/78/t/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>The parcels of the City and County of Denver as of 2006. The geometry of this data is not of survey quality and should not be used for survey purposes. It is for general reference purposes only.</abstract>
+      <purpose>For use with GIS software. Coverage represents the parcels within the City and County of Denver as accurately as possible.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20061201</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>In work</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-105.109833</westbc>
+        <eastbc>-104.599539</eastbc>
+        <northbc>39.914193</northbc>
+        <southbc>39.612738</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>Parcels</themekt>
+        <themekey>parcel</themekey>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property</themekey>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>value</themekey>
+        <themekey>land value</themekey>
+        <themekey>land use</themekey>
+        <themekey>buildings</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Colorado</placekey>
+        <placekey>Denver County</placekey>
+        <placekey>Denver</placekey>
+      </place>
+    </keywords>
+    <accconst>This data is provided as read-only. Contact the GIS Supervisor for more information on distribution requirements/restrictions.</accconst>
+    <useconst>This is not a legal representation of the City and County of Denver's boundary or Denver Parks and Recreation Districts. The City and County of Denver shall not be for damages of any kind arising out the use of this information. The information is provided "as is" without warranty of any kind, either express or implied, including, but limited to, the fitness for a paricular use. Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>City and County of Denver Assessment Division</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>201 W. Colfax Ave. Dept. 406</address>
+          <city>Denver</city>
+          <state>CO</state>
+          <postal>80202</postal>
+        </cntaddr>
+        <cntvoice>720-913-4056</cntvoice>
+        <cntfax>720-913-4101</cntfax>
+        <cntemail>denvergis@ci.denver.co.us</cntemail>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>City and County of Denver Assessor's Office</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+    <crossref>
+      <citeinfo>
+        <origin>City &amp; County of Denver</origin>
+        <title>Parcels</title>
+      </citeinfo>
+    </crossref>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{dfd184d1-11bb-4c5a-b396-fe8b28677ba1}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>210305</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel_08031</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_DIR</attrlabl>
+        <attrdef>Street direction.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_SF</attrlabl>
+        <attrdef>Street suffix.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>D_CLASS</attrlabl>
+        <attrdef>Detailed Property Description Use Code.</attrdef>
+        <attrdefs>Assessment Division</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>DCL12</attrlabl>
+        <attrdef>Property Use Code.</attrdef>
+        <attrdefs>Assessment Division</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>32</edomv>
+            <edomvd>MEDICAL</edomvd>
+          </edom>
+          <edom>
+            <edomv>43</edomv>
+            <edomvd>PRINTING PLANT</edomvd>
+          </edom>
+          <edom>
+            <edomv>44</edomv>
+            <edomvd>WAREHOUSE</edomvd>
+          </edom>
+          <edom>
+            <edomv>23</edomv>
+            <edomvd>MOTEL</edomvd>
+          </edom>
+          <edom>
+            <edomv>46</edomv>
+            <edomvd>FOOD PROCESSING</edomvd>
+          </edom>
+          <edom>
+            <edomv>18</edomv>
+            <edomvd>APARTMENT 8 UNITS</edomvd>
+          </edom>
+          <edom>
+            <edomv>10</edomv>
+            <edomvd>CONDOMINIUMS</edomvd>
+          </edom>
+          <edom>
+            <edomv>20</edomv>
+            <edomvd>APARTMENT - 9+ UNITS</edomvd>
+          </edom>
+          <edom>
+            <edomv>19</edomv>
+            <edomvd>ROWHOUSE/TOWNHOME</edomvd>
+          </edom>
+          <edom>
+            <edomv>01</edomv>
+            <edomvd>VACANT LAND</edomvd>
+          </edom>
+          <edom>
+            <edomv>06</edomv>
+            <edomvd>VACANT LAND</edomvd>
+          </edom>
+          <edom>
+            <edomv>21</edomv>
+            <edomvd>PLANED BUILDING GROUP - APARTMENT</edomvd>
+          </edom>
+          <edom>
+            <edomv>47</edomv>
+            <edomvd>FACTORY</edomvd>
+          </edom>
+          <edom>
+            <edomv>03</edomv>
+            <edomvd>VACANT LAND</edomvd>
+          </edom>
+          <edom>
+            <edomv>31</edomv>
+            <edomvd>FINANCIAL BUILDINGS</edomvd>
+          </edom>
+          <edom>
+            <edomv>92</edomv>
+            <edomvd>CHURCH/RELIGEOUS WORSHIP</edomvd>
+          </edom>
+          <edom>
+            <edomv>89</edomv>
+            <edomvd>DENVER PUBLIC SCHOOLS</edomvd>
+          </edom>
+          <edom>
+            <edomv>85</edomv>
+            <edomvd>UNITED STATES GOVERMENT</edomvd>
+          </edom>
+          <edom>
+            <edomv>13</edomv>
+            <edomvd>TRIPLEX</edomvd>
+          </edom>
+          <edom>
+            <edomv>51</edomv>
+            <edomvd>RAILROAD OWNED TAXABLE</edomvd>
+          </edom>
+          <edom>
+            <edomv>27</edomv>
+            <edomvd>THEATRE</edomvd>
+          </edom>
+          <edom>
+            <edomv>52</edomv>
+            <edomvd>AUTO SHIPPING OR TRUCKING TERMINAL</edomvd>
+          </edom>
+          <edom>
+            <edomv>50</edomv>
+            <edomvd>AIRPORT TAXABLE</edomvd>
+          </edom>
+          <edom>
+            <edomv>30</edomv>
+            <edomvd>OFFICES</edomvd>
+          </edom>
+          <edom>
+            <edomv>58</edomv>
+            <edomvd>MISCELLANEOUS INDUSTRIAL IMPROVEMENTS</edomvd>
+          </edom>
+          <edom>
+            <edomv>39</edomv>
+            <edomvd>GOVERNMENTAL BUILDING</edomvd>
+          </edom>
+          <edom>
+            <edomv>98</edomv>
+            <edomvd>STATE ASSESSED</edomvd>
+          </edom>
+          <edom>
+            <edomv>41</edomv>
+            <edomvd>GRAIN ELEVATOR</edomvd>
+          </edom>
+          <edom>
+            <edomv>61</edomv>
+            <edomvd>MOBILE HOME PARK</edomvd>
+          </edom>
+          <edom>
+            <edomv>40</edomv>
+            <edomvd>GREENHOUSE</edomvd>
+          </edom>
+          <edom>
+            <edomv>54</edomv>
+            <edomvd>CAR WASH</edomvd>
+          </edom>
+          <edom>
+            <edomv>93</edomv>
+            <edomvd>HOSPITAL</edomvd>
+          </edom>
+          <edom>
+            <edomv>57</edomv>
+            <edomvd>AUTO SERVICE</edomvd>
+          </edom>
+          <edom>
+            <edomv>04</edomv>
+            <edomvd>VACANT LAND</edomvd>
+          </edom>
+          <edom>
+            <edomv>82</edomv>
+            <edomvd>CITY &amp; COUNTY OF DENVER</edomvd>
+          </edom>
+          <edom>
+            <edomv>29</edomv>
+            <edomvd>COMMERCIAL PARKING STRUCTURE</edomvd>
+          </edom>
+          <edom>
+            <edomv>26</edomv>
+            <edomvd>SHOPPING CENTER</edomvd>
+          </edom>
+          <edom>
+            <edomv>02</edomv>
+            <edomvd>VACANT LAND</edomvd>
+          </edom>
+          <edom>
+            <edomv>12</edomv>
+            <edomvd>DUPLEX</edomvd>
+          </edom>
+          <edom>
+            <edomv>22</edomv>
+            <edomvd>HOTEL</edomvd>
+          </edom>
+          <edom>
+            <edomv>28</edomv>
+            <edomvd>MISCELLANEOUS COMMERCIAL IMPROVEMENTS</edomvd>
+          </edom>
+          <edom>
+            <edomv>84</edomv>
+            <edomvd>SENIOR CITIZENS HOMES</edomvd>
+          </edom>
+          <edom>
+            <edomv>35</edomv>
+            <edomvd>VETERINARIES</edomvd>
+          </edom>
+          <edom>
+            <edomv>14</edomv>
+            <edomvd>APARTMENT - 4 UNITS</edomvd>
+          </edom>
+          <edom>
+            <edomv>37</edomv>
+            <edomvd>CEMETERY BUILDINGS</edomvd>
+          </edom>
+          <edom>
+            <edomv>16</edomv>
+            <edomvd>APARTMENT - 6 UNITS</edomvd>
+          </edom>
+          <edom>
+            <edomv>15</edomv>
+            <edomvd>APARTMENT - 5 UNITS</edomvd>
+          </edom>
+          <edom>
+            <edomv>07</edomv>
+            <edomvd>VACANT LAND</edomvd>
+          </edom>
+          <edom>
+            <edomv>25</edomv>
+            <edomvd>RESTAURANT</edomvd>
+          </edom>
+          <edom>
+            <edomv>88</edomv>
+            <edomvd>COLORADO SEMINARY</edomvd>
+          </edom>
+          <edom>
+            <edomv>33</edomv>
+            <edomvd>SOCIAL/RECREATION</edomvd>
+          </edom>
+          <edom>
+            <edomv>91</edomv>
+            <edomvd>PAROCHIAL SCHOOLS</edomvd>
+          </edom>
+          <edom>
+            <edomv>05</edomv>
+            <edomvd>VACANT AGRICULTURAL</edomvd>
+          </edom>
+          <edom>
+            <edomv>87</edomv>
+            <edomvd>LOWRY OR GEORGE W CLAYTON TRUST ESTATE</edomvd>
+          </edom>
+          <edom>
+            <edomv>86</edomv>
+            <edomvd>STATE OF COLORADO</edomvd>
+          </edom>
+          <edom>
+            <edomv>90</edomv>
+            <edomvd>PRIVATE SCHOOLS</edomvd>
+          </edom>
+          <edom>
+            <edomv>97</edomv>
+            <edomvd>PARSONAGES</edomvd>
+          </edom>
+          <edom>
+            <edomv>11</edomv>
+            <edomvd>SINGLE FAMILY RESIDENTIAL</edomvd>
+          </edom>
+          <edom>
+            <edomv>45</edomv>
+            <edomvd>MEAT PACKING</edomvd>
+          </edom>
+          <edom>
+            <edomv>80</edomv>
+            <edomvd>CITY LEASED BUILDING</edomvd>
+          </edom>
+          <edom>
+            <edomv>83</edomv>
+            <edomvd>DENVER HOUSING</edomvd>
+          </edom>
+          <edom>
+            <edomv>60</edomv>
+            <edomvd>MOBILE HOMES</edomvd>
+          </edom>
+          <edom>
+            <edomv>36</edomv>
+            <edomvd>MORTUARIES</edomvd>
+          </edom>
+          <edom>
+            <edomv>53</edomv>
+            <edomvd>SERVICE STATION</edomvd>
+          </edom>
+          <edom>
+            <edomv>42</edomv>
+            <edomvd>DRY CLEANING PLANT</edomvd>
+          </edom>
+          <edom>
+            <edomv>48</edomv>
+            <edomvd>BRICK PLANT</edomvd>
+          </edom>
+          <edom>
+            <edomv>17</edomv>
+            <edomvd>APARTMENT - 7 UNITS</edomvd>
+          </edom>
+          <edom>
+            <edomv>96</edomv>
+            <edomvd>ALL OTHER EXEMPT</edomvd>
+          </edom>
+          <edom>
+            <edomv>81</edomv>
+            <edomvd>AIRPORTS</edomvd>
+          </edom>
+          <edom>
+            <edomv>24</edomv>
+            <edomvd>RETAIL</edomvd>
+          </edom>
+          <edom>
+            <edomv>95</edomv>
+            <edomvd>ALL OTHER CHARITABLE EXEMPTS</edomvd>
+          </edom>
+          <edom>
+            <edomv>94</edomv>
+            <edomvd>FRATERNAL</edomvd>
+          </edom>
+          <edom>
+            <edomv>56</edomv>
+            <edomvd>PARKING BUILDING - NOT ASSOCIATED WITH COMMERCIAL USEAGE</edomvd>
+          </edom>
+          <edom>
+            <edomv>55</edomv>
+            <edomvd>AUTO DEALER</edomvd>
+          </edom>
+          <edom>
+            <edomv>99</edomv>
+            <edomvd>GENERAL COMMON ELEMENTS</edomvd>
+          </edom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>YEAR_BUILT</attrlabl>
+        <attrdef>Year built.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STD_LAND_U</attrlabl>
+        <attrdef>Standardized land use code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LOT_SIZE</attrlabl>
+        <attrdef>Lot size or area [square feet].</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>BLDG_AREA</attrlabl>
+        <attrdef>Building area [square feet].</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>D_CLASS_CN</attrlabl>
+        <attrdef>Detailed Property Description Use.</attrdef>
+        <attrdefs>Assessment Division</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LAND_VALUE</attrlabl>
+        <attrdef>Assessed land value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Perimeter of lot [feet].</attrdef>
+        <attrdefs>Denver County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Area of lot [acres].</attrdef>
+        <attrdefs>Denver County</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SITUS_APT</attrlabl>
+        <attrdef>Property Unit Number.</attrdef>
+        <attrdefs>Denver County</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140513</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Denver GIS</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>201 W COLFAX AVE DEPT 301</address>
+          <city>DENVER</city>
+          <state>CO</state>
+          <postal>80202</postal>
+        </cntaddr>
+        <cntvoice>720-913-4919</cntvoice>
+        <cntfax>720-913-4830</cntfax>
+        <cntemail>denvergis@ci.denver.co.us</cntemail>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

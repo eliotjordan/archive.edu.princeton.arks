@@ -1,0 +1,183 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Proxy Logic Ltd. </origin>
+        <pubdate>20120425</pubdate>
+        <title>Nigeria condensate pipelines, 2012</title>
+        <geoform>vector digital data</geoform>
+        <othercit>Date cited is date of last modification of file.</othercit>
+        <onlink>http://map.princeton.edu/data/rj/43/06/10/f/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Natural gas condensate pipelines in Nigeria in .shp format.</abstract>
+      <purpose>For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20120425</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Date of last modification of file.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>7.14084</westbc>
+        <eastbc>7.6605</eastbc>
+        <northbc>4.42565</northbc>
+        <southbc>4.3007</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>pipelines</themekey>
+        <themekey>pipes</themekey>
+        <themekey>gas</themekey>
+        <themekey>natural gas</themekey>
+        <themekey>condensate</themekey>
+        <themekey>utilities</themekey>
+        <themekey>energy</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>utilitiesCommunication</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>Nigeria</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data are licensed to Princeton University-affiliated persons only.Restrictions on
+      use:(a) Unauthorized Use. USER shall not use the PRODUCT on behalf of any other person or
+      organization (including, but not limited to, networks, web pages and Internet use,
+      timesharing, or multiple CPU arrangements) unless authorized in writing by PLN.(b) Copies.
+      USER shall not duplicate the PRODUCT except for the following:1. USER may make one copy of the
+      PRODUCT for protection purposes as long as the USER agrees not to use the backup copy for any
+      purpose other than to replace original data if lost or damaged.2. USER may translate the
+      PRODUCT into other formats and/or media. These "reformats" shall be subject to the same
+      restrictions as the PRODUCT under this agreement.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Proxy Logics Nigeria</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{71d35bab-c395-4f78-a405-44cc3d3dd0f0}</PublishedDocID>
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>String</sdtstype>
+        <ptvctcnt>9</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9829948957069658e-009</latres>
+        <longres>8.9829948957069658e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D Minna</horizdn>
+        <ellips>Clarke 1880 RGS</ellips>
+        <semiaxis>6378249.145</semiaxis>
+        <denflat>293.465</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>condensatepipelines_2012</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>Esri</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>TAG_DESC</attrlabl>
+        <attrdef>Description of pipeline.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SHAPE_Leng</attrlabl>
+        <attrdef>Length of pipeline in meters.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Source</attrlabl>
+        <attrdef>Source of data.</attrdef>
+        <attrdefs>Proxy Logics Nigeria</attrdefs>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140331</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

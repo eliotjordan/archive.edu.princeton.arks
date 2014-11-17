@@ -1,0 +1,407 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Merced Data Special Services</origin>
+        <pubdate>20061001</pubdate>
+        <title>Merced County, California land parcels, 2006</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>90 Throckmorton Ave, #26, Mill Valley, CA, 94941, US</pubplace>
+          <publish>Boundary Solutions, Inc.</publish>
+        </pubinfo>
+        <onlink>http://map.princeton.edu/data/9z/90/31/40/j/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Land parcels in Merced County, California, 2006.</abstract>
+      <purpose>For use with GIS software.</purpose>
+      <supplinf>The digital data contained on this CD is intended for "planning" purposes only. This
+        data is intended to accurately represent the information that it portrays. These data sets
+        are not guaranteed to represent the current, up to date documents that they depict. The data
+        contained herein is representational in nature and should not be used to assessment or legal
+        purposes. Also, this data is not to be construed for purposes of zoning or subdivision of
+        land. When necessary, contact MDSS, or the source agency (as identified in the file
+        metadata.txt in the appropriate directory) for verification of the data. Quantitatively, the
+        positional accuracy of the parcel layer for the urban areas is +/- 5 feet and +/- 40 for
+        rural areas of the county. For the urban areas, the centerline file was used to match up the
+        parcel pages. This centerline file was created from aerial photos, which were calibrated
+        using known control points. For the rural areas, U.S.G.S Quads were used to match up the
+        parcel pages. These Quads have inherent positional accuracies of +/- 40 feet.</supplinf>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>20061001</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>Version date.</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-121.247653</westbc>
+        <eastbc>-120.052517</eastbc>
+        <northbc>37.633492</northbc>
+        <southbc>36.740427</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>Merced County Parcels</themekt>
+        <themekey>parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property maps</themekey>
+        <themekey>cadastral maps</themekey>
+        <themekey>land use</themekey>
+        <themekey>ownership</themekey>
+        <themekey>parcel</themekey>
+        <themekey>property</themekey>
+        <themekey>tax</themekey>
+        <themekey>value</themekey>
+        <themekey>land value</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>California</placekey>
+        <placekey>Merced County</placekey>
+      </place>
+    </keywords>
+    <accconst>Available for purchase from MDSS.</accconst>
+    <useconst>Use with permission from MDSS. Data are licensed to Princeton University-affiliated
+      persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Merced Data Special Services</cntorg>
+          <cntper>Rich Green</cntper>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>369 W 18th Street</address>
+          <city>Merced</city>
+          <state>CA</state>
+          <postal>95340</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(209)723-3153</cntvoice>
+        <cntfax>(209)723-0322</cntfax>
+        <cntemail>rich@mcag.cog.ca.us</cntemail>
+        <hours>8 a.m. to 5 p.m. Monday - Friday</hours>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>National ParcelMap Data Portal</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS
+      10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{670bc1b4-cb97-4433-b3d1-26fb0f963393}</PublishedDocID>
+  </Esri>
+  <dataqual>
+    <attracc>
+      <attraccr>The digital data contained on this CD is intended for "planning" purposes only. This
+        data is intended to accurately represent the information that it portrays. These data sets
+        are not guaranteed to represent the current, up to date documents that they depict. The data
+        contained herein is representational in nature and should not be used to assessment or legal
+        purposes. Also, this data is not to be construed for purposes of zoning or subdivdion of
+        land. When necessary, contact MDSS, or the source agency (as identified in the file
+        metadata.txt in the appropriate directory) for verification of the data. Quatitaively, the
+        positional accuracy of the parcel layer for the urban areas is +/- 5 feet and +/- 40 for
+        rural areas of the county. For the urban areas, the centerline file was used to match up the
+        parcel pages. This centerline file was created from aerial photos, which were calibrated
+        using known control points. For the rural areas, U.S.G.S Quads were used to match up the
+        parcel pages. These Quads have inherent positional accuracies of +/- 40 feet.</attraccr>
+    </attracc>
+    <logic>The digital data contained on this CD is intended for "planning" purposes only. This data
+      is intended to accurately represent the information that it portrays. These data sets are not
+      guaranteed to represent the current, up to date documents that they depict. The data contained
+      herein is representational in nature and should not be used to assessment or legal purposes.
+      Also, this data is not to be construed for purposes of zoning or subdivdion of land. When
+      necessary, contact MDSS, or the source agency (as identified in the file metadata.txt in the
+      appropriate directory) for verification of the data. Quatitaively, the positional accuracy of
+      the parcel layer for the urban areas is +/- 5 feet and +/- 40 for rural areas of the county.
+      For the urban areas, the centerline file was used to match up the parcel pages. This
+      centerline file was created from aerial photos, which were calibrated using known control
+      points. For the rural areas, U.S.G.S Quads were used to match up the parcel pages. These Quads
+      have inherent positional accuracies of +/- 40 feet.</logic>
+  </dataqual>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>84386</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>Parcels</enttypl>
+      </enttyp>
+      <attr>
+        <attrlabl>SIT_DIR</attrlabl>
+        <attrdef>Street direction.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_SF</attrlabl>
+        <attrdef>Street suffix.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_STR_NA</attrlabl>
+        <attrdef>Street name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessors Parcel Number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_HSE_NU</attrlabl>
+        <attrdef>House number.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>AREA</attrlabl>
+        <attrdef>Parcel area.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>PERIMETER</attrlabl>
+        <attrdef>Parcel perimeter.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ASMTDESC</attrlabl>
+        <attrdef>Assessment description of parcel.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>USECODE</attrlabl>
+        <attrdef>Use code.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>USENAME</attrlabl>
+        <attrdef>Use description.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Area in acres.</attrdef>
+      </attr>
+      <attr>
+        <attrlabl>TAXABILITY</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>LANDVALUE</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>FIXEDIMP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>GROWIMP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>STRUCTIMP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PERSONPROP</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>PPMH</attrlabl>
+      </attr>
+      <attr>
+        <attrlabl>JURIS</attrlabl>
+        <attrdef>City name.</attrdef>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Merced Data Special Services</cntorg>
+          <cntper>Rich Green</cntper>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>369 W. 18th Street</address>
+          <city>Merced</city>
+          <state>CA</state>
+          <postal>95340</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(209)723-3153</cntvoice>
+        <cntfax>(209)723-0322</cntfax>
+        <cntemail>rich@mcag.cog.ca.us</cntemail>
+        <hours>8:00 - 5:00 Monday through Friday</hours>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See access and use constraints information.</distliab>
+    <custom>Data Request Form Please fill out this form and return by mail or by FAX to the
+      following: ATTN: Rich Green Merced Data Special Services, Inc 369 W. 18th Street Merced, CA
+      95340 FAX# (209) 723-0322 Please Print or type: Contact Name: Agency Name: Address: City,
+      State, Zip Phone Number: Email Address: Fax Number: Date: Select Subscription ]
+      SubscriptionFee* # of UpdatesPer Year Annual Cost* Monthly Subscription $150.00 per month 12
+      $1800.00 Quarterly Subscription $375.00 per quarter 4 $1500.00 Bi-Annual Subscription $600.00
+      bi-annually 2 $1200.00 Yearly/Single Purchase $1000.00 1 $1000.00 * Price includes standard
+      shipping via U.S. Postal Service. Shipping Method All CD's will be shipped via U.S. Postal
+      Service and will take 3-5 working days. An additional fee of $10 per shipment will be charged
+      if Federal Express, Next Day service is requested. Please check one box to verify shipping
+      method. All Subscription shipments will be made on or about the 15th of the month. U.S. Postal
+      Service, 3-5 day (free) Federal Express, Next Day ($25 per shipment) Authorization to Proceed
+      By signing below and returning a copy to MDSS, I authorize MDSS to proceed with the provisions
+      of the digital products as defined above and agree to reimburse funds to MDSS for the full
+      amount quoted above. I also acknowledge that I have read and agree to the Method of Payment
+      and the GIS Data Disclaimer. Signature Date</custom>
+  </distinfo>
+  <metainfo>
+    <metd>20140325</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton
+            University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+    <metsi>
+      <metsc>Unclassified</metsc>
+    </metsi>
+  </metainfo>
+</metadata>

@@ -1,0 +1,514 @@
+<metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>Kelly D. Sheen, Trinity County RCD</origin>
+        <pubdate>20070731</pubdate>
+        <title>Trinity County, California land parcels, 2008</title>
+        <edition>2.1</edition>
+        <geoform>vector digital data</geoform>
+        <onlink>http://map.princeton.edu/data/cj/82/k8/84/1/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Ownership shapefile developed by the Trinity County RCD for the Trinity County Planning Department. A seamless parcel coverage of Trinity County as of 2008.</abstract>
+      <purpose>To provide a zoning tool for Trinity Counties Landuse Element. For use with GIS software.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <mdattim>
+          <sngdate>
+            <caldate>20070630</caldate>
+          </sngdate>
+          <sngdate>
+            <caldate>20081028</caldate>
+          </sngdate>
+        </mdattim>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-123.623767</westbc>
+        <eastbc>-122.445797</eastbc>
+        <northbc>41.368554</northbc>
+        <southbc>39.976909</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>parcel</themekey>
+        <themekey>parcels</themekey>
+        <themekey>assessor's parcels</themekey>
+        <themekey>tax parcels</themekey>
+        <themekey>property</themekey>
+        <themekey>property maps</themekey>
+        <themekey>ownership</themekey>
+        <themekey>lot lines</themekey>
+        <themekey>land use</themekey>
+        <themekey>value</themekey>
+        <themekey>land value</themekey>
+      </theme>
+      <theme>
+        <themekt>ISO 19115 Topic Categories</themekt>
+        <themekey>planningCadastre</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>California</placekey>
+        <placekey>Trinity County</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Non-commercial use. Data are licensed to Princeton University-affiliated persons only.</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Trinity County Resource Conservation District</cntorg>
+          <cntper>Kelly D. Sheen</cntper>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>P. O. Box 1450</address>
+          <city>Weaverville</city>
+          <state>CA</state>
+          <postal>96093</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(530) 623-6004</cntvoice>
+        <cntfax>(530) 623-6006</cntfax>
+        <cntemail>ksheen@tcrcd.net</cntemail>
+        <hours>8:00 am - 5:00 pm</hours>
+      </cntinfo>
+    </ptcontac>
+    <ptcontac>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Map and Geospatial Information Center, Lewis Library, Princeton University</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical</addrtype>
+          <address>Map and Geospatial Information Center, Lewis Library, Princeton University</address>
+          <city>Princeton</city>
+          <state>NJ</state>
+          <postal>08544</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>609-258-1097</cntvoice>
+      </cntinfo>
+    </ptcontac>
+    <datacred>Trinity County Resource Conservation District, Trinity County Assessor's Office, Trinity County Planning Department.</datacred>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; Esri ArcGIS 10.2.0.3348</native>
+  </idinfo>
+  <Esri>
+    <PublishedDocID>{6cc2604e-4dc5-45df-bd21-8a09db878287}</PublishedDocID> 
+  </Esri>
+  <spdoinfo>
+    <direct>Vector</direct>
+    <ptvctinf>
+      <sdtsterm>
+        <sdtstype>GT-polygon composed of chains</sdtstype>
+        <ptvctcnt>16635</ptvctcnt>
+      </sdtsterm>
+    </ptvctinf>
+  </spdoinfo>
+  <spref>
+    <horizsys>
+      <geograph>
+        <latres>8.9831528411952133e-009</latres>
+        <longres>8.9831528411952133e-009</longres>
+        <geogunit>Decimal Degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D North American 1983 CSRS</horizdn>
+        <ellips>GRS 1980</ellips>
+        <semiaxis>6378137.0</semiaxis>
+        <denflat>298.257222101</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <detailed>
+      <enttyp>
+        <enttypl>parcel_06105</enttypl>
+        <enttypd>A "parcel" is an area of land in one ownership and one general use.</enttypd>
+        <enttypds>California State Board of Equalization. Assessors' Handbook Section 215.</enttypds>
+      </enttyp>
+      <attr>
+        <attrlabl>APN</attrlabl>
+        <attrdef>Assessor's Parcel Number</attrdef>
+        <attrdefs>Trinity County Assessor's Office</attrdefs>
+        <attrdomv>
+          <udom>Assessor's Office defines the features.</udom>
+        </attrdomv>
+        <attrmfrq>None planned</attrmfrq>
+      </attr>
+      <attr>
+        <attrlabl>FID</attrlabl>
+        <attrdef>Internal feature number.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Sequential unique whole numbers that are automatically generated.</udom>
+        </attrdomv>
+      </attr>
+      <attr>
+        <attrlabl>ACRES</attrlabl>
+        <attrdef>Parcel Acreage</attrdef>
+        <attrdefs>Trinity County RCD</attrdefs>
+        <attrdomv>
+          <udom>Actual acreage based on spatial geometry of feature.</udom>
+        </attrdomv>
+        <attrmfrq>None planned</attrmfrq>
+      </attr>
+      <attr>
+        <attrlabl>STATE</attrlabl>
+        <attrdef>State.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>COUNTY</attrlabl>
+        <attrdef>County name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>FIPS</attrlabl>
+        <attrdef>Unique number assigned to county by Census.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SIT_FULL_S</attrlabl>
+        <attrdef>Full street address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>LAND_VALUE</attrlabl>
+        <attrdef>Assessed land value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>IMPR_VALUE</attrlabl>
+        <attrdef>Assessed improvement value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>TOT_VALUE</attrlabl>
+        <attrdef>Total assessed value.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>ASSMT_YEAR</attrlabl>
+        <attrdef>Assessment year.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>REC_DATE</attrlabl>
+        <attrdef>Recording date.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>SALES_PRIC</attrlabl>
+        <attrdef>Sales price.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>STD_LAND_U</attrlabl>
+        <attrdef>Standardized land use code.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNER</attrlabl>
+        <attrdef>Owner name.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNADDRESS</attrlabl>
+        <attrdef>Owner's mailing address.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>OWNCTYSTZP</attrlabl>
+        <attrdef>Owner city, state, and ZIP.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Xcoord</attrlabl>
+        <attrdef>Longitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>Ycoord</attrlabl>
+        <attrdef>Latitude of point-in-parcel.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minX</attrlabl>
+        <attrdef>Longitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>minY</attrlabl>
+        <attrdef>Latitude of lower left parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxX</attrlabl>
+        <attrdef>Longitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>maxY</attrlabl>
+        <attrdef>Latitude of upper right parcel bounding box.</attrdef>
+        <attrdefs>NPDP Standard Extended Attribute Table Format</attrdefs>
+      </attr>
+      <attr>
+        <attrlabl>GOV_SPI</attrlabl>
+        <attrdef>Government Agency &amp; SPI Ownership</attrdef>
+        <attrdefs>Trinity County RCD</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>DFG</edomv>
+            <edomvd>California Department of Fish &amp; Game</edomvd>
+            <edomvds>TCRCD assigned and corrected/verified by DFG Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>NPO</edomv>
+            <edomvd>Non-Private Ownership; No verifiable governmental or private ownership</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>DWR</edomv>
+            <edomvd>California Department of Water Resources</edomvd>
+            <edomvds>TCRCD assigned and corrected/verified by DWR Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>PRV</edomv>
+            <edomvd>Privately owned parcels</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>USF</edomv>
+            <edomvd>US Forest Service</edomvd>
+            <edomvds>TCRCD assigned from USFS hardcopies</edomvds>
+          </edom>
+          <edom>
+            <edomv>TC</edomv>
+            <edomvd>County of Trinity</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>SPI</edomv>
+            <edomvd>Sierra Pacific Industries</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>CA</edomv>
+            <edomvd>State of California</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>BOR</edomv>
+            <edomvd>Bureau of Reclamation</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>BLM</edomv>
+            <edomvd>Bureau of Land Management</edomvd>
+            <edomvds>TCRCD assigned from BLM hardcopies and corrected/verified by BLM Staff.</edomvds>
+          </edom>
+        </attrdomv>
+        <attrmfrq>None planned</attrmfrq>
+      </attr>
+      <attr>
+        <attrlabl>GOV_TMBR</attrlabl>
+        <attrdef>Government Agency &amp; Ind. Timber Ownership</attrdef>
+        <attrdefs>Trinity County RCD</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>NPO</edomv>
+            <edomvd>Non-Private Ownership; No verifiable governmental or private ownership</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>CM</edomv>
+            <edomvd>Crane Mills</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>BOR</edomv>
+            <edomvd>Bureau of Reclamation</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>DWR</edomv>
+            <edomvd>California Department of Water Resources</edomvd>
+            <edomvds>TCRCD assigned and corrected/verified by DWR Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>CA</edomv>
+            <edomvd>State of California</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>TC</edomv>
+            <edomvd>County of Trinity</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>TPC</edomv>
+            <edomvd>Timber Products Company</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>DFG</edomv>
+            <edomvd>California Department of Fish &amp; Game</edomvd>
+            <edomvds>TCRCD assigned and corrected/verified by DFG Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>USF</edomv>
+            <edomvd>US Forest Service</edomvd>
+            <edomvds>TCRCD assigned from USFS hardcopies</edomvds>
+          </edom>
+          <edom>
+            <edomv>BLM</edomv>
+            <edomvd>Bureau of Land Management</edomvd>
+            <edomvds>TCRCD assigned from BLM hardcopies and corrected/verified by BLM Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>TW</edomv>
+            <edomvd>Trans-Wood Company</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>ROS</edomv>
+            <edomvd>Roseburg Resources Company</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>SIM</edomv>
+            <edomvd>Simpson Resource Company</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>SPI</edomv>
+            <edomvd>Sierra Pacific Industries</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>PRV</edomv>
+            <edomvd>Privately owned parcels</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+        </attrdomv>
+        <attrmfrq>None planned</attrmfrq>
+      </attr>
+      <attr>
+        <attrlabl>G_OWN</attrlabl>
+        <attrdef>Government Agency &amp; Private Ownership</attrdef>
+        <attrdefs>Trinity County RCD</attrdefs>
+        <attrdomv>
+          <edom>
+            <edomv>DWR</edomv>
+            <edomvd>California Department of Water Resources</edomvd>
+            <edomvds>TCRCD assigned and corrected/verified by DWR Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>BLM</edomv>
+            <edomvd>Bureau of Land Management</edomvd>
+            <edomvds>TCRCD assigned from BLM hardcopies and corrected/verified by BLM Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>BOR</edomv>
+            <edomvd>Bureau of Reclamation</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>TC</edomv>
+            <edomvd>County of Trinity</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>PRV</edomv>
+            <edomvd>Privately owned parcels</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>USF</edomv>
+            <edomvd>US Forest Service</edomvd>
+            <edomvds>TCRCD assigned from USFS hardcopies</edomvds>
+          </edom>
+          <edom>
+            <edomv>TPZ</edomv>
+            <edomvd>Timber Production Zone</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>DFG</edomv>
+            <edomvd>California Department of Fish &amp; Game</edomvd>
+            <edomvds>TCRCD assigned and corrected/verified by DFG Staff</edomvds>
+          </edom>
+          <edom>
+            <edomv>CA</edomv>
+            <edomvd>State of California</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+          <edom>
+            <edomv>APZ</edomv>
+            <edomvd>Agricultural Preserve Zone</edomvd>
+            <edomvds>TCRCD assigned from TC Assessor's ownership database</edomvds>
+          </edom>
+          <edom>
+            <edomv>NPO</edomv>
+            <edomvd>Non-Private Ownership; No verifiable governmental or private ownership</edomvd>
+            <edomvds>TCRCD assigned</edomvds>
+          </edom>
+        </attrdomv>
+        <attrmfrq>None planned</attrmfrq>
+      </attr>
+      <attr>
+        <attrlabl>Shape</attrlabl>
+        <attrdef>Feature geometry.</attrdef>
+        <attrdefs>ESRI</attrdefs>
+        <attrdomv>
+          <udom>Coordinates defining the features.</udom>
+        </attrdomv>
+      </attr>
+    </detailed>
+  </eainfo>
+  <distinfo>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20140429</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Trinity County RCD</cntorg>
+          <cntper>Kelly D. Sheen</cntper>
+        </cntorgp>
+        <cntpos>GIS Manager</cntpos>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+          <address>P. O. Box 1450</address>
+          <city>Weaverville</city>
+          <state>CA</state>
+          <postal>96093</postal>
+          <country>US</country>
+        </cntaddr>
+        <cntvoice>(530) 623-6004</cntvoice>
+        <cntfax>(530) 623-6006</cntfax>
+        <cntemail>ksheen@tcrcd.net</cntemail>
+        <hours>8:00 am - 5:00 pm</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metuc>Data are licensed to Princeton University-affiliated persons only.</metuc>
+  </metainfo>
+</metadata>

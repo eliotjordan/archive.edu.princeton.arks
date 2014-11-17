@@ -1,0 +1,1345 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20081014</CreaDate>
+      <CreaTime>09432400</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20081014</SyncDate>
+      <SyncTime>09410100</SyncTime>
+      <ModDate>20081014</ModDate>
+      <ModTime>09410100</ModTime>
+      <DataProperties>
+         <lineage>
+            <Process Date="20080620" Time="153645" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField">AssignDomainToField C:\Temp\08A\lion\fgdb\lion.gdb\lion LBoro Borough # C:\Temp\08A\lion\fgdb\lion.gdb\lion</Process>
+            <Process Date="20080620" Time="153647" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AssignDomainToField">AssignDomainToField C:\Temp\08A\lion\fgdb\lion.gdb\lion RBoro Borough # C:\Temp\08A\lion\fgdb\lion.gdb\lion</Process>
+         </lineage>
+      </DataProperties>
+      <MetaID>{77F63EB9-CE9D-4A77-993C-A6832DBE1BA9}</MetaID>
+      <PublishedDocID>{6F329C0C-21DF-4E21-A05E-B81409B90621}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcGIS 9.2; Mapinfo 7.5</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>LION is a single line representation of New York City streets containing address ranges and other information.</abstract>
+         <purpose>The LION file has been maintained as a major component of the Department of City Planning's Geosupport System.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>City of New York Department of City Planning</origin>
+            <title>New York City Central Line Street (LION) 2008</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <edition>08A</edition>
+            <serinfo>
+               <sername>BYTES of the BIG APPLE</sername>
+               <issue>08A</issue>
+            </serinfo>
+            <pubinfo>
+               <pubplace>New York City</pubplace>
+               <publish>New York City Dept. of City Planning</publish>
+            </pubinfo>
+            <ftname Sync="FALSE">LION</ftname>
+            <pubdate>July, 2008</pubdate>
+            <onlink>http://map.princeton.edu/data/mc/87/pr/80/2/content/restricted/data.zip</onlink>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>ground condition</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>April, 2008</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Quarterly</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-74.260380</westbc>
+            <eastbc Sync="TRUE">-73.699206</eastbc>
+            <northbc Sync="TRUE">40.917691</northbc>
+            <southbc Sync="TRUE">40.485808</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">912287.068800</leftbc>
+            <rightbc Sync="TRUE">1067382.508300</rightbc>
+            <bottombc Sync="TRUE">116411.371100</bottombc>
+            <topbc Sync="TRUE">273617.843100</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <place>
+            <placekey>New York City</placekey>
+            <placekey>Manhattan</placekey>
+            <placekey>Brooklyn</placekey>
+            <placekey>Bronx</placekey>
+            <placekey>Queens</placekey>
+            <placekey>Staten Island</placekey>
+            <placekt>None</placekt>
+         </place>
+         <theme>
+            <themekey>Streets</themekey>
+            <themekey>LION</themekey>
+            <themekey>Roads</themekey>
+            <themekey>Transportation</themekey>
+            <themekey>Highway</themekey>
+            <themekey>Railroad</themekey>
+            <themekt>None</themekt>
+            <themekey>transportation</themekey>
+         </theme>
+      </keywords>
+      <accconst>LION is freely available to the public.</accconst>
+      <useconst>The Department of City Planning make no representation as to the accuracy of the information or its suitability for any purposes.  The Department and the City disclaim any liability for errors that may be contained herein.</useconst>
+      <natvform>ESRI shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>22 Reade St</address>
+               <city>New York</city>
+               <state>NY</state>
+               <postal>10007</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>212.720.3505</cntvoice>
+            <cntorgp>
+               <cntorg>Department of City Planning</cntorg>
+            </cntorgp>
+         </cntinfo>
+      </ptcontac>
+      <datacred>Department of City Planning</datacred>
+      <secinfo />
+   </idinfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>New York</city>
+               <state>NY</state>
+               <postal>10007</postal>
+            </cntaddr>
+            <cntvoice>212.720.3505</cntvoice>
+            <cntperp>
+               <cntorg>Department of City Planning</cntorg>
+            </cntperp>
+            <cntpos>BYTES of the BIG APPLE Coordinator</cntpos>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20081014</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="NYC_Street_2008">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polyline</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">174221</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="NYC_Street_2008">
+            <sdtstype Sync="TRUE">String</sdtstype>
+            <ptvctcnt Sync="TRUE">174221</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+            <projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+         </cordsysn>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <plandu Sync="TRUE">survey feet</plandu>
+               <coordrep>
+                  <absres Sync="TRUE">0.000000</absres>
+                  <ordres Sync="TRUE">0.000000</ordres>
+               </coordrep>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+               <lambertc>
+                  <stdparll Sync="TRUE">40.666667</stdparll>
+                  <stdparll Sync="TRUE">41.033333</stdparll>
+                  <longcm Sync="TRUE">-74.000000</longcm>
+                  <latprjo Sync="TRUE">40.166667</latprjo>
+                  <feast Sync="TRUE">984250.000000</feast>
+                  <fnorth Sync="TRUE">0.000000</fnorth>
+               </lambertc>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+            <ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257222</denflat>
+         </geodetic>
+      </horizsys>
+      <vertdef>
+         <altsys>
+            <altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+            <altres Sync="TRUE">0.000100</altres>
+         </altsys>
+      </vertdef>
+   </spref>
+   <eainfo Sync="FALSE">
+      <detailed Name="NYC_Street_2008">
+         <attr>
+            <attrlabl Sync="TRUE">ToRight</attrlabl>
+            <attalias Sync="FALSE">ToRight</attalias>
+            <attrdef Sync="FALSE">High Value for the numeric address range beginning on the right side of the street segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RLo_Hyphen</attrlabl>
+            <attalias Sync="FALSE">RLo_Hyphen</attalias>
+            <attrdef Sync="FALSE">Low Value for the hyphanated address range beginning on the right side of the street segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RHi_Hyphen</attrlabl>
+            <attalias Sync="FALSE">RHi_Hyphen</attalias>
+            <attrdef Sync="FALSE">High Value for the hyphanated address range beginning on the right side of the street segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FromLeft</attrlabl>
+            <attalias Sync="FALSE">FromLeft</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdef Sync="FALSE">Low Value for the numeric address range beginning on the left side of the street segment. For all hyphanated addresses, the hyphen has been removed.  To convert the before hypen portion of the house number is multiplied by 1000 and then added to the after hyphen portion of the house number (e.g. 101-40 would be converted to 101040).</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ToLeft</attrlabl>
+            <attalias Sync="FALSE">ToLeft</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdef Sync="FALSE">High Value for the numeric address range beginning on the left side of the street segment.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SHAPE</attrlabl>
+            <attalias Sync="TRUE">OBJECTID</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">9</attwidth>
+            <atprecis Sync="TRUE">9</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">OBJECTID</attrlabl>
+            <attalias Sync="TRUE">Join_ID</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">9</attwidth>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="FALSE">Join_ID</attrlabl>
+            <attalias Sync="FALSE">Join_ID</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">15</attwidth>
+            <attrdef Sync="FALSE">Identification field used to link LION feature class with Alternative Names table during a geocoding operation.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <enttyp>
+            <enttypl>LION</enttypl>
+            <enttypt Sync="FALSE">Feature Class</enttypt>
+            <enttypc Sync="FALSE">102447</enttypc>
+            <enttypd>*Attribute in ESRI GeoDatabase Only; **Attribute in MapInfo Table Only</enttypd>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="FALSE">Shape</attalias>
+            <attrtype Sync="FALSE">Geometry</attrtype>
+            <attwidth Sync="FALSE">0</attwidth>
+            <atprecis Sync="FALSE">0</atprecis>
+            <attscale Sync="FALSE">0</attscale>
+            <attrdef Sync="FALSE">Feature geometry.</attrdef>
+            <attrdefs Sync="FALSE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="FALSE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Street</attrlabl>
+            <attalias Sync="FALSE">Street</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">35</attwidth>
+            <attrdef Sync="FALSE">Street name used for labeling (in MapInfo and ESRI versions) and geocoding (in MapInfo Version).</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">HideLabel</attrlabl>
+            <attalias Sync="FALSE">HideLabel</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Flag used by DCP to suppress labeling of LION segments based on Borough and FaceCode.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>FeatureTyp</attrlabl>
+            <attalias Sync="FALSE">FeatureTyp</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Feature Type Code </attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>0</edomv>
+                  <edomvd>Street other than vehicle only street.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>1</edomv>
+                  <edomvd>Railroad</edomvd>
+               </edom>
+               <edom>
+                  <edomv>2</edomv>
+                  <edomvd>Water Edge / Shoreline</edomvd>
+               </edom>
+               <edom>
+                  <edomv>3</edomv>
+                  <edomvd>Census Block Boundary</edomvd>
+               </edom>
+               <edom>
+                  <edomv>4</edomv>
+                  <edomvd>Other Non-Street Feature: Physically existing, addressable boundary, such as a street segment that has been closed off (inaccessible at both ends).</edomvd>
+               </edom>
+               <edom>
+                  <edomv>5</edomv>
+                  <edomvd>Paper Street: This is a legally mapped, but not built street. Such streets are common in areas of Staten Island anticipating development. May exist in all boroughs.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>6</edomv>
+                  <edomvd>Private Street: This is a physically existing street which is not owned by the City and is not officially mapped. For example, streets in the Fort Totten and Breezy Point sections of Queens.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>7</edomv>
+                  <edomvd>District Boundary: Physically non-existent boundary for a community district, a police precinct, or a fire company.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>8</edomv>
+                  <edomvd>Physical Non-Street Boundary: Physically existing un-addressable boundary (such as a rock wall cemetery edge).</edomvd>
+               </edom>
+               <edom>
+                  <edomv>9</edomv>
+                  <edomvd>A paper street that falls along a census block boundary.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>A</edomv>
+                  <edomvd>Alley.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>W</edomv>
+                  <edomvd>Path, Non-Vehicular, Addressable: This is a walking path. For example, some boardwalks and some walking paths in housing projects.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>SegmentTyp</attrlabl>
+            <attalias Sync="FALSE">SegmentTyp</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Feature Type Code </attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>B</edomv>
+                  <edomvd>Both: Part of a multple roadbed but also used as a generic segment.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>C</edomv>
+                  <edomvd>Connector: Small street segments that connect two roadbeds.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>E</edomv>
+                  <edomvd>Entrance or Exit.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>F</edomv>
+                  <edomvd>Faux Street: Used to extend an exit to the gereric centerline.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>G</edomv>
+                  <edomvd>Generic: Centerline of street.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>R</edomv>
+                  <edomvd>Roadbed.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>T</edomv>
+                  <edomvd>Terminator: Brings together 2 roadbeds at an intersection when multple roadbeds give way to an undivided street.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>U</edomv>
+                  <edomvd>Undivided Street.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">IncExFlag</attrlabl>
+            <attalias Sync="FALSE">IncExFlag</attalias>
+            <attrdef Sync="FALSE">Inclusion/Exclusion Flag</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdomv>
+               <edom>
+                  <edomv>E</edomv>
+                  <edomvd>Segment should be excluded in the generic view of LION.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>I</edomv>
+                  <edomvd>Segment should be included in the generic view of LION.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RB_Layer</attrlabl>
+            <attalias Sync="TRUE">NonPed</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">1</attwidth>
+            <attrdef Sync="TRUE">For cartographic purposes, indicates whether segment is present in the "Roadbed" layer and/or the "Generic" layer.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>R</edomv>
+                  <edomvd>Street segment is present only in the "Roadbed" layer.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>G</edomv>
+                  <edomvd>Street segment is present only in the "Generic" layer.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>B</edomv>
+                  <edomvd>Street segment is present the "Generic" and "Roadbed" layers.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>N</edomv>
+                  <edomvd>Street segment is not present in either the "Generic" or "Roadbed" layers.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NonPed</attrlabl>
+            <attalias Sync="FALSE">NonPed</attalias>
+            <attrdef Sync="FALSE">NonPedestrian Code.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdomv>
+               <edom>
+                  <edomv>D</edomv>
+                  <edomvd>Pedestrian accessible, but are excluded by the Department of Education in determining walking routes from a pupil's home to their school.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>V</edomv>
+                  <edomvd>Vehicle-only: primarily roadways, inaccessible to pedestrian usage</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TrafDir</attrlabl>
+            <attalias Sync="FALSE">TrafDir</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Traffic Direction. Code indicating the flow of traffic relative to the street segment's address range.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>w</edomv>
+                  <edomvd>With: Traffic flows from low to high house numbers.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>a</edomv>
+                  <edomvd>Against: Traffic flows from high to low house numbers.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>t</edomv>
+                  <edomvd>Two-Way: Traffic flows from high to low house numbers.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>p</edomv>
+                  <edomvd>Pedestrian: No vehicles allowed.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>blank</edomv>
+                  <edomvd>Non-street feature.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TrafSrc</attrlabl>
+            <attalias Sync="FALSE">TrafSrc</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+            <attrdef Sync="FALSE">Indicates the source of information in the Traffic Direction (TrafDir) field.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>DCP</edomv>
+                  <edomvd>NYC Department of City Planning</edomvd>
+               </edom>
+               <edom>
+                  <edomv>DOT</edomv>
+                  <edomvd>NYC Department of Transportation</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SpecAddr</attrlabl>
+            <attalias Sync="FALSE">SpecAddr</attalias>
+            <attrdef Sync="FALSE">Special Address Type Code </attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdomv>
+               <edom>
+                  <edomv>a</edomv>
+                  <edomvd>Alternate Address Range: Alternative address ranges for the same street name. This can occur where buildings have been renumbered; old numbers will sometimes remain in use. For example, such usage is common in some Queens neighborhoods, including Far Rockaway, Douglaston, Forest Hills and Ridgewood, where non-hyphenated addresses have been replaced by hyphenated addresses. </edomvd>
+               </edom>
+               <edom>
+                  <edomv>b</edomv>
+                  <edomvd>Alternate Street Names: Alternate street names that cannot be handled in the usual way.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>c</edomv>
+                  <edomvd>Handles a unique situation along the Brooklyn-Queens border, where Ruby Street on the Brooklyn side of the street is known as 75 Street in Queens. Some Brooklyn residents use 75 Street in their address; however there is another 75 Street in the Bay Ridge section of Brooklyn, far from the Queens border.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>d</edomv>
+                  <edomvd>Duplicate Addresses: Duplicate addresses for the same street name. This is primarily restricted to two situations: 1. Hillside Avenue in Queens- there are two Hillside Avenues, one in Far Rockaway, another in Douglaston; and 2. Dr. Martin Luther King, Jr. Blvd. in Manhattan. This street name is an alternative name for both E 125 St. and W 125 St. As a result, there are numerous duplicate addresses along this street.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>e</edomv>
+                  <edomvd>Refers to situations in which the name of a neighborhood can serve as an alternate name for all streets in that neighborhood. The two neighborhoods for which this applies are both in the Bronx: Edgewater Park and Harding Park.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>g</edomv>
+                  <edomvd>This is used for names of complexes (e.g., Lincoln Center). Complexes are non-addressable, and are composed of a number of non-addressable place names. Complexes can include individual buildings or parks that are recognized as a grouped entity (e.g., Lincoln Center, Jefferson Houses, City College). "G" records refer to the complex names (Lincoln Center), while the entities within the complex (Alice Tully Hall, Metropolitan Opera, etc.) are flagged as type "x" records. Because of restrictions imposed by MapInfo's address matching, the user must include a "0" as a house number to successfully match a non-addressable place name. For example, "0 Lincoln Center" will match to the correct side of the street for that location.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>n</edomv>
+                  <edomvd>Non-Addressable Place Name: This is used for non-addressable place names. These are place names that cannot be combined with a house number to form an address. Such place names can include individual buildings (e.g., City Hall, Alice Tully Hall), building complexes (e.g., Columbia University, New York Hospital) and large facilities (e.g., Penn Station, LaGuardia Airport). Because of restrictions imposed by MapInfo's address matching, the user must include a "0" as a house number to successfully match a non-addressable plance name. For example, "0 City Hall" will match to the correct side of the street for that location. </edomvd>
+               </edom>
+               <edom>
+                  <edomv>p</edomv>
+                  <edomvd>This is used for out-of-sequence addresses. Such addresses do not follow the logical addressing sequence of the immediately adjacent buildings. For example, address number 62 of a street may exist between addresses 80 and 82, not between 60 and 64 on that blockface (it may also appear on a blockface other than that which contains 60 and 64). Also, the address may be an opposite-parity address, in that its parity (odd/even) is the opposite of the predominant parity on the blockface. For example, address number 62 may appear on the odd side of the street between 63 and 65. </edomvd>
+               </edom>
+               <edom>
+                  <edomv>s</edomv>
+                  <edomvd>This refers to situations in which the break in addresses from one block face to the next along a street involves house number suffixes. These suffix addresses are not included in MapInfo LION. The "s" flag appears with such records to denote that a suffix exists at either the low or high end of the segment's address range.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>v</edomv>
+                  <edomvd>This is used for "vanity addresses" (i.e. addresses in which the street name refers to a different street than the one on which the referenced building entrance is actually located). For example, 1049 5th Avenue in Manhattan, a vanity address, is actually located on East 86th Street, between 5th Avenue and Madison Avenue. </edomvd>
+               </edom>
+               <edom>
+                  <edomv>x</edomv>
+                  <edomvd>This is used for names of non-addressable parts of complexes (not the entire complex name itself, which is flagged as type "g"). These are non-addressable place names grouped with other non-addressable place names to form a larger, non-addressable complex. Such non-addressable place name parts of complexes can include individual buildings or parks (e.g., Alice Tully Hall of Lincoln Center, Damrosch Park of Lincoln Center, Jefferson Houses Building 2 of Jefferson Houses, Shepard Hall of City College). Because of restrictions imposed by MapInfo's address matching, the user must include a "0" as a house number to successfully match a non-addressable place name. For example, "0 Alice Tully Hall" will match to the correct side of the street for that location.</edomvd>
+               </edom>
+            </attrdomv>
+            <attrdef Sync="FALSE">SpecialAddress</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FaceCode</attrlabl>
+            <attalias Sync="FALSE">FaceCode</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">A four digit number assigned to any linear geographic feature in LION. This can be either a street or non-street feature (e.g., shoreline railroad tracks).</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SeqNum</attrlabl>
+            <attalias Sync="FALSE">SeqNum</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">5</attwidth>
+            <attrdef Sync="FALSE">A five digit number assigned sequentially to the street segments within a given face code. The sequence number generally increases with the direction of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">StreetCode</attrlabl>
+            <attalias Sync="FALSE">StreetCode</attalias>
+            <attrtype Sync="FALSE">Integer</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+            <attrdef Sync="FALSE">Boro &amp; 5-Digit Street Code</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LGC1</attrlabl>
+            <attalias Sync="FALSE">LGC1</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Local Group Code 1:  A Local Group Code (LGC) is a qualifier for DCP's 5 digit street code.  Each LGC value represents a group of names for the given street that are valid for that segment.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LGC2</attrlabl>
+            <attalias Sync="FALSE">LGC2</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Local Group Code 2:  A Local Group Code (LGC) is a qualifier for DCP's 5 digit street code.  Each LGC value represents a group of names for the given street that are valid for that segment.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LGC3</attrlabl>
+            <attalias Sync="FALSE">LGC3</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Local Group Code 3:  A Local Group Code (LGC) is a qualifier for DCP's 5 digit street code.  Each LGC value represents a group of names for the given street that are valid for that segment.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LGC4</attrlabl>
+            <attalias Sync="FALSE">LGC4</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Local Group Code 4:  A Local Group Code (LGC) is a qualifier for DCP's 5 digit street code.  Each LGC value represents a group of names for the given street that are valid for that segment.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BOE_LGC</attrlabl>
+            <attalias Sync="FALSE">BOE_LGC</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Board of Elections LGC Pointer (Domain values = 1, 2, 3, 4) indicates which LGC field (LGC1, LGC2, LGC3 or LGC4 respectively) corresponds to the name for this segment that is used for Board of Elections applications.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SegmentID</attrlabl>
+            <attalias Sync="FALSE">SegmentID</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdef Sync="FALSE">A number of up to seven digits that identifies each segment of a street or a non-street feature represented in the LION file. Segment-ID differs from the LION Key in that the former identifies a segment, a geographic entity, whereas the latter identifies a record in the LION file. In the case of a segment lying along a borough boundary, say one that lies along the Brooklyn-Queens border, both the Brooklyn and Queens DCPLION files will have a record representing that segment; the LION Keys of those two records are distinct, but the Segment-ID's are identical.</attrdef>
+'				</attr>
+         <attr>
+            <attrlabl Sync="TRUE">SegCount</attrlabl>
+            <attalias Sync="FALSE">SegCount</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Coincident Segment Count indicates situations where there are double-decker roads and therefore more than one segment for the same geography in LION.  An example would be the upper and lower roadways of the George Washington Bridge.  In this case, the SegCount would be = 2.  Most LION segments will have a SegCount of 1.</attrdef>
+'				</attr>
+         <attr>
+            <attrlabl Sync="TRUE">LocStatus</attrlabl>
+            <attalias Sync="FALSE">LocStatus</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Segment Locational Status.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>H</edomv>
+                  <edomvd>Land-hooked segment, i.e. a segment internal to a Dynamic Block but not a dead end.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>I</edomv>
+                  <edomvd>Dead end segment</edomvd>
+               </edom>
+               <edom>
+                  <edomv>X</edomv>
+                  <edomvd>Tract Boundary segment other than a borough boundary</edomvd>
+               </edom>
+               <edom>
+                  <edomv>1</edomv>
+                  <edomvd>Segment bordering Manhattan</edomvd>
+               </edom>
+               <edom>
+                  <edomv>2</edomv>
+                  <edomvd>Segment bordering The Bronx</edomvd>
+               </edom>
+               <edom>
+                  <edomv>3</edomv>
+                  <edomvd>Segment bordering Brooklyn</edomvd>
+               </edom>
+               <edom>
+                  <edomv>4</edomv>
+                  <edomvd>Segment bordering Queens</edomvd>
+               </edom>
+               <edom>
+                  <edomv>5</edomv>
+                  <edomvd>Segment bordering Staten Island</edomvd>
+               </edom>
+               <edom>
+                  <edomv>9</edomv>
+                  <edomvd>Segment on the New York City Boundary</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LZip</attrlabl>
+            <attalias Sync="FALSE">LZip</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">5</attwidth>
+            <attrdef Sync="FALSE">Contains the five digit postal zip code for the left side of the street segment.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RZip</attrlabl>
+            <attalias Sync="FALSE">RZip</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">5</attwidth>
+            <attrdef Sync="FALSE">Contains the five digit postal zip code for the right side of the street segment.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LBoro</attrlabl>
+            <attalias Sync="FALSE">LBoro</attalias>
+            <attrtype Sync="FALSE">Integer</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">This is a 1-digit code identifying the borough in which the left side of the street segment is located.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>1</edomv>
+                  <edomvd>Manhattan</edomvd>
+               </edom>
+               <edom>
+                  <edomv>2</edomv>
+                  <edomvd>The Bronx</edomvd>
+               </edom>
+               <edom>
+                  <edomv>3</edomv>
+                  <edomvd> rooklyn</edomvd>
+               </edom>
+               <edom>
+                  <edomv>4</edomv>
+                  <edomvd>Queens</edomvd>
+               </edom>
+               <edom>
+                  <edomv>5</edomv>
+                  <edomvd>Staten Island</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RBoro</attrlabl>
+            <attalias Sync="FALSE">RBoro</attalias>
+            <attrtype Sync="FALSE">Integer</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">This is a 1-digit code identifying the borough in which the right side of the street segment is located.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>1</edomv>
+                  <edomvd>Manhattan</edomvd>
+               </edom>
+               <edom>
+                  <edomv>2</edomv>
+                  <edomvd>The Bronx</edomvd>
+               </edom>
+               <edom>
+                  <edomv>3</edomv>
+                  <edomvd>Brooklyn</edomvd>
+               </edom>
+               <edom>
+                  <edomv>4</edomv>
+                  <edomvd>Queens</edomvd>
+               </edom>
+               <edom>
+                  <edomv>5</edomv>
+                  <edomvd>Staten Island</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>L_CD</attrlabl>
+            <attalias Sync="FALSE">L_CD</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+            <attrdef Sync="FALSE">Three-digit Community District code for the left side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>R_CD</attrlabl>
+            <attalias Sync="FALSE">R_CD</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+            <attrdef Sync="FALSE">Three-digit Community District code for the right side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LDynBlock</attrlabl>
+            <attalias Sync="FALSE">LDynBlock</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+            <attrdef Sync="FALSE">Left Dynamic Block.  A dynamic block is a minimal polygon formed by most LION file segments (exceptions include paper streets and alleys).  'Minimal' means the polygon is not subdivided by LION segments (other than the noted exceptions) into smaller polygons.  A dynamic block can contain segments of various types in its interior:  paper street segments (Feature Type = 5), dead end segments (LocStatus = I), land-hooked segments (LocStatus = H) and alley segments (Feature Type = A). Dynamic block numbers are unique within 2000 Census Tracts and are used as building blocks for many higher geographies.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RDynBlock</attrlabl>
+            <attalias Sync="FALSE">RDynBlock</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+            <attrdef Sync="FALSE">Right Dynamic Block.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LCT2000</attrlabl>
+            <attalias Sync="FALSE">LCT2000</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">Left 2000 Census Tract.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LCT2000Suf</attrlabl>
+            <attalias Sync="FALSE">LCT2000Suf</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Left 2000 Census Tract Suffix.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RCT2000</attrlabl>
+            <attalias Sync="FALSE">RCT2000</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">Right 2000 Census Tract.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RCT2000Suf</attrlabl>
+            <attalias Sync="FALSE">RCT2000Suf</attalias>
+            <attrtype Sync="FALS ">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Right 2000 Census Tract Suffix.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LCB2000</attrlabl>
+            <attalias Sync="FALSE">LCT2000</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">Left 2000 Census Block.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LCB2000Suf</attrlabl>
+            <attalias Sync="FALSE">LCB2000Suf</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Left 2000 Census Block Suffix.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LCT2000Suf</attrlabl>
+            <attalias Sync="FALSE">LCT2000Suf</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Left 2000 Census Tract Suffix.</attrdef>
+            <atprecis Sync="FALSE">0</atprecis>
+            <attscale Sync="FALSE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>RCB2000</attrlabl>
+            <attalias Sync="FALSE">RCT2000</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">Right 2000 Census Block.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RCB2000Suf</attrlabl>
+            <attalias Sync="FALSE">RCB2000Suf</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Right 2000 Census Block Suffix.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LCT1990</attrlabl>
+            <attalias Sync="FALSE">LCT1990</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">Left 1990 Census Tract.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LCT1990Suf</attrlabl>
+            <attalias Sync="FALSE">LCT1990Suf</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Left 1990 Census Tract Suffix.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RCT1990</attrlabl>
+            <attalias Sync="FALSE">RCT1990</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">4</attwidth>
+            <attrdef Sync="FALSE">Right 1990 Census Tract.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RCT1990Suf</attrlabl>
+            <attalias Sync="FALSE">RCT1990Suf</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Right 1990 Census Tract Suffix.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LAssmDist</attrlabl>
+            <attalias Sync="FALSE">LAssmDist</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Assembly District for the left side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LElectDist</attrlabl>
+            <attalias Sync="FALSE">LElectDist</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+            <attrdef Sync="FALSE">Election District for the left side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RAssmDist</attrlabl>
+            <attalias Sync="FALSE">RAssmDist</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Assembly District for the right side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RElectDist</attrlabl>
+            <attalias Sync="FALSE">RElectDist</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+            <attrdef Sync="FALSE">Election District for the right side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>SplitElect</attrlabl>
+            <attalias Sync="FALSE">SplitElect</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Split Election Flag. Indicates when a LION segment is split by more than one Election District.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LSchlDist </attrlabl>
+            <attalias Sync="FALSE">LSchlDist </attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">School District for the left side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RSchlDist </attrlabl>
+            <attalias Sync="FALSE">RSchlDist </attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">School District for the right side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>SplitSchl</attrlabl>
+            <attalias Sync="FALSE">SplitSchl</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Split School Flag. Indicates when a LION segment is split by more than one School District.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>SchlCount</attrlabl>
+            <attalias Sync="FALSE">SchlCount</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">School Count (for DCP internal use for Dept. of Education processing)</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>LSubSect</attrlabl>
+            <attalias Sync="FALSE">LSubSect</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Sanitation District Subsection for the left side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl>RSubSect</attrlabl>
+            <attalias Sync="FALSE">RSubSect</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">2</attwidth>
+            <attrdef Sync="FALSE">Sanitation District Subsection for the right side of the street.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SanDistInd</attrlabl>
+            <attalias Sync="FALSE">SanDistInd</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdef Sync="FALSE">Sanitation District Indicator. Normally, sanitation routes are defined by the community district (CD) and sanitation district subsection.  For some streets that divide a CD, the same route will service both sides.  This indicator defines which CD will service the entire street.  The Subsection (LSubSect and RSubSect) is NOT affected by the sanitation district indicator.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomv>L</edomv>
+                  <edomvd>Left: For both sides of the street, the sanitation district is defined using the CD on the left side of the street.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>R</edomv>
+                  <edomvd>Right:  For both sides of the street, the sanitation district is defined using the CD on the right side of the street.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>blank</edomv>
+                  <edomvd>The sanitation district route for each side of the street is correctly identified using the CD and subsection fields for the corresponding side of the street.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MapFrom</attrlabl>
+            <attalias Sync="FALSE">MapFrom</attalias>
+            <attrdef Sync="FALSE">DCP Sectional / Zoning Map at the beginning of t e segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MapTo</attrlabl>
+            <attalias Sync="FALSE">MapTo</attalias>
+            <attrdef Sync="FALSE">DCP Sectional / Zoning Map at the end of the segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">3</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NearBQ</attrlabl>
+            <attalias Sync="FALSE">NearBQ</attalias>
+            <attrdef Sync="FALSE">Near Brooklyn/Queens. Indicates segments that are within 1.7 miles of the Brooklyn-Queens boundary for special processing done for the Department of Education.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BoroBndry</attrlabl>
+            <attalias Sync="FALSE">BoroBndry</attalias>
+            <attrdef Sync="FALSE">Borough Boundary Indicator.  When a segment lies along a boundary of two boroughs, it is represented by two separate LION records, one for each borough.  The flag indicates which side of the segment is out of the borough.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MH_RI_Flag</attrlabl>
+            <attalias Sync="FALSE">MH_RI_Flag</attalias>
+            <attrdef Sync="FALSE">Marble Hill/Rikers Island Flag.  These are two areas of the city that legally are part of one borough, but serviced by another.  In each case, these records are flagged to be generated by the alternative borough for Geosupport purposes.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">XFrom</attrlabl>
+            <attalias Sync="FALSE">XFrom</attalias>
+            <attrdef Sync="FALSE">X (Spatial) coordinate at the 'From' end of a segment.</attrdef>
+            <attrtype Sync="FALSE">Number</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">YFrom</attrlabl>
+            <attalias Sync="FALSE">YFrom</attalias>
+            <attrdef Sync="FALSE">Y (Spatial) coordinate at the 'From' end of a segment.</attrdef>
+            <attrtype Sync="FALSE">Number</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">XTo</attrlabl>
+            <attalias Sync="FALSE">XTo</attalias>
+            <attrdef Sync="FALSE">X (Spatial) coordinate at the 'To' end of a segment.</attrdef>
+            <attrtype Sync="FALSE">Number</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">YTo</attrlabl>
+            <attalias Sync="FALSE">YTo</attalias>
+            <attrdef Sync="FALSE">Y (Spatial) coordinate at the 'To' end of a segment.</attrdef>
+            <attrtype Sync="FALSE">Number</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ArcCenterX</attrlabl>
+            <attalias Sync="FALSE">ArcCenterX</attalias>
+            <attrdef Sync="FALSE">X (Spatial) coordinate at the center of the curve.</attrdef>
+            <attrtype Sync="FALSE">Number</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ArcCenterY</attrlabl>
+            <attalias Sync="FALSE">ArcCenterY</attalias>
+            <attrdef Sync="FALSE">Y (Spatial) coordinate at the center of the curve.</attrdef>
+            <attrtype Sync="FALSE">Number</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CurveFlag</attrlabl>
+            <attalias Sync="FALSE">CurveFlag</attalias>
+            <attrdef Sync="FALSE">Indicates whether a LION record represents a straight segment, irregular curve (not a circular arc) or a regular curve (circular arc) segment.  If a regular curve segment, indicates which side of the segment the curve is on.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Radius</attrlabl>
+            <attalias Sync="FALSE">Radius</attalias>
+            <attrdef Sync="FALSE">This field contains a value only if the segment is a circular arc (i.e. regular curve), as indicated by an 'L' or an 'R' in the CurveFlag field.  The value is the radius of the arc in feet, rounded to the nearest foot.</attrdef>
+            <attrtype Sync="FALSE">Number</attrtype>
+            <attwidth Sync="FALSE">6</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NodeIDFrom</attrlabl>
+            <attalias Sync="FALSE">NodeIdFrom</attalias>
+            <attrdef Sync="FALSE">Node identifier at the low address range of the segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NodeIDTo</attrlabl>
+            <attalias Sync="FALSE">NodeIdTo</attalias>
+            <attrdef Sync="FALSE">Node identifier at the high address range of the segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="FALSE">NodeLevelF</attrlabl>
+            <attalias Sync="FALSE">NodeLevelF</attalias>
+            <attrdef Sync="FALSE">Level code indicator vertical topolgy at the start of the street segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdomv>
+               <edom>
+                  <edomv>Y</edomv>
+                  <edomvd>Third elevated geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>U</edomv>
+                  <edomvd>Second elevated geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>Q</edomv>
+                  <edomvd>First elevated geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>M</edomv>
+                  <edomvd>Ground level.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>I</edomv>
+                  <edomvd>First subterranean geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>E</edomv>
+                  <edomvd>Second subterranean geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>A</edomv>
+                  <edomvd>Third subterranean geography..</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="FALSE">NodeLevelT</attrlabl>
+            <attalias Sync="FALSE">NodeLevelT</attalias>
+            <attrdef Sync="FALSE">Level code indicator vertical topolgy at the end of the street segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdomv>
+               <edom>
+                  <edomv>Y</edomv>
+                  <edomvd>Third elevated geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>U</edomv>
+                  <edomvd>Second elevated geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>Q</edomv>
+                  <edomvd>First elevated geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>M</edomv>
+                  <edomvd>Ground level.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>I</edomv>
+                  <edomvd>First subterranean geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>E</edomv>
+                  <edomvd>Second subterranean geography.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>A</edomv>
+                  <edomvd>Third subterranean geography..</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ConParity</attrlabl>
+            <attalias Sync="FALSE">ConParity</attalias>
+            <attrdef Sync="FALSE">Continuous Parity Indicator (Domain Values = L, R).  A continuous parity segment has both odd and even addresses on the same side of the segment, and no addresses on the other side.  In a LION record that represents a continous parity segment, the odd and even address ranges are stored separately and the 1-byte code indicates on which side of the street the addresses physically exist.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdomv>
+               <edom>
+                  <edomv>L</edomv>
+                  <edomvd>Odd and Even house number are bothe on the left side of the segment.</edomvd>
+               </edom>
+               <edom>
+                  <edomv>R</edomv>
+                  <edomvd>Odd and Even house number are bothe on the right side of the segment.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Twisted</attrlabl>
+            <attalias Sync="FALSE">Twisted</attalias>
+            <attrdef Sync="FALSE">Twisted Parity</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">1</attwidth>
+            <attrdomv>
+               <edom>
+                  <edomv>T</edomv>
+                  <edomvd>Indicates that the address parities along a street have swithced since the immediately preceding segment of the same street (i.e., if odd addresses were on the left, they are now on the right).</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LLo_Hyphen</attrlabl>
+            <attalias Sync="FALSE">LLo_Hyphen</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdef Sync="FALSE">Low Value for the hyphanated address range beginning on the left side of the street segment.  Left and right are defined relative to a street segment's direction. For streets that have addresses, the direction of a DCPLION streeet segment is determined by the direction of increasing address numbers. Note that this direction is unrelated to the street's traffic direction or its orientation relative to the points of the compass. The direction of streets with out address numbers, as well as non-street features, is assigned arbitrarily, but is consistent within the street feature. Direction can usually be determined by observing which way the SeqNum increases. Includes hyphanated addresses.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LHi_Hyphen</attrlabl>
+            <attalias Sync="FALSE">LHi_Hyphen</attalias>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+            <attrdef Sync="FALSE">High Value for the hyphanated address range beginning on the left side of the street segment.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FromRight</attrlabl>
+            <attalias Sync="FALSE">FromRight</attalias>
+            <attrdef Sync="FALSE">Low Value for the numeric address range beginning on the right side of the street segment.</attrdef>
+            <attrtype Sync="FALSE">String</attrtype>
+            <attwidth Sync="FALSE">7</attwidth>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">16.387</transize>
+               <dssize Sync="TRUE">16.387</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+      <resdesc Sync="FALSE">Downloadable Data</resdesc>
+      <distrib>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>New York City Dept. of City Planning</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>22 Reade St</address>
+               <city>New York</city>
+               <state>NY</state>
+               <postal>10007</postal>
+               <country>USA</country>
+            </cntaddr>
+         </cntinfo>
+      </distrib>
+   </distinfo>
+   <dataqual>
+      <lineage>
+         <srcinfo>
+            <srctime>
+               <timeinfo>
+                  <sngdate />
+               </timeinfo>
+               <srccurr>ground condition</srccurr>
+            </srctime>
+         </srcinfo>
+      </lineage>
+      <logic>A node occurs where ever two or more line segments cross regardless of whether a physical intersection occurs at that point.  Duplicate lines may appear where lines are associated with non-addressable place names such as Grand Army Plaza or where alternate street names exist.</logic>
+      <posacc>
+         <horizpa>
+            <horizpar>The LION file is spatially aligned with NYCMap aerial photography.</horizpar>
+         </horizpa>
+      </posacc>
+   </dataqual>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">NYC_Street_2008</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">912287.0688</westBL>
+               <eastBL Sync="TRUE">1067382.5083</eastBL>
+               <northBL Sync="TRUE">273617.8431</northBL>
+               <southBL Sync="TRUE">116411.3711</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-74.26038</westBL>
+         <eastBL Sync="TRUE">-73.699206</eastBL>
+         <northBL Sync="TRUE">40.917691</northBL>
+         <southBL Sync="TRUE">40.485808</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="NYC_Street_2008">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">174221</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt>20051205</mdDateSt>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS001\C\NYC\NYC_Street_2008.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">16.387</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{6F329C0C-21DF-4E21-A05E-B81409B90621}</mdFileID>
+</metadata>
