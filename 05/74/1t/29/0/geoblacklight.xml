@@ -1,44 +1,40 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/05741t290</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/05741t290</field>
-    <field name="dc_title_s">NJDEP 2000 Census Blocks in New Jersey</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/05741t290</field>
+    <field name="dc_creator_sm">NJ Department of Environmental Protection (NJDEP), Office of Information Resources Management (OIRM), Bureau of Geographic Information and Analysis (BGIA)</field>
     <field name="dc_description_s">This data contains Census 2000 TIGER information at the Block Level for New Jersey.  It was obtained from the U.S. Census Bureau's web site along with the Census 2000 Summary File 1 (SF1).  The  SF1 file was joined to the Census Block coverage by NJDEP.
 
 TIGER/Line, and Census TIGER are registered trademarks of the U.S. Census Bureau.  ZCTA is a trademark of the U.S. Census Bureau. The Census 2000 TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on January 1, 2000 legal boundaries.  A complete set of Census 2000 TIGER/Line files includes all counties and statistically equivalent entities in the United States, Puerto Rico, and the Island Areas.
 
 The Census TIGER data base represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file  is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The Census 2000 TIGER/Line files consist of line segments representing physical  features and governmental and statistical boundaries.  The boundary information in the TIGER/Line files are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement.
 
-The Census 2000 TIGER/Line files do NOT contain the Census 2000 urban areas which have not yet been delineated.  The files contain information distributed over a series of record types for the spatial objects of a county.This data was created for internal use by NJDEP to facilitate GIS analysis on the population data contained.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/05/74/1t/29/0/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/05/74/1t/29/0/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/05/74/1t/29/0/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/05741t290"}</field>
-    <field name="layer_id_s">05741t290</field>
-    <field name="layer_slug_s">princeton-05741t290</field>
-    <field name="layer_geom_type_s" />
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
+The Census 2000 TIGER/Line files do NOT contain the Census 2000 urban areas which have not yet been delineated.  The files contain information distributed over a series of record types for the spatial objects of a county.</field>
     <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">05741t290</field>
     <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
     <field name="dc_publisher_s">NJDEP</field>
-    <field name="dc_creator_sm">NJ Department of Environmental Protection (NJDEP), Office of Information Resources Management (OIRM), Bureau of Geographic Information and Analysis (BGIA)</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">Census Blocks</field>
     <field name="dc_subject_sm">Census 2000</field>
     <field name="dc_subject_sm">TIGER/Line</field>
     <field name="dc_subject_sm">Population</field>
     <field name="dc_subject_sm">NJDEP</field>
-    <field name="dct_issued_s">2002</field>
-    <field name="dct_temporal_sm">2002</field>
+    <field name="dc_title_s">NJDEP 2000 Census Blocks in New Jersey</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/05741t290/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/05741t290/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/05741t290", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/05741t290/fgdc.xml"}</field>
     <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_issued_s">20020801</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">38.785047 -75.593442 41.357587 -73.876637</field>
-    <field name="georss_polygon_s">38.785047 -75.593442 41.357587 -75.593442 41.357587 -73.876637 38.785047 -73.876637 38.785047 -75.593442</field>
-    <field name="solr_geom">ENVELOPE(-75.593442, -73.876637, 41.357587, 38.785047)</field>
+    <field name="georss_polygon_s">41.357587 -75.593442 41.357587 -73.876637 38.785047 -73.876637 38.785047 -75.593442 41.357587 -75.593442</field>
+    <field name="layer_slug_s">princeton-05741t290</field>
+    <field name="layer_id_s">05741t290</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:16Z</field>
+    <field name="layer_geom_type_s">Unknown</field>
     <field name="solr_bbox">-75.593442 38.785047 -73.876637 41.357587</field>
-    <field name="solr_sw_pt">38.785047,-75.593442</field>
     <field name="solr_ne_pt">41.357587,-73.876637</field>
-    <field name="solr_year_i">2002</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
+    <field name="solr_sw_pt">38.785047,-75.593442</field>
+    <field name="solr_geom">ENVELOPE(-75.593442, -73.876637, 41.357587, 38.785047)</field>
   </doc>
 </add>

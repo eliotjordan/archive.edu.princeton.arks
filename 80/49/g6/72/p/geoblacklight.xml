@@ -1,21 +1,13 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/8049g672p</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/8049g672p</field>
-    <field name="dc_title_s">Township map of Shaanxi with 2000 Census short form data</field>
-    <field name="dc_description_s">Township locations in Shaanxi Province, China, with 2000 Census data from short form tables A1-A8 (100% counts). Includes general information, age composition, households, deaths, household registration, and housing.For use with GIS software.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/80/49/g6/72/p/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/80/49/g6/72/p/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/80/49/g6/72/p/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8049g672p"}</field>
-    <field name="layer_id_s">8049g672p</field>
-    <field name="layer_slug_s">princeton-8049g672p</field>
-    <field name="layer_geom_type_s" />
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s" />
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8049g672p</field>
     <field name="dc_creator_sm">All China Marketing Research Co., Ltd.</field>
+    <field name="dc_description_s">Township locations in Shaanxi Province, China, with 2000 Census data from short form tables A1-A8 (100% counts). Includes general information, age composition, households, deaths, household registration, and housing.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">8049g672p</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">census</field>
     <field name="dc_subject_sm">generations</field>
     <field name="dc_subject_sm">residents</field>
@@ -53,21 +45,26 @@
     <field name="dc_subject_sm">female</field>
     <field name="dc_subject_sm">deaths</field>
     <field name="dc_subject_sm">age</field>
-    <field name="dc_subject_sm">Society</field>
-    <field name="dct_issued_s">2005</field>
-    <field name="dct_temporal_sm">2000</field>
+    <field name="dc_subject_sm">society</field>
+    <field name="dc_title_s">Township map of Shaanxi with 2000 Census short form data</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8049g672p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/8049g672p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8049g672p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8049g672p/fgdc.xml"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Shaanxi</field>
     <field name="dct_spatial_sm">Shaanxi Province</field>
-    <field name="georss_box_s">31.763422 105.57025 39.525764 111.143541</field>
-    <field name="georss_polygon_s">31.763422 105.57025 39.525764 105.57025 39.525764 111.143541 31.763422 111.143541 31.763422 105.57025</field>
-    <field name="solr_geom">ENVELOPE(105.57025, 111.143541, 39.525764, 31.763422)</field>
-    <field name="solr_bbox">105.57025 31.763422 111.143541 39.525764</field>
-    <field name="solr_sw_pt">31.763422,105.57025</field>
+    <field name="dct_temporal_sm">2000</field>
+    <field name="dct_issued_s">20050418</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">31.763422 105.570250 39.525764 111.143541</field>
+    <field name="georss_polygon_s">39.525764 105.570250 39.525764 111.143541 31.763422 111.143541 31.763422 105.570250 39.525764 105.570250</field>
+    <field name="layer_slug_s">princeton-8049g672p</field>
+    <field name="layer_id_s">8049g672p</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:10Z</field>
+    <field name="layer_geom_type_s">Unknown</field>
+    <field name="solr_bbox">105.570250 31.763422 111.143541 39.525764</field>
     <field name="solr_ne_pt">39.525764,111.143541</field>
+    <field name="solr_sw_pt">31.763422,105.570250</field>
+    <field name="solr_geom">ENVELOPE(105.570250, 111.143541, 39.525764, 31.763422)</field>
     <field name="solr_year_i">2000</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

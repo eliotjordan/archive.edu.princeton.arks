@@ -1,22 +1,14 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/p8418p801</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/p8418p801</field>
-    <field name="dc_title_s">Wyoming Tracts 2002</field>
-    <field name="dc_description_s">Wyoming Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Wyoming.Wyoming Tracts provides boundaries and demographic information for U.S. Census tracts and block numbering areas within Wyoming.  The boundaries are consistent with the county and state data sets.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/p8/41/8p/80/1/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/p8/41/8p/80/1/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/p8/41/8p/80/1/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/p8418p801"}</field>
-    <field name="layer_id_s">p8418p801</field>
-    <field name="layer_slug_s">princeton-p8418p801</field>
-    <field name="layer_geom_type_s">Polygon</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/p8418p801</field>
     <field name="dc_creator_sm">Geographic Data Technology, Inc. (GDT)</field>
-    <field name="dc_creator_sm">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_description_s">Wyoming Tracts represents the U.S. Census tracts and block numbering areas (BNA) of Wyoming.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">p8418p801</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">polygon</field>
     <field name="dc_subject_sm">census tracts</field>
     <field name="dc_subject_sm">census block numbering areas</field>
@@ -25,21 +17,26 @@
     <field name="dc_subject_sm">households</field>
     <field name="dc_subject_sm">boundaries</field>
     <field name="dc_subject_sm">society</field>
-    <field name="dct_issued_s">2002</field>
+    <field name="dc_title_s">Wyoming Tracts 2002</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/p8418p801/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/p8418p801/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/p8418p801", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/p8418p801/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_spatial_sm">Wyoming</field>
     <field name="dct_temporal_sm">2002</field>
     <field name="dct_temporal_sm">2000</field>
     <field name="dct_temporal_sm">2001</field>
-    <field name="dct_spatial_sm">United States</field>
-    <field name="dct_spatial_sm">Wyoming</field>
+    <field name="dct_issued_s">20020401</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">40.994746 -111.056888 45.005904 -104.052056</field>
-    <field name="georss_polygon_s">40.994746 -111.056888 45.005904 -111.056888 45.005904 -104.052056 40.994746 -104.052056 40.994746 -111.056888</field>
-    <field name="solr_geom">ENVELOPE(-111.056888, -104.052056, 45.005904, 40.994746)</field>
+    <field name="georss_polygon_s">45.005904 -111.056888 45.005904 -104.052056 40.994746 -104.052056 40.994746 -111.056888 45.005904 -111.056888</field>
+    <field name="layer_slug_s">princeton-p8418p801</field>
+    <field name="layer_id_s">p8418p801</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:00Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-111.056888 40.994746 -104.052056 45.005904</field>
-    <field name="solr_sw_pt">40.994746,-111.056888</field>
     <field name="solr_ne_pt">45.005904,-104.052056</field>
+    <field name="solr_sw_pt">40.994746,-111.056888</field>
+    <field name="solr_geom">ENVELOPE(-111.056888, -104.052056, 45.005904, 40.994746)</field>
     <field name="solr_year_i">2002</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

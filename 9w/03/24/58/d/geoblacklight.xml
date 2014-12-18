@@ -1,38 +1,35 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/9w032458d</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/9w032458d</field>
-    <field name="dc_title_s">Europe Canals 2002</field>
-    <field name="dc_description_s">Europe Canals represents the canals of Europe.Europe Canals provides a base map layer of canals for Europe.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/9w/03/24/58/d/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/9w/03/24/58/d/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/9w/03/24/58/d/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9w032458d"}</field>
-    <field name="layer_id_s">9w032458d</field>
-    <field name="layer_slug_s">princeton-9w032458d</field>
-    <field name="layer_geom_type_s">Polygon</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9w032458d</field>
     <field name="dc_creator_sm">AND Data Solutions, B.V.</field>
-    <field name="dc_creator_sm">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_description_s">Europe Canals represents the canals of Europe.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">9w032458d</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">polygon</field>
     <field name="dc_subject_sm">canals</field>
     <field name="dc_subject_sm">water</field>
     <field name="dc_subject_sm">transportation</field>
-    <field name="dct_issued_s">2002</field>
-    <field name="dct_temporal_sm">1999</field>
+    <field name="dc_title_s">Europe Canals 2002</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9w032458d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9w032458d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9w032458d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9w032458d/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Europe</field>
-    <field name="georss_box_s">43.0226 -8.215299999999999 64.5189 34.8232</field>
-    <field name="georss_polygon_s">43.0226 -8.215299999999999 64.5189 -8.215299999999999 64.5189 34.8232 43.0226 34.8232 43.0226 -8.215299999999999</field>
-    <field name="solr_geom">ENVELOPE(-8.215299999999999, 34.8232, 64.5189, 43.0226)</field>
-    <field name="solr_bbox">-8.215299999999999 43.0226 34.8232 64.5189</field>
-    <field name="solr_sw_pt">43.0226,-8.215299999999999</field>
-    <field name="solr_ne_pt">64.5189,34.8232</field>
+    <field name="dct_temporal_sm">1999</field>
+    <field name="dct_issued_s">20020401</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">43.022600 -8.215300 64.518900 34.823200</field>
+    <field name="georss_polygon_s">64.518900 -8.215300 64.518900 34.823200 43.022600 34.823200 43.022600 -8.215300 64.518900 -8.215300</field>
+    <field name="layer_slug_s">princeton-9w032458d</field>
+    <field name="layer_id_s">9w032458d</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:09Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
+    <field name="solr_bbox">-8.215300 43.022600 34.823200 64.518900</field>
+    <field name="solr_ne_pt">64.518900,34.823200</field>
+    <field name="solr_sw_pt">43.022600,-8.215300</field>
+    <field name="solr_geom">ENVELOPE(-8.215300, 34.823200, 64.518900, 43.022600)</field>
     <field name="solr_year_i">1999</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

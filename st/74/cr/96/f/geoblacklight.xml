@@ -1,41 +1,38 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/st74cr96f</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/st74cr96f</field>
-    <field name="dc_title_s">Wisconsin Major Roads 2002</field>
-    <field name="dc_description_s">Wisconsin Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Wisconsin.Wisconsin Major Roads provides an invaluable reference and cartographic layer that make it easy to identify areas in other data sets. Wisconsin Major Roads overlays accurately on streets and other boundary data.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/st/74/cr/96/f/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/st/74/cr/96/f/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/st/74/cr/96/f/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/st74cr96f"}</field>
-    <field name="layer_id_s">st74cr96f</field>
-    <field name="layer_slug_s">princeton-st74cr96f</field>
-    <field name="layer_geom_type_s">Line</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/st74cr96f</field>
     <field name="dc_creator_sm">Geographic Data Technology, Inc. (GDT)</field>
-    <field name="dc_creator_sm">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_description_s">Wisconsin Major Roads represents interstate, U.S., and state highways and other major thoroughfares within Wisconsin.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">st74cr96f</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">line</field>
     <field name="dc_subject_sm">highways</field>
     <field name="dc_subject_sm">roads</field>
     <field name="dc_subject_sm">interstates</field>
     <field name="dc_subject_sm">cfcc</field>
     <field name="dc_subject_sm">transportation</field>
-    <field name="dct_issued_s">2002</field>
-    <field name="dct_temporal_sm">1999</field>
+    <field name="dc_title_s">Wisconsin Major Roads 2002</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/st74cr96f/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/st74cr96f/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/st74cr96f", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/st74cr96f/fgdc.xml"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Wisconsin</field>
-    <field name="georss_box_s">42.477031 -92.804403 46.917925 -86.85425</field>
-    <field name="georss_polygon_s">42.477031 -92.804403 46.917925 -92.804403 46.917925 -86.85425 42.477031 -86.85425 42.477031 -92.804403</field>
-    <field name="solr_geom">ENVELOPE(-92.804403, -86.85425, 46.917925, 42.477031)</field>
-    <field name="solr_bbox">-92.804403 42.477031 -86.85425 46.917925</field>
+    <field name="dct_temporal_sm">1999</field>
+    <field name="dct_issued_s">20020401</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">42.477031 -92.804403 46.917925 -86.854250</field>
+    <field name="georss_polygon_s">46.917925 -92.804403 46.917925 -86.854250 42.477031 -86.854250 42.477031 -92.804403 46.917925 -92.804403</field>
+    <field name="layer_slug_s">princeton-st74cr96f</field>
+    <field name="layer_id_s">st74cr96f</field>
+    <field name="layer_modified_dt">2014-12-19T00:00:56Z</field>
+    <field name="layer_geom_type_s">Line</field>
+    <field name="solr_bbox">-92.804403 42.477031 -86.854250 46.917925</field>
+    <field name="solr_ne_pt">46.917925,-86.854250</field>
     <field name="solr_sw_pt">42.477031,-92.804403</field>
-    <field name="solr_ne_pt">46.917925,-86.85425</field>
+    <field name="solr_geom">ENVELOPE(-92.804403, -86.854250, 46.917925, 42.477031)</field>
     <field name="solr_year_i">1999</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

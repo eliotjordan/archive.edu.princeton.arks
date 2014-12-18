@@ -1,36 +1,34 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/dr26xz87z</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/dr26xz87z</field>
-    <field name="dc_title_s">Hungary Major Trails, 2005</field>
-    <field name="dc_description_s">This data includes Hungary major trails created by GfK MACON company, Germany.To make digital use of this data set.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/dr/26/xz/87/z/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/dr/26/xz/87/z/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/dr/26/xz/87/z/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/dr26xz87z"}</field>
-    <field name="layer_id_s">dr26xz87z</field>
-    <field name="layer_slug_s">princeton-dr26xz87z</field>
-    <field name="layer_geom_type_s">Polyline</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Gfk MACON Company</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/dr26xz87z</field>
     <field name="dc_creator_sm">GfK MACON</field>
+    <field name="dc_description_s">This data includes Hungary major trails created by GfK MACON company, Germany.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">dr26xz87z</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Gfk MACON Company</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">Trails</field>
     <field name="dc_subject_sm">Transportation</field>
     <field name="dc_subject_sm">Major Trails</field>
-    <field name="dct_issued_s">2005</field>
-    <field name="dct_temporal_sm">2006</field>
+    <field name="dc_title_s">Hungary Major Trails, 2005</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/dr26xz87z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/dr26xz87z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/dr26xz87z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/dr26xz87z/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Hungary</field>
-    <field name="georss_box_s">46.124638 17.28738 48.084805 21.896891</field>
-    <field name="georss_polygon_s">46.124638 17.28738 48.084805 17.28738 48.084805 21.896891 46.124638 21.896891 46.124638 17.28738</field>
-    <field name="solr_geom">ENVELOPE(17.28738, 21.896891, 48.084805, 46.124638)</field>
-    <field name="solr_bbox">17.28738 46.124638 21.896891 48.084805</field>
-    <field name="solr_sw_pt">46.124638,17.28738</field>
+    <field name="dct_temporal_sm">2006</field>
+    <field name="dct_issued_s">2005</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">46.124638 17.287380 48.084805 21.896891</field>
+    <field name="georss_polygon_s">48.084805 17.287380 48.084805 21.896891 46.124638 21.896891 46.124638 17.287380 48.084805 17.287380</field>
+    <field name="layer_slug_s">princeton-dr26xz87z</field>
+    <field name="layer_id_s">dr26xz87z</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:06Z</field>
+    <field name="layer_geom_type_s">Line</field>
+    <field name="solr_bbox">17.287380 46.124638 21.896891 48.084805</field>
     <field name="solr_ne_pt">48.084805,21.896891</field>
+    <field name="solr_sw_pt">46.124638,17.287380</field>
+    <field name="solr_geom">ENVELOPE(17.287380, 21.896891, 48.084805, 46.124638)</field>
     <field name="solr_year_i">2006</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9306t0827</field>
+    <field name="dc_creator_sm">Geographic Data Technology, Inc. (GDT)</field>
+    <field name="dc_description_s">U.S. Major Water represents areas that are major water features within United States.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">9306t0827</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_rights_s">Restricted</field>
+    <field name="dc_subject_sm">polygon</field>
+    <field name="dc_subject_sm">water</field>
+    <field name="dc_subject_sm">hydrography</field>
+    <field name="dc_subject_sm">bays</field>
+    <field name="dc_subject_sm">canals</field>
+    <field name="dc_subject_sm">lakes</field>
+    <field name="dc_subject_sm">reservoirs</field>
+    <field name="dc_subject_sm">rivers</field>
+    <field name="dc_title_s">U.S. Major Water 2000</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9306t0827/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9306t0827/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9306t0827", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9306t0827/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_temporal_sm">1997</field>
+    <field name="dct_temporal_sm">1999</field>
+    <field name="dct_temporal_sm">2000</field>
+    <field name="dct_issued_s">20001101</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">19.713890 -168.074728 70.719400 -67.121681</field>
+    <field name="georss_polygon_s">70.719400 -168.074728 70.719400 -67.121681 19.713890 -67.121681 19.713890 -168.074728 70.719400 -168.074728</field>
+    <field name="layer_slug_s">princeton-9306t0827</field>
+    <field name="layer_id_s">9306t0827</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:09Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
+    <field name="solr_bbox">-168.074728 19.713890 -67.121681 70.719400</field>
+    <field name="solr_ne_pt">70.719400,-67.121681</field>
+    <field name="solr_sw_pt">19.713890,-168.074728</field>
+    <field name="solr_geom">ENVELOPE(-168.074728, -67.121681, 70.719400, 19.713890)</field>
+    <field name="solr_year_i">1997</field>
+  </doc>
+</add>

@@ -1,36 +1,34 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/ng451k09p</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/ng451k09p</field>
-    <field name="dc_title_s">El Salvador Major Rivers, 1992</field>
-    <field name="dc_description_s">This data include major rivers of El Salvador created by GfK MACON company, Germany.To make digital use of this data set.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/ng/45/1k/09/p/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/ng/45/1k/09/p/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/ng/45/1k/09/p/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ng451k09p"}</field>
-    <field name="layer_id_s">ng451k09p</field>
-    <field name="layer_slug_s">princeton-ng451k09p</field>
-    <field name="layer_geom_type_s">Polyline</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Gfk MACON Company</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ng451k09p</field>
     <field name="dc_creator_sm">GfK MACON</field>
+    <field name="dc_description_s">This data include major rivers of El Salvador created by GfK MACON company, Germany.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">ng451k09p</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Gfk MACON Company</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">Rivers</field>
     <field name="dc_subject_sm">inlandWaters</field>
     <field name="dc_subject_sm">Major rivers</field>
-    <field name="dct_issued_s">2005</field>
-    <field name="dct_temporal_sm">2006</field>
+    <field name="dc_title_s">El Salvador Major Rivers, 1992</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ng451k09p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/ng451k09p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ng451k09p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ng451k09p/fgdc.xml"}</field>
     <field name="dct_spatial_sm">El Salvador</field>
-    <field name="georss_box_s">13.23563 -89.43692 14.374855 -88.08506</field>
-    <field name="georss_polygon_s">13.23563 -89.43692 14.374855 -89.43692 14.374855 -88.08506 13.23563 -88.08506 13.23563 -89.43692</field>
-    <field name="solr_geom">ENVELOPE(-89.43692, -88.08506, 14.374855, 13.23563)</field>
-    <field name="solr_bbox">-89.43692 13.23563 -88.08506 14.374855</field>
-    <field name="solr_sw_pt">13.23563,-89.43692</field>
-    <field name="solr_ne_pt">14.374855,-88.08506</field>
+    <field name="dct_temporal_sm">2006</field>
+    <field name="dct_issued_s">2005</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">13.235630 -89.436920 14.374855 -88.085060</field>
+    <field name="georss_polygon_s">14.374855 -89.436920 14.374855 -88.085060 13.235630 -88.085060 13.235630 -89.436920 14.374855 -89.436920</field>
+    <field name="layer_slug_s">princeton-ng451k09p</field>
+    <field name="layer_id_s">ng451k09p</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:00Z</field>
+    <field name="layer_geom_type_s">Line</field>
+    <field name="solr_bbox">-89.436920 13.235630 -88.085060 14.374855</field>
+    <field name="solr_ne_pt">14.374855,-88.085060</field>
+    <field name="solr_sw_pt">13.235630,-89.436920</field>
+    <field name="solr_geom">ENVELOPE(-89.436920, -88.085060, 14.374855, 13.235630)</field>
     <field name="solr_year_i">2006</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

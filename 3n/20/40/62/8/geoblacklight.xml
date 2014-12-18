@@ -1,22 +1,14 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/3n2040628</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/3n2040628</field>
-    <field name="dc_title_s">U.S. GDT Institutions 2002</field>
-    <field name="dc_description_s">U.S. GDT Institutions represents point locations within United States for common institution landmark types including hospitals, educational institutions, religious institutions, government centers, and cemeteries.U.S. GDT Institutions provides the locations for hundreds of thousands of hospitals, educational institutions, religious institutions, government centers, and cemeteries.  Each institution is named and shows the state and county it resides in.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/3n/20/40/62/8/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/3n/20/40/62/8/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/3n/20/40/62/8/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3n2040628"}</field>
-    <field name="layer_id_s">3n2040628</field>
-    <field name="layer_slug_s">princeton-3n2040628</field>
-    <field name="layer_geom_type_s">Point</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3n2040628</field>
     <field name="dc_creator_sm">Geographic Data Technology, Inc. (GDT)</field>
-    <field name="dc_creator_sm">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_description_s">U.S. GDT Institutions represents point locations within United States for common institution landmark types including hospitals, educational institutions, religious institutions, government centers, and cemeteries.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">3n2040628</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">point</field>
     <field name="dc_subject_sm">institutions</field>
     <field name="dc_subject_sm">hospitals</field>
@@ -25,18 +17,23 @@
     <field name="dc_subject_sm">government centers</field>
     <field name="dc_subject_sm">cemeteries</field>
     <field name="dc_subject_sm">structure</field>
-    <field name="dct_issued_s">2002</field>
-    <field name="dct_temporal_sm">1999</field>
+    <field name="dc_title_s">U.S. GDT Institutions 2002</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3n2040628/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3n2040628/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3n2040628", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3n2040628/fgdc.xml"}</field>
     <field name="dct_spatial_sm">United States</field>
+    <field name="dct_temporal_sm">1999</field>
+    <field name="dct_issued_s">20020401</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">19.202542 -165.450122 65.039489 -66.991923</field>
-    <field name="georss_polygon_s">19.202542 -165.450122 65.039489 -165.450122 65.039489 -66.991923 19.202542 -66.991923 19.202542 -165.450122</field>
-    <field name="solr_geom">ENVELOPE(-165.450122, -66.991923, 65.039489, 19.202542)</field>
+    <field name="georss_polygon_s">65.039489 -165.450122 65.039489 -66.991923 19.202542 -66.991923 19.202542 -165.450122 65.039489 -165.450122</field>
+    <field name="layer_slug_s">princeton-3n2040628</field>
+    <field name="layer_id_s">3n2040628</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:13Z</field>
+    <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-165.450122 19.202542 -66.991923 65.039489</field>
-    <field name="solr_sw_pt">19.202542,-165.450122</field>
     <field name="solr_ne_pt">65.039489,-66.991923</field>
+    <field name="solr_sw_pt">19.202542,-165.450122</field>
+    <field name="solr_geom">ENVELOPE(-165.450122, -66.991923, 65.039489, 19.202542)</field>
     <field name="solr_year_i">1999</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

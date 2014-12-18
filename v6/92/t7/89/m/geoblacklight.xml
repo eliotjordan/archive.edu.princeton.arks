@@ -1,21 +1,13 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/v692t789m</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/v692t789m</field>
-    <field name="dc_title_s">Routt County, Colorado land parcels, 2010</field>
-    <field name="dc_description_s">Land parcels in Routt County, Colorado, 2010.For use with GIS software.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/v6/92/t7/89/m/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/v6/92/t7/89/m/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/v6/92/t7/89/m/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v692t789m"}</field>
-    <field name="layer_id_s">v692t789m</field>
-    <field name="layer_slug_s">princeton-v692t789m</field>
-    <field name="layer_geom_type_s" />
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s" />
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/v692t789m</field>
     <field name="dc_creator_sm">Boundary Solutions, Inc.</field>
+    <field name="dc_description_s">Land parcels in Routt County, Colorado, 2010.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">v692t789m</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">property maps</field>
     <field name="dc_subject_sm">cadastral maps</field>
     <field name="dc_subject_sm">parcel</field>
@@ -27,21 +19,24 @@
     <field name="dc_subject_sm">value</field>
     <field name="dc_subject_sm">land value</field>
     <field name="dc_subject_sm">ownership</field>
-    <field name="dc_subject_sm">Planning and Cadastral</field>
-    <field name="dct_issued_s">2010</field>
-    <field name="dct_temporal_sm">2010</field>
+    <field name="dc_subject_sm">planningCadastre</field>
+    <field name="dc_title_s">Routt County, Colorado land parcels, 2010</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v692t789m/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/v692t789m/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v692t789m", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v692t789m/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Routt</field>
     <field name="dct_spatial_sm">Routt County</field>
     <field name="dct_spatial_sm">Colorado</field>
+    <field name="dct_issued_s">20100126</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">39.918795 -107.442663 41.003298 -106.625241</field>
-    <field name="georss_polygon_s">39.918795 -107.442663 41.003298 -107.442663 41.003298 -106.625241 39.918795 -106.625241 39.918795 -107.442663</field>
-    <field name="solr_geom">ENVELOPE(-107.442663, -106.625241, 41.003298, 39.918795)</field>
+    <field name="georss_polygon_s">41.003298 -107.442663 41.003298 -106.625241 39.918795 -106.625241 39.918795 -107.442663 41.003298 -107.442663</field>
+    <field name="layer_slug_s">princeton-v692t789m</field>
+    <field name="layer_id_s">v692t789m</field>
+    <field name="layer_modified_dt">2014-12-19T00:00:56Z</field>
+    <field name="layer_geom_type_s">Unknown</field>
     <field name="solr_bbox">-107.442663 39.918795 -106.625241 41.003298</field>
-    <field name="solr_sw_pt">39.918795,-107.442663</field>
     <field name="solr_ne_pt">41.003298,-106.625241</field>
-    <field name="solr_year_i">2010</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
+    <field name="solr_sw_pt">39.918795,-107.442663</field>
+    <field name="solr_geom">ENVELOPE(-107.442663, -106.625241, 41.003298, 39.918795)</field>
   </doc>
 </add>

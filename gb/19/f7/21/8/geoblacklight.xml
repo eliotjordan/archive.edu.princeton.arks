@@ -1,37 +1,35 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/gb19f7218</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/gb19f7218</field>
-    <field name="dc_title_s">Macedonia Municipality Boundaries, 2005</field>
-    <field name="dc_description_s">This map includes the municipality boundaries of Macedonia created by GfK MACON company, Germany.To make digital use of this data set.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/gb/19/f7/21/8/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/gb/19/f7/21/8/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/gb/19/f7/21/8/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/gb19f7218"}</field>
-    <field name="layer_id_s">gb19f7218</field>
-    <field name="layer_slug_s">princeton-gb19f7218</field>
-    <field name="layer_geom_type_s">Polygon</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Gfk MACON Company</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/gb19f7218</field>
     <field name="dc_creator_sm">GfK MACON</field>
+    <field name="dc_description_s">This map includes the municipality boundaries of Macedonia created by GfK MACON company, Germany.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">gb19f7218</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Gfk MACON Company</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">administrative units</field>
     <field name="dc_subject_sm">municipalities</field>
     <field name="dc_subject_sm">boundaries</field>
     <field name="dc_subject_sm">municipality boundaries</field>
-    <field name="dct_issued_s">2005</field>
-    <field name="dct_temporal_sm">2006</field>
+    <field name="dc_title_s">Macedonia Municipality Boundaries, 2005</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/gb19f7218/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/gb19f7218/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/gb19f7218", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/gb19f7218/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Macedonia</field>
-    <field name="georss_box_s">40.853473 20.458076 42.36636 23.03403</field>
-    <field name="georss_polygon_s">40.853473 20.458076 42.36636 20.458076 42.36636 23.03403 40.853473 23.03403 40.853473 20.458076</field>
-    <field name="solr_geom">ENVELOPE(20.458076, 23.03403, 42.36636, 40.853473)</field>
-    <field name="solr_bbox">20.458076 40.853473 23.03403 42.36636</field>
+    <field name="dct_temporal_sm">2006</field>
+    <field name="dct_issued_s">2005</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">40.853473 20.458076 42.366360 23.034030</field>
+    <field name="georss_polygon_s">42.366360 20.458076 42.366360 23.034030 40.853473 23.034030 40.853473 20.458076 42.366360 20.458076</field>
+    <field name="layer_slug_s">princeton-gb19f7218</field>
+    <field name="layer_id_s">gb19f7218</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:04Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
+    <field name="solr_bbox">20.458076 40.853473 23.034030 42.366360</field>
+    <field name="solr_ne_pt">42.366360,23.034030</field>
     <field name="solr_sw_pt">40.853473,20.458076</field>
-    <field name="solr_ne_pt">42.36636,23.03403</field>
+    <field name="solr_geom">ENVELOPE(20.458076, 23.034030, 42.366360, 40.853473)</field>
     <field name="solr_year_i">2006</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

@@ -1,39 +1,36 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/g732db59q</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/g732db59q</field>
-    <field name="dc_title_s">U.S. GDT Transportation Terminals 2000</field>
-    <field name="dc_description_s">U.S. GDT Transportation Terminals represents locations within United States for transportation terminals such as bus terminals, train stations, marine terminals, and other significant transportation nodes.U.S. GDT Transportation Terminals provides the locations for hundreds of transportation terminals. Each transportation terminal is named and shows the state and county it resides in.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/g7/32/db/59/q/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/g7/32/db/59/q/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/g7/32/db/59/q/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/g732db59q"}</field>
-    <field name="layer_id_s">g732db59q</field>
-    <field name="layer_slug_s">princeton-g732db59q</field>
-    <field name="layer_geom_type_s">Point</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/g732db59q</field>
     <field name="dc_creator_sm">Geographic Data Technology, Inc. (GDT)</field>
-    <field name="dc_creator_sm">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_description_s">U.S. GDT Transportation Terminals represents locations within United States for transportation terminals such as bus terminals, train stations, marine terminals, and other significant transportation nodes.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">g732db59q</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">point</field>
     <field name="dc_subject_sm">transportation terminals</field>
     <field name="dc_subject_sm">train stations</field>
     <field name="dc_subject_sm">bus terminals</field>
     <field name="dc_subject_sm">marine terminals</field>
-    <field name="dct_issued_s">2000</field>
-    <field name="dct_temporal_sm">1999</field>
+    <field name="dc_title_s">U.S. GDT Transportation Terminals 2000</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/g732db59q/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/g732db59q/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/g732db59q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/g732db59q/fgdc.xml"}</field>
     <field name="dct_spatial_sm">United States</field>
+    <field name="dct_temporal_sm">1999</field>
+    <field name="dct_issued_s">20001101</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">24.554827 -131.720039 55.360922 -66.984444</field>
-    <field name="georss_polygon_s">24.554827 -131.720039 55.360922 -131.720039 55.360922 -66.984444 24.554827 -66.984444 24.554827 -131.720039</field>
-    <field name="solr_geom">ENVELOPE(-131.720039, -66.984444, 55.360922, 24.554827)</field>
+    <field name="georss_polygon_s">55.360922 -131.720039 55.360922 -66.984444 24.554827 -66.984444 24.554827 -131.720039 55.360922 -131.720039</field>
+    <field name="layer_slug_s">princeton-g732db59q</field>
+    <field name="layer_id_s">g732db59q</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:05Z</field>
+    <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-131.720039 24.554827 -66.984444 55.360922</field>
-    <field name="solr_sw_pt">24.554827,-131.720039</field>
     <field name="solr_ne_pt">55.360922,-66.984444</field>
+    <field name="solr_sw_pt">24.554827,-131.720039</field>
+    <field name="solr_geom">ENVELOPE(-131.720039, -66.984444, 55.360922, 24.554827)</field>
     <field name="solr_year_i">1999</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

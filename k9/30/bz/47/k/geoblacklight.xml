@@ -1,22 +1,14 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/k930bz47k</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/k930bz47k</field>
-    <field name="dc_title_s">Rhode Island Block Groups 2002</field>
-    <field name="dc_description_s">Rhode Island Block Groups represents the U.S. Census block groups of Rhode Island.Rhode Island Block Groups provides boundaries and demographic information for U.S. Census block groups within Rhode Island.  The boundaries are consistent with the tract, county, and state data sets.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/k9/30/bz/47/k/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/k9/30/bz/47/k/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/k9/30/bz/47/k/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k930bz47k"}</field>
-    <field name="layer_id_s">k930bz47k</field>
-    <field name="layer_slug_s">princeton-k930bz47k</field>
-    <field name="layer_geom_type_s">Polygon</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/k930bz47k</field>
     <field name="dc_creator_sm">Geographic Data Technology, Inc. (GDT)</field>
-    <field name="dc_creator_sm">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_description_s">Rhode Island Block Groups represents the U.S. Census block groups of Rhode Island.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">k930bz47k</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Environmental Systems Research Institute, Inc. (ESRI)</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">polygon</field>
     <field name="dc_subject_sm">census block groups</field>
     <field name="dc_subject_sm">demographics</field>
@@ -24,20 +16,25 @@
     <field name="dc_subject_sm">households</field>
     <field name="dc_subject_sm">boundaries</field>
     <field name="dc_subject_sm">society</field>
-    <field name="dct_issued_s">2002</field>
-    <field name="dct_temporal_sm">2002</field>
-    <field name="dct_temporal_sm">2000</field>
+    <field name="dc_title_s">Rhode Island Block Groups 2002</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k930bz47k/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/k930bz47k/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k930bz47k", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k930bz47k/fgdc.xml"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Rhode Island</field>
+    <field name="dct_temporal_sm">2002</field>
+    <field name="dct_temporal_sm">2000</field>
+    <field name="dct_issued_s">20020401</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">41.146141 -71.886536 42.018799 -71.120555</field>
-    <field name="georss_polygon_s">41.146141 -71.886536 42.018799 -71.886536 42.018799 -71.120555 41.146141 -71.120555 41.146141 -71.886536</field>
-    <field name="solr_geom">ENVELOPE(-71.886536, -71.120555, 42.018799, 41.146141)</field>
+    <field name="georss_polygon_s">42.018799 -71.886536 42.018799 -71.120555 41.146141 -71.120555 41.146141 -71.886536 42.018799 -71.886536</field>
+    <field name="layer_slug_s">princeton-k930bz47k</field>
+    <field name="layer_id_s">k930bz47k</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:02Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-71.886536 41.146141 -71.120555 42.018799</field>
-    <field name="solr_sw_pt">41.146141,-71.886536</field>
     <field name="solr_ne_pt">42.018799,-71.120555</field>
+    <field name="solr_sw_pt">41.146141,-71.886536</field>
+    <field name="solr_geom">ENVELOPE(-71.886536, -71.120555, 42.018799, 41.146141)</field>
     <field name="solr_year_i">2002</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>
