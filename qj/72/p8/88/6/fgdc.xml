@@ -1,133 +1,140 @@
+<?xml version='1.0' encoding='ASCII'?>
 <metadata>
-	<idinfo>
-		<citation>
-			<citeinfo>
-				<origin>LeadDog Consulting, LLC</origin>
-				<pubdate>2006</pubdate>
-				<title>Mexico Nationwide Demographic product</title>
-				<geoform>vector digital data</geoform>
-				<pubinfo>
-					<pubplace>Anchorage, AK</pubplace>
-					<publish>LeadDog Consulting, LLC</publish>
-				</pubinfo>
-				<onlink>http://map.princeton.edu/data/qj/72/p8/88/6/content/restricted/data.zip</onlink>
-			</citeinfo>
-		</citation>
-		<descript>
-			<abstract>Mexico Nationwide Demographic product</abstract>
-			<purpose>Map provides Mexico Nationwide Demographic data in GIS file format.</purpose>
-		</descript>
-		<timeperd>
-			<timeinfo>
-				<sngdate>
-					<caldate>2006</caldate>
-				</sngdate>
-			</timeinfo>
-			<current>ground condition</current>
-		</timeperd>
-		<status>
-			<progress>Complete</progress>
-			<update>As needed</update>
-		</status>
-		<spdom>
-			<bounding>
-				<westbc>-118.2372</westbc>
-				<eastbc>-85.8772</eastbc>
-				<northbc>33.1957</northbc>
-				<southbc>12.5113</southbc>
-			</bounding>
-		</spdom>
-		<keywords>
-			<theme>
-				<themekt>ISO 19115 Topic Category</themekt>
-				<themekey>Cultural</themekey>
-				<themekey>society</themekey>
-				<themekey>and demographic</themekey>
-				<themekey>Demographics</themekey>
-			</theme>
-			<place>
-				<placekey>Mexico</placekey>
-				<placekey>Mexico City</placekey>
-			</place>
-		</keywords>
-		<accconst>Access granted to Licensee only.</accconst>
-		<useconst>Licensed data</useconst>
-		<ptcontac>
-			<cntinfo>
-				<cntperp>
-					<cntper>Tsering Wangyal Shawa</cntper>
-					<cntorg>Princeton University</cntorg>
-				</cntperp>
-				<cntaddr>
-					<addrtype>mailing</addrtype>
-				</cntaddr>
-				<cntvoice>609-258-6804</cntvoice>
-				<cntemail>shawatw@princeton.edu</cntemail>
-				<hours>8:45 am - 5:00 pm</hours>
-			</cntinfo>
-		</ptcontac>
-		<secinfo>
-			<secclass>Unclassified</secclass>
-		</secinfo>
-		<native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
-	</idinfo>
-	<dataqual>
-		<lineage>
-			<procstep>
-				<procdesc>Metadata imported.</procdesc>
-				<procdate>20091002</procdate>
-				<proctime>09513600</proctime>
-			</procstep>
-		</lineage>
-	</dataqual>
-	<spref>
-		<horizsys>
-			<geograph>
-				<geogunit>Decimal degrees</geogunit>
-			</geograph>
-			<geodetic>
-				<horizdn>D_WGS_1984</horizdn>
-				<ellips>World Geodetic System of 1984</ellips>
-				<semiaxis>6378137.000000</semiaxis>
-				<denflat>298.257223</denflat>
-			</geodetic>
-		</horizsys>
-	</spref>
-	<distinfo>
-		<distrib>
-			<cntinfo>
-				<cntaddr>
-					<addrtype>mailing</addrtype>
-				</cntaddr>
-			</cntinfo>
-		</distrib>
-		<resdesc>Downloadable Data</resdesc>
-	</distinfo>
-	<metainfo>
-		<metd>20091019</metd>
-		<metc>
-			<cntinfo>
-				<cntorgp>
-					<cntorg>Princeton University</cntorg>
-					<cntper>Tsering Wangyal Shawa</cntper>
-				</cntorgp>
-				<cntaddr>
-					<addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
-					<city>REQUIRED: The city of the address.</city>
-					<state>REQUIRED: The state or province of the address.</state>
-					<postal>REQUIRED: The ZIP or other postal code of the address.</postal>
-				</cntaddr>
-				<cntvoice>609-258-6804</cntvoice>
-				<cntemail>shawatw@princeton.edu</cntemail>
-				<hours>8:45 am - 5:00 pm</hours>
-			</cntinfo>
-		</metc>
-		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
-		<metstdv>FGDC-STD-001-1998</metstdv>
-		<mettc>local time</mettc>
-		<metextns>
-			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
-			<metprof>ESRI Metadata Profile</metprof>
-		</metextns>
-	</metainfo>
-<Esri><PublishedDocID>{F7A31268-94DE-4508-A900-35A0BBEB4543}</PublishedDocID><PublishStatus>Published</PublishStatus></Esri><mdFileID>{F7A31268-94DE-4508-A900-35A0BBEB4543}</mdFileID></metadata>
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>LeadDog Consulting, LLC</origin>
+        <pubdate>2006</pubdate>
+        <title>Mexico Nationwide Demographic product</title>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Anchorage, AK</pubplace>
+          <publish>LeadDog Consulting, LLC</publish>
+        </pubinfo>
+        <onlink>http://map.princeton.edu/data/qj/72/p8/88/6/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>Mexico Nationwide Demographic product</abstract>
+      <purpose>Map provides Mexico Nationwide Demographic data in GIS file format.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>2006</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>ground condition</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>As needed</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-118.2372</westbc>
+        <eastbc>-85.8772</eastbc>
+        <northbc>33.1957</northbc>
+        <southbc>12.5113</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>ISO 19115 Topic Category</themekt>
+        <themekey>Cultural</themekey>
+        <themekey>society</themekey>
+        <themekey>and demographic</themekey>
+        <themekey>Demographics</themekey>
+        <themekey>polygon</themekey>
+      </theme>
+      <place>
+        <placekey>Mexico</placekey>
+        <placekey>Mexico City</placekey>
+      </place>
+    </keywords>
+    <accconst>Access granted to Licensee only.</accconst>
+    <useconst>Licensed data</useconst>
+    <ptcontac>
+      <cntinfo>
+        <cntperp>
+          <cntper>Tsering Wangyal Shawa</cntper>
+          <cntorg>Princeton University</cntorg>
+        </cntperp>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+        </cntaddr>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 am - 5:00 pm</hours>
+      </cntinfo>
+    </ptcontac>
+    <secinfo>
+      <secclass>Unclassified</secclass>
+    </secinfo>
+    <native>Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+  </idinfo>
+  <dataqual>
+    <lineage>
+      <procstep>
+        <procdesc>Metadata imported.</procdesc>
+        <procdate>20091002</procdate>
+        <proctime>09513600</proctime>
+      </procstep>
+    </lineage>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>D_WGS_1984</horizdn>
+        <ellips>World Geodetic System of 1984</ellips>
+        <semiaxis>6378137.000000</semiaxis>
+        <denflat>298.257223</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntaddr>
+          <addrtype>mailing</addrtype>
+        </cntaddr>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+  </distinfo>
+  <metainfo>
+    <metd>20091019</metd>
+    <metc>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>Princeton University</cntorg>
+          <cntper>Tsering Wangyal Shawa</cntper>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+          <city>REQUIRED: The city of the address.</city>
+          <state>REQUIRED: The state or province of the address.</state>
+          <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+        </cntaddr>
+        <cntvoice>609-258-6804</cntvoice>
+        <cntemail>shawatw@princeton.edu</cntemail>
+        <hours>8:45 am - 5:00 pm</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+    <metextns>
+      <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+      <metprof>ESRI Metadata Profile</metprof>
+    </metextns>
+  </metainfo>
+  <Esri>
+    <PublishedDocID>{F7A31268-94DE-4508-A900-35A0BBEB4543}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <mdFileID>{F7A31268-94DE-4508-A900-35A0BBEB4543}</mdFileID>
+</metadata>
