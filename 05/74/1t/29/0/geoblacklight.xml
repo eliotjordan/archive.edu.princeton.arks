@@ -20,6 +20,7 @@ The Census 2000 TIGER/Line files do NOT contain the Census 2000 urban areas whic
     <field name="dc_subject_sm">TIGER/Line</field>
     <field name="dc_subject_sm">Population</field>
     <field name="dc_subject_sm">NJDEP</field>
+    <field name="dc_subject_sm">polygon</field>
     <field name="dc_title_s">NJDEP 2000 Census Blocks in New Jersey</field>
     <field name="dc_type_s">Dataset</field>
     <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/05741t290/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/05741t290/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/05741t290", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/05741t290/fgdc.xml"}</field>
@@ -30,8 +31,8 @@ The Census 2000 TIGER/Line files do NOT contain the Census 2000 urban areas whic
     <field name="georss_polygon_s">41.357587 -75.593442 41.357587 -73.876637 38.785047 -73.876637 38.785047 -75.593442 41.357587 -75.593442</field>
     <field name="layer_slug_s">princeton-05741t290</field>
     <field name="layer_id_s">05741t290</field>
-    <field name="layer_modified_dt">2014-12-19T15:04:49Z</field>
-    <field name="layer_geom_type_s">Unknown</field>
+    <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-75.593442 38.785047 -73.876637 41.357587</field>
     <field name="solr_ne_pt">41.357587,-73.876637</field>
     <field name="solr_sw_pt">38.785047,-75.593442</field>
