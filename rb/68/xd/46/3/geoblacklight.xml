@@ -10,6 +10,7 @@
     <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">Location</field>
     <field name="dc_subject_sm">Villages</field>
+    <field name="dc_subject_sm">point</field>
     <field name="dc_title_s">Andhra Pradesh Village Map</field>
     <field name="dc_type_s">Dataset</field>
     <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/rb68xd463/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/rb68xd463/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/rb68xd463", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/rb68xd463/fgdc.xml"}</field>
@@ -21,8 +22,8 @@
     <field name="georss_polygon_s">19.9113 76.7486 19.9113 84.7467 12.6403 84.7467 12.6403 76.7486 19.9113 76.7486</field>
     <field name="layer_slug_s">princeton-rb68xd463</field>
     <field name="layer_id_s">rb68xd463</field>
-    <field name="layer_modified_dt">2014-12-19T14:52:13Z</field>
-    <field name="layer_geom_type_s">Unknown</field>
+    <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
+    <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">76.7486 12.6403 84.7467 19.9113</field>
     <field name="solr_ne_pt">19.9113,84.7467</field>
     <field name="solr_sw_pt">12.6403,76.7486</field>
