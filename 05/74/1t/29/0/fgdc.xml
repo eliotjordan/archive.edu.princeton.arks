@@ -1,78 +1,80 @@
+<?xml version='1.0' encoding='ASCII'?>
 <metadata>
-	<idinfo>
-		<citation>
-			<citeinfo>
-				<origin>NJ Department of Environmental Protection (NJDEP), Office of Information Resources Management (OIRM), Bureau of Geographic Information and Analysis (BGIA)</origin>
-				<pubdate>20020801</pubdate>
-				<title>NJDEP 2000 Census Blocks in New Jersey</title>
-				<edition>2000</edition>
-				<geoform>vector digital data</geoform>
-				<pubinfo>
-					<pubplace>Trenton, NJ</pubplace>
-					<publish>NJDEP</publish>
-				</pubinfo>
-				<onlink>http://map.princeton.edu/data/05/74/1t/29/0/content/restricted/data.zip</onlink>
-			</citeinfo>
-		</citation>
-		<descript>
-			<abstract>This data contains Census 2000 TIGER information at the Block Level for New Jersey.  It was obtained from the U.S. Census Bureau's web site along with the Census 2000 Summary File 1 (SF1).  The  SF1 file was joined to the Census Block coverage by NJDEP.
+  <idinfo>
+    <citation>
+      <citeinfo>
+        <origin>NJ Department of Environmental Protection (NJDEP), Office of Information Resources Management (OIRM), Bureau of Geographic Information and Analysis (BGIA)</origin>
+        <pubdate>20020801</pubdate>
+        <title>NJDEP 2000 Census Blocks in New Jersey</title>
+        <edition>2000</edition>
+        <geoform>vector digital data</geoform>
+        <pubinfo>
+          <pubplace>Trenton, NJ</pubplace>
+          <publish>NJDEP</publish>
+        </pubinfo>
+        <onlink>http://map.princeton.edu/data/05/74/1t/29/0/content/restricted/data.zip</onlink>
+      </citeinfo>
+    </citation>
+    <descript>
+      <abstract>This data contains Census 2000 TIGER information at the Block Level for New Jersey.  It was obtained from the U.S. Census Bureau's web site along with the Census 2000 Summary File 1 (SF1).  The  SF1 file was joined to the Census Block coverage by NJDEP.
 
 TIGER/Line, and Census TIGER are registered trademarks of the U.S. Census Bureau.  ZCTA is a trademark of the U.S. Census Bureau. The Census 2000 TIGER/Line files are an extract of selected geographic and cartographic information from the Census TIGER database.  The geographic coverage for a single TIGER/Line file is a county or statistical equivalent entity, with the coverage area based on January 1, 2000 legal boundaries.  A complete set of Census 2000 TIGER/Line files includes all counties and statistically equivalent entities in the United States, Puerto Rico, and the Island Areas.
 
 The Census TIGER data base represents a seamless national file with no overlaps or gaps between parts.  However, each county-based TIGER/Line file  is designed to stand alone as an independent data set or the files can be combined to cover the whole Nation.  The Census 2000 TIGER/Line files consist of line segments representing physical  features and governmental and statistical boundaries.  The boundary information in the TIGER/Line files are for statistical data collection and tabulation purposes only; their depiction and designation for statistical purposes does not constitute a determination of jurisdictional authority or rights of ownership or entitlement.
 
 The Census 2000 TIGER/Line files do NOT contain the Census 2000 urban areas which have not yet been delineated.  The files contain information distributed over a series of record types for the spatial objects of a county.</abstract>
-			<purpose>This data was created for internal use by NJDEP to facilitate GIS analysis on the population data contained.</purpose>
-		</descript>
-		<timeperd>
-			<timeinfo>
-				<sngdate>
-					<caldate>200208</caldate>
-				</sngdate>
-			</timeinfo>
-			<current>publication date</current>
-		</timeperd>
-		<status>
-			<progress>Complete</progress>
-			<update>Unknown</update>
-		</status>
-		<spdom>
-			<bounding>
-				<westbc>-75.593442</westbc>
-				<eastbc>-73.876637</eastbc>
-				<northbc>41.357587</northbc>
-				<southbc>38.785047</southbc>
-			</bounding>
-		</spdom>
-		<keywords>
-			<theme>
-				<themekt>None</themekt>
-				<themekey>Census Blocks</themekey>
-				<themekey>Census 2000</themekey>
-				<themekey>TIGER/Line</themekey>
-				<themekey>Population</themekey>
-				<themekey>NJDEP</themekey>
-			</theme>
-			<place>
-				<placekt>None</placekt>
-				<placekey>New Jersey</placekey>
-			</place>
-		</keywords>
-		<accconst>None</accconst>
-		<useconst>Data Distribution Agreement (NJDEP) Agrees to abide by the terms and conditions of the following:I. Description of Data to be ProvidedThe data provided herein are distributed subject to the following conditions and restrictions:Subject Data LayersFor all data contained herein, (NJDEP) makes no representations of any kind, including, but not limited to, the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the digital data layers furnished hereunder. NJDEP assumes no responsibility to maintain them in any manner or form.II. Terms of Agreement1. Digital data received from the NJDEP are to be used solely for internal purposes in the conduct of daily affairs.2. The data are provided, as is, without warranty of any kind and the user is responsible for understanding the accuracy limitations of all digital data layers provided herein, as documented in the accompanying Data Dictionary and Readme files. Any reproduction or manipulation of the above data must ensure that the coordinate reference system remains intact.3. Digital data received from the NJDEP may not be reproduced or redistributed for use by anyone without first obtaining written permission from the NJDEP. This clause is not intended to restrict distribution of printed mapped information produced from the digital data.4. Any maps, publications, reports, or other documents produced as a result of this project that utilize NJDEP digital data will credit the NJDEP's Geographic Information System (GIS) as the source of the data with the following credit/disclaimer:"This (map/publication/report) was developed using New Jersey Department of Environmental Protection Geographic Information System digital data, but this secondary product has not been verified by NJDEP and is not state-authorized."5. Users shall require any independent contractor, hired to undertake work that will utilize digital data obtained from the NJDEP, to agree not to use, reproduce, or redistribute NJDEP GIS data for any purpose other than the specified contractual work. All copies of NJDEP GIS data utilized by an independent contractor will be required to be returned to the original user at the close of such contractual work.Users hereby agree to abide by the use and reproduction conditions specified above and agree to hold any independent contractor to the same terms. By using data provided herein, the user acknowledges that terms and conditions have been read and that the user is bound by these criteria.</useconst>
-		<browse>
-			<browsen>http://www.state.nj.us/dep/gis/digidownload/images/statewide/cenblk2000.gif</browsen>
-			<browsed>Snapshot image of 2000 census blocks</browsed>
-			<browset>GIF</browset>
-		</browse>
-		<datacred>Acknowledgment of the U.S. Census Bureau would be appreciated for products derived from these files.  TIGER, TIGER/Line, and Census TIGER are registered trademarks of the U.S. Census Bureau.  ZCTA is a  trademark of the U.S. Census Bureau.</datacred>
-		<native>ArcInfo 8.1.2</native>
-	</idinfo>
-	<dataqual>
-		<attracc>
-			<attraccr>Accurate against Federal information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names.  The remaining attribute information has been examined but has not been fully tested for accuracy.</attraccr>
-		</attracc>
-		<logic>The feature network of lines (as represented by Record Types 1 and 2) is complete for census purposes.  Spatial objects in TIGER/Line belong to the "Geometry and Topology" (GT) class of objects in the "Spatial Data Transfer Standard" (SDTS) FIPS Publication 173 and are topologically valid. Node/geometry and topology (GT)-polygon/chain relationships are collected or generated to satisfy topological edit requirements.  These requirements include:
+      <purpose>This data was created for internal use by NJDEP to facilitate GIS analysis on the population data contained.</purpose>
+    </descript>
+    <timeperd>
+      <timeinfo>
+        <sngdate>
+          <caldate>200208</caldate>
+        </sngdate>
+      </timeinfo>
+      <current>publication date</current>
+    </timeperd>
+    <status>
+      <progress>Complete</progress>
+      <update>Unknown</update>
+    </status>
+    <spdom>
+      <bounding>
+        <westbc>-75.593442</westbc>
+        <eastbc>-73.876637</eastbc>
+        <northbc>41.357587</northbc>
+        <southbc>38.785047</southbc>
+      </bounding>
+    </spdom>
+    <keywords>
+      <theme>
+        <themekt>None</themekt>
+        <themekey>Census Blocks</themekey>
+        <themekey>Census 2000</themekey>
+        <themekey>TIGER/Line</themekey>
+        <themekey>Population</themekey>
+        <themekey>NJDEP</themekey>
+        <themekey>polygon</themekey>
+      </theme>
+      <place>
+        <placekt>None</placekt>
+        <placekey>New Jersey</placekey>
+      </place>
+    </keywords>
+    <accconst>None</accconst>
+    <useconst>Data Distribution Agreement (NJDEP) Agrees to abide by the terms and conditions of the following:I. Description of Data to be ProvidedThe data provided herein are distributed subject to the following conditions and restrictions:Subject Data LayersFor all data contained herein, (NJDEP) makes no representations of any kind, including, but not limited to, the warranties of merchantability or fitness for a particular use, nor are any such warranties to be implied with respect to the digital data layers furnished hereunder. NJDEP assumes no responsibility to maintain them in any manner or form.II. Terms of Agreement1. Digital data received from the NJDEP are to be used solely for internal purposes in the conduct of daily affairs.2. The data are provided, as is, without warranty of any kind and the user is responsible for understanding the accuracy limitations of all digital data layers provided herein, as documented in the accompanying Data Dictionary and Readme files. Any reproduction or manipulation of the above data must ensure that the coordinate reference system remains intact.3. Digital data received from the NJDEP may not be reproduced or redistributed for use by anyone without first obtaining written permission from the NJDEP. This clause is not intended to restrict distribution of printed mapped information produced from the digital data.4. Any maps, publications, reports, or other documents produced as a result of this project that utilize NJDEP digital data will credit the NJDEP's Geographic Information System (GIS) as the source of the data with the following credit/disclaimer:"This (map/publication/report) was developed using New Jersey Department of Environmental Protection Geographic Information System digital data, but this secondary product has not been verified by NJDEP and is not state-authorized."5. Users shall require any independent contractor, hired to undertake work that will utilize digital data obtained from the NJDEP, to agree not to use, reproduce, or redistribute NJDEP GIS data for any purpose other than the specified contractual work. All copies of NJDEP GIS data utilized by an independent contractor will be required to be returned to the original user at the close of such contractual work.Users hereby agree to abide by the use and reproduction conditions specified above and agree to hold any independent contractor to the same terms. By using data provided herein, the user acknowledges that terms and conditions have been read and that the user is bound by these criteria.</useconst>
+    <browse>
+      <browsen>http://www.state.nj.us/dep/gis/digidownload/images/statewide/cenblk2000.gif</browsen>
+      <browsed>Snapshot image of 2000 census blocks</browsed>
+      <browset>GIF</browset>
+    </browse>
+    <datacred>Acknowledgment of the U.S. Census Bureau would be appreciated for products derived from these files.  TIGER, TIGER/Line, and Census TIGER are registered trademarks of the U.S. Census Bureau.  ZCTA is a  trademark of the U.S. Census Bureau.</datacred>
+    <native>ArcInfo 8.1.2</native>
+  </idinfo>
+  <dataqual>
+    <attracc>
+      <attraccr>Accurate against Federal information Processing Standards (FIPS), FIPS Publication 6-4, and FIPS-55 at the 100% level for the codes and base names.  The remaining attribute information has been examined but has not been fully tested for accuracy.</attraccr>
+    </attracc>
+    <logic>The feature network of lines (as represented by Record Types 1 and 2) is complete for census purposes.  Spatial objects in TIGER/Line belong to the "Geometry and Topology" (GT) class of objects in the "Spatial Data Transfer Standard" (SDTS) FIPS Publication 173 and are topologically valid. Node/geometry and topology (GT)-polygon/chain relationships are collected or generated to satisfy topological edit requirements.  These requirements include:
 * Complete chains must begin and end at nodes.
 * Complete chains must connect to each other at nodes.
 * Complete chains do not extend through nodes.
@@ -80,146 +82,151 @@ The Census 2000 TIGER/Line files do NOT contain the Census 2000 urban areas whic
 * The chains representing the limits of the files are free of gaps.
 
 The Census Bureau performed automated tests to ensure logical consistency and limits of files.  All polygons are tested for closure.  The Census Bureau uses its internally developed Geographic Update  System to enhance and modify spatial and attribute data in the Census TIGER data base.  Standard geographic codes, such as FIPS codes for states, counties, municipalities, and places, are used when encoding spatial entities.  The Census Bureau performed spatial data tests for logical consistency of the codes during the compilation of the original Census TIGER data base files.  Most of the Codes themselves were provided to the Census Bureau by the USGS, the agency responsible for maintaining FIPS 55. Feature attribute information has been examined but has not been fully tested for consistency.</logic>
-		<complete>Data completeness of the TIGER/Line files reflects the contents of the Census TIGER data base at the time the TIGER/Line files (Census 2000 version) were created.</complete>
-		<posacc>
-			<horizpa>
-				<horizpar>No tests were conducted by NJDEP.
+    <complete>Data completeness of the TIGER/Line files reflects the contents of the Census TIGER data base at the time the TIGER/Line files (Census 2000 version) were created.</complete>
+    <posacc>
+      <horizpa>
+        <horizpar>No tests were conducted by NJDEP.
 
 The information present in these files is provided for the purposes of statistical analysis and census operations only.  Coordinates in the TIGER/Line files have six implied decimal places, but the positional accuracy of these coordinates is not as great as the six decimal places suggest.  The positional accuracy varies with the source materials used, but generally the information is no better than the established national map Accuracy standards for 1:100,000-scale maps from the U.S. Geological Survey (USGS); thus it is NOT suitable for high-precision measurement applications such as engineering problems, property transfers, or other uses that might require highly accurate measurements of the earth's surface.  The USGS 1:100,000-scale maps met national map accuracy standards and use coordinates defined by the North American Datum, 1983.  For the contiguous 48 States, the cartographic fidelity of most of the Census 2000 TIGER/Line files, in areas outside the 1980 census Geographic Base File/Dual Independent Map Encoding (GBF/DIME) file coverage and selected other large metropolitan areas, compare favorably with the USGS 1:100,000-scale maps.
 
 The Census Bureau cannot specify the accuracy of features inside of what was the 1980 GBF/DIME-File coverage or selected metropolitan areas.  The Census Bureau added updates to the TIGER/Line files that enumerators annotated on maps sheets prepared from the Census TIGER data base as they attempted to traverse every street feature shown on the Census 2000 map sheets; the Census Bureau also made other corrections from updated map sheets supplied by local participants for Census Bureau programs.  The locational accuracy of these updates is of unknown quality.  In addition to the Federal, State, and local sources, portions of the files may contain information obtained in part from maps and other materials prepared by private companies.  Despite the fact the TIGER/Line data positional accuracy is not as high as the coordinate values imply, the six-decimal place precision is useful when producing maps.  The precision allows features that are next to each other on the ground to be placed in the correct position, on the map, relative to each other, without overlap.</horizpar>
-			</horizpa>
-			<vertacc>
-				<vertaccr>No tests were conducted by NJDEP.</vertaccr>
-			</vertacc>
-		</posacc>
-		<lineage>
-			<srcinfo>
-				<srccite>
-					<citeinfo>
-						<origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
-						<pubdate>2002</pubdate>
-						<title>Census TIGER Database</title>
-						<edition>Census 2000</edition>
-						<geoform>vector digital data</geoform>
-						<pubinfo>
-							<pubplace>Washington D.C.</pubplace>
-							<publish>U.S. Census Bureau</publish>
-						</pubinfo>
-						<onlink>http://www.census.gov/geo/www/tiger/</onlink>
-					</citeinfo>
-				</srccite>
-				<srcscale>24000</srcscale>
-				<typesrc>On line</typesrc>
-				<srctime>
-					<timeinfo>
-						<sngdate>
-							<caldate>2000</caldate>
-						</sngdate>
-					</timeinfo>
-					<srccurr>publication date</srccurr>
-				</srctime>
-				<srccitea>TIGER</srccitea>
-				<srccontr>Selected geographic and cartographic information (line segments) from the Census TIGER data base.</srccontr>
-			</srcinfo>
-			<procstep>
-				<procdesc>Census 2000 data files available from the Census Bureaus Web site were obtained as Zip files by NJDEP/OIRM/BGIA.  Individual county layers were projected into NJ State plane feet, NAD83 and appended into one state-wide layer of Census 2000 Blocks.  The Census 2000 Summary File (SF1) was also obtained online  from ESRI Census Watch Web Site as a  Zip file which extracted as a database file (tgr34000sf1blk.dbf).
+      </horizpa>
+      <vertacc>
+        <vertaccr>No tests were conducted by NJDEP.</vertaccr>
+      </vertacc>
+    </posacc>
+    <lineage>
+      <srcinfo>
+        <srccite>
+          <citeinfo>
+            <origin>U.S. Department of Commerce, U.S. Census Bureau, Geography Division</origin>
+            <pubdate>2002</pubdate>
+            <title>Census TIGER Database</title>
+            <edition>Census 2000</edition>
+            <geoform>vector digital data</geoform>
+            <pubinfo>
+              <pubplace>Washington D.C.</pubplace>
+              <publish>U.S. Census Bureau</publish>
+            </pubinfo>
+            <onlink>http://www.census.gov/geo/www/tiger/</onlink>
+          </citeinfo>
+        </srccite>
+        <srcscale>24000</srcscale>
+        <typesrc>On line</typesrc>
+        <srctime>
+          <timeinfo>
+            <sngdate>
+              <caldate>2000</caldate>
+            </sngdate>
+          </timeinfo>
+          <srccurr>publication date</srccurr>
+        </srctime>
+        <srccitea>TIGER</srccitea>
+        <srccontr>Selected geographic and cartographic information (line segments) from the Census TIGER data base.</srccontr>
+      </srcinfo>
+      <procstep>
+        <procdesc>Census 2000 data files available from the Census Bureaus Web site were obtained as Zip files by NJDEP/OIRM/BGIA.  Individual county layers were projected into NJ State plane feet, NAD83 and appended into one state-wide layer of Census 2000 Blocks.  The Census 2000 Summary File (SF1) was also obtained online  from ESRI Census Watch Web Site as a  Zip file which extracted as a database file (tgr34000sf1blk.dbf).
 
 This table was JOINED to the Census 2000 Block layer by NJDEP on the STFID Item.
 
 In order for others to use the information in the Census TIGER data base in a GIS or for other geographic applications, the Census Bureau releases periodic extracts of selected information from the Census TIGER data base, organized as topologically consistent networks.  Software (TIGER DB routines) written by the Geography Division allows for efficient access to Census TIGER system data.  TIGER/Line files are extracted from the Census TIGER data base by county or statistical equivalent area.  Census TIGER data for a given county or statistical      equivalent area is then distributed among 17 fixed length record ASCII files, each one containing attributes for either line, polygon, or landmark geographic data types.  The Census Bureau has released various versions of the TIGER/Line files since 1988, with each version having more updates (feature and feature names, address ranges and ZIP Codes, coordinate updates, revised field definitions, etc.) than the previous version.</procdesc>
-				<procdate>200207</procdate>
-				<proccont>
-					<cntinfo>
-						<cntperp>
-							<cntper>Craig Coutros</cntper>
-							<cntorg>NJ Dept. of Environmental Protection,  Bureau of Geographic Information and Analysis</cntorg>
-						</cntperp>
-						<cntpos>GIS Specialist</cntpos>
-						<cntaddr>
-							<addrtype>mailing and physical address</addrtype>
-							<address>401 East State Street, First Floor, PO Box 428</address>
-							<city>Trenton</city>
-							<state>New Jersey</state>
-							<postal>08625-0428</postal>
-							<country>USA</country>
-						</cntaddr>
-						<cntvoice>609-292-0899</cntvoice>
-						<cntfax>609-292-7900</cntfax>
-						<cntemail>Craig.Coutros@dep.state.nj.us</cntemail>
-						<hours>8-4</hours>
-					</cntinfo>
-				</proccont>
-			</procstep>
-		</lineage>
-		<cloud>0</cloud>
-	</dataqual>
-	<spref>
-		<horizsys>
-			<geograph>
-				<geogunit>Decimal degrees</geogunit>
-			</geograph>
-			<geodetic>
-				<horizdn>North American Datum of 1983</horizdn>
-				<ellips>Geodetic Reference System 80</ellips>
-				<semiaxis>6378137</semiaxis>
-				<denflat>298.257</denflat>
-			</geodetic>
-		</horizsys>
-	</spref>
-	<eainfo>
-		<overview>
-			<eaover>test</eaover>
-			<eadetcit>test</eadetcit>
-		</overview>
-	</eainfo>
-	<distinfo>
-		<distrib>
-			<cntinfo>
-				<cntorgp>
-					<cntorg>NJDEP/OIRM/BGIA</cntorg>
-				</cntorgp>
-				<cntaddr>
-					<addrtype>mailing and physical address</addrtype>
-					<address>401 East State Street, First Floor, PO Box 428</address>
-					<city>Trenton</city>
-					<state>New Jersey</state>
-					<postal>08625-0428</postal>
-					<country>USA</country>
-				</cntaddr>
-				<cntvoice>609-984-2243</cntvoice>
-				<cntfax>609-292-7900</cntfax>
-				<cntinst>Call 609-984-2243 with questions concerning only the acquisition/download of this data set.  Call the metadata reference contact with questions concerning the data.</cntinst>
-			</cntinfo>
-		</distrib>
-		<resdesc>Downloadable Data</resdesc>
-		<distliab>See "Use Constraints"</distliab>
-	</distinfo>
-	<metainfo>
-		<metd>20020822</metd>
-		<metc>
-			<cntinfo>
-				<cntperp>
-					<cntper>Craig Coutros</cntper>
-					<cntorg>NJ Dept. of Environmental Protection,  Bureau of Geographic Information and Analysis</cntorg>
-				</cntperp>
-				<cntpos>GIS Specialist</cntpos>
-				<cntaddr>
-					<addrtype>mailing and physical address</addrtype>
-					<address>401 East State Street, First Floor, PO Box 428</address>
-					<city>Trenton</city>
-					<state>New Jersey</state>
-					<postal>08625-0428</postal>
-					<country>USA</country>
-				</cntaddr>
-				<cntvoice>609-292-0899</cntvoice>
-				<cntfax>609-292-7900</cntfax>
-				<cntemail>Craig.Coutros@dep.state.nj.us</cntemail>
-				<hours>8-4</hours>
-			</cntinfo>
-		</metc>
-		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
-		<metstdv>FGDC-STD-001-1998</metstdv>
-		<mettc>local time</mettc>
-	</metainfo>
-<Esri><PublishedDocID>{88B2DD0B-869F-471B-B0F2-CB3B10A28940}</PublishedDocID><PublishStatus>Published</PublishStatus></Esri><mdFileID>{88B2DD0B-869F-471B-B0F2-CB3B10A28940}</mdFileID></metadata>
+        <procdate>200207</procdate>
+        <proccont>
+          <cntinfo>
+            <cntperp>
+              <cntper>Craig Coutros</cntper>
+              <cntorg>NJ Dept. of Environmental Protection,  Bureau of Geographic Information and Analysis</cntorg>
+            </cntperp>
+            <cntpos>GIS Specialist</cntpos>
+            <cntaddr>
+              <addrtype>mailing and physical address</addrtype>
+              <address>401 East State Street, First Floor, PO Box 428</address>
+              <city>Trenton</city>
+              <state>New Jersey</state>
+              <postal>08625-0428</postal>
+              <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-292-0899</cntvoice>
+            <cntfax>609-292-7900</cntfax>
+            <cntemail>Craig.Coutros@dep.state.nj.us</cntemail>
+            <hours>8-4</hours>
+          </cntinfo>
+        </proccont>
+      </procstep>
+    </lineage>
+    <cloud>0</cloud>
+  </dataqual>
+  <spref>
+    <horizsys>
+      <geograph>
+        <geogunit>Decimal degrees</geogunit>
+      </geograph>
+      <geodetic>
+        <horizdn>North American Datum of 1983</horizdn>
+        <ellips>Geodetic Reference System 80</ellips>
+        <semiaxis>6378137</semiaxis>
+        <denflat>298.257</denflat>
+      </geodetic>
+    </horizsys>
+  </spref>
+  <eainfo>
+    <overview>
+      <eaover>test</eaover>
+      <eadetcit>test</eadetcit>
+    </overview>
+  </eainfo>
+  <distinfo>
+    <distrib>
+      <cntinfo>
+        <cntorgp>
+          <cntorg>NJDEP/OIRM/BGIA</cntorg>
+        </cntorgp>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>401 East State Street, First Floor, PO Box 428</address>
+          <city>Trenton</city>
+          <state>New Jersey</state>
+          <postal>08625-0428</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>609-984-2243</cntvoice>
+        <cntfax>609-292-7900</cntfax>
+        <cntinst>Call 609-984-2243 with questions concerning only the acquisition/download of this data set.  Call the metadata reference contact with questions concerning the data.</cntinst>
+      </cntinfo>
+    </distrib>
+    <resdesc>Downloadable Data</resdesc>
+    <distliab>See "Use Constraints"</distliab>
+  </distinfo>
+  <metainfo>
+    <metd>20020822</metd>
+    <metc>
+      <cntinfo>
+        <cntperp>
+          <cntper>Craig Coutros</cntper>
+          <cntorg>NJ Dept. of Environmental Protection,  Bureau of Geographic Information and Analysis</cntorg>
+        </cntperp>
+        <cntpos>GIS Specialist</cntpos>
+        <cntaddr>
+          <addrtype>mailing and physical address</addrtype>
+          <address>401 East State Street, First Floor, PO Box 428</address>
+          <city>Trenton</city>
+          <state>New Jersey</state>
+          <postal>08625-0428</postal>
+          <country>USA</country>
+        </cntaddr>
+        <cntvoice>609-292-0899</cntvoice>
+        <cntfax>609-292-7900</cntfax>
+        <cntemail>Craig.Coutros@dep.state.nj.us</cntemail>
+        <hours>8-4</hours>
+      </cntinfo>
+    </metc>
+    <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+    <metstdv>FGDC-STD-001-1998</metstdv>
+    <mettc>local time</mettc>
+  </metainfo>
+  <Esri>
+    <PublishedDocID>{88B2DD0B-869F-471B-B0F2-CB3B10A28940}</PublishedDocID>
+    <PublishStatus>Published</PublishStatus>
+  </Esri>
+  <mdFileID>{88B2DD0B-869F-471B-B0F2-CB3B10A28940}</mdFileID>
+</metadata>
