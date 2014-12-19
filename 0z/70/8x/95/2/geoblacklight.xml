@@ -1,8 +1,8 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/0z708x952</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/0z708x952</field>
-    <field name="dc_title_s">Humboldt County, California land parcels, 2009</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/0z708x952</field>
+    <field name="dc_creator_sm">Boundary Solutions, Inc.</field>
     <field name="dc_description_s">Land parcels in Humboldt County, California, 2009. Humboldt County's Parcel Layer
         Version 3.8. This dataset is the result of an ongoing effort to produce an accurate county
         wide parcel layer. Digitizing began as far back as 1996. Includes all unincorporated areas
@@ -11,21 +11,11 @@
         County. This GIS system is useful for planning purposes but should not be relied upon to
         determine property, zoning or general plan designation boundaries or be used in any way for
         project design. All GIS data should be verified before it is materially relied upon for
-        property or project planning.For use with GIS software. To be used for planning purposes as general guide to
-        parcel lines within Humboldt County. Should not be used for boundary delineation or project
-        design.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/0z/70/8x/95/2/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/0z/70/8x/95/2/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/0z/70/8x/95/2/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0z708x952"}</field>
-    <field name="layer_id_s">0z708x952</field>
-    <field name="layer_slug_s">princeton-0z708x952</field>
-    <field name="layer_geom_type_s" />
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
+        property or project planning.</field>
     <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">0z708x952</field>
     <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s" />
-    <field name="dc_creator_sm">Boundary Solutions, Inc.</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">parcels</field>
     <field name="dc_subject_sm">tax parcels</field>
     <field name="dc_subject_sm">property maps</field>
@@ -36,20 +26,23 @@
     <field name="dc_subject_sm">parcel</field>
     <field name="dc_subject_sm">property</field>
     <field name="dc_subject_sm">ownership</field>
-    <field name="dc_subject_sm">Planning and Cadastral</field>
-    <field name="dct_issued_s">2009</field>
-    <field name="dct_temporal_sm">2009</field>
+    <field name="dc_subject_sm">planningCadastre</field>
+    <field name="dc_title_s">Humboldt County, California land parcels, 2009</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/0z708x952/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/0z708x952/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0z708x952", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/0z708x952/fgdc.xml"}</field>
     <field name="dct_spatial_sm">California</field>
     <field name="dct_spatial_sm">Humboldt County</field>
+    <field name="dct_issued_s">20090227</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">39.999988 -124.409594 41.465939 -123.406369</field>
-    <field name="georss_polygon_s">39.999988 -124.409594 41.465939 -124.409594 41.465939 -123.406369 39.999988 -123.406369 39.999988 -124.409594</field>
-    <field name="solr_geom">ENVELOPE(-124.409594, -123.406369, 41.465939, 39.999988)</field>
+    <field name="georss_polygon_s">41.465939 -124.409594 41.465939 -123.406369 39.999988 -123.406369 39.999988 -124.409594 41.465939 -124.409594</field>
+    <field name="layer_slug_s">princeton-0z708x952</field>
+    <field name="layer_id_s">0z708x952</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:15Z</field>
+    <field name="layer_geom_type_s">Unknown</field>
     <field name="solr_bbox">-124.409594 39.999988 -123.406369 41.465939</field>
-    <field name="solr_sw_pt">39.999988,-124.409594</field>
     <field name="solr_ne_pt">41.465939,-123.406369</field>
-    <field name="solr_year_i">2009</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
+    <field name="solr_sw_pt">39.999988,-124.409594</field>
+    <field name="solr_geom">ENVELOPE(-124.409594, -123.406369, 41.465939, 39.999988)</field>
   </doc>
 </add>

@@ -1,34 +1,33 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/k930bz571</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/k930bz571</field>
-    <field name="dc_title_s">Basra airports</field>
-    <field name="dc_description_s">Basra airportsMap provides Basra airports in GIS file format.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/k9/30/bz/57/1/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/k9/30/bz/57/1/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/k9/30/bz/57/1/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k930bz571"}</field>
-    <field name="layer_id_s">k930bz571</field>
-    <field name="layer_slug_s">princeton-k930bz571</field>
-    <field name="layer_geom_type_s">Polygon</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">LeadDog Consulting, LLC</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/k930bz571</field>
     <field name="dc_creator_sm">LeadDog Consulting, LLC</field>
-    <field name="dct_issued_s">2006</field>
-    <field name="dct_temporal_sm">2006</field>
+    <field name="dc_description_s">Basra airports</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">k930bz571</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">LeadDog Consulting, LLC</field>
+    <field name="dc_rights_s">Restricted</field>
+    <field name="dc_subject_sm">Transportation networks</field>
+    <field name="dc_subject_sm">Airports</field>
+    <field name="dc_title_s">Basra airports</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k930bz571/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/k930bz571/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k930bz571", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k930bz571/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Iraq</field>
     <field name="dct_spatial_sm">Basra</field>
-    <field name="georss_box_s">30.514267 47.63269 30.576213 47.702731</field>
-    <field name="georss_polygon_s">30.514267 47.63269 30.576213 47.63269 30.576213 47.702731 30.514267 47.702731 30.514267 47.63269</field>
-    <field name="solr_geom">ENVELOPE(47.63269, 47.702731, 30.576213, 30.514267)</field>
-    <field name="solr_bbox">47.63269 30.514267 47.702731 30.576213</field>
-    <field name="solr_sw_pt">30.514267,47.63269</field>
+    <field name="dct_issued_s">2006</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">30.514267 47.632690 30.576213 47.702731</field>
+    <field name="georss_polygon_s">30.576213 47.632690 30.576213 47.702731 30.514267 47.702731 30.514267 47.632690 30.576213 47.632690</field>
+    <field name="layer_slug_s">princeton-k930bz571</field>
+    <field name="layer_id_s">k930bz571</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:02Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
+    <field name="solr_bbox">47.632690 30.514267 47.702731 30.576213</field>
     <field name="solr_ne_pt">30.576213,47.702731</field>
+    <field name="solr_sw_pt">30.514267,47.632690</field>
+    <field name="solr_geom">ENVELOPE(47.632690, 47.702731, 30.576213, 30.514267)</field>
     <field name="solr_year_i">2006</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

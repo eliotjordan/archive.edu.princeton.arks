@@ -1,21 +1,13 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/b5644t02z</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/b5644t02z</field>
-    <field name="dc_title_s">Nigeria state boundaries</field>
-    <field name="dc_description_s">State-level administrative boundaries of Nigeria in .shp format.For use with GIS software.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/b5/64/4t/02/z/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/b5/64/4t/02/z/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/b5/64/4t/02/z/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/b5644t02z"}</field>
-    <field name="layer_id_s">b5644t02z</field>
-    <field name="layer_slug_s">princeton-b5644t02z</field>
-    <field name="layer_geom_type_s" />
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s" />
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/b5644t02z</field>
     <field name="dc_creator_sm">Kontex Geomatics</field>
+    <field name="dc_description_s">State-level administrative boundaries of Nigeria in .shp format.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">b5644t02z</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">states</field>
     <field name="dc_subject_sm">state</field>
     <field name="dc_subject_sm">boundaries</field>
@@ -29,19 +21,22 @@
     <field name="dc_subject_sm">households</field>
     <field name="dc_subject_sm">LGA</field>
     <field name="dc_subject_sm">local government area</field>
-    <field name="dc_subject_sm">Boundaries</field>
-    <field name="dct_issued_s">2012</field>
-    <field name="dct_temporal_sm">2012</field>
+    <field name="dc_subject_sm">boundaries</field>
+    <field name="dc_title_s">Nigeria state boundaries</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/b5644t02z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/b5644t02z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/b5644t02z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/b5644t02z/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Nigeria</field>
-    <field name="georss_box_s">4.27714 2.66843 13.89201 14.68007</field>
-    <field name="georss_polygon_s">4.27714 2.66843 13.89201 2.66843 13.89201 14.68007 4.27714 14.68007 4.27714 2.66843</field>
-    <field name="solr_geom">ENVELOPE(2.66843, 14.68007, 13.89201, 4.27714)</field>
-    <field name="solr_bbox">2.66843 4.27714 14.68007 13.89201</field>
-    <field name="solr_sw_pt">4.27714,2.66843</field>
-    <field name="solr_ne_pt">13.89201,14.68007</field>
-    <field name="solr_year_i">2012</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
+    <field name="dct_issued_s">20120425</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">4.277140 2.668430 13.892010 14.680070</field>
+    <field name="georss_polygon_s">13.892010 2.668430 13.892010 14.680070 4.277140 14.680070 4.277140 2.668430 13.892010 2.668430</field>
+    <field name="layer_slug_s">princeton-b5644t02z</field>
+    <field name="layer_id_s">b5644t02z</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:08Z</field>
+    <field name="layer_geom_type_s">Unknown</field>
+    <field name="solr_bbox">2.668430 4.277140 14.680070 13.892010</field>
+    <field name="solr_ne_pt">13.892010,14.680070</field>
+    <field name="solr_sw_pt">4.277140,2.668430</field>
+    <field name="solr_geom">ENVELOPE(2.668430, 14.680070, 13.892010, 4.277140)</field>
   </doc>
 </add>

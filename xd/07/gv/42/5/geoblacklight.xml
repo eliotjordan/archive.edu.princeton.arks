@@ -1,38 +1,35 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/xd07gv425</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/xd07gv425</field>
-    <field name="dc_title_s">Cha Province Boundaries, 1964</field>
-    <field name="dc_description_s">China Province boundaries.To make digital use of this data set.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/xd/07/gv/42/5/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/xd/07/gv/42/5/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/xd/07/gv/42/5/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xd07gv425"}</field>
-    <field name="layer_id_s">xd07gv425</field>
-    <field name="layer_slug_s">princeton-xd07gv425</field>
-    <field name="layer_geom_type_s">Polygon</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s" />
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/xd07gv425</field>
     <field name="dc_creator_sm">All China Marketing Research Co., Ltd.</field>
+    <field name="dc_description_s">China Province boundaries.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">xd07gv425</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">Provinces</field>
     <field name="dc_subject_sm">administrative regions</field>
     <field name="dc_subject_sm">boundaries</field>
     <field name="dc_subject_sm">province boundaries</field>
-    <field name="dct_issued_s">2005</field>
+    <field name="dc_title_s">Cha Province Boundaries, 1964</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xd07gv425/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/xd07gv425/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xd07gv425", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xd07gv425/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">China</field>
     <field name="dct_temporal_sm">2005</field>
     <field name="dct_temporal_sm">1964</field>
-    <field name="dct_spatial_sm">China</field>
-    <field name="georss_box_s">5.369586 73.44696 53.557926 135.085831</field>
-    <field name="georss_polygon_s">5.369586 73.44696 53.557926 73.44696 53.557926 135.085831 5.369586 135.085831 5.369586 73.44696</field>
-    <field name="solr_geom">ENVELOPE(73.44696, 135.085831, 53.557926, 5.369586)</field>
-    <field name="solr_bbox">73.44696 5.369586 135.085831 53.557926</field>
-    <field name="solr_sw_pt">5.369586,73.44696</field>
+    <field name="dct_issued_s">2005</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">5.369586 73.446960 53.557926 135.085831</field>
+    <field name="georss_polygon_s">53.557926 73.446960 53.557926 135.085831 5.369586 135.085831 5.369586 73.446960 53.557926 73.446960</field>
+    <field name="layer_slug_s">princeton-xd07gv425</field>
+    <field name="layer_id_s">xd07gv425</field>
+    <field name="layer_modified_dt">2014-12-19T00:00:54Z</field>
+    <field name="layer_geom_type_s">Polygon</field>
+    <field name="solr_bbox">73.446960 5.369586 135.085831 53.557926</field>
     <field name="solr_ne_pt">53.557926,135.085831</field>
+    <field name="solr_sw_pt">5.369586,73.446960</field>
+    <field name="solr_geom">ENVELOPE(73.446960, 135.085831, 53.557926, 5.369586)</field>
     <field name="solr_year_i">2005</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

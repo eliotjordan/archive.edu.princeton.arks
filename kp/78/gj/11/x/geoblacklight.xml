@@ -1,21 +1,13 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/kp78gj11x</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/kp78gj11x</field>
-    <field name="dc_title_s">Township map of Ningxia with 2000 Census long form data (L7-L8)</field>
-    <field name="dc_description_s">Township locations in Ningxia Hui Autonomous Region, China, with 2000 Census data from long form tables L7-L8 (9.5% counts). Includes introductory, employed population, and fertility information.For use with GIS software.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/kp/78/gj/11/x/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/kp/78/gj/11/x/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/kp/78/gj/11/x/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kp78gj11x"}</field>
-    <field name="layer_id_s">kp78gj11x</field>
-    <field name="layer_slug_s">princeton-kp78gj11x</field>
-    <field name="layer_geom_type_s" />
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s" />
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/kp78gj11x</field>
     <field name="dc_creator_sm">All China Marketing Research Co., Ltd.</field>
+    <field name="dc_description_s">Township locations in Ningxia Hui Autonomous Region, China, with 2000 Census data from long form tables L7-L8 (9.5% counts). Includes introductory, employed population, and fertility information.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">kp78gj11x</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">demographic</field>
     <field name="dc_subject_sm">births</field>
     <field name="dc_subject_sm">families</field>
@@ -46,21 +38,26 @@
     <field name="dc_subject_sm">rental</field>
     <field name="dc_subject_sm">houses</field>
     <field name="dc_subject_sm">sex</field>
-    <field name="dc_subject_sm">Society</field>
-    <field name="dct_issued_s">2005</field>
-    <field name="dct_temporal_sm">2000</field>
+    <field name="dc_subject_sm">society</field>
+    <field name="dc_title_s">Township map of Ningxia with 2000 Census long form data (L7-L8)</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kp78gj11x/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/kp78gj11x/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kp78gj11x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kp78gj11x/fgdc.xml"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Ningxia</field>
     <field name="dct_spatial_sm">Ningxia Hui Autonomous Region</field>
+    <field name="dct_temporal_sm">2000</field>
+    <field name="dct_issued_s">20050418</field>
+    <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">35.339402 104.530373 39.273424 107.402541</field>
-    <field name="georss_polygon_s">35.339402 104.530373 39.273424 104.530373 39.273424 107.402541 35.339402 107.402541 35.339402 104.530373</field>
-    <field name="solr_geom">ENVELOPE(104.530373, 107.402541, 39.273424, 35.339402)</field>
+    <field name="georss_polygon_s">39.273424 104.530373 39.273424 107.402541 35.339402 107.402541 35.339402 104.530373 39.273424 104.530373</field>
+    <field name="layer_slug_s">princeton-kp78gj11x</field>
+    <field name="layer_id_s">kp78gj11x</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:01Z</field>
+    <field name="layer_geom_type_s">Unknown</field>
     <field name="solr_bbox">104.530373 35.339402 107.402541 39.273424</field>
-    <field name="solr_sw_pt">35.339402,104.530373</field>
     <field name="solr_ne_pt">39.273424,107.402541</field>
+    <field name="solr_sw_pt">35.339402,104.530373</field>
+    <field name="solr_geom">ENVELOPE(104.530373, 107.402541, 39.273424, 35.339402)</field>
     <field name="solr_year_i">2000</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>

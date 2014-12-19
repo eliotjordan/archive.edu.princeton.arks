@@ -1,38 +1,36 @@
-<add>
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
   <doc>
-    <field name="uuid">ark:/88435/2801ph879</field>
-    <field name="dc_identifier_s">http://arks.princeton.edu/ark:/88435/2801ph879</field>
-    <field name="dc_title_s">World Latitude and Longitude Grids 2008</field>
-    <field name="dc_description_s">World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow you to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid, for example, a 15-degree interval, define the theme properties as lines with the Degree15 attribute equal to Y.World Latitude and Longitude Grids provides latitude and longitude lines for use as an overlay for world level maps.</field>
-    <field name="dc_rights_s">Restricted</field>
-    <field name="dct_provenance_s">Princeton</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/data/28/01/ph/87/9/metadata/preview.jpg", "http://www.fgdc.gov/standards/projects/FGDC-standards-projects/metadata/base-metadata": "http://map.princeton.edu/data/28/01/ph/87/9/metadata/fgdc.xml", "http://schema.org/DownloadAction": "http://map.princeton.edu/data/28/01/ph/87/9/content/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2801ph879"}</field>
-    <field name="layer_id_s">2801ph879</field>
-    <field name="layer_slug_s">princeton-2801ph879</field>
-    <field name="layer_geom_type_s">Line</field>
-    <field name="layer_modified_dt">2014-09-03T14:39:40Z</field>
-    <field name="dc_format_s">Shapefile</field>
-    <field name="dc_language_s">English</field>
-    <field name="dc_type_s">Dataset</field>
-    <field name="dc_publisher_s">ESRI</field>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2801ph879</field>
     <field name="dc_creator_sm">ESRI</field>
+    <field name="dc_description_s">World Latitude and Longitude Grids represents a 5 by 5 degree latitude/longitude grid covering the world with attributes that allow you to display grids at intervals of 5, 10, 15, 20, and 30 degrees. To display a grid with a 5-degree interval, simply display all of the lines. To display a coarser grid, for example, a 15-degree interval, define the theme properties as lines with the Degree15 attribute equal to Y.</field>
+    <field name="dc_format_s">Shapefile</field>
+    <field name="dc_identifier_s">2801ph879</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">ESRI</field>
+    <field name="dc_rights_s">Restricted</field>
     <field name="dc_subject_sm">line</field>
     <field name="dc_subject_sm">latitudes</field>
     <field name="dc_subject_sm">longitudes</field>
     <field name="dc_subject_sm">grids</field>
     <field name="dc_subject_sm">location</field>
-    <field name="dct_issued_s">2008</field>
-    <field name="dct_temporal_sm">1996</field>
+    <field name="dc_title_s">World Latitude and Longitude Grids 2008</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2801ph879/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/2801ph879/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2801ph879", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2801ph879/fgdc.xml"}</field>
     <field name="dct_spatial_sm">World</field>
-    <field name="georss_box_s">-90 -180 90 180</field>
-    <field name="georss_polygon_s">-90 -180 90 -180 90 180 -90 180 -90 -180</field>
-    <field name="solr_geom">ENVELOPE(-180, 180, 90, -90)</field>
-    <field name="solr_bbox">-180 -90 180 90</field>
-    <field name="solr_sw_pt">-90,-180</field>
-    <field name="solr_ne_pt">90,180</field>
+    <field name="dct_temporal_sm">1996</field>
+    <field name="dct_issued_s">20080401</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">-90.000000 -180.000000 90.000000 180.000000</field>
+    <field name="georss_polygon_s">90.000000 -180.000000 90.000000 180.000000 -90.000000 180.000000 -90.000000 -180.000000 90.000000 -180.000000</field>
+    <field name="layer_slug_s">princeton-2801ph879</field>
+    <field name="layer_id_s">2801ph879</field>
+    <field name="layer_modified_dt">2014-12-19T00:01:14Z</field>
+    <field name="layer_geom_type_s">Line</field>
+    <field name="solr_bbox">-180.000000 -90.000000 180.000000 90.000000</field>
+    <field name="solr_ne_pt">90.000000,180.000000</field>
+    <field name="solr_sw_pt">-90.000000,-180.000000</field>
+    <field name="solr_geom">ENVELOPE(-180.000000, 180.000000, 90.000000, -90.000000)</field>
     <field name="solr_year_i">1996</field>
-    <field name="solr_wms_url" />
-    <field name="solr_wfs_url" />
-    <field name="solr_wcs_url" />
   </doc>
 </add>
