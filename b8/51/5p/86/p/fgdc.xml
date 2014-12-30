@@ -1,0 +1,498 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>Vermeule, Cornelius Clarkson</origin>
+            <origin>Plummer, Loren P.</origin>
+            <pubdate>1930</pubdate>
+            <title>[New Jersey.] Atlas sheet no. 27.</title>
+            <geoform>map</geoform>
+            <serinfo>
+               <sername>New Jersey Geological Survey Atlas Sheets</sername>
+            </serinfo>
+            <pubinfo>
+               <pubplace>[Trenton, NJ]</pubplace>
+               <publish>New Jersey. Department of Conservation and Development. Division of Geology and Topography</publish>
+            </pubinfo>
+            <othercit>Relief shown by 10 ft. contour interval and spot heights. Inset: map continuation, Trenton area. Title was not given. Region covered: vicinity of Trenton. Original survey 1885, principal features revised 1913, 1926. Original survey and revisions to 1913 made under direction of C. C. Vermeule, Topographer. Revision of 1930 by L. P. Plummer, Topographic Engineer.</othercit>
+            <onlink>http://gisserver.princeton.edu/map/2191</onlink>
+            <ftname Sync="TRUE">PUmap_2191.jp2</ftname>
+            <edition>Edition of 1930</edition>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.</abstract>
+         <purpose>The historical geological map can be used in Geographic Information Systems to analyze historical information.</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>1930</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>publication date</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc>-75.200</westbc>
+            <eastbc>-74.7667</eastbc>
+            <northbc>40.4667</northbc>
+            <southbc>40.00</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-0.500000</leftbc>
+            <rightbc Sync="TRUE">9925.500000</rightbc>
+            <bottombc Sync="TRUE">-14393.500000</bottombc>
+            <topbc Sync="TRUE">0.500000</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>none</themekt>
+            <themekey>historical maps</themekey>
+            <themekey>Topography</themekey>
+            <themekey>Contour</themekey>
+            <themekey>Boundaries</themekey>
+         </theme>
+         <place>
+            <placekt>none</placekt>
+            <placekey>New Jersey</placekey>
+            <placekey>Mercer</placekey>
+            <placekey>Hunterdon</placekey>
+            <placekey>Burlington</placekey>
+            <placekey>MC  G3811.C2.s63.N4J4 no.27 (1930)</placekey>
+         </place>
+         <temporal>
+            <tempkt>none</tempkt>
+         </temporal>
+      </keywords>
+      <accconst>none</accconst>
+      <useconst>Data set is not for use in litigation.</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntpos>GIS Librarian</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University</address>
+               <city>Princeton</city>
+               <state>NJ</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntfax>609-258-4607</cntfax>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45am-5:00pm Monday-Friday</hours>
+         </cntinfo>
+      </ptcontac>
+      <secinfo>
+         <secclass>Unclassified</secclass>
+      </secinfo>
+      <native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+      <crossref>
+         <citeinfo>
+            <origin>New Jersey Geological Survey</origin>
+            <pubdate>1887</pubdate>
+            <pubtime>Unknown</pubtime>
+            <title>New Jersey Geological Survey Atlas Sheets</title>
+            <geoform>map</geoform>
+         </citeinfo>
+      </crossref>
+      <natvform Sync="TRUE">Raster Dataset</natvform>
+   </idinfo>
+   <dataqual>
+      <attracc />
+      <complete>complete</complete>
+      <posacc>
+         <horizpa />
+      </posacc>
+      <lineage>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>Geologic Survey of New Jersey</origin>
+                  <pubdate>1887</pubdate>
+                  <pubtime>Unknown</pubtime>
+                  <title>A Topographic Map of the Vicinity of Trenton: New Brunswick and Bordentown</title>
+                  <edition>1</edition>
+                  <geoform>map</geoform>
+                  <serinfo>
+                     <sername>New Jersey Geological Survey Atlas Sheets</sername>
+                  </serinfo>
+                  <pubinfo>
+                     <pubplace>[Trenton, NJ]</pubplace>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>63360</srcscale>
+            <typesrc>paper</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>1880s</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+         </srcinfo>
+         <procstep>
+            <procdesc>The historical New Jersey Geological Atlas Sheets was originally scanned at 600 dpi using an Altek VIDAR large format scanner. The scanned map was saved in a single layer tiff format at 16 million colors. Color correction and adaptive color level balancing was done in Adobe Photoshop 6.0. This process was done at the New Jersey Environmental Digital Library (NJEDL) , Rutgers University. The original maps were FTP in TIFF LZW format from the New Jersey Digital Environmental Library (NJDEL) to the Digital Map and Geospatial Information Center, Princeton University Library. Later The TIFF LZW file was opened in the IrfanView software, version 3.80 and resaved as non-compressed TIFF file. The TIFF file was georeferenced first using ArcView 3.2a Image Analysis software. On each map, the four corners and two middle graticules were used to georeference the maps, and later the TIFF file was reprojected to the New Jersey State Plane Coordinate System, NAD 83 using ERDAS IMAGINE software 8.6.</procdesc>
+            <procdate>2003</procdate>
+            <proccont>
+               <cntinfo>
+                  <cntperp>
+                     <cntper>Tsering Wangyal Shawa</cntper>
+                     <cntorg>Princeton University Library</cntorg>
+                  </cntperp>
+                  <cntpos>GIS Librarian</cntpos>
+                  <cntaddr>
+                     <addrtype>mailing and physical address</addrtype>
+                     <address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University.</address>
+                     <city>Princeton</city>
+                     <state>NJ</state>
+                     <postal>085441</postal>
+                     <country>USA</country>
+                  </cntaddr>
+                  <cntvoice>609-258-6804</cntvoice>
+                  <cntfax>609-258-4607</cntfax>
+                  <cntemail>shawatw@princeton.edu</cntemail>
+                  <hours>8:45am-5:00pm Monday-Friday</hours>
+               </cntinfo>
+            </proccont>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Raster</direct>
+      <rastinfo>
+         <rasttype Sync="TRUE">Pixel</rasttype>
+         <rowcount Sync="TRUE">14394</rowcount>
+         <colcount Sync="TRUE">9926</colcount>
+         <vrtcount Sync="TRUE">1</vrtcount>
+         <rastxsz Sync="TRUE">1.000000</rastxsz>
+         <rastysz Sync="TRUE">1.000000</rastysz>
+         <rastbpp Sync="TRUE">8</rastbpp>
+         <rastorig Sync="TRUE">Upper Left</rastorig>
+         <rastcmap Sync="TRUE">FALSE</rastcmap>
+         <rastcomp Sync="TRUE">JPEG2000</rastcomp>
+         <rastband Sync="TRUE">3</rastband>
+         <rastdtyp Sync="TRUE">pixel codes</rastdtyp>
+         <rastplyr Sync="TRUE">TRUE</rastplyr>
+         <rastifor Sync="TRUE" />
+      </rastinfo>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <planar>
+            <gridsys>
+               <gridsysn>State Plane Coordinate System</gridsysn>
+               <spcs>
+                  <spcszone>2900</spcszone>
+                  <transmer>
+                     <sfctrmer>0.999900</sfctrmer>
+                     <longcm>-74.500000</longcm>
+                     <latprjo>38.833333</latprjo>
+                     <feast>492125.000000</feast>
+                     <fnorth>0.000000</fnorth>
+                  </transmer>
+               </spcs>
+            </gridsys>
+            <planci>
+               <plance Sync="TRUE">row and column</plance>
+               <coordrep>
+                  <absres Sync="TRUE">1.000000</absres>
+                  <ordres Sync="TRUE">1.000000</ordres>
+               </coordrep>
+               <plandu>survey feet</plandu>
+            </planci>
+         </planar>
+         <geodetic>
+            <horizdn>North American Datum of 1983</horizdn>
+            <ellips>Geodetic Reference System 80</ellips>
+            <semiaxis>6378137.000000</semiaxis>
+            <denflat>298.257222</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <spref>
+      <horizsys>
+         <planar>
+            <gridsys>
+               <gridsysn>State Plane Coordinate System</gridsysn>
+               <spcs>
+                  <spcszone>2900</spcszone>
+                  <transmer>
+                     <sfctrmer>0.999900</sfctrmer>
+                     <longcm>-74.500000</longcm>
+                     <latprjo>38.833333</latprjo>
+                     <feast>492125.000000</feast>
+                     <fnorth>0.000000</fnorth>
+                  </transmer>
+               </spcs>
+            </gridsys>
+            <planci>
+               <plance Sync="TRUE">row and column</plance>
+               <coordrep>
+                  <absres Sync="TRUE">1.000000</absres>
+                  <ordres Sync="TRUE">1.000000</ordres>
+               </coordrep>
+               <plandu>survey feet</plandu>
+            </planci>
+         </planar>
+         <geodetic>
+            <horizdn>North American Datum of 1983</horizdn>
+            <ellips>Geodetic Reference System 80</ellips>
+            <semiaxis>6378137.000000</semiaxis>
+            <denflat>298.257222</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed>
+         <enttyp />
+         <attr>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Value</attrlabl>
+         </attr>
+         <attr>
+            <attrlabl>Count</attrlabl>
+         </attr>
+         <attr>
+            <attrlabl>Contrast</attrlabl>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Band_2</enttypl>
+         </enttyp>
+         <attr>
+            <attrlabl>ObjectID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Value</attrlabl>
+         </attr>
+         <attr>
+            <attrlabl>Count</attrlabl>
+         </attr>
+         <attr>
+            <attrlabl>Contrast</attrlabl>
+         </attr>
+      </detailed>
+      <detailed>
+         <enttyp>
+            <enttypl>Band_3</enttypl>
+         </enttyp>
+         <attr>
+            <attrlabl>ObjectID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>Value</attrlabl>
+         </attr>
+         <attr>
+            <attrlabl>Count</attrlabl>
+         </attr>
+         <attr>
+            <attrlabl>Contrast</attrlabl>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <distrib>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntpos>GIS Librarian</cntpos>
+            <cntaddr>
+               <addrtype>mailing address</addrtype>
+               <address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University</address>
+               <city>Princeton</city>
+               <state>NJ</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntfax>609-258-4607</cntfax>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45-5:00pm; Monday-Friday</hours>
+         </cntinfo>
+      </distrib>
+      <resdesc>Static Map Images</resdesc>
+      <distliab>While efforts have been made to ensure that these data are accurate and reliable we do not assume liability for any damages or misrepresentations caused by any inaccuracies in the data, or as a result of the data being used on a particular system. We make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. Data set is not for use in litigation.</distliab>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">41.117</transize>
+               <dssize Sync="TRUE">41.117</dssize>
+            </digtinfo>
+         </digform>
+         <fees>none</fees>
+         <ordering>dowload for free</ordering>
+         <turnarnd>N/A</turnarnd>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20050628</metd>
+      <metc>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntpos>GIS Librarian</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University</address>
+               <city>Princeton</city>
+               <state>NJ</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntfax>609-258-4607</cntfax>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45am-5:00pm Monday-Friday</hours>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metextns>
+         <onlink>http://gisserver.princeton.edu/browsemaps/North_America/United_States/New_Jersey/NJ_Historical_Geological_Survey_Atlas_Sheets</onlink>
+      </metextns>
+      <langmeta Sync="TRUE">en</langmeta>
+   </metainfo>
+   <Esri>
+      <MetaID>{F8DE46C9-F93B-4CC4-942E-8FF485F20F5A}</MetaID>
+      <CreaDate>20050712</CreaDate>
+      <CreaTime>11394000</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20050628</SyncDate>
+      <SyncTime>12143400</SyncTime>
+      <ModDate>20050628</ModDate>
+      <ModTime>12143400</ModTime>
+      <PublishedDocID>{3BE7EDBA-85DD-45C6-A7BD-34F05C8A653A}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">PUmap_2191.jp2</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="002" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">-0.5</westBL>
+               <eastBL Sync="TRUE">9925.5</eastBL>
+               <northBL Sync="TRUE">0.5</northBL>
+               <southBL Sync="TRUE">-14393.5</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\Gisserver\jp2\PUmap_2191.jp2</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">41.117</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Raster Dataset</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spatRepInfo>
+      <GridSpatRep>
+         <numDims Sync="TRUE">2</numDims>
+         <cellGeo>
+            <CellGeoCd Sync="TRUE" value="002" />
+         </cellGeo>
+         <tranParaAv Sync="TRUE">1</tranParaAv>
+         <axDimProps>
+            <Dimen>
+               <dimName>
+                  <DimNameTypCd Sync="TRUE" value="002" />
+               </dimName>
+               <dimSize Sync="TRUE">9926</dimSize>
+               <dimResol>
+                  <value Sync="TRUE">1</value>
+                  <uom>
+                     <UomLength>
+                        <uomName Sync="TRUE">unknown</uomName>
+                     </UomLength>
+                  </uom>
+               </dimResol>
+            </Dimen>
+            <Dimen>
+               <dimName>
+                  <DimNameTypCd Sync="TRUE" value="001" />
+               </dimName>
+               <dimSize Sync="TRUE">14394</dimSize>
+               <dimResol>
+                  <value Sync="TRUE">1</value>
+                  <uom>
+                     <UomLength>
+                        <uomName Sync="TRUE">unknown</uomName>
+                     </UomLength>
+                  </uom>
+               </dimResol>
+            </Dimen>
+         </axDimProps>
+      </GridSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20050628</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{3BE7EDBA-85DD-45C6-A7BD-34F05C8A653A}</mdFileID>
+</metadata>

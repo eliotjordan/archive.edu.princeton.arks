@@ -1,0 +1,614 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>BAE SYSTEMS ADR</origin>
+            <pubdate>20030731</pubdate>
+            <title>New Jersey Digital Orthophotography, 2002</title>
+            <geoform Sync="TRUE">remote-sensing image</geoform>
+            <pubinfo>
+               <pubplace>Trenton, New Jersey</pubplace>
+               <publish>State of New Jersey, Office of Information Technology</publish>
+            </pubinfo>
+            <ftname Sync="TRUE">G10A12.sid</ftname>
+            <onlink>https://njgin.state.nj.us/NJ_NJGINExplorer/index.jsp</onlink>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>Digital color infrared (CIR) orthophotography of New Jersey in State Plane NAD83 Coordinates, U.S. Survey Feet. The digital orthophotography was produced at a scale of 1:2400 (1"=200') with a 1 foot pixel resolution. Digital orthophotography combines the image characteristics of a photograph with the geometric qualities of a map. Digital orthophotography is a process which converts aerial photography from an original photo negative to a digital product that has been positionally corrected for camera lens distortion, vertical displacement and variations in aircraft altitude and orientation. Aerial photography of the entire State of New Jersey was captured during February-April, 2002. The ortho-rectification process achieved a +/-4.0 ft. horizontal accuracy at a 95% confidence level, National Standard for Spatial Data Accuracy (NSSDA). This dataset consists of 5000' x 5000' files in MrSID format with a 15:1 compresssion ratio. The files were produced utilizing MrSID Geospatial Edition 1.4 and are approximately 5 MB in size.</abstract>
+         <purpose>Aerial survey of the State of New Jersey</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <rngdates>
+               <begdate>20020218</begdate>
+               <enddate>20020411</enddate>
+            </rngdates>
+         </timeinfo>
+         <current>ground condition</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Unknown</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc>-075.570555</westbc>
+            <eastbc>-073.901666</eastbc>
+            <northbc>41.356944</northbc>
+            <southbc>38.927499</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">445000.000000</leftbc>
+            <rightbc Sync="TRUE">450000.000000</rightbc>
+            <bottombc Sync="TRUE">550000.000000</bottombc>
+            <topbc Sync="TRUE">555000.000000</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>digital orthophoto</themekey>
+            <themekey>digital image map</themekey>
+            <themekey>aerial photograph</themekey>
+            <themekey>rectified photograph</themekey>
+            <themekey>rectified image</themekey>
+            <themekey>orthophoto</themekey>
+            <themekey>basemap</themekey>
+            <themekey>digital land base</themekey>
+            <themekey>remote sensing</themekey>
+            <themekey>color infrared</themekey>
+            <themekey>leaf-off photography</themekey>
+            <themekey>aerial photography</themekey>
+            <themekey>digital orthophotography</themekey>
+            <themekey>high resolution orthoimagery</themekey>
+            <themekey>orthoimagery</themekey>
+         </theme>
+         <theme>
+            <themekt>ISO 19115 Category</themekt>
+            <themekey>imageryBaseMapsEarthCover</themekey>
+         </theme>
+         <place>
+            <placekt>None</placekt>
+            <placekey>Atlantic County</placekey>
+            <placekey>Camden County</placekey>
+            <placekey>Cape May County</placekey>
+            <placekey>Cumberland County</placekey>
+            <placekey>Burlington County</placekey>
+            <placekey>Gloucester County</placekey>
+            <placekey>Mercer County</placekey>
+            <placekey>Ocean County</placekey>
+            <placekey>Salem County</placekey>
+            <placekey>Somerset County</placekey>
+            <placekey>Bergen County</placekey>
+            <placekey>Essex County</placekey>
+            <placekey>Hudson County</placekey>
+            <placekey>Hunterdon County</placekey>
+            <placekey>Middlesex County</placekey>
+            <placekey>Monmouth County</placekey>
+            <placekey>Morris County</placekey>
+            <placekey>Passaic County</placekey>
+            <placekey>Sussex County</placekey>
+            <placekey>Union County</placekey>
+            <placekey>Warren County</placekey>
+            <placekey>New Jersey</placekey>
+            <placekey>Mid Atlantic</placekey>
+         </place>
+      </keywords>
+      <accconst>None</accconst>
+      <useconst>None</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Suzy Hess</cntper>
+               <cntorg>State of New Jersey, Office of Information Technology</cntorg>
+            </cntperp>
+            <cntpos>GIS Specialist</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>P.O. Box 212</address>
+               <address>200 RiverView Plaza</address>
+               <city>Trenton</city>
+               <state>NJ</state>
+               <postal>08625-0212</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-633-8946</cntvoice>
+            <cntfax>609-633-0200</cntfax>
+            <cntemail>suzy.hess@oit.state.nj.us</cntemail>
+            <hours>0800-1600</hours>
+         </cntinfo>
+      </ptcontac>
+      <browse />
+      <datacred>The New Jersey 2002 High Resolution Orthophotography Project was planned, initiated, and primarily funded by the NJ Office of Information Technology. Additional State funding was obtained from the NJ Department of Transportation and NJ Transit. The U.S. Geological Survey (USGS) and the Natural Resources Conservation Service (NRCS) also contributed federal funding.</datacred>
+      <native Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+      <natvform Sync="TRUE">Raster Dataset</natvform>
+   </idinfo>
+   <dataqual>
+      <attracc>
+         <attraccr>The accuracy of the ground control and airborne GPS data is confirmed by the evaluation of the results of the analytical bundle adjustment. The residuals of the final adjustment ensured compliance with NSSDA standards. During the scanning of the original aerial film, the image histogram for each frame is carefully examined to ensure that the image has been scanned so that the minimum and maximum brightness values are captured to eliminate any loss of detail due to saturation of dark or light areas. The ortho-rectified images are checked for image quality and tone-balanced using a combination of techniques including adjusting the histogram of each color band in Intergraph's IRAS-C software, and using the block tone-matching algorithms provided by Orthovista software. Evaluation of the DEM includes checking the terrain data for spikes and wells, omissions, and other anomalies that do not meet the project accuracy requirements. Using the adjusted horizontal coordinates of the aerotriangulation points, their heights are interpolated from the neighboring DEM points. The interpolated coordinate of the aerotriangulation point is then compared with the actual adjusted Z value of the aerotriangulation result. Visual inspection of the stereoscopic model and contour lines is also made allowing the detection of errors in the DEM.</attraccr>
+      </attracc>
+      <logic>All files are inspected by the Production Manager to ensure that they conform to the specified file naming conventions, all files load in their correct geographic position when loaded using the ASCII file header, all files conform to the project specifications for pixel resolution, file standard, dimensions, and compression, and all files do not contain blemishes such as visible seam lines, tone differences, data dropout or artifacts; scan swathing, or warped bridges and overpasses.</logic>
+      <complete>All imagery is visually inspected for completeness to ensure that no gaps or image misplacement exists in the image area. Imagery is mosaicked to ensure complete coverage for map sheets. The imagery has been checked to ensure that the boundary and the content has been covered in its entirety.</complete>
+      <posacc>
+         <horizpa>
+            <horizpar>Orthophotography has a +/- 4.0 ft. horizontal accuracy at 95% confidence level, National Standard for Spatial Data Accuracy (NSSDA), for a 1.0 foot Ground Resolution Distance (GRD). Horizontal accuracy determined as 1.7308 times the RMSE circular error. This requirement will not be applicable in areas where the ground is obscured on the aerial photography by foliage, prevalent smoke, or dense shadow.</horizpar>
+         </horizpa>
+         <vertacc>
+            <vertaccr>All DEM data will meet a vertical accuracy of six (6) feet at the 95% confidence level consistant with NSSDA standards. This requirement will not be applicable in areas where the ground is obscured on the aerial photography by foliage, prevalent smoke, or dense shadow.</vertaccr>
+         </vertacc>
+      </posacc>
+      <lineage>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>BAE SYSTEMS ADR</origin>
+                  <pubdate>20020812</pubdate>
+                  <title>GPS Photo Control Survey for the State of New Jersey</title>
+                  <geoform>model</geoform>
+                  <pubinfo>
+                     <pubplace>Pennsauken, NJ</pubplace>
+                     <publish>BAE SYSTEMS ADR</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>N/A</srcscale>
+            <typesrc>CD-ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <rngdates>
+                     <begdate>20020808</begdate>
+                     <enddate>20020812</enddate>
+                  </rngdates>
+               </timeinfo>
+               <srccurr>ground condition</srccurr>
+            </srctime>
+            <srccitea>GPS Ground Control</srccitea>
+            <srccontr>To supplement the airborne GPS control network a total of 213 photo control points were captured as well as an additional 76 quality assurance control points that were incorporated in the quality assurance testing of the aerotriangulation. All horizontal and vertical control was prepared under the supervision of State of New Jersey licensed Professional Land Surveyors.</srccontr>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>Keystone Aerial Surveys</origin>
+                  <pubdate>20020411</pubdate>
+                  <pubtime>Unknown</pubtime>
+                  <title>Aerial Imagery Acquisition of the State of New Jersey</title>
+                  <geoform>remote-sensing image</geoform>
+                  <pubinfo>
+                     <pubplace>Philadelphia, PA</pubplace>
+                     <publish>Keystone Aerial Surveys</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>19200</srcscale>
+            <typesrc>filmstrip</typesrc>
+            <srctime>
+               <timeinfo>
+                  <rngdates>
+                     <begdate>20020218</begdate>
+                     <begtime>unknown</begtime>
+                     <enddate>20020411</enddate>
+                     <endtime>unknown</endtime>
+                  </rngdates>
+               </timeinfo>
+               <srccurr>ground condition</srccurr>
+            </srctime>
+            <srccitea>Aerial Photography</srccitea>
+            <srccontr>Aerial photography was acquired using a flight design that included a total of 5097 exposures in 48 North-South oriented flight lines. Aerial photography was exposed on Kodak CIR film 1443. Aerial photogaphy was supplemented with the simultaneous acquisition of airborne GPS data, which captured the ground coordinate for the nadir point of each photograph. Aerial photography was exposed at an altitude of 9600' above mean terrain yielding an approximate scale of 1:19200.</srccontr>
+         </srcinfo>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <origin>Triathlon Ltd.</origin>
+                  <pubdate>20030301</pubdate>
+                  <pubtime>Unknown</pubtime>
+                  <title>Analytical aerotriangulation</title>
+                  <geoform>model</geoform>
+                  <pubinfo>
+                     <pubplace>Vancouver, BC, CANADA</pubplace>
+                     <publish>Triathlon Ltd.</publish>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <typesrc>CD-ROM</typesrc>
+            <srccitea>Analytical aerotriangulation</srccitea>
+            <srccontr>Softcopy aerotriangulation was performed utilizing the airborne GPS data, GPS ground control and image coordinate measurements allowing the direct computation of the exterior orientation parameters for each image of the project.</srccontr>
+         </srcinfo>
+         <procstep>
+            <procdesc>Aerial photography was acquired using a flight design that included a total of 5097 exposures in 48 North-South oriented flight lines. Aerial photography was exposed on Kodak CIR film 1443. Aerial photogaphy was supplemented with the simultaneous acquisition of airborne GPS data, which captured the ground coordinate for the nadir point of each photograph. Aerial photography was exposed at an altitude of 9600' above mean terrain yielding an approximate scale of 1:19200.</procdesc>
+            <procdate>20020411</procdate>
+            <srcprod>Aerial Photography</srcprod>
+            <proccont>
+               <cntinfo>
+                  <cntorgp>
+                     <cntorg>BAE SYSTEMS ADR</cntorg>
+                     <cntper>Sandra Elfreth-Howery</cntper>
+                  </cntorgp>
+                  <cntpos>Project Manager</cntpos>
+                  <cntaddr>
+                     <addrtype>mailing and physical address</addrtype>
+                     <address>9285 Commerce Highway</address>
+                     <address>P.O. Box 557</address>
+                     <city>Pennsauken</city>
+                     <state>NJ</state>
+                     <postal>08110</postal>
+                     <country>USA</country>
+                  </cntaddr>
+                  <cntvoice>856-663-7200</cntvoice>
+                  <cntfax>856-486-7778</cntfax>
+                  <cntemail>s.elfreth.howery@adrinc.com</cntemail>
+                  <hours>0800-1700</hours>
+               </cntinfo>
+            </proccont>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Raster</direct>
+      <rastinfo>
+         <rasttype Sync="TRUE">Pixel</rasttype>
+         <rowcount Sync="TRUE">5000</rowcount>
+         <colcount Sync="TRUE">5000</colcount>
+         <rastxsz Sync="TRUE">1.000000</rastxsz>
+         <rastysz Sync="TRUE">1.000000</rastysz>
+         <rastbpp Sync="TRUE">8</rastbpp>
+         <vrtcount Sync="TRUE">1</vrtcount>
+         <rastorig Sync="TRUE">Upper Left</rastorig>
+         <rastcmap Sync="TRUE">FALSE</rastcmap>
+         <rastcomp Sync="TRUE">Wavelet</rastcomp>
+         <rastband Sync="TRUE">3</rastband>
+         <rastdtyp Sync="TRUE">pixel codes</rastdtyp>
+         <rastplyr Sync="TRUE">TRUE</rastplyr>
+         <rastifor Sync="TRUE">MrSID</rastifor>
+      </rastinfo>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <planar>
+            <gridsys>
+               <gridsysn>State Plane Coordinate System</gridsysn>
+               <spcs>
+                  <spcszone>2900</spcszone>
+                  <transmer>
+                     <sfctrmer>0.999900</sfctrmer>
+                     <longcm>-74.500000</longcm>
+                     <latprjo>38.833333</latprjo>
+                     <feast>492125.000000</feast>
+                     <fnorth>0.000000</fnorth>
+                  </transmer>
+               </spcs>
+            </gridsys>
+            <planci>
+               <plance Sync="TRUE">row and column</plance>
+               <coordrep>
+                  <absres Sync="TRUE">1.000000</absres>
+                  <ordres Sync="TRUE">1.000000</ordres>
+               </coordrep>
+               <plandu>survey feet</plandu>
+            </planci>
+         </planar>
+         <geodetic>
+            <horizdn>North American Datum of 1983</horizdn>
+            <ellips>Geodetic Reference System 80</ellips>
+            <semiaxis>6378137.000000</semiaxis>
+            <denflat>298.257222</denflat>
+         </geodetic>
+      </horizsys>
+      <vertdef>
+         <altsys>
+            <altdatum>North American Vertical Datum of 1988</altdatum>
+            <altres>0.1</altres>
+            <altunits>feet</altunits>
+            <altenc>Explicit elevation coordinate included with horizontal coordinates</altenc>
+         </altsys>
+      </vertdef>
+   </spref>
+   <eainfo>
+      <overview>
+         <eaover>A digital number from 0 to 255 will be assigned to each pixel. This number refers to a color look-up table which will contain the red, green, and blue (RGB) values, each from 0 to 255, for that digital number.</eaover>
+         <eadetcit>BAE SYSTEMS ADR Proposal for New Jersey Orthophoto Mapping Program 2002-2003 (Bid Number 02-X-33753)</eadetcit>
+      </overview>
+      <detailed Name="Band_1">
+         <enttyp>
+            <enttypl Sync="TRUE">Band_1</enttypl>
+            <enttypt Sync="TRUE">Table</enttypt>
+            <enttypc Sync="TRUE">256</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">ObjectID</attrlabl>
+            <attalias Sync="TRUE">ObjectID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Value</attrlabl>
+            <attalias Sync="TRUE">Value</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Count</attrlabl>
+            <attalias Sync="TRUE">Count</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+      </detailed>
+      <detailed Name="Band_2">
+         <enttyp>
+            <enttypl Sync="TRUE">Band_2</enttypl>
+            <enttypt Sync="TRUE">Table</enttypt>
+            <enttypc Sync="TRUE">256</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">ObjectID</attrlabl>
+            <attalias Sync="TRUE">ObjectID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Value</attrlabl>
+            <attalias Sync="TRUE">Value</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Count</attrlabl>
+            <attalias Sync="TRUE">Count</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+      </detailed>
+      <detailed Name="Band_3">
+         <enttyp>
+            <enttypl Sync="TRUE">Band_3</enttypl>
+            <enttypt Sync="TRUE">Table</enttypt>
+            <enttypc Sync="TRUE">256</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">ObjectID</attrlabl>
+            <attalias Sync="TRUE">ObjectID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Value</attrlabl>
+            <attalias Sync="TRUE">Value</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Count</attrlabl>
+            <attalias Sync="TRUE">Count</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <distrib>
+         <cntinfo>
+            <cntperp>
+               <cntper>Suzy Hess</cntper>
+               <cntorg>State of New Jersey, Office of Information Technology</cntorg>
+            </cntperp>
+            <cntpos>GIS Specialist</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>P.O. Box 212</address>
+               <address>200 RiverView Plaza</address>
+               <city>Trenton</city>
+               <state>NJ</state>
+               <postal>08625-0212</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-633-8946</cntvoice>
+            <cntfax>609-633-0200</cntfax>
+            <cntemail>suzy.hess@oit.state.nj.us</cntemail>
+            <hours>0800-1600</hours>
+         </cntinfo>
+      </distrib>
+      <resdesc>Offline Data</resdesc>
+      <distliab>The State of New Jersey provides the 2002 high resolution orthophotography data "as is". The State makes no guarantee or warranty concerning the accuracy of information contained in the data. Also, the State makes no warranty, either expressed or implied, regarding the condition of the product or its fitness for any particular purpose. The burden for determining fitness for use lies entirely with the user. Although these data files have been processed successfully on computers at the State, no warranty is made by the State regarding the use of the data on any other system, nor does the fact of distribution constitute or imply such a warranty.</distliab>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>MrSID</formname>
+               <transize Sync="TRUE">4.979</transize>
+               <dssize Sync="TRUE">4.979</dssize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>&lt;http://njgin.nj.gov/OIT_IW/index.jsp&gt;</networkr>
+                     </networka>
+                  </computer>
+               </onlinopt>
+            </digtopt>
+         </digform>
+         <fees>N/A</fees>
+         <ordering>MrSID files are available for download from the New Jersey Image Warehouse site: &lt;http://njgin.nj.gov/OIT_IW/index.jsp&gt;.</ordering>
+      </stdorder>
+      <availabl>
+         <timeinfo>
+            <sngdate>
+               <caldate>20040202</caldate>
+            </sngdate>
+         </timeinfo>
+      </availabl>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20041112</metd>
+      <metc>
+         <cntinfo>
+            <cntperp>
+               <cntper>William Kunkle</cntper>
+               <cntorg>BAE SYSTEMS ADR</cntorg>
+            </cntperp>
+            <cntpos>Photogrammetric Technician</cntpos>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>9285 Commerce Highway</address>
+               <address>P.O. Box 557</address>
+               <city>Pennsauken</city>
+               <state>NJ</state>
+               <postal>08110</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>856-663-7200</cntvoice>
+            <cntfax>856-486-7778</cntfax>
+            <cntemail>wkunkle@adrinc.com</cntemail>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <Esri>
+      <MetaID>{B4039419-F05E-4030-82F5-9B5A501D9F99}</MetaID>
+      <CreaDate>20041112</CreaDate>
+      <CreaTime>12010300</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20041112</SyncDate>
+      <SyncTime>11594600</SyncTime>
+      <ModDate>20041112</ModDate>
+      <ModTime>11594600</ModTime>
+      <PublishedDocID>{2C70C606-20FD-4FE5-BE0F-5746618DF5C7}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">G10A12.sid</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="002" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">445000</westBL>
+               <eastBL Sync="TRUE">450000</eastBL>
+               <northBL Sync="TRUE">555000</northBL>
+               <southBL Sync="TRUE">550000</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS06\E\PuMapData\metadata\G10A12.sid</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">4.979</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Raster Dataset</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spatRepInfo>
+      <GridSpatRep>
+         <numDims Sync="TRUE">2</numDims>
+         <cellGeo>
+            <CellGeoCd Sync="TRUE" value="002" />
+         </cellGeo>
+         <tranParaAv Sync="TRUE">1</tranParaAv>
+         <axDimProps>
+            <Dimen>
+               <dimName>
+                  <DimNameTypCd Sync="TRUE" value="002" />
+               </dimName>
+               <dimSize Sync="TRUE">5000</dimSize>
+               <dimResol>
+                  <value Sync="TRUE">1</value>
+                  <uom>
+                     <UomLength>
+                        <uomName Sync="TRUE">unknown</uomName>
+                     </UomLength>
+                  </uom>
+               </dimResol>
+            </Dimen>
+            <Dimen>
+               <dimName>
+                  <DimNameTypCd Sync="TRUE" value="001" />
+               </dimName>
+               <dimSize Sync="TRUE">5000</dimSize>
+               <dimResol>
+                  <value Sync="TRUE">1</value>
+                  <uom>
+                     <UomLength>
+                        <uomName Sync="TRUE">unknown</uomName>
+                     </UomLength>
+                  </uom>
+               </dimResol>
+            </Dimen>
+         </axDimProps>
+      </GridSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20041112</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

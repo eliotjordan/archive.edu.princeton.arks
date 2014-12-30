@@ -1,0 +1,618 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20090710</CreaDate>
+      <CreaTime>10530000</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20090709</SyncDate>
+      <SyncTime>16443000</SyncTime>
+      <ModDate>20090709</ModDate>
+      <ModTime>17102300</ModTime>
+      <DataProperties>
+         <lineage>
+            <Process Date="20080206" Name="FeatureClassToFeatureClass_1" Time="134514" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\FeatureClassToFeatureClass">FeatureClassToFeatureClass "\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp" "\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Topology.mdb\FD" HIC_District_Poly_Adjusted_06Feb2008 # "ADM3NAME ADM3NAME true false false 16 Text 0 0 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,ADM3NAME,-1,-1;ADM3CODE ADM3CODE true false false 16 Text 0 0 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,ADM3CODE,-1,-1;PERIMETER PERIMETER true false false 19 Double 3 18 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,PERIMETER,-1,-1;ACRES ACRES true false false 19 Double 3 18 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,ACRES,-1,-1;HECTARES HECTARES true false false 19 Double 3 18 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,HECTARES,-1,-1;ADM2NAME ADM2NAME true false false 16 Text 0 0 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,ADM2NAME,-1,-1;ADM2CODE ADM2CODE true false false 16 Text 0 0 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,ADM2CODE,-1,-1;NUMBER_ NUMBER_ true false false 15 Double 0 15 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,NUMBER,-1,-1;INTERN_ID INTERN_ID true false false 13 Double 0 13 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,INTERN_ID,-1,-1;area_sq_m area_sq_m true false false 19 Double 11 18 ,First,#,\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Hic_district_poly_adjusted_6feb08.shp,area_sq_m,-1,-1" # "\\usmasvdzapollo\Geomaps1\TEC Action Folder\CTC_Cult_Mapping_07\CTC_ESOC_08_1\Topology.mdb\FD\HIC_District_Poly_Adjusted_06Feb2008"</Process>
+            <Process Date="20080211" Name="Project_1" Time="142308" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project">Project "C:\Iraq Conflict Project\Iraq GIS Data\Boundary_Spending_Conflict Data (Hic_adjusted_7feb08)\District_shp_7feb2008\Hic_district_poly_adjusted_7feb08_original.shp" "C:\Iraq Conflict Project\Iraq GIS Data\Boundary_Spending_Conflict Data (Hic_adjusted_7feb08)\District_shp_7feb2008\Hic_district_poly_adjusted_7feb08_gcs_wgs_84.shp" GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] NAD_1927_DEF_1976_To_WGS_1984_1 GEOGCS['GCS_NAD_1927_Definition_1976',DATUM['D_NAD_1927_Definition_1976',SPHEROID['Clarke_1866',6378206.4,294.9786982]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process>
+            <Process Date="20080211" Name="Project_2" Time="142516" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project">Project "C:\Iraq Conflict Project\Iraq GIS Data\Boundary_Spending_Conflict Data (Hic_adjusted_7feb08)\District_shp_7feb2008\Hic_district_poly_adjusted_7feb08_gcs_wgs_84.shp" "C:\Iraq Conflict Project\Iraq GIS Data\Boundary_Spending_Conflict Data (Hic_adjusted_7feb08)\District_shp_7feb2008\Hic_district_poly_adjusted_7feb08_utm_38N.shp" PROJCS['WGS_1984_UTM_Zone_38N',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',45.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] # GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process>
+            <Process Date="20090612" Time="140601" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CopyFeatures">CopyFeatures "E:\REF\Summer Work\Hic_district_poly_adjusted_7feb08_utm_38N.shp" "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" # 0 0 0</Process>
+            <Process Date="20090612" Time="140944" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField">DeleteField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" ROAD_DCW;ROADDCW_KM;IQST_FILL;IQST_KM;ROAD_TOTAL;_AR;_CNT;_AR_1;_CNT_1;_AR_12;_CNT_12;_AR_12_13;_CNT_12_13;_AR_12_13_14;_CNT_12_13_14;_AR_12_13_14_15;_CNT_12_13_14_15;_AR_12_13_14_15_16;_CNT_12_13_14_15_16;_AR_12_13_14_15_16_17;_CNT_12_13_14_15_16_17;_AR_12_13_14_15_16_17_18;_CNT_12_13_14_15_16_17_18;_AR_12_13_14_15_16_17_18_19;_CNT_12_13_14_15_16_17_18_19;_AR_12_13_14_15_16_17_18_19_20;_CNT_12_13_14_15_16_17_18_19_20;_AR_12_13_14_15_16_17_18_19_20_21;_CNT_12_13_14_15_16_17_18_19_20_21;_AR_12_13_14_15_16_17_18_19_20_21_22;_CNT_12_13_14_15_16_17_18_19_20_21_22;_AR_12_13_14_15_16_17_18_19_20_21_22_23;_CNT_12_13_14_15_16_17_18_19_20_21_22_23;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_31;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__32;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_32;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__33;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_33;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__34;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_34;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__35;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_35;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__36;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_36;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__37;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_37;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__38;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_38;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__39;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_39;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__40;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_40;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__41;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_41;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__42;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_42;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__43;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_43;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__44;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_44;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__45;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_45;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__46;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_46;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__47;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_47;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__48;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_48;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__49;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_49;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__50;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_50;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__51;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_51;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__52;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_52;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__53;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_53;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__54;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_54;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__55;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_55;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__56;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_56;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__57;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_57;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__58;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_58;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__59;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_59;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__60;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_60;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__61;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_61;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__62;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_62;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__63;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_63;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__64;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_64;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__65;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_65;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__66;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_66;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__67;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_67;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__68;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_68;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__69;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_69;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__70;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_70;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__71;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_71;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__72;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_72;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__73;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_73;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__74;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_74;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__75;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_75;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__76;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_76;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__77;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_77;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__78;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_78;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__79;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_79;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__80;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_80;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__81;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_81;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__82;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_82;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__83;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_83;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__84;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_84;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__85;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_85;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__86;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_86;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__87;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_87;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__88;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_88;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__89;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_89;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__90;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_90;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__91;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_91;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__92;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_92;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__93;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_93;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__94;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_94;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__95;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_95;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__96;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_96;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__97;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_97;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__98;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_98;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30__99;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_99;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_100;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_100;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_101;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_101;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_102;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_102;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_103;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_103;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_104;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_104;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_105;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_105;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_106;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_106;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_107;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_107;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_108;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_108;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_109;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_109;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_110;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_110;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_111;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_111;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_112;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_112;_AR_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_30_113;_CNT_12_13_14_15_16_17_18_19_20_21_22_23_24_25_26_27_28_29_3_113;D_122;D_117;D_107;D_102;D_97;D_81;D_71;D_61;D_56;D_51;D_46;D_41;D_30;D_25;D_20;D_0;_GAS;_OIL;_32_OIL;_4_GAS;_48_GAS;_48_OIL;_64_GAS;_64_OIL;_72_GAS;_72_OIL;_8_GAS;_8_OIL;_96_GAS;_12_OIL;_28_OIL;_52_OIL;_6_GAS "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="141630" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField">AddField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" POP_03 LONG # # # # NULLABLE NON_REQUIRED # "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="141730" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField">AddField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" POP_2003 LONG # # # # NULLABLE NON_REQUIRED # "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="141740" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField">AddField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" POP_2004 LONG # # # # NULLABLE NON_REQUIRED # "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="141747" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField">AddField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" POP_2005 LONG # # # # NULLABLE NON_REQUIRED # "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="141757" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\AddField">AddField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" POP_2006 LONG # # # # NULLABLE NON_REQUIRED # "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="143436" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" ADM3NAME "E:\REF\Summer Work\Iraq_Population\DistrictPopulation.mdb\pop_table" District POP_2003;POP_2005;POP_2007;POP_2004;POP_2006 "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="143815" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" ADM3NAME "E:\REF\Summer Work\Iraq_Population\DistrictPopulation.mdb\pop_table" District POP_2003;POP_2005;POP_2007;POP_2004;POP_2006 "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="143931" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DeleteField">DeleteField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" POP_2003;POP_2004;POP_2005;POP_2006;POP_2003_2004;POP_2005_2006;POP_2007;POP_2004_2005;POP_2006_2007;POP_2003_2004_2005;POP_2005_2006_2007;POP_2007_2008;POP_2004_2005_2006;POP_2006_2007_2008 "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090612" Time="144028" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N" ADM3NAME "E:\REF\Summer Work\Iraq_Population\DistrictPopulation.mdb\pop_table" District POP_2003;POP_2005;POP_2007;POP_2004;POP_2006 "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\Hic_district_poly_adjusted_7feb08_utm_38N"</Process>
+            <Process Date="20090615" Time="171324" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project">Project district_level_POP "E:\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb\district_level_POP_Project" GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] # PROJCS['WGS_1984_UTM_Zone_38N',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',45.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]]</Process>
+            <Process Date="20090630" Time="140638" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField district_level_POP_Project OBJECTID Sample_sum_pop_1 OBJECTID z_z_z2c1;z_z_z2c2;z_z_z2c3;z_z_z2c4 district_level_POP_Project</Process>
+            <Process Date="20090630" Time="144303" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField district_level_POP_Project OBJECTID Sample_sum_pop_2 OBJECTID z_z_z2c1;z_z_z2c2;z_z_z2c3;z_z_z2c4 district_level_POP_Project</Process>
+            <Process Date="20090701" Time="132300" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField district_level_POP_Project OBJECTID district_expon OBJECTID exponent_06 district_level_POP_Project</Process>
+            <Process Date="20090701" Time="134654" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField district_level_POP_Project OBJECTID Gini_06 OBJECTID Gini_06 district_level_POP_Project</Process>
+            <Process Date="20090707" Time="135250" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField district_level_POP_Project OBJECTID district_expon07 OBJECTID x district_level_POP_Project</Process>
+            <Process Date="20090707" Time="140134" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField district_level_POP_Project OBJECTID district_expon07 OBJECTID expon_07 district_level_POP_Project</Process>
+            <Process Date="20090707" Time="140235" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\JoinField">JoinField district_level_POP_Project OBJECTID Gini_07 OBJECTID Gini_07 district_level_POP_Project</Process>
+         </lineage>
+      </DataProperties>
+      <MetaID>{FD92E6EB-7E4A-43E6-A8C6-BD0EB076529A}</MetaID>
+      <PublishedDocID>{80F7BB7B-5CCF-4374-9EF3-DD33E5A957DA}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.1.1850</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>This feature class contains population data for the 104 districts in Iraq. Data comes from the World Food Program for 2003, 2005 and 2007. The data for 2004 and 2006 was interpolated from the adjacent years. Data was joined to the adminastrative boundries in the fields POP_2003, POP_2005, POP_2007, POP_2004 and POP_2006.
+
+WFP data was used to scale LandScan population estimates. Statistics of the scaled LandScan data at the distirct have been added to the attribtute table outlining the mean, median, standard deviation, exponential distribution coefficient, and Gini coefficient for the raster cells in each district. R software was used to calculate the eponent and the Gini coefficient. The Scaled LandScan Stats model was used to calculate the scaled population data, the mean, median and standard deviation.</abstract>
+         <purpose>The WFP data will be used to scale the LandScan population estimates.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>Robert Fargo</origin>
+            <pubdate>2009</pubdate>
+            <title>District Level Population &amp; Statistics</title>
+            <ftname Sync="TRUE">district_level_POP_Project</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/offline/shapiro.html</onlink>
+            <pubinfo>
+               <publish>ESOC Group</publish>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>publication date</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>2009</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Annually</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">38.793603</westbc>
+            <eastbc Sync="TRUE">48.627752</eastbc>
+            <northbc Sync="TRUE">37.381556</northbc>
+            <southbc Sync="TRUE">29.061208</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">38.793603</leftbc>
+            <rightbc Sync="TRUE">48.627752</rightbc>
+            <bottombc Sync="TRUE">29.061208</bottombc>
+            <topbc Sync="TRUE">37.381556</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>poeple</themekt>
+            <themekey>Population</themekey>
+            <themekey>Population</themekey>
+            <themekey>Population count</themekey>
+            <themekey>WFP Food Security and Vunrability</themekey>
+            <themekey>Population Statistics</themekey>
+         </theme>
+         <place>
+            <placekey>Iraq</placekey>
+            <placekey>Middle East</placekey>
+         </place>
+      </keywords>
+      <accconst>This data is NOT FOR PUBLIC ACCESS</accconst>
+      <useconst>Data is to be used by the ESOC group.</useconst>
+      <natvform Sync="TRUE">File Geodatabase Feature Class</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Robert Fargo</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntpos>GIS Analyst</cntpos>
+            <cntaddr>
+               <addrtype>physical address</addrtype>
+               <address>124 Corwin Hall, Princeton University</address>
+               <city>Princeton</city>
+               <state>NJ</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>(214) 909-8859</cntvoice>
+            <cntemail>rfargo@princeton.edu</cntemail>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.1.1850</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">district_level_POP_Project</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">38.793603</westBL>
+               <eastBL Sync="TRUE">48.627752</eastBL>
+               <northBL Sync="TRUE">37.381556</northBL>
+               <southBL Sync="TRUE">29.061208</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">38.793603</westBL>
+         <eastBL Sync="TRUE">48.627752</eastBL>
+         <northBL Sync="TRUE">37.381556</northBL>
+         <southBL Sync="TRUE">29.061208</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntaddr>
+               <addrtype>physical address</addrtype>
+               <city>Princeton</city>
+               <state>NJ</state>
+               <postal>08544</postal>
+               <address>124 Corwin Hall, Princeton University</address>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>(214) 909-8859</cntvoice>
+            <cntperp>
+               <cntper>Robert Fargo</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntpos>GIS Analyst</cntpos>
+            <cntemail>rfargo@princeton.edu</cntemail>
+            <cntinst>email works best</cntinst>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20090709</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc>Offline Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">0.705</transize>
+               <dssize Sync="TRUE">0.705</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\WWS-22KGXD1\G$\REF\Summer Work\Iraq_Population\DistrictPopScratch.gdb</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.705</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">File Geodatabase Feature Class</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="district_level_POP_Project">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">104</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="district_level_POP_Project">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">104</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+         </geograph>
+      </horizsys>
+      <vertdef>
+         <altsys>
+            <altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+            <altres Sync="TRUE">0.000100</altres>
+         </altsys>
+      </vertdef>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="district_level_POP_Project">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">104</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="district_level_POP_Project">
+         <enttyp>
+            <enttypl Sync="TRUE">district_level_POP_Project</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">104</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">exponent_06</attrlabl>
+            <attalias Sync="TRUE">OBJECTID_1</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">exponent_07</attrlabl>
+            <attalias Sync="TRUE">exponent_07</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PERIM_km</attrlabl>
+            <attalias Sync="TRUE">POP_2005</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>District perimeter in kilometers</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POP_2005</attrlabl>
+            <attalias Sync="TRUE">POP_2004</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>WFP population estimate for 2005</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POP_2004</attrlabl>
+            <attalias Sync="TRUE">Shape_Length</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>Interpolated WFP population estimate for 2004</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AREA_KM2</attrlabl>
+            <attalias Sync="TRUE">OBJECTID</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape_Length</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Length of feature in internal units.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">OBJECTID</attrlabl>
+            <attalias Sync="TRUE">ADM3NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Gini_07</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Gini_06</attrlabl>
+            <attalias Sync="TRUE">POP_2003</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM3NAME</attrlabl>
+            <attalias Sync="TRUE">ADM3CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>District Name</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Gini_07</attrlabl>
+            <attalias Sync="TRUE">PERIM_KM</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM3CODE</attrlabl>
+            <attalias Sync="TRUE">ADM2NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>District Code</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PERIM_KM</attrlabl>
+            <attalias Sync="TRUE">Shape_Area</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM2NAME</attrlabl>
+            <attalias Sync="TRUE">ADM2CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>Governorate Name</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape_Area</attrlabl>
+            <attalias Sync="TRUE">POP_2007</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Area of feature in internal units squared.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Positive real numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM2CODE</attrlabl>
+            <attalias Sync="TRUE">AREA_KM2</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>Governorate Code</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POP_2007</attrlabl>
+            <attalias Sync="TRUE">POP_2006</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>WFP population estimate for 2007</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">AREA_km2</attrlabl>
+            <attalias Sync="TRUE">sum_pop_07</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>Area of District in square kilometers</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POP_2006</attrlabl>
+            <attalias Sync="TRUE">mean_pop_07</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef>Interpolated WFP population estimate for 2004</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">sum_pop_07</attrlabl>
+            <attalias Sync="TRUE">median_pop_07</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">mean_pop_07</attrlabl>
+            <attalias Sync="TRUE">STD_pop_07</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">median_pop_07</attrlabl>
+            <attalias Sync="TRUE">sum_pop_06</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">STD_pop_07</attrlabl>
+            <attalias Sync="TRUE">mean_pop_06</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">sum_pop_06</attrlabl>
+            <attalias Sync="TRUE">median_pop_06</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">mean_pop_06</attrlabl>
+            <attalias Sync="TRUE">STD_pop_06</attalias>
+            <attrtype Sync="TRUE">Single</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">median_pop_06</attrlabl>
+            <attalias Sync="TRUE">exponent_06</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">STD_pop_06</attrlabl>
+            <attalias Sync="TRUE">Gini_06</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20090709</mdDateSt>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <procdesc Sync="TRUE">Dataset copied.</procdesc>
+            <srcused Sync="TRUE">\\WWS-22KGXD1\E\REF\Summer Work\Iraq_Population\DistrictPopulation.mdb</srcused>
+            <procdate Sync="TRUE">20090612</procdate>
+            <proctime Sync="TRUE">15342900</proctime>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{80F7BB7B-5CCF-4374-9EF3-DD33E5A957DA}</mdFileID>
+</metadata>

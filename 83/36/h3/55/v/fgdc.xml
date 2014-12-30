@@ -1,0 +1,490 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20090806</CreaDate>
+      <CreaTime>11592800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <DataProperties>
+         <lineage>
+            <Process Date="20090802" Time="191943" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection">DefineProjection reconstruction_events GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] reconstruction_events</Process>
+            <Process Date="20090803" Time="115723" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Project">Project reconstruction_events H:\stata\reconstruction_events_utm.shp PROJCS['WGS_1984_UTM_Zone_38N',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',0.0],PARAMETER['Central_Meridian',45.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] # GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]]</Process>
+            <Process Date="20090803" Time="121354" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Analysis Tools.tbx\SpatialJoin">SpatialJoin reconstruction_events_utm districts_Project H:\stata\reconstruction_events_utm_Sp.shp JOIN_ONE_TO_ONE KEEP_ALL "NoName 'NoName' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,NoName,-1,-1;uri 'uri' true true false 10 Double 0 10 ,First,#,H:\stata\reconstruction_events_utm.shp,uri,-1,-1;project_na 'project_na' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,project_na,-1,-1;executing_ 'executing_' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,executing_,-1,-1;constructi 'constructi' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,constructi,-1,-1;program 'program' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,program,-1,-1;program_ma 'program_ma' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,program_ma,-1,-1;program_ca 'program_ca' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,program_ca,-1,-1;sub_sector 'sub_sector' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,sub_sector,-1,-1;sub_sub_se 'sub_sub_se' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,sub_sub_se,-1,-1;governorat 'governorat' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,governorat,-1,-1;district 'district' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,district,-1,-1;location 'location' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,location,-1,-1;status 'status' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,status,-1,-1;fund_type 'fund_type' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,fund_type,-1,-1;grid_coord 'grid_coord' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,grid_coord,-1,-1;longitude 'longitude' true true false 19 Double 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,longitude,-1,-1;latitude 'latitude' true true false 19 Double 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,latitude,-1,-1;project_st 'project_st' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,project_st,-1,-1;worktype 'worktype' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,worktype,-1,-1;reconstruc 'reconstruc' true true false 19 Double 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,reconstruc,-1,-1;actual_awa 'actual_awa' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,actual_awa,-1,-1;forecast_s 'forecast_s' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,forecast_s,-1,-1;actual_sta 'actual_sta' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,actual_sta,-1,-1;forecast_f 'forecast_f' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,forecast_f,-1,-1;actual_fin 'actual_fin' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,actual_fin,-1,-1;actual___c 'actual___c' true true false 10 Double 0 10 ,First,#,H:\stata\reconstruction_events_utm.shp,actual___c,-1,-1;scope_of_w 'scope_of_w' true true false 254 Text 0 0 ,First,#,H:\stata\reconstruction_events_utm.shp,scope_of_w,-1,-1;repeate_ur 'repeate_ur' true true false 10 Double 0 10 ,First,#,H:\stata\reconstruction_events_utm.shp,repeate_ur,-1,-1;ADM3NAME 'ADM3NAME' true true false 16 Text 0 0 ,First,#,H:\stata\districts_Project.shp,ADM3NAME,-1,-1;ADM3CODE 'ADM3CODE' true true false 16 Text 0 0 ,First,#,H:\stata\districts_Project.shp,ADM3CODE,-1,-1;ADM2NAME 'ADM2NAME' true true false 16 Text 0 0 ,First,#,H:\stata\districts_Project.shp,ADM2NAME,-1,-1;ADM2CODE 'ADM2CODE' true true false 16 Text 0 0 ,First,#,H:\stata\districts_Project.shp,ADM2CODE,-1,-1" CLOSEST "0 DecimalDegrees" dist2distrct</Process>
+         </lineage>
+      </DataProperties>
+      <SyncDate>20090806</SyncDate>
+      <SyncTime>11544100</SyncTime>
+      <ModDate>20090806</ModDate>
+      <ModTime>11592000</ModTime>
+      <PublishStatus>Published</PublishStatus>
+      <MetaID>{6B94AEFB-FF70-4CE2-82A6-9873A8B8172F}</MetaID>
+      <PublishedDocID>{B9FAAB8A-83C8-4000-A110-52C089BA3F87}</PublishedDocID>
+   </Esri>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <onlink>http://map.princeton.edu/offline/shapiro.html</onlink>
+            <origin>ESOC Group</origin>
+            <pubdate>2009</pubdate>
+            <title>Geographic Points of Interest (Places)</title>
+            <ftname Sync="TRUE">Points_of_interest</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <pubinfo>
+               <pubplace>Princeton, NJ</pubplace>
+               <publish>ESOC Group</publish>
+            </pubinfo>
+         </citeinfo>
+      </citation>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.1.1850</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>Locations of places and points of interest in Iraq. Latitude and Longitude information was obtained from the Geospatial Intelligence Agency's GeoNames resource.</abstract>
+         <purpose>Developed to be used by the ESOC Group</purpose>
+      </descript>
+      <timeperd>
+         <current>ground condition</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>2009</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">38.778552</westbc>
+            <eastbc Sync="TRUE">49.433333</eastbc>
+            <northbc Sync="TRUE">37.378982</northbc>
+            <southbc Sync="TRUE">28.833333</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">38.778552</leftbc>
+            <rightbc Sync="TRUE">49.433333</rightbc>
+            <bottombc Sync="TRUE">28.833333</bottombc>
+            <topbc Sync="TRUE">37.378982</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <place>
+            <placekey>Iraq</placekey>
+            <placekey>Middle East</placekey>
+         </place>
+         <theme>
+            <themekey>Populated Places</themekey>
+            <themekey>Administrative Units</themekey>
+            <themekey>Built Up Areas</themekey>
+            <themekt>Locations and geodetic networks</themekt>
+         </theme>
+      </keywords>
+      <accconst>This data is NOT FOR PUBLIC ACCESS
+</accconst>
+      <useconst>Data is to be used by the ESOC group.</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Robert Fargo</cntper>
+               <cntorg>Princeton University</cntorg>
+            </cntperp>
+            <cntpos>GIS Analyst</cntpos>
+            <cntemail>rfargo@princeton.edu</cntemail>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <linkage Sync="TRUE">file://\\WWS-22KGXD1\G\REF\Summer Work\Iraq\Points_of_interest.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+               <orDesc Sync="TRUE">002</orDesc>
+            </onLineSrc>
+            <transSize Sync="TRUE">2.486</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <procdesc Sync="TRUE">Dataset copied.</procdesc>
+            <procdate Sync="TRUE">20090803</procdate>
+            <proctime Sync="TRUE">11571900</proctime>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.1.1850</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">Points_of_interest</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">38.778552</westBL>
+               <eastBL Sync="TRUE">49.433333</eastBL>
+               <northBL Sync="TRUE">37.378982</northBL>
+               <southBL Sync="TRUE">28.833333</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">38.778552</westBL>
+         <eastBL Sync="TRUE">49.433333</eastBL>
+         <northBL Sync="TRUE">37.378982</northBL>
+         <southBL Sync="TRUE">28.833333</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+               <cntorg>REQUIRED: The organization responsible for the metadata information.</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>REQUIRED: The telephone number by which individuals can speak to the organization or individual.</cntvoice>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20090806</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc>Offline Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">2.486</transize>
+               <dssize Sync="TRUE">2.486</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="Points_of_interest">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Point</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">93112</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="Points_of_interest">
+            <sdtstype Sync="TRUE">Entity point</sdtstype>
+            <ptvctcnt Sync="TRUE">93112</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+         </geograph>
+      </horizsys>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="Points_of_interest">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="004" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">93112</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="Points_of_interest">
+         <enttyp>
+            <enttypl Sync="TRUE">Points_of_interest</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">93112</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Join_Count</attrlabl>
+            <attalias Sync="TRUE">Join_Count</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">9</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">RC</attrlabl>
+            <attalias Sync="TRUE">RC</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">UFI</attrlabl>
+            <attalias Sync="TRUE">UFI</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">UNI</attrlabl>
+            <attalias Sync="TRUE">UNI</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LAT</attrlabl>
+            <attalias Sync="TRUE">LAT</attalias>
+            <attrtype Sync="TRUE">Float</attrtype>
+            <attwidth Sync="TRUE">19</attwidth>
+            <atnumdec Sync="TRUE">11</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LONG</attrlabl>
+            <attalias Sync="TRUE">LONG</attalias>
+            <attrtype Sync="TRUE">Float</attrtype>
+            <attwidth Sync="TRUE">19</attwidth>
+            <atnumdec Sync="TRUE">11</atnumdec>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DMS_LAT</attrlabl>
+            <attalias Sync="TRUE">DMS_LAT</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DMS_LONG</attrlabl>
+            <attalias Sync="TRUE">DMS_LONG</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MGRS</attrlabl>
+            <attalias Sync="TRUE">MGRS</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">JOG</attrlabl>
+            <attalias Sync="TRUE">JOG</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FC</attrlabl>
+            <attalias Sync="TRUE">FC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">DSG</attrlabl>
+            <attalias Sync="TRUE">DSG</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PC</attrlabl>
+            <attalias Sync="TRUE">PC</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CC1</attrlabl>
+            <attalias Sync="TRUE">CC1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM1</attrlabl>
+            <attalias Sync="TRUE">ADM1</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM2</attrlabl>
+            <attalias Sync="TRUE">ADM2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">POP</attrlabl>
+            <attalias Sync="TRUE">POP</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ELEV</attrlabl>
+            <attalias Sync="TRUE">ELEV</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">CC2</attrlabl>
+            <attalias Sync="TRUE">CC2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NT</attrlabl>
+            <attalias Sync="TRUE">NT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">LC</attrlabl>
+            <attalias Sync="TRUE">LC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SHORT_FORM</attrlabl>
+            <attalias Sync="TRUE">SHORT_FORM</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">GENERIC</attrlabl>
+            <attalias Sync="TRUE">GENERIC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SORT_NAME</attrlabl>
+            <attalias Sync="TRUE">SORT_NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FULL_NAME</attrlabl>
+            <attalias Sync="TRUE">FULL_NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FULL_NAME_</attrlabl>
+            <attalias Sync="TRUE">FULL_NAME_</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">254</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MODIFY_DAT</attrlabl>
+            <attalias Sync="TRUE">MODIFY_DAT</attalias>
+            <attrtype Sync="TRUE">Date</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">OBJECTID</attrlabl>
+            <attalias Sync="TRUE">OBJECTID</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">9</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM3NAME</attrlabl>
+            <attalias Sync="TRUE">ADM3NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM3CODE</attrlabl>
+            <attalias Sync="TRUE">ADM3CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM2NAME</attrlabl>
+            <attalias Sync="TRUE">ADM2NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ADM2CODE</attrlabl>
+            <attalias Sync="TRUE">ADM2CODE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">16</attwidth>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20090806</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{B9FAAB8A-83C8-4000-A110-52C089BA3F87}</mdFileID>
+</metadata>

@@ -1,0 +1,409 @@
+<metadata xml:lang="en">
+   <Esri>
+      <MetaID>{70949DF4-920E-4BB0-8D7C-FB2B7F02A7B7}</MetaID>
+      <CreaDate>20081014</CreaDate>
+      <CreaTime>14133700</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20081014</SyncDate>
+      <SyncTime>14125700</SyncTime>
+      <ModDate>20081014</ModDate>
+      <ModTime>14132700</ModTime>
+      <PublishedDocID>{DE5449C4-A299-47F2-8916-07B9EB093A62}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>The "Survey_control_point" dataset is a point representation of New York City monuments, GPS points and analytical points used for the triangulation of the New York City Base Map.</abstract>
+         <purpose>The "Survey_control_point" has been maintained and updated as a component of the New York City basemap, known as NYCMap.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>New York City Department of Information Technology and Telecommunications</origin>
+            <pubdate>5/19/2004</pubdate>
+            <title>New York City Survey Control Points 2004</title>
+            <ftname Sync="TRUE">survey_control_point</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://gisserver.princeton.edu/data/North_America/USA/NY/NYC/surveypoints2004.zip </onlink>
+            <serinfo>
+               <sername>NYCMap Update 2001 - 2002</sername>
+            </serinfo>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>2001 - 2002</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>2001 - 2002</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>After flyover.</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-74.288371</westbc>
+            <eastbc Sync="TRUE">-73.640692</eastbc>
+            <northbc Sync="TRUE">40.962382</northbc>
+            <southbc Sync="TRUE">40.482717</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">904604.680196</leftbc>
+            <rightbc Sync="TRUE">1083487.639341</rightbc>
+            <bottombc Sync="TRUE">115345.638719</bottombc>
+            <topbc Sync="TRUE">289900.719381</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekey>Survey control point, Monument, GPS Point, Analytical Point.</themekey>
+         </theme>
+      </keywords>
+      <accconst>The "Survey_control_point" dataset is available through DoITT.</accconst>
+      <useconst>The user constraints are defined by the New York City Department of Information Technology and Telecommunications.</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>New York City Department of Information Technology and Telecommunications.</cntorg>
+            </cntorgp>
+         </cntinfo>
+      </ptcontac>
+      <secinfo>
+         <secclass>Restricted</secclass>
+         <sechandl>NYCMAP ONLINE LICENSE AGREEMENT
+IMPORTANT: READ THESE TERMS CAREFULLY BEFORE DOWNLOADING NYCMAP ONLINE. BY DOWNLOADING OR USING NYCMAP ONLINE, YOU ACKNOWLEDGE THAT YOU HAVE READ THIS LICENSE AGREEMENT, THAT YOU UNDERSTAND IT, AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO THE TERMS AND CONDITIONS OF THIS LICENSE AGREEMENT, PROMPTLY EXIT THIS PAGE WITHOUT DOWNLOADING THE NYCMAP.
+1. GRANT OF LICENSE
+The City Of New York Department of Information Technology and Telecommunications ("DoITT") grants you a non-exclusive, non-transferable license to use NYCMAP ONLINE (the "NYCMAP"), the base map with which this license is distributed.
+2. SERVICES PROVIDED BY YOU
+If you discover any errors in the data contained on the NYCMAP you may report them by filling out this form (http://www.nyc.gov/html/doitt/html/miscs/citymap_feedback.shtml).
+3. PROPRIETARY RIGHTS
+a) The NYCMAP is owned by the City of New York Department of Information Technology and Telecommunications and is protected by the United States copyright laws and applicable international treaties and/or conventions.
+b) You acknowledge that pursuant to this Agreement you obtain only the right to use the data and that no right, title, or interest in or to any copyrights, trademarks, or other proprietary rights relating to the data is transferred or licensed to you.
+c) You shall not sell, loan, transfer, publish, disclose, or otherwise make the NYCMAP available to others without the prior written permission of Licensor and agree to protect the NYCMAP from unauthorized use, reproduction, distribution or publication. All copies of the NYCMAP made by you are the property of Licensor. Violation of any provision of this section shall immediately terminate this License Agreement.
+d) You shall not remove, alter, cover, or obfuscate any acknowledgements, copyright notice, trademark, or other proprietary rights notice placed by DoITT on the data or any portion thereof. You shall comply with directions submitted by DoITT from time to time regarding the form and placement of proprietary rights notices on the NYCMAP, or any portion thereof. 
+4. PERMITTED USES
+a) You may use the NYCMAP on any computer owned or leased by you. You must ensure that all authorized users of the NYCMAP comply with this Agreement. A copy of this Agreement shall accompany all copies of the NYCMAP so used. No identifying marks, copyright or proprietary right notices may be deleted from any copies of the NYCMAP made by you.
+b) You may distribute derivatives of the NYCMAP in the form of network maps and drawings to third parties on the condition that such release includes the following statement: "Base Map Copyrighted by the New York City Department of Information Technology and Telecommunications. All rights reserved."
+5. PROHIBITED USES
+a) The NYCMAP data in whole or in part shall not be transmitted over the Internet by you or in any way made available over the Internet.
+b) You shall not sell, rent, lease, sub-license, lend, assign, time-share or transfer, in whole or in part, or provide unlicensed third parties access to, the NYCMAP or any rights under the Agreement.
+c) All derivatives of the NYCMAP permitted under this Agreement for release to third parties must include the following statement: "Base Map Copyrighted by the New York City Department of Information Technology and Telecommunications. All rights reserved."
+6. UPDATED VERSION
+DoITT is under no obligation to create or make available via download updated versions of the NYCMAP.
+7. TERMINATION
+This License Agreement is effective until it is terminated. You may terminate this License Agreement at any time by destroying or returning to DoITT all copies of the NYCMAP in your possession or under your control. DoITT may terminate this License Agreement for any reason, including, but not limited to, if DoITT finds that you have violated any of the terms of this License Agreement. Upon notification of termination, you agree to destroy or return to DoITT all copies of the NYCMAP and to certify in writing that all known copies, including backup copies, have been destroyed. All provisions relating to confidentiality, proprietary rights, and non-disclosure shall survive the termination of this NYCMAP License Agreement. 
+8. NO WARRANTY
+NEITHER DOITT, THE CITY OF NEW YORK NOR ANY AGENCY THEREOF, NOR ANY OF THEIR EMPLOYEES, CONTRACTORS, OR SUBCONTRACTORS, MAKE ANY WARRANTY, EXPRESS OR IMPLIED, NOR ASSUME ANY LEGAL LIABILITY OR RESPONSIBILITY FOR THE ACCURACY, TIMELINESS, COMPLETENESS, FITNESS FOR ANY PARTICULAR PURPOSE, OR USEFULNESS OF ANY INFORMATION, APPARATUS, PRODUCT, OR PROCESS DISCLOSED, NOR REPRESENT THAT ITS USE WOULD NOT INFRINGE ON PRIVATELY OWNED RIGHTS. DoITT DISCLAIMS ANY LIABILITY FOR ERRORS.
+9. NO LIABILITY
+IN NO EVENT WILL DOITT BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY INCIDENTAL OR CONSEQUENTIAL DAMAGES (INCLUDING, WITHOUT LIMITATION, INDIRECT, SPECIAL, PUNITIVE, OR EXEMPLARY DAMAGES FOR LOSS OF BUSINESS, LOSS OF PROFITS, BUSINESS INTERRUPTION, OR LOSS OF BUSINESS INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE PROGRAM, OR FOR ANY CLAIM BY ANY OTHER PARTY, EVEN IF DOITT HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+10. REMEDIES
+In the event of a breach or threatened breach of any of the provisions of this Agreement by the you, DoITT shall be entitled to preliminary and permanent injunctive relief to enforce the provisions hereof; but nothing shall preclude DoITT from pursuing any action or other remedy, including for damages, for any breach or threatened breach of this Agreement, all of which shall be cumulative. In the event that DoITT prevails in any such action, it shall be entitled to recover from the you all reasonable attorney's fees incurred in connection therewith.
+11. WAIVERS
+No failure or delay by DoITT in enforcing any right or remedy under this Agreement shall be construed as a waiver of any future or other exercise of such right or remedy by DoITT.
+12. GENERAL
+a) This Agreement and performance hereunder shall be governed by the laws of the State of New York. If any provision of this Agreement is invalid under any applicable statue or rule of law, it is to that extent to be deemed omitted.
+b) All rights not specifically granted in this Agreement are reserved to DoITT.
+c) This License Agreement shall constitute the entire Agreement between the parties hereto. Any waiver or modification of this License Agreement shall only be effective if it is in writing and signed by both parties hereto. If any part of this License Agreement is found invalid or unenforceable by a court of competent jurisdiction, the remainder of this License Agreement shall be interpreted so as to reasonably effect the intention of the parties.
+d) THIS LICENSE AGREEMENT IS EXPRESSLY MADE SUBJECT TO ANY LAWS, REGULATIONS, ORDERS, OR OTHER RESTRICTIONS ON THE EXPORT FROM THE UNITED STATES OF AMERICA OF THE NYCMAP OR INFORMATION ABOUT SUCH NYCMAP WHICH MAY BE IMPOSED FROM TIME TO TIME BY THE GOVERNMENT OF THE UNITED STATES OF AMERICA. YOU SHALL NOT EXPORT THE NYCMAP, DOCUMENTATION, OR INFORMATION ABOUT THE NYCMAP AND DOCUMENTATION WITHOUT CONSENT OF DOITT AND COMPLIANCE WITH SUCH LAWS, REGULATIONS, ORDERS, OR OTHER RESTRICTIONS.
+</sechandl>
+      </secinfo>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">survey_control_point</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">904604.680196</westBL>
+               <eastBL Sync="TRUE">1083487.639341</eastBL>
+               <northBL Sync="TRUE">289900.719381</northBL>
+               <southBL Sync="TRUE">115345.638719</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">-74.288371</westBL>
+         <eastBL Sync="TRUE">-73.640692</eastBL>
+         <northBL Sync="TRUE">40.962382</northBL>
+         <southBL Sync="TRUE">40.482717</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Chris Santolla</cntper>
+               <cntorg>CARSI (Center for Advanced Research of Spatial Information) - Hunter College</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>New York</city>
+               <state>New York</state>
+               <postal>10021</postal>
+               <address>Hunter College - North Building 10th Floor, Suite #1023-N - 695 Park Avenue .</address>
+            </cntaddr>
+            <cntvoice>(212) 650-3939.</cntvoice>
+            <cntpos>Research Assistant</cntpos>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20081014</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc Sync="TRUE">Downloadable Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">0.143</transize>
+               <dssize Sync="TRUE">0.143</dssize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+      <distrib>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>New York City Department of Information Technology and Telecommunications.</cntorg>
+            </cntorgp>
+         </cntinfo>
+      </distrib>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS001\C\NYC\new\newdata\survey_control_point.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.143</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="survey_control_point">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Point</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">5340</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="survey_control_point">
+            <sdtstype Sync="TRUE">Entity point</sdtstype>
+            <ptvctcnt Sync="TRUE">5340</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="survey_control_point">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="004" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">5340</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="survey_control_point">
+         <enttyp>
+            <enttypl Sync="TRUE">survey_control_point</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">5340</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SOURCE_ID</attrlabl>
+            <attalias Sync="TRUE">SOURCE_ID</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">11</attwidth>
+            <attrdef>Unique persistent ID from source database.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">NAME</attrlabl>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">32</attwidth>
+            <attrdef>Name of feature.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SOURCETYPE</attrlabl>
+            <attalias Sync="TRUE">SOURCETYPE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">15</attwidth>
+            <attrdef>Source of geometry "photogrammetric" or "hand digitized".</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">SOURCEDATE</attrlabl>
+            <attalias Sync="TRUE">SOURCEDATE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>The year of orthophotography used to update geometry.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MODIFIED</attrlabl>
+            <attalias Sync="TRUE">MODIFIED</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">25</attwidth>
+            <attrdef>Date feature geometry is updated in NYCMap database.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FEAT_CODE</attrlabl>
+            <attalias Sync="TRUE">FEAT_CODE</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <attrdef>Feature code (classification) &#8211; corresponds to feature description.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FEAT_DESC</attrlabl>
+            <attalias Sync="TRUE">FEAT_DESC</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">32</attwidth>
+            <attrdef>Feature description is a written explanation of the type or classification of feature.</attrdef>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">EXPORTED</attrlabl>
+            <attalias Sync="TRUE">EXPORTED</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">12</attwidth>
+            <attrdef>Date feature was exported from CARSI.</attrdef>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20081014</mdDateSt>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_North_American_1983</geogcsn>
+            <projcsn Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</projcsn>
+         </cordsysn>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <plandu Sync="TRUE">survey feet</plandu>
+               <coordrep>
+                  <absres Sync="TRUE">0.000000</absres>
+                  <ordres Sync="TRUE">0.000000</ordres>
+               </coordrep>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Lambert Conformal Conic</mapprojn>
+               <lambertc>
+                  <stdparll Sync="TRUE">40.666667</stdparll>
+                  <stdparll Sync="TRUE">41.033333</stdparll>
+                  <longcm Sync="TRUE">-74.000000</longcm>
+                  <latprjo Sync="TRUE">40.166667</latprjo>
+                  <feast Sync="TRUE">984250.000000</feast>
+                  <fnorth Sync="TRUE">0.000000</fnorth>
+               </lambertc>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">North American Datum of 1983</horizdn>
+            <ellips Sync="TRUE">Geodetic Reference System 80</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257222</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">NAD_1983_StatePlane_New_York_Long_Island_FIPS_3104_Feet</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <dataqual>
+      <posacc>
+         <horizpa>
+            <horizpar>All the NYCMap data was aerotriangulated and stereo-compiled to meet ASPRS Class 1 horizontal mapping standards and ASPRS vertical Class 2 accuracy specifications.  The mapping standards deal with Root Mean Square (RMS) calculations that states if a random number of clearly identifiable surveyed ground control points throughout the project were compared to the mapped features, the RMS of the points would not exceed 2'. In layman's terms,  95% of the data is accurate to +/- 2'.</horizpar>
+            <qhorizpa>
+               <horizpav>95% of the data is accurate to +/- 2 feet</horizpav>
+               <horizpae>95% of the data is accurate to +/- 2 feet</horizpae>
+            </qhorizpa>
+         </horizpa>
+      </posacc>
+      <lineage>
+         <srcinfo>
+            <srcscale>0.75 foot for orthophotographs from 2001 - 2002 and 1 foot for orthophotographs from 1996</srcscale>
+            <typesrc>Orthophotographs</typesrc>
+         </srcinfo>
+         <procstep>
+            <procdesc>Updated orthophotography is overlaid onto planimetric data generated from the previous orthophotographs. In this case 2001 - 2002 orthophotography was used to capture the difference from 1996 planimetric data.</procdesc>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{DE5449C4-A299-47F2-8916-07B9EB093A62}</mdFileID>
+</metadata>
