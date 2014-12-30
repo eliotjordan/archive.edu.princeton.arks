@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/dj52w634p</field>
+    <field name="dc_creator_sm">United States Office of Strategic Services, Research and Analysis Branch</field>
+    <field name="dc_description_s">This is a city map of the port of Brindisi, Italy, shown at a 1:13,110 scale. This city map was created by the United States Office of Strategic Services, Research and Analysis Branch.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">dj52w634p</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">United States Office of Strategic Services, Research and Analysis Branch</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City blocks</field>
+    <field name="dc_title_s">Brindisi, plan of port</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/dj52w634p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/dj52w634p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/dj52w634p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/dj52w634p/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Brindisi</field>
+    <field name="dct_spatial_sm">Italy</field>
+    <field name="dct_spatial_sm">Port of Brindisi</field>
+    <field name="dct_issued_s">1943</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">40.62 17.91 40.68 18.03</field>
+    <field name="georss_polygon_s">40.68 17.91 40.68 18.03 40.62 18.03 40.62 17.91 40.68 17.91</field>
+    <field name="layer_slug_s">princeton-dj52w634p</field>
+    <field name="layer_id_s">dj52w634p</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:50Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">17.91 40.62 18.03 40.68</field>
+    <field name="solr_ne_pt">40.68,18.03</field>
+    <field name="solr_sw_pt">40.62,17.91</field>
+    <field name="solr_geom">ENVELOPE(17.91, 18.03, 40.68, 40.62)</field>
+    <field name="solr_year_i">1943</field>
+  </doc>
+</add>

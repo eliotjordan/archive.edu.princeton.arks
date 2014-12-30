@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/6h440v18c</field>
+    <field name="dc_creator_sm">University of Kansas, Department of Geography</field>
+    <field name="dc_description_s">This is map of the Natural Vegetation of California. It was made by the University of Kansas and has a scale of 1:1,000,000.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">6h440v18c</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">University of Kansas, Department of Geography</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Vegetation</field>
+    <field name="dc_subject_sm">Forest Type</field>
+    <field name="dc_subject_sm">Needle Leaved Forest</field>
+    <field name="dc_subject_sm">Broad Leaved Forests</field>
+    <field name="dc_subject_sm">Shrubs</field>
+    <field name="dc_subject_sm">Savanna</field>
+    <field name="dc_subject_sm">Desert Formations</field>
+    <field name="dc_subject_sm">Grammanoid Formations</field>
+    <field name="dc_subject_sm">Mixed Forest</field>
+    <field name="dc_title_s">Natural Vegetation of California</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6h440v18c/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F6h%2F44%2F0v%2F18%2Fc%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6h440v18c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6h440v18c/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">California</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_issued_s">1977</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">33 -124 42 -114</field>
+    <field name="georss_polygon_s">42 -124 42 -114 33 -114 33 -124 42 -124</field>
+    <field name="layer_slug_s">princeton-6h440v18c</field>
+    <field name="layer_id_s">6h440v18c</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:05Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-124 33 -114 42</field>
+    <field name="solr_ne_pt">42,-114</field>
+    <field name="solr_sw_pt">33,-124</field>
+    <field name="solr_geom">ENVELOPE(-124, -114, 42, 33)</field>
+    <field name="solr_year_i">1977</field>
+  </doc>
+</add>

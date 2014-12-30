@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/mg74qn64q</field>
+    <field name="dc_creator_sm">New York : Sanborn Map Company</field>
+    <field name="dc_description_s">This is a Sandborn map of Hightstown, Mercer County, New Jersey, shown at a scale of 1:600. It is sheet 4 in a set of 5.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">mg74qn64q</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Sanborn Map Company</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Administrational and Political Boundaries</field>
+    <field name="dc_subject_sm">Fire Insurance</field>
+    <field name="dc_title_s">Hightstown (Sheet 4), Mercer County, New Jersey [1925]</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mg74qn64q/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fmg%2F74%2Fqn%2F64%2Fq%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mg74qn64q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mg74qn64q/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Hightstown</field>
+    <field name="dct_spatial_sm">Mercer County</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_issued_s">1925</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">40.2653 -74.5298 40.2695 -74.5242</field>
+    <field name="georss_polygon_s">40.2695 -74.5298 40.2695 -74.5242 40.2653 -74.5242 40.2653 -74.5298 40.2695 -74.5298</field>
+    <field name="layer_slug_s">princeton-mg74qn64q</field>
+    <field name="layer_id_s">mg74qn64q</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:34Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-74.5298 40.2653 -74.5242 40.2695</field>
+    <field name="solr_ne_pt">40.2695,-74.5242</field>
+    <field name="solr_sw_pt">40.2653,-74.5298</field>
+    <field name="solr_geom">ENVELOPE(-74.5298, -74.5242, 40.2695, 40.2653)</field>
+    <field name="solr_year_i">1925</field>
+  </doc>
+</add>

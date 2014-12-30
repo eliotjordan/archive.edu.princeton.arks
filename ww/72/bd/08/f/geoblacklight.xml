@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ww72bd08f</field>
+    <field name="dc_creator_sm">Khan, Mohd. Faiz Ali</field>
+    <field name="dc_description_s">This is a plan of the city of Shahjahanabad, India, shown at a 1:9,051 scale. The map was created by India's Town Planning Organization in conjuction with the Ministry of Health.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ww72bd08f</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">India. Ministry of Health</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">City plan</field>
+    <field name="dc_subject_sm">planningCadastre</field>
+    <field name="dc_title_s">Lay-out plan of Shahjahanabad showing Qila Mubarik, Kuchas &amp; Galis.</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ww72bd08f/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/ww72bd08f/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ww72bd08f", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ww72bd08f/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Shahjahanabad</field>
+    <field name="dct_spatial_sm">Dilli</field>
+    <field name="dct_spatial_sm">Delhi Nat. Capital Territory</field>
+    <field name="dct_spatial_sm">India</field>
+    <field name="dct_spatial_sm">MAX  G7654.D5.1956.T6</field>
+    <field name="dct_issued_s">1956</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">28.6333 77.2167 28.6667 77.2500</field>
+    <field name="georss_polygon_s">28.6667 77.2167 28.6667 77.2500 28.6333 77.2500 28.6333 77.2167 28.6667 77.2167</field>
+    <field name="layer_slug_s">princeton-ww72bd08f</field>
+    <field name="layer_id_s">ww72bd08f</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:11Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">77.2167 28.6333 77.2500 28.6667</field>
+    <field name="solr_ne_pt">28.6667,77.2500</field>
+    <field name="solr_sw_pt">28.6333,77.2167</field>
+    <field name="solr_geom">ENVELOPE(77.2167, 77.2500, 28.6667, 28.6333)</field>
+    <field name="solr_year_i">1956</field>
+  </doc>
+</add>

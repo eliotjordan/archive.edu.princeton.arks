@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/z603r014p</field>
+    <field name="dc_creator_sm">Army Map Service</field>
+    <field name="dc_description_s">This is a map of the city of Sousse, Tunisia, shown at a 1:7,500 scale. The map was created for use by War and Navy Department agencies during World War II.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">z603r014p</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Army Map Service</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Roads</field>
+    <field name="dc_subject_sm">Railroads</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">Industry</field>
+    <field name="dc_subject_sm">World War II</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Military</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_title_s">Tunisia 1:7,500 Sousse city plan. G.S.G.S. 4275. </field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z603r014p/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fz6%2F03%2Fr0%2F14%2Fp%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z603r014p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z603r014p/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Sousse</field>
+    <field name="dct_spatial_sm">Susa</field>
+    <field name="dct_spatial_sm">Susah</field>
+    <field name="dct_spatial_sm">Tunisia</field>
+    <field name="dct_spatial_sm">G8254.S8.1943.A7M3</field>
+    <field name="dct_issued_s">1943</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">35.8167 10.6333 35.8333 10.6500</field>
+    <field name="georss_polygon_s">35.8333 10.6333 35.8333 10.6500 35.8167 10.6500 35.8167 10.6333 35.8333 10.6333</field>
+    <field name="layer_slug_s">princeton-z603r014p</field>
+    <field name="layer_id_s">z603r014p</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:10Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">10.6333 35.8167 10.6500 35.8333</field>
+    <field name="solr_ne_pt">35.8333,10.6500</field>
+    <field name="solr_sw_pt">35.8167,10.6333</field>
+    <field name="solr_geom">ENVELOPE(10.6333, 10.6500, 35.8333, 35.8167)</field>
+    <field name="solr_year_i">1943</field>
+  </doc>
+</add>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9w032470f</field>
+    <field name="dc_creator_sm">Shell Touring</field>
+    <field name="dc_description_s">This is a city map of Athens, Greece, shown at an unknown scale. This city map was created by Shell Touring.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9w032470f</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Shell Touring</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City blocks</field>
+    <field name="dc_title_s">Athinai</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9w032470f/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9w032470f/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9w032470f", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9w032470f/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Athens</field>
+    <field name="dct_spatial_sm">Greece</field>
+    <field name="dct_spatial_sm">Athinai</field>
+    <field name="dct_spatial_sm">Athens Prefecture</field>
+    <field name="dct_spatial_sm">Nomoarchia Athinon</field>
+    <field name="dct_issued_s">Unknown</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">37.8239 23.5979 38.157 23.8971</field>
+    <field name="georss_polygon_s">38.157 23.5979 38.157 23.8971 37.8239 23.8971 37.8239 23.5979 38.157 23.5979</field>
+    <field name="layer_slug_s">princeton-9w032470f</field>
+    <field name="layer_id_s">9w032470f</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:56Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">23.5979 37.8239 23.8971 38.157</field>
+    <field name="solr_ne_pt">38.157,23.8971</field>
+    <field name="solr_sw_pt">37.8239,23.5979</field>
+    <field name="solr_geom">ENVELOPE(23.5979, 23.8971, 38.157, 37.8239)</field>
+  </doc>
+</add>

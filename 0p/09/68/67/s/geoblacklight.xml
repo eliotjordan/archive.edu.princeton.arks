@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/0p096867s</field>
+    <field name="dc_creator_sm">United States. Geological Survey</field>
+    <field name="dc_description_s">This is a scanned historical map of Lowville Quadrangle in Lewis County in New York shown at a scale of 1:62,500. This map was created by the US Geological Survey.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">0p096867s</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">US Geological Survey</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">historical maps</field>
+    <field name="dc_subject_sm">Topography</field>
+    <field name="dc_subject_sm">Contour</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Administrative and political boundaries</field>
+    <field name="dc_title_s">New York: (Lewis County) Lowville Quadrangle. </field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/0p096867s/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F0p%2F09%2F68%2F67%2Fs%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0p096867s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/0p096867s/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Lowville</field>
+    <field name="dct_spatial_sm">Lewis County</field>
+    <field name="dct_spatial_sm">New York</field>
+    <field name="dct_spatial_sm">USA</field>
+    <field name="dct_spatial_sm">MC G3801.C2.s62.U5G4 Lowville</field>
+    <field name="dct_issued_s">April 1913</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">43.75 -75.5 44 -75.25</field>
+    <field name="georss_polygon_s">44 -75.5 44 -75.25 43.75 -75.25 43.75 -75.5 44 -75.5</field>
+    <field name="layer_slug_s">princeton-0p096867s</field>
+    <field name="layer_id_s">0p096867s</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:17Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-75.5 43.75 -75.25 44</field>
+    <field name="solr_ne_pt">44,-75.25</field>
+    <field name="solr_sw_pt">43.75,-75.5</field>
+    <field name="solr_geom">ENVELOPE(-75.5, -75.25, 44, 43.75)</field>
+  </doc>
+</add>

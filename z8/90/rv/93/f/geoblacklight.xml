@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/z890rv93f</field>
+    <field name="dc_creator_sm">United States. Office of Strategic Services. Research and Analysis Branch</field>
+    <field name="dc_description_s">This is a map of the ports of Bremerhaven and Wesermünde, Germany, shown at a 1:12,500 scale. This map was created by the United States Office of Strategic Services, Research and Analysis Branch.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">z890rv93f</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">United States. Office of Strategic Services. Research and Analysis Branch</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">Ports</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_title_s">Ports of Bremerhaven &amp; Wesermünde</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z890rv93f/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/z890rv93f/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z890rv93f", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z890rv93f/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Bremerhaven</field>
+    <field name="dct_spatial_sm">Germany</field>
+    <field name="dct_spatial_sm">Wesermunde</field>
+    <field name="dct_spatial_sm">Weser River</field>
+    <field name="dct_spatial_sm">Land Bremer</field>
+    <field name="dct_spatial_sm">Land Freie Hansestadt Bremen</field>
+    <field name="dct_issued_s">1944</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">53.4756 8.5215 53.6254 8.6633</field>
+    <field name="georss_polygon_s">53.6254 8.5215 53.6254 8.6633 53.4756 8.6633 53.4756 8.5215 53.6254 8.5215</field>
+    <field name="layer_slug_s">princeton-z890rv93f</field>
+    <field name="layer_id_s">z890rv93f</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:10Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">8.5215 53.4756 8.6633 53.6254</field>
+    <field name="solr_ne_pt">53.6254,8.6633</field>
+    <field name="solr_sw_pt">53.4756,8.5215</field>
+    <field name="solr_geom">ENVELOPE(8.5215, 8.6633, 53.6254, 53.4756)</field>
+    <field name="solr_year_i">1944</field>
+  </doc>
+</add>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/w0892c49t</field>
+    <field name="dc_creator_sm">Unknown</field>
+    <field name="dc_description_s">This is a scanned map of the world from the Historical Map Collection of Princeton University's Rare Books department.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">w0892c49t</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Chez la veuve de P. Marret</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Maps--Early works to 1800</field>
+    <field name="dc_subject_sm">World maps</field>
+    <field name="dc_subject_sm">World map 1716</field>
+    <field name="dc_subject_sm">Administrative and political boundaries</field>
+    <field name="dc_subject_sm">HMC01.6</field>
+    <field name="dc_title_s">Mappe-monde avec la route que les fregates le Duc &amp; la Duchesse ont suivie pour faire le tour du globe depuis 1708 jusqu'en 1711</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/w0892c49t/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fw0%2F89%2F2c%2F49%2Ft%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/w0892c49t", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/w0892c49t/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">World</field>
+    <field name="dct_issued_s">1716</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">-90 -180 90 180</field>
+    <field name="georss_polygon_s">90 -180 90 180 -90 180 -90 -180 90 -180</field>
+    <field name="layer_slug_s">princeton-w0892c49t</field>
+    <field name="layer_id_s">w0892c49t</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:13Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-180 -90 180 90</field>
+    <field name="solr_ne_pt">90,180</field>
+    <field name="solr_sw_pt">-90,-180</field>
+    <field name="solr_geom">ENVELOPE(-180, 180, 90, -90)</field>
+    <field name="solr_year_i">1716</field>
+  </doc>
+</add>

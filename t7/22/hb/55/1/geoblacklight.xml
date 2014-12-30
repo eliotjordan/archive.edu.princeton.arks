@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/t722hb551</field>
+    <field name="dc_creator_sm">United States. Geological Survey</field>
+    <field name="dc_description_s">This is a scanned historical map of the Flintstone Quadrangle in Maryland shown at a scale of 1:62,500. This map was created by the US Geological Survey.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">t722hb551</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">US Geological Survey</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">historical maps</field>
+    <field name="dc_subject_sm">Topography</field>
+    <field name="dc_subject_sm">Contour</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Administrative and political boundaries</field>
+    <field name="dc_title_s">Maryland--West Virginia--Pennsylvania: Flintstone Quadrangle [1922 reprint] </field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/t722hb551/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ft7%2F22%2Fhb%2F55%2F1%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/t722hb551", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/t722hb551/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Flintstone</field>
+    <field name="dct_spatial_sm">Alleghany County</field>
+    <field name="dct_spatial_sm">Hampshire County</field>
+    <field name="dct_spatial_sm">Bedford County</field>
+    <field name="dct_spatial_sm">Mineral County</field>
+    <field name="dct_spatial_sm">Maryland</field>
+    <field name="dct_spatial_sm">West Virginia</field>
+    <field name="dct_spatial_sm">Pennsylvania</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_spatial_sm">MC  G3841.C2.s62.U5G4 Flintstone</field>
+    <field name="dct_issued_s">July 1900</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">39.5 -78.75 39.75 -78.5</field>
+    <field name="georss_polygon_s">39.75 -78.75 39.75 -78.5 39.5 -78.5 39.5 -78.75 39.75 -78.75</field>
+    <field name="layer_slug_s">princeton-t722hb551</field>
+    <field name="layer_id_s">t722hb551</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:18Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-78.75 39.5 -78.5 39.75</field>
+    <field name="solr_ne_pt">39.75,-78.5</field>
+    <field name="solr_sw_pt">39.5,-78.75</field>
+    <field name="solr_geom">ENVELOPE(-78.75, -78.5, 39.75, 39.5)</field>
+  </doc>
+</add>

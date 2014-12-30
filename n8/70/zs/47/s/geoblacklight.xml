@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/n870zs47s</field>
+    <field name="dc_creator_sm">Vermeule, Cornelius Clarkson</field>
+    <field name="dc_description_s">A scanned New Jersey Geological Survey Atlas Sheet shown at a scale of 1:250,000.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">n870zs47s</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">New Jersey. Department of Conservation and Economic Development. Division of Planning and Development</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Administrative divisions</field>
+    <field name="dc_subject_sm">Map index</field>
+    <field name="dc_subject_sm">Political geography</field>
+    <field name="dc_subject_sm">Topographic map index</field>
+    <field name="dc_subject_sm">Political</field>
+    <field name="dc_subject_sm">boundaries</field>
+    <field name="dc_title_s">County and municipality map of New Jersey : political boundaries revised to June 30, 1956 / Index to topographic maps.</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/n870zs47s/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fn8%2F70%2Fzs%2F47%2Fs%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/n870zs47s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/n870zs47s/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">MC  G3811.A2.1963.N4J4</field>
+    <field name="dct_issued_s">1963</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">38.8333 -75.6333 41.3333 -73.8333</field>
+    <field name="georss_polygon_s">41.3333 -75.6333 41.3333 -73.8333 38.8333 -73.8333 38.8333 -75.6333 41.3333 -75.6333</field>
+    <field name="layer_slug_s">princeton-n870zs47s</field>
+    <field name="layer_id_s">n870zs47s</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:32Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-75.6333 38.8333 -73.8333 41.3333</field>
+    <field name="solr_ne_pt">41.3333,-73.8333</field>
+    <field name="solr_sw_pt">38.8333,-75.6333</field>
+    <field name="solr_geom">ENVELOPE(-75.6333, -73.8333, 41.3333, 38.8333)</field>
+    <field name="solr_year_i">1963</field>
+  </doc>
+</add>
