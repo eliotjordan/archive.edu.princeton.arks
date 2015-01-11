@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2z10wr80k</field>
+    <field name="dc_creator_sm">Central Intelligence Agency</field>
+    <field name="dc_description_s">This is a map of the Newly Independent Balkan States. The map was created by the United States Central Intelligence Agency.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2z10wr80k</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Central Intelligence Agency</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Roads</field>
+    <field name="dc_subject_sm">Railroads</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">Cities</field>
+    <field name="dc_title_s">Newly Independent Balkan States, 1992</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2z10wr80k/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2z%2F10%2Fwr%2F80%2Fk%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2z10wr80k", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2z10wr80k/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Central Balkan Region</field>
+    <field name="dct_spatial_sm">Eastern Europe</field>
+    <field name="dct_spatial_sm">Croatia</field>
+    <field name="dct_spatial_sm">Boznia and Herzegovnia</field>
+    <field name="dct_issued_s">1992</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">42.087 12.8895 47.466 19.6325</field>
+    <field name="georss_polygon_s">47.466 12.8895 47.466 19.6325 42.087 19.6325 42.087 12.8895 47.466 12.8895</field>
+    <field name="layer_slug_s">princeton-2z10wr80k</field>
+    <field name="layer_id_s">2z10wr80k</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:13Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">12.8895 42.087 19.6325 47.466</field>
+    <field name="solr_ne_pt">47.466,19.6325</field>
+    <field name="solr_sw_pt">42.087,12.8895</field>
+    <field name="solr_geom">ENVELOPE(12.8895, 19.6325, 47.466, 42.087)</field>
+    <field name="solr_year_i">1992</field>
+  </doc>
+</add>

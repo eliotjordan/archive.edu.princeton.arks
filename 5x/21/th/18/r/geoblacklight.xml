@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/5x21th18r</field>
+    <field name="dc_creator_sm">Oslo Byplankontor, Generalplanavdelingen</field>
+    <field name="dc_description_s">This is a city map of Oslo, Norway, shown at a ca. 1:10,400 scale. This city map was created by Oslo Byplankontor, Generalplanavdelingen.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">5x21th18r</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Oslo Byplankontor, Generalplanavdelingen</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">City expansion</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_title_s">Byutvidelser i Oslo</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/5x21th18r/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/5x21th18r/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/5x21th18r", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/5x21th18r/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Oslo</field>
+    <field name="dct_spatial_sm">Norway</field>
+    <field name="dct_spatial_sm">Christiania</field>
+    <field name="dct_spatial_sm">Kristiania</field>
+    <field name="dct_issued_s">1948</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">-57.54 -10.40 59.59 10.52</field>
+    <field name="georss_polygon_s">59.59 -10.40 59.59 10.52 -57.54 10.52 -57.54 -10.40 59.59 -10.40</field>
+    <field name="layer_slug_s">princeton-5x21th18r</field>
+    <field name="layer_id_s">5x21th18r</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:06Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-10.40 -57.54 10.52 59.59</field>
+    <field name="solr_ne_pt">59.59,10.52</field>
+    <field name="solr_sw_pt">-57.54,-10.40</field>
+    <field name="solr_geom">ENVELOPE(-10.40, 10.52, 59.59, -57.54)</field>
+    <field name="solr_year_i">1948</field>
+  </doc>
+</add>

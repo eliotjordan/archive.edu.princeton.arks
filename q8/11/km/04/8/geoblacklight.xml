@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/q811km048</field>
+    <field name="dc_creator_sm">Raj Kumar Vaish</field>
+    <field name="dc_description_s">This is a map of the city of Delhi, India, shown at a 1:70,400 scale. The map was created by the Delhi Development Authority in conjunction with the Town Planning Organisation and the Ministry of Health.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">q811km048</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Dehli Development Authority</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Land use</field>
+    <field name="dc_subject_sm">City plan</field>
+    <field name="dc_subject_sm">planningCadastre</field>
+    <field name="dc_title_s">Delhi urban area land use plan (1962)</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/q811km048/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/q811km048/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/q811km048", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/q811km048/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">New Delhi</field>
+    <field name="dct_spatial_sm">New Dilli</field>
+    <field name="dct_spatial_sm">Delhi Nat. Capital Territory</field>
+    <field name="dct_spatial_sm">India</field>
+    <field name="dct_spatial_sm">MAX  G7654.D5G4.1962.D4</field>
+    <field name="dct_issued_s">1962</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">28.5167 77.1833 28.7833 77.300</field>
+    <field name="georss_polygon_s">28.7833 77.1833 28.7833 77.300 28.5167 77.300 28.5167 77.1833 28.7833 77.1833</field>
+    <field name="layer_slug_s">princeton-q811km048</field>
+    <field name="layer_id_s">q811km048</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:26Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">77.1833 28.5167 77.300 28.7833</field>
+    <field name="solr_ne_pt">28.7833,77.300</field>
+    <field name="solr_sw_pt">28.5167,77.1833</field>
+    <field name="solr_geom">ENVELOPE(77.1833, 77.300, 28.7833, 28.5167)</field>
+    <field name="solr_year_i">1962</field>
+  </doc>
+</add>

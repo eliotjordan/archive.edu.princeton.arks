@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/4b29b740f</field>
+    <field name="dc_creator_sm">Central Intelligence Agency</field>
+    <field name="dc_description_s">This is a map of North America and South America at a 1:67,000,000 scale. The map was created by the Central Intelligence Agency.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">4b29b740f</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Central Intelligence Agency</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Administrative and Political Boundaries</field>
+    <field name="dc_title_s">North and South America, 1996</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/4b29b740f/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F4b%2F29%2Fb7%2F40%2Ff%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/4b29b740f", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/4b29b740f/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">North America</field>
+    <field name="dct_spatial_sm">South America</field>
+    <field name="dct_spatial_sm">Central America</field>
+    <field name="dct_spatial_sm">Caribbean</field>
+    <field name="dct_issued_s">1996</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">-60 -165 90 -15</field>
+    <field name="georss_polygon_s">90 -165 90 -15 -60 -15 -60 -165 90 -165</field>
+    <field name="layer_slug_s">princeton-4b29b740f</field>
+    <field name="layer_id_s">4b29b740f</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:10Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-165 -60 -15 90</field>
+    <field name="solr_ne_pt">90,-15</field>
+    <field name="solr_sw_pt">-60,-165</field>
+    <field name="solr_geom">ENVELOPE(-165, -15, 90, -60)</field>
+    <field name="solr_year_i">1996</field>
+  </doc>
+</add>

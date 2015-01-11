@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8w32r7338</field>
+    <field name="dc_creator_sm">Servicio del Plano de la Ciudad</field>
+    <field name="dc_description_s">This is a city map of Barcelona, Spain shown at a 1:10,000 scale. This city map was created by I. G. Seix &amp; Barral Hnos. for Servicio del Plano de la Ciudad.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8w32r7338</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Servicio del Plano de la Ciudad</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City blocks</field>
+    <field name="dc_title_s">Plano de la Ciudad Barcelona</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8w32r7338/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/8w32r7338/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8w32r7338", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8w32r7338/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Barcelona</field>
+    <field name="dct_spatial_sm">Spain</field>
+    <field name="dct_spatial_sm">Catalonia Autonomous community</field>
+    <field name="dct_spatial_sm">Comunidad Autonoma de Cataluna</field>
+    <field name="dct_issued_s">1943</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">41.3102 2.0613 41.4639 2.2631</field>
+    <field name="georss_polygon_s">41.4639 2.0613 41.4639 2.2631 41.3102 2.2631 41.3102 2.0613 41.4639 2.0613</field>
+    <field name="layer_slug_s">princeton-8w32r7338</field>
+    <field name="layer_id_s">8w32r7338</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:58Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">2.0613 41.3102 2.2631 41.4639</field>
+    <field name="solr_ne_pt">41.4639,2.2631</field>
+    <field name="solr_sw_pt">41.3102,2.0613</field>
+    <field name="solr_geom">ENVELOPE(2.0613, 2.2631, 41.4639, 41.3102)</field>
+    <field name="solr_year_i">1943</field>
+  </doc>
+</add>

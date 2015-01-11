@@ -1,0 +1,363 @@
+<metadata xml:lang="en">
+   <Esri>
+      <MetaID>{2D05134A-DF9F-43CB-AAC8-FE9ABCC3C9D4}</MetaID>
+      <CreaDate>20071105</CreaDate>
+      <CreaTime>17043800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <DataProperties>
+         <lineage>
+            <Process Date="20071101" Name="CreateRasterCatalog_1" Time="161807" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\CreateRasterCatalog">CreateRasterCatalog "Database Connections\Kreike.sde" img1943 PROJCS['WGS_1984_UTM_Zone_33S',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',10000000.0],PARAMETER['Central_Meridian',15.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]] "PROJCS['WGS_1984_UTM_Zone_33S',GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]],PROJECTION['Transverse_Mercator'],PARAMETER['False_Easting',500000.0],PARAMETER['False_Northing',10000000.0],PARAMETER['Central_Meridian',15.0],PARAMETER['Scale_Factor',0.9996],PARAMETER['Latitude_Of_Origin',0.0],UNIT['Meter',1.0]];-5120900 1900 10000;#;#;0.001;#;#;IsHighPrecision" # 0 0 0 Managed "Database Connections\Kreike.sde\kreike.KREIKEUSER.img1943" #</Process>
+            <Process Date="20071101" Name="RasterToGeodatabase_2" Time="163731" ToolSource="C:\Program Files\ArcGIS\ArcToolbox\Toolboxes\Conversion Tools.tbx\RasterToGeodatabase">RasterToGeodatabase E:\kreike\new1943\fn43272_6.img;E:\kreike\new1943\fn43272_5.img;E:\kreike\new1943\fn43272_4.img;E:\kreike\new1943\fn43272_3.img;E:\kreike\new1943\fn43272_2.img;E:\kreike\new1943\fn43272_1.img "Database Connections\Kreike.sde\kreike.KREIKEUSER.img1943" # "Database Connections\Kreike.sde\kreike.KREIKEUSER.img1943"</Process>
+         </lineage>
+      </DataProperties>
+      <SyncDate>20071105</SyncDate>
+      <SyncTime>17003400</SyncTime>
+      <ModDate>20071105</ModDate>
+      <ModTime>17011800</ModTime>
+      <PublishedDocID>{F7151F32-476F-4BA8-82CB-417A4839A47B}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>1943 aerial photographs of area near Oshikango and Edundja. Print out of aerial photograph 7x7 inches size was scanned and then georeferenced. Six images are grouped in one image catalog.</abstract>
+         <purpose>Make the 1943 aerial photographs of area near Oshikango and Edundja accessible in digital format.</purpose>
+      </descript>
+      <citation>
+         <citeinfo>
+            <origin>Prof. Kreike, History Department, Princeton University</origin>
+            <pubdate>1943</pubdate>
+            <title>1943 aerial photographs of area near Oshikango and Edundja</title>
+            <ftname Sync="TRUE">kreike.KREIKEUSER.img1943</ftname>
+            <geoform>remote-sensing image</geoform>
+            <onlink>http://map.princeton.edu/offline/kreike.html</onlink>
+            <pubtime>1943</pubtime>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>ground condition</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>1943</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">15.875044</westbc>
+            <eastbc Sync="TRUE">16.029010</eastbc>
+            <northbc Sync="TRUE">-17.389708</northbc>
+            <southbc Sync="TRUE">-17.463875</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">592950.518800</leftbc>
+            <rightbc Sync="TRUE">609263.437500</rightbc>
+            <bottombc Sync="TRUE">8068914.549800</bottombc>
+            <topbc Sync="TRUE">8077039.528200</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>Aerial photograph</themekey>
+            <themekey>imageryBaseMapsEarthCover</themekey>
+         </theme>
+         <place>
+            <placekey>Oshikango</placekey>
+            <placekey>Edundja</placekey>
+            <placekey>Owambo</placekey>
+            <placekey>Namibia</placekey>
+         </place>
+      </keywords>
+      <accconst>Need permission to access this aerial photograph</accconst>
+      <useconst>Need permission to use this data.</useconst>
+      <natvform Sync="TRUE">SDE Raster Catalog</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45am to 5:00pm, Monday to Friday.</hours>
+         </cntinfo>
+      </ptcontac>
+   </idinfo>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 2; ESRI ArcCatalog 9.2.0.1324</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">kreike.KREIKEUSER.img1943</resTitle>
+      </idCitation>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">592950.5188</westBL>
+               <eastBL Sync="TRUE">609263.4375</eastBL>
+               <northBL Sync="TRUE">8077039.5282</northBL>
+               <southBL Sync="TRUE">8068914.5498</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">15.875044</westBL>
+         <eastBL Sync="TRUE">16.02901</eastBL>
+         <northBL Sync="TRUE">-17.389708</northBL>
+         <southBL Sync="TRUE">-17.463875</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>REQUIRED: The mailing and/or physical address for the organization or individual.</addrtype>
+               <city>REQUIRED: The city of the address.</city>
+               <state>REQUIRED: The state or province of the address.</state>
+               <postal>REQUIRED: The ZIP or other postal code of the address.</postal>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>8:45am to 5:00pm, Monday to Friday.</hours>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20071105</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distinfo>
+      <resdesc Sync="TRUE">Offline Data</resdesc>
+   </distinfo>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">Server=gis-standby; Service=5157; Database=kreike; User=kreikeuser; Version=sde.DEFAULT</linkage>
+               <protocol Sync="TRUE">ArcSDE Connection</protocol>
+            </onLineSrc>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">SDE Raster Catalog</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="kreike.KREIKEUSER.img1943">
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">6</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+         <sdtsterm Name="kreike.KREIKEUSER.img1943">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">6</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+            <projcsn Sync="TRUE">WGS_1984_UTM_Zone_33S</projcsn>
+         </cordsysn>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">coordinate pair</plance>
+               <plandu Sync="TRUE">meters</plandu>
+               <coordrep>
+                  <absres Sync="TRUE">0.000100</absres>
+                  <ordres Sync="TRUE">0.000100</ordres>
+               </coordrep>
+            </planci>
+            <gridsys>
+               <gridsysn Sync="TRUE">Universal Transverse Mercator</gridsysn>
+               <utm>
+                  <utmzone Sync="TRUE">-33</utmzone>
+                  <transmer>
+                     <sfctrmer Sync="TRUE">0.999600</sfctrmer>
+                     <longcm Sync="TRUE">15.000000</longcm>
+                     <latprjo Sync="TRUE">0.000000</latprjo>
+                     <feast Sync="TRUE">500000.000000</feast>
+                     <fnorth Sync="TRUE">10000000.000000</fnorth>
+                  </transmer>
+               </utm>
+            </gridsys>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+      <vertdef>
+         <altsys>
+            <altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+            <altres Sync="TRUE">1.000000</altres>
+         </altsys>
+      </vertdef>
+   </spref>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">WGS_1984_UTM_Zone_33S</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="kreike.KREIKEUSER.img1943">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">6</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <eainfo>
+      <detailed Name="kreike.KREIKEUSER.img1943">
+         <enttyp>
+            <enttypl Sync="TRUE">kreike.KREIKEUSER.img1943</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">6</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">OBJECTID</attrlabl>
+            <attalias Sync="TRUE">OBJECTID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">10</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Name</attrlabl>
+            <attalias Sync="TRUE">Name</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">256</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Raster</attrlabl>
+            <attalias Sync="TRUE">Raster</attalias>
+            <attrtype Sync="TRUE">0</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape.area</attrlabl>
+            <attalias Sync="TRUE">Shape.area</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape.len</attrlabl>
+            <attalias Sync="TRUE">Shape.len</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+      </detailed>
+   </eainfo>
+   <mdDateSt Sync="TRUE">20071105</mdDateSt>
+   <dataqual>
+      <lineage>
+         <procstep>
+            <proccont>
+               <cntinfo>
+                  <cntperp>
+                     <cntper>Bill Guthe</cntper>
+                     <cntorg>ETC, Princeton University</cntorg>
+                  </cntperp>
+                  <cntvoice>609-258-4609</cntvoice>
+                  <cntemail>wguthe@princeton.edu</cntemail>
+               </cntinfo>
+            </proccont>
+            <procdesc>To begin the georeferencing with LPS, I set up a block file named angola4.blk.  Six images from the 1943 flight were loaded, and pyramids built.  The focal length of the camera was set at 177.8 mm, and from the scale of the photos I calculated the plane's altitude to be approximately 4664 m.  The projection information was set at UTM WGS 1984, Zone 33 North.  It should have been set for South, but the coordinates were calculated correctly relative to the actual location, and I did not find the error into I was well into the process.  Setting it to North did not affect accuracy, but added a step that the orthoimages had to be reprojected from North to South.
+ 
+Each photo has five fiducial marks, one along each side and the central principal point.  I modified the number of fiducials in the block file, and estimated their locations.  Using the tool to set the fiducials for each image, I had the following RMSEs:
+ 
+image 001:  0.94 pixels
+image 002:  1.07 pixels
+image 003:  0.80
+image 004:  0.70
+image 005:  0.69
+image 006:  0.88
+ 
+This step calculated the interior dimensions for each image.
+ 
+I used the Classic Point Measurement tool to find locations on the referenced image aug152001etm15m.img (which was in UTM Zone 33S).  This image is the panchromatic band from an August 15, 2001 Landsat image, with a pixel size of 15 m.  I moved sequentially from image 1 to image 6, and found corresponding points on each image as well as on the referenced image.  155 full control points were found, many with links to multiple images.
+ 
+Automatic tie generation was used to add 75 tie points to the block file.  Triangulation was run to set exterior dimensions, and find control points that contributed the most to the final RMSE.  Removing six points improved the RMSE to 8.5884 m, which is about half the size of a pixel on the Landsat 15 m panchromatic image.  The results are generated by LPS in the attached img1943airtout4.txt.
+ 
+The Orthoimage step was used in LPS to generate orthoimages for each of the six images.  An extracted portion of ESRI's filled SRTM data was used to set elevations for each point.  The DEM has a 90m resolution; like the Landsat 15 m image, it is in UTM WGS1984 Zone 33S.  Once the orthoimages were created, they were projected into Zone 33S, and added to SDE as a raster catalog.  Visual inspection was used to ensure the 1943 images lined up well with the Landsat image and the 1970 image mosaic.
+</procdesc>
+            <procsv>Leica Photogrammetry Suite version 9.1</procsv>
+            <procdate>2007</procdate>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

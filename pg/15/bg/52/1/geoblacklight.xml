@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pg15bg521</field>
+    <field name="dc_creator_sm">Evans, A. M.</field>
+    <field name="dc_description_s">A scanned historical map shown at a scale of 1:316,800.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pg15bg521</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">New York State Museum.</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">historical maps</field>
+    <field name="dc_subject_sm">Topography</field>
+    <field name="dc_subject_sm">Contour</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Administrative and political boundaries</field>
+    <field name="dc_subject_sm">Geology</field>
+    <field name="dc_subject_sm">Cross section</field>
+    <field name="dc_title_s">Geologic map of New York exhibiting the structure of the state so far as known: Ontario west sheet. </field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/pg15bg521/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpg%2F15%2Fbg%2F52%2F1%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/pg15bg521", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/pg15bg521/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Ontario</field>
+    <field name="dct_spatial_sm">Ontario West Sheet</field>
+    <field name="dct_spatial_sm">New York</field>
+    <field name="dct_spatial_sm">Canada</field>
+    <field name="dct_spatial_sm">MC  G3801.C5.svar.N4Y6 BM 56</field>
+    <field name="dct_issued_s">1901</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">43.5000 -79.5000 44.0000 -78.1667</field>
+    <field name="georss_polygon_s">44.0000 -79.5000 44.0000 -78.1667 43.5000 -78.1667 43.5000 -79.5000 44.0000 -79.5000</field>
+    <field name="layer_slug_s">princeton-pg15bg521</field>
+    <field name="layer_id_s">pg15bg521</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:28Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-79.5000 43.5000 -78.1667 44.0000</field>
+    <field name="solr_ne_pt">44.0000,-78.1667</field>
+    <field name="solr_sw_pt">43.5000,-79.5000</field>
+    <field name="solr_geom">ENVELOPE(-79.5000, -78.1667, 44.0000, 43.5000)</field>
+    <field name="solr_year_i">1901</field>
+  </doc>
+</add>

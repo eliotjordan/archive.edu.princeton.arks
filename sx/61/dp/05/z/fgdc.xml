@@ -1,0 +1,717 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>NASA</origin>
+            <pubdate>2008-02-18</pubdate>
+            <title>MODIS NDVI 2008-02-18</title>
+            <geoform Sync="TRUE">SDE raster digital data</geoform>
+            <serinfo>
+               <sername>MOD13Q1</sername>
+            </serinfo>
+            <pubinfo>
+               <pubplace>NASA</pubplace>
+               <publish>NASA</publish>
+            </pubinfo>
+            <onlink>http://map.princeton.edu/offline/mpala.html</onlink>
+            <ftname Sync="TRUE">mpala.MPALAUSER.NDVI_20080218</ftname>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>MODIS NDVI data was extracted from MODIS product type MOD13Q1. MODIS/Terra Vegetation Indices 16-Day L3 Global 250m covers Central Kenya. Data was caputred on 2008-02-18.</abstract>
+         <purpose>To study vegetation indices of area around Mpala Research Center, Kenya.</purpose>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>2008-02-18</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>ground condition</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>As needed</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">29.824985</westbc>
+            <eastbc Sync="TRUE">40.573565</eastbc>
+            <northbc Sync="TRUE">10.169641</northbc>
+            <southbc Sync="TRUE">0.002697</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-509519.425830</leftbc>
+            <rightbc Sync="TRUE">672391.314033</rightbc>
+            <bottombc Sync="TRUE">10000301.878439</bottombc>
+            <topbc Sync="TRUE">11124066.872377</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO Topic</themekt>
+            <themekey>Imagery/Base Maps/Earth Cover</themekey>
+            <themekey>MODIS</themekey>
+            <themekey>NDVI</themekey>
+            <themekey>Vegetation index</themekey>
+            <themekey>Land Cover/land use</themekey>
+         </theme>
+         <place>
+            <placekey>Kenya</placekey>
+            <placekey>Mpala</placekey>
+            <placekey>Central Kenya</placekey>
+            <placekey>East Africa</placekey>
+         </place>
+      </keywords>
+      <accconst>None</accconst>
+      <useconst>None</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntperp>
+               <cntper>T. Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntpos>GIS Librarian</cntpos>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>9:00 AM - 5:00pm.</hours>
+         </cntinfo>
+      </ptcontac>
+      <secinfo>
+         <secclass>Unclassified</secclass>
+      </secinfo>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</native>
+      <natvform Sync="TRUE">SDE Raster Dataset</natvform>
+   </idinfo>
+   <dataqual>
+      <logic>
+&lt;?xml version="1.0" encoding="UTF-8" ?&gt; 
+&lt;!DOCTYPE GranuleMetaDataFile (View Source for full doctype...)&gt; 
+- &lt;GranuleMetaDataFile&gt;
+&lt;DTDVersion&gt;1.0&lt;/DTDVersion&gt; 
+&lt;DataCenterId&gt;EDC&lt;/DataCenterId&gt; 
+- &lt;GranuleURMetaData&gt;
+&lt;GranuleUR&gt;SC:MOD13Q1.005:2056895547&lt;/GranuleUR&gt; 
+&lt;DbID&gt;2056895547&lt;/DbID&gt; 
+&lt;InsertTime&gt;2008-03-08 9:40:13.106&lt;/InsertTime&gt; 
+&lt;LastUpdate&gt;2008-03-08 9:40:13.106&lt;/LastUpdate&gt; 
+- &lt;CollectionMetaData&gt;
+&lt;ShortName&gt;MOD13Q1&lt;/ShortName&gt; 
+&lt;VersionID&gt;5&lt;/VersionID&gt; 
+&lt;/CollectionMetaData&gt;
+- &lt;DataFiles&gt;
+- &lt;DataFileContainer&gt;
+&lt;DistributedFileName&gt;MOD13Q1.A2008049.h21v08.005.2008068103013.hdf&lt;/DistributedFileName&gt; 
+&lt;FileSize&gt;255608631&lt;/FileSize&gt; 
+&lt;ChecksumType&gt;CKSUM&lt;/ChecksumType&gt; 
+&lt;Checksum&gt;961563495&lt;/Checksum&gt; 
+&lt;ChecksumOrigin&gt;DataProvider&lt;/ChecksumOrigin&gt; 
+&lt;/DataFileContainer&gt;
+&lt;/DataFiles&gt;
+- &lt;ECSDataGranule&gt;
+&lt;SizeMBECSDataGranule&gt;243.767&lt;/SizeMBECSDataGranule&gt; 
+&lt;ReprocessingPlanned&gt;further update is anticipated&lt;/ReprocessingPlanned&gt; 
+&lt;ReprocessingActual&gt;reprocessed&lt;/ReprocessingActual&gt; 
+&lt;LocalGranuleID&gt;MOD13Q1.A2008049.h21v08.005.2008068103013.hdf&lt;/LocalGranuleID&gt; 
+&lt;DayNightFlag&gt;Day&lt;/DayNightFlag&gt; 
+&lt;ProductionDateTime&gt;2008-03-08 15:30:13.000&lt;/ProductionDateTime&gt; 
+&lt;LocalVersionID&gt;5.2.1&lt;/LocalVersionID&gt; 
+&lt;/ECSDataGranule&gt;
+- &lt;PGEVersionClass&gt;
+&lt;PGEVersion&gt;5.2.4&lt;/PGEVersion&gt; 
+&lt;/PGEVersionClass&gt;
+- &lt;RangeDateTime&gt;
+&lt;RangeEndingTime&gt;23:59:59.0000000&lt;/RangeEndingTime&gt; 
+&lt;RangeEndingDate&gt;2008-03-04&lt;/RangeEndingDate&gt; 
+&lt;RangeBeginningTime&gt;00:00:00.0000000&lt;/RangeBeginningTime&gt; 
+&lt;RangeBeginningDate&gt;2008-02-18&lt;/RangeBeginningDate&gt; 
+&lt;/RangeDateTime&gt;
+- &lt;SpatialDomainContainer&gt;
+- &lt;HorizontalSpatialDomainContainer&gt;
+- &lt;GPolygon&gt;
+- &lt;Boundary&gt;
+- &lt;Point&gt;
+&lt;PointLongitude&gt;29.8878504914521&lt;/PointLongitude&gt; 
+&lt;PointLatitude&gt;0.0000385518158489962&lt;/PointLatitude&gt; 
+&lt;/Point&gt;
+- &lt;Point&gt;
+&lt;PointLongitude&gt;30.3449665340407&lt;/PointLongitude&gt; 
+&lt;PointLatitude&gt;10.0030323070386&lt;/PointLatitude&gt; 
+&lt;/Point&gt;
+- &lt;Point&gt;
+&lt;PointLongitude&gt;40.6260396971992&lt;/PointLongitude&gt; 
+&lt;PointLatitude&gt;9.99985925957934&lt;/PointLatitude&gt; 
+&lt;/Point&gt;
+- &lt;Point&gt;
+&lt;PointLongitude&gt;40.0119084380163&lt;/PointLongitude&gt; 
+&lt;PointLatitude&gt;-0.00342414555683897&lt;/PointLatitude&gt; 
+&lt;/Point&gt;
+&lt;/Boundary&gt;
+&lt;/GPolygon&gt;
+&lt;/HorizontalSpatialDomainContainer&gt;
+&lt;/SpatialDomainContainer&gt;
+- &lt;MeasuredParameter&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days NDVI&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;OperationalQualityFlag&gt;Passed&lt;/OperationalQualityFlag&gt; 
+&lt;OperationalQualityFlagExplanation&gt;Passed&lt;/OperationalQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days EVI&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days VI Quality&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days red reflectance&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days NIR reflectance&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days blue reflectance&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days MIR reflectance&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days view zenith angle&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days sun zenith angle&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days relative azimuth angle&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days composite day of the year&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+- &lt;MeasuredParameterContainer&gt;
+&lt;ParameterName&gt;250m 16 days pixel reliability&lt;/ParameterName&gt; 
+- &lt;QAStats&gt;
+&lt;QAPercentMissingData&gt;0&lt;/QAPercentMissingData&gt; 
+&lt;QAPercentOutofBoundsData&gt;0&lt;/QAPercentOutofBoundsData&gt; 
+&lt;QAPercentInterpolatedData&gt;100&lt;/QAPercentInterpolatedData&gt; 
+&lt;QAPercentCloudCover&gt;0&lt;/QAPercentCloudCover&gt; 
+&lt;/QAStats&gt;
+- &lt;QAFlags&gt;
+&lt;AutomaticQualityFlag&gt;Passed&lt;/AutomaticQualityFlag&gt; 
+&lt;AutomaticQualityFlagExplanation&gt;No automatic quality assessment is performed in the PGE&lt;/AutomaticQualityFlagExplanation&gt; 
+&lt;ScienceQualityFlag&gt;Not Investigated&lt;/ScienceQualityFlag&gt; 
+&lt;ScienceQualityFlagExplanation&gt;See http://landweb.nascom.nasa.gov/cgi-bin/QA_WWW/qaFlagPage.cgi?sat=terra for the product Science Quality status.&lt;/ScienceQualityFlagExplanation&gt; 
+&lt;/QAFlags&gt;
+&lt;/MeasuredParameterContainer&gt;
+&lt;/MeasuredParameter&gt;
+- &lt;Platform&gt;
+&lt;PlatformShortName&gt;Terra&lt;/PlatformShortName&gt; 
+- &lt;Instrument&gt;
+&lt;InstrumentShortName&gt;MODIS&lt;/InstrumentShortName&gt; 
+- &lt;Sensor&gt;
+&lt;SensorShortName&gt;MODIS&lt;/SensorShortName&gt; 
+&lt;/Sensor&gt;
+&lt;/Instrument&gt;
+&lt;/Platform&gt;
+- &lt;PSAs&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;QAPERCENTGOODQUALITY&lt;/PSAName&gt; 
+&lt;PSAValue&gt;89&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;QAPERCENTOTHERQUALITY&lt;/PSAName&gt; 
+&lt;PSAValue&gt;11&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;QAPERCENTNOTPRODUCEDCLOUD&lt;/PSAName&gt; 
+&lt;PSAValue&gt;0&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;QAPERCENTNOTPRODUCEDOTHER&lt;/PSAName&gt; 
+&lt;PSAValue&gt;0&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;NDVI250M16DAYQCLASSPERCENTAGE&lt;/PSAName&gt; 
+&lt;PSAValue&gt;0&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;EVI250M16DAYQCLASSPERCENTAGE&lt;/PSAName&gt; 
+&lt;PSAValue&gt;0&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;HORIZONTALTILENUMBER&lt;/PSAName&gt; 
+&lt;PSAValue&gt;21&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;VERTICALTILENUMBER&lt;/PSAName&gt; 
+&lt;PSAValue&gt;08&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;TileID&lt;/PSAName&gt; 
+&lt;PSAValue&gt;51021008&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+- &lt;PSA&gt;
+&lt;PSAName&gt;INPUTPRODUCTRESOLUTION&lt;/PSAName&gt; 
+&lt;PSAValue&gt;Product input resolution 250m and 500m&lt;/PSAValue&gt; 
+&lt;/PSA&gt;
+&lt;/PSAs&gt;
+- &lt;InputGranule&gt;
+&lt;InputPointer&gt;MOD09GQK.A2008049.h21v08.005.2008051223747.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008050.h21v08.005.2008052211211.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008051.h21v08.005.2008054001900.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008052.h21v08.005.2008054151902.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008053.h21v08.005.2008055152026.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008054.h21v08.005.2008056154010.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008055.h21v08.005.2008058160336.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008056.h21v08.005.2008060080201.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008057.h21v08.005.2008060125653.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008058.h21v08.005.2008064220827.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008059.h21v08.005.2008062030047.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008060.h21v08.005.2008062213452.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008061.h21v08.005.2008064064447.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008062.h21v08.005.2008064145431.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008063.h21v08.005.2008065174244.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GQK.A2008064.h21v08.005.2008066153353.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008049.h21v08.005.2008051221543.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008050.h21v08.005.2008052205544.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008051.h21v08.005.2008054001003.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008052.h21v08.005.2008054151346.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008053.h21v08.005.2008055151127.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008054.h21v08.005.2008056152823.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008055.h21v08.005.2008058155634.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008056.h21v08.005.2008060075515.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008057.h21v08.005.2008060123558.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008058.h21v08.005.2008064215411.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008059.h21v08.005.2008062025258.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008060.h21v08.005.2008062212855.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008061.h21v08.005.2008064063122.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008062.h21v08.005.2008064144344.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008063.h21v08.005.2008065173445.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTQKM.A2008064.h21v08.005.2008066152132.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008049.h21v08.005.2008051224810.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008050.h21v08.005.2008052212127.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008051.h21v08.005.2008054002300.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008052.h21v08.005.2008054152157.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008053.h21v08.005.2008055152437.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008054.h21v08.005.2008056154445.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008055.h21v08.005.2008058160737.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008056.h21v08.005.2008060080501.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008057.h21v08.005.2008060131239.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008058.h21v08.005.2008064221455.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008059.h21v08.005.2008062030456.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008060.h21v08.005.2008062213826.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008061.h21v08.005.2008064065127.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008062.h21v08.005.2008064145954.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008063.h21v08.005.2008065174604.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GHK.A2008064.h21v08.005.2008066153943.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008049.h21v08.005.2008051221542.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008050.h21v08.005.2008052205542.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008051.h21v08.005.2008054001003.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008052.h21v08.005.2008054151346.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008053.h21v08.005.2008055151127.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008054.h21v08.005.2008056152822.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008055.h21v08.005.2008058155633.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008056.h21v08.005.2008060075515.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008057.h21v08.005.2008060123558.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008058.h21v08.005.2008064215411.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008059.h21v08.005.2008062025258.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008060.h21v08.005.2008062212855.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008061.h21v08.005.2008064063122.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008062.h21v08.005.2008064144344.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008063.h21v08.005.2008065173445.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODPTHKM.A2008064.h21v08.005.2008066152132.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008049.h21v08.005.2008051221934.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008050.h21v08.005.2008052205836.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008051.h21v08.005.2008054001115.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008052.h21v08.005.2008054151457.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008053.h21v08.005.2008055151252.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008054.h21v08.005.2008056152955.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008055.h21v08.005.2008058155756.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008056.h21v08.005.2008060075645.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008057.h21v08.005.2008060124025.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008058.h21v08.005.2008064215609.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008059.h21v08.005.2008062025410.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008060.h21v08.005.2008062212951.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008061.h21v08.005.2008064063315.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008062.h21v08.005.2008064144540.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008063.h21v08.005.2008065173552.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MOD09GST.A2008064.h21v08.005.2008066152339.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008049.h21v08.005.2008051221641.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008050.h21v08.005.2008052205655.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008051.h21v08.005.2008054001025.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008052.h21v08.005.2008054151406.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008053.h21v08.005.2008055151154.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008054.h21v08.005.2008056152855.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008055.h21v08.005.2008058155657.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008056.h21v08.005.2008060075546.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008057.h21v08.005.2008060123718.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008058.h21v08.005.2008064215456.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008059.h21v08.005.2008062025323.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008060.h21v08.005.2008062212909.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008061.h21v08.005.2008064063158.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008062.h21v08.005.2008064144425.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008063.h21v08.005.2008065173506.hdf&lt;/InputPointer&gt; 
+&lt;InputPointer&gt;MODMGGAD.A2008064.h21v08.005.2008066152212.hdf&lt;/InputPointer&gt; 
+&lt;/InputGranule&gt;
+&lt;/GranuleURMetaData&gt;
+&lt;/GranuleMetaDataFile&gt;
+</logic>
+      <lineage>
+         <procstep>
+            <procdesc>MODIS/TERRA vegetation indices 16-day L3 global 250m sin grid v005 data was downloaded from the NASA EOS Data Gateway site. This data was in HDF file format. The ERDAS IMAGINE 9.1 software was used to import data as MODIS EOS HDF Format and later 250m 16 days NDVI was selected as field to import the data. Data was originally in World Sinusoidal projection with WGS84 and was later reprojected to Arc 1960 UTM Zone 37S.</procdesc>
+            <procdate>2008/07/15</procdate>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Raster</direct>
+      <rastinfo>
+         <rasttype Sync="TRUE">Pixel</rasttype>
+         <rowcount Sync="TRUE">4851</rowcount>
+         <colcount Sync="TRUE">5102</colcount>
+         <vrtcount Sync="TRUE">1</vrtcount>
+         <rastxsz Sync="TRUE">231.656358</rastxsz>
+         <rastysz Sync="TRUE">231.656358</rastysz>
+         <rastbpp Sync="TRUE">16</rastbpp>
+         <rastorig Sync="TRUE">Upper Left</rastorig>
+         <rastcmap Sync="TRUE">FALSE</rastcmap>
+         <rastcomp Sync="TRUE">LZ77</rastcomp>
+         <rastband Sync="TRUE">1</rastband>
+         <rastdtyp Sync="TRUE">pixel codes</rastdtyp>
+         <rastifor Sync="TRUE">SDR</rastifor>
+         <rastplyr Sync="TRUE">TRUE</rastplyr>
+      </rastinfo>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <planar>
+            <planci>
+               <plance Sync="TRUE">row and column</plance>
+               <coordrep>
+                  <absres Sync="TRUE">231.656358</absres>
+                  <ordres Sync="TRUE">231.656358</ordres>
+               </coordrep>
+               <plandu Sync="TRUE">meters</plandu>
+            </planci>
+            <mapproj>
+               <mapprojn Sync="TRUE">Transverse Mercator</mapprojn>
+               <transmer>
+                  <sfctrmer Sync="TRUE">0.999600</sfctrmer>
+                  <longcm Sync="TRUE">39.000000</longcm>
+                  <latprjo Sync="TRUE">0.000000</latprjo>
+                  <feast Sync="TRUE">500000.000000</feast>
+                  <fnorth Sync="TRUE">10000000.000000</fnorth>
+               </transmer>
+            </mapproj>
+         </planar>
+         <geodetic>
+            <horizdn Sync="TRUE">D_Arc_1960</horizdn>
+            <ellips Sync="TRUE">Clarke_1880_RGS</ellips>
+            <semiaxis Sync="TRUE">6378249.145000</semiaxis>
+            <denflat Sync="TRUE">293.465000</denflat>
+         </geodetic>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_Arc_1960</geogcsn>
+            <projcsn Sync="TRUE">Arc_1960_UTM_Zone_37S</projcsn>
+         </cordsysn>
+      </horizsys>
+      <vertdef>
+         <altsys>
+            <altres Sync="TRUE">1.000000</altres>
+            <altenc Sync="TRUE">Explicit elevation coordinate included with horizontal coordinates</altenc>
+         </altsys>
+      </vertdef>
+   </spref>
+   <eainfo>
+      <detailed Name="mpala.MPALAUSER.SDE_VAT_273">
+         <enttyp>
+            <enttypl Sync="TRUE">mpala.MPALAUSER.SDE_VAT_273</enttypl>
+            <enttypt Sync="TRUE">Table</enttypt>
+            <enttypc Sync="TRUE">11169</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl>ObjectID</attrlabl>
+            <attrdef>Internal feature number.</attrdef>
+            <attrdefs>ESRI</attrdefs>
+            <attrdomv>
+               <udom>Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">OBJECTID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">10</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl>Value</attrlabl>
+            <attalias Sync="TRUE">Value</attalias>
+            <attrtype Sync="TRUE">Integer</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">10</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Count_</attrlabl>
+            <attalias Sync="TRUE">Count_</attalias>
+            <attrtype Sync="TRUE">Double</attrtype>
+            <attwidth Sync="TRUE">8</attwidth>
+            <atprecis Sync="TRUE">38</atprecis>
+            <attscale Sync="TRUE">8</attscale>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <resdesc>Offline Data</resdesc>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize>0.000</transize>
+            </digtinfo>
+         </digform>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20080904</metd>
+      <metc>
+         <cntinfo>
+            <cntperp>
+               <cntper>Tsering Wangyal Shawa</cntper>
+               <cntorg>Princeton University Library</cntorg>
+            </cntperp>
+            <cntpos>GIS Librarian</cntpos>
+            <cntaddr>
+               <addrtype>Digital Map and Geospatial Information Center</addrtype>
+               <address>Princeton University Library</address>
+               <city>Princeton</city>
+               <state>New Jersey</state>
+               <postal>08544</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>609-258-6804</cntvoice>
+            <cntemail>shawatw@princeton.edu</cntemail>
+            <hours>9:00 AM - 5:00 PM.</hours>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metextns>
+         <onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof>ESRI Metadata Profile</metprof>
+      </metextns>
+      <langmeta Sync="TRUE">en</langmeta>
+   </metainfo>
+   <Esri>
+      <MetaID>{A29BF4A6-B5D9-468A-AA76-ABCD0C794F7A}</MetaID>
+      <CreaDate>20080904</CreaDate>
+      <CreaTime>10392000</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20080904</SyncDate>
+      <SyncTime>10350000</SyncTime>
+      <ModDate>20080904</ModDate>
+      <ModTime>10350000</ModTime>
+      <PublishedDocID>{FE249154-20D3-476E-9085-DC25CF4B4A22}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6000) ; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">mpala.MPALAUSER.NDVI_20080218</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="002" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">-509519.42583</westBL>
+               <eastBL Sync="TRUE">672391.314033</eastBL>
+               <northBL Sync="TRUE">11124066.872377</northBL>
+               <southBL Sync="TRUE">10000301.878439</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">29.824985</westBL>
+         <eastBL Sync="TRUE">40.573565</eastBL>
+         <northBL Sync="TRUE">10.169641</northBL>
+         <southBL Sync="TRUE">0.002697</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">Server=gisdata; Service=5151; Database=mpala; User=mpalauser; Version=sde.DEFAULT</linkage>
+               <protocol Sync="TRUE">ArcSDE Connection</protocol>
+            </onLineSrc>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">SDE Raster Dataset</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">Arc_1960_UTM_Zone_37S</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <mdDateSt Sync="TRUE">20080904</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+</metadata>

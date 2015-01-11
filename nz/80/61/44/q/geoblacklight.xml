@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/nz806144q</field>
+    <field name="dc_creator_sm">Russia (Federation). General'nyi shtab. Voenno-topograficheskoe upravlenie</field>
+    <field name="dc_description_s">This is a map of the city of Urumqi, China shown at a 1:25,000 scale. This is a Russian map purchased from East View Cartographic.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">nz806144q</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">East View Cartographic</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Roads</field>
+    <field name="dc_subject_sm">Railroads</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">Industry</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_title_s">Kitai Sin'tszian-Uigurskii avtonomny raion. Urumchi (K-45-7, 8). </field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/nz806144q/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fnz%2F80%2F61%2F44%2Fq%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/nz806144q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/nz806144q/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Urumqi</field>
+    <field name="dct_spatial_sm">Urumchi</field>
+    <field name="dct_spatial_sm">Xinjiang Uygur Zizhiqu</field>
+    <field name="dct_spatial_sm">Xinjiang Uygur</field>
+    <field name="dct_spatial_sm">China</field>
+    <field name="dct_spatial_sm">G7824.U5C2.1987.E3C3</field>
+    <field name="dct_issued_s">1987</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">43.700 87.4333 43.9167 87.6833</field>
+    <field name="georss_polygon_s">43.9167 87.4333 43.9167 87.6833 43.700 87.6833 43.700 87.4333 43.9167 87.4333</field>
+    <field name="layer_slug_s">princeton-nz806144q</field>
+    <field name="layer_id_s">nz806144q</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:29Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">87.4333 43.700 87.6833 43.9167</field>
+    <field name="solr_ne_pt">43.9167,87.6833</field>
+    <field name="solr_sw_pt">43.700,87.4333</field>
+    <field name="solr_geom">ENVELOPE(87.4333, 87.6833, 43.9167, 43.700)</field>
+    <field name="solr_year_i">1987</field>
+  </doc>
+</add>

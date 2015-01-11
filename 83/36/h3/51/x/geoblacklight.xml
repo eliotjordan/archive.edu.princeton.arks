@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8336h351x</field>
+    <field name="dc_creator_sm">Putnik-Sibenik</field>
+    <field name="dc_description_s">This is a city map of Sibenik, Croatia (former Yugoslavia) shown at a ca. 1:5,100 scale. This city map was created by Putnik-Sibenik.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8336h351x</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Putnik-Sibenik</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City blocks</field>
+    <field name="dc_title_s">Sibenik plan grada</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8336h351x/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/8336h351x/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8336h351x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8336h351x/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Sibenik</field>
+    <field name="dct_spatial_sm">Croatia</field>
+    <field name="dct_spatial_sm">Yugoslavia</field>
+    <field name="dct_spatial_sm">Sebenico</field>
+    <field name="dct_issued_s">1965</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">43.6944 15.8315 43.7884 15.9431</field>
+    <field name="georss_polygon_s">43.7884 15.8315 43.7884 15.9431 43.6944 15.9431 43.6944 15.8315 43.7884 15.8315</field>
+    <field name="layer_slug_s">princeton-8336h351x</field>
+    <field name="layer_id_s">8336h351x</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:59Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">15.8315 43.6944 15.9431 43.7884</field>
+    <field name="solr_ne_pt">43.7884,15.9431</field>
+    <field name="solr_sw_pt">43.6944,15.8315</field>
+    <field name="solr_geom">ENVELOPE(15.8315, 15.9431, 43.7884, 43.6944)</field>
+    <field name="solr_year_i">1965</field>
+  </doc>
+</add>

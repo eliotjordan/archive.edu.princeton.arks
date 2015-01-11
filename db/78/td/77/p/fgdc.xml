@@ -1,0 +1,391 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>U.S. Geological Survey</origin>
+				<pubdate>Unknown</pubdate>
+				<title>New Jersey Digital Orthophotoquad, 1995-97</title>
+				<geoform>remote-sensing image</geoform>
+				<pubinfo>
+					<pubplace>Reston, VA</pubplace>
+					<publish>U.S. Geological Survey</publish>
+				</pubinfo>
+				<onlink>https://njgin.state.nj.us/NJ_NJGINExplorer/index.jsp</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>Orthophotos combine the image characteristics of a
+photograph with the geometric qualities of a map. The
+primary digital orthophotoquad (DOQ) is a 1-meter ground
+resolution, quarter-quadrangle (3.75-minutes of latitude
+by 3.75-minutes of longitude) image cast on the Universal
+Transverse Mercator Projection (UTM) on the North
+American Datum of 1983 (NAD83).The geographic extent of
+the DOQ is equivalent to a quarter-quad plus The overedge
+ranges a minimum of 50 meters to a maximum of 300 meters
+beyond the extremes of the primary and secondary corner
+points. The overedge is included to facilitate tonal
+matching for mosaicking and for the placement of the NAD83
+and secondary datum corner ticks. The normal orientation
+of data is by lines (rows) and samples (columns). Each
+line contains a series of pixels ordered from west to
+east with the order of the lines from north to south.
+The standard, archived digital orthophoto is formatted as
+four ASCII header records, followed by a series of 8-bit
+binary image data records. The radiometric image
+brightness values are stored as 256 gray levels ranging
+from 0 to 255. The metadata provided in the digital
+orthophoto contain a wide range of descriptive
+information including format source information,
+production instrumentation and dates, and data to assist
+with displaying and georeferencing the image. The
+standard distribution format of DOQs will be JPEG
+compressed images on CD-ROM by counties or special
+regions. The reconstituted image from the CD-ROM will
+exhibit some radiometric differences when compared to its
+uncompressed original but will retain the geometry of the
+uncompressed DOQ. Uncompressed DOQs are distributed on
+tape.</abstract>
+			<purpose>DOQ's serve a variety of purposes, from interim maps to
+field references for earth science investigations and
+analysis. The DOQ is useful as a layer of a geographic
+information system and as a tool for revision of digital
+line graphs and topographic maps.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<rngdates>
+					<begdate>19940222</begdate>
+				</rngdates>
+			</timeinfo>
+			<current>ground condition</current>
+		</timeperd>
+		<status>
+			<progress>In work</progress>
+			<update>Irregular</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-75.5794</westbc>
+				<eastbc>-73.8908</eastbc>
+				<northbc>41.4212</northbc>
+				<southbc>38.9176</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>None</themekt>
+				<themekey>DOQ</themekey>
+				<themekey>DOQQ</themekey>
+				<themekey>digital orthophoto</themekey>
+				<themekey>digital orthophotoquad</themekey>
+				<themekey>digital image map</themekey>
+				<themekey>aerial photograph</themekey>
+				<themekey>rectified photograph</themekey>
+				<themekey>rectified image</themekey>
+				<themekey>orthophoto</themekey>
+				<themekey>quarter-quadrangle orthophoto</themekey>
+				<themekey>1-meter orthophoto</themekey>
+				<themekey>2-meter orhtophoto</themekey>
+				<themekey>3.75- x 3.75-minute orthophoto</themekey>
+				<themekey>7.5- x 7.5-minute orthophoto</themekey>
+				<themekey>imageryBaseMapsEarthCover</themekey>
+			</theme>
+			<place>
+				<placekey>New Jersey</placekey>
+			</place>
+			<place>
+				<placekt>U.S. Department of Commerce, 1987, Codes for the identificationof the States, the District of Columbia  and the outlying areas ofThe United States, and associated areas(Federal Information Processing Standard 5-2):  Washington, D. C.,National Institute of Standards and Technology.</placekt>
+				<placekey>FIPS code of State or Province</placekey>
+			</place>
+			<place>
+				<placekt>U.S. Department of Commerce,1990, Counties and equivalententities of The United States, its possessions, and associated areas(Federal    Information Processing Standard 6-4):  Washington, D.C.National Institute of Standards and Technology.</placekt>
+				<placekey>FIPS code for county or counties.</placekey>
+			</place>
+		</keywords>
+		<accconst>None</accconst>
+		<useconst>None. Acknowledgement of the U.S. Geological Survey would beappreciated in products derived from these data.</useconst>
+		<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 4; ESRI ArcCatalog 9.0.0.535</native>
+	</idinfo>
+	<dataqual>
+		<attracc>
+			<attraccr>During photographic reproduction of the source photography,
+limited analog dodging is performed to improve image quality.
+Analog dodging consists of holding back light from certain
+areas of the sensitized photographic material to avoid
+overexposure. The diapositive is inspected to insure clarity
+and radiometric uniformity. Diapositive image brightness
+values are collected with a minimum of image quality manipulation.
+Image brightness values may deviate from brightness values of
+the original imagery due to image value interpolation during
+the scanning and rectification processes.
+Radiometry is verified by visual inspection of the digital
+orthophoto quadrangle with the original unrectified image to
+determine if the digital orthophoto has the same or better
+image quality as the original unrectified input image.
+Slight systematic radiometric differences can be detected
+between adjacent DOQ files due primarily to differences in
+source photography capture dates and sun angles of aerial
+photography along flight lines. These differences can be
+observed in an image's general lightness or darkness when
+compared to adjacent DOQ file coverages.</attraccr>
+		</attracc>
+		<logic>All DOQ header data and image file sizes are validated by the Tape
+Validation System (TVS) software prior to archiving in the National
+Digital Cartographic Data Base (NDCDB). This validation procedure assures
+correct physical format and field values for header record elements.
+Logical relationships between header record elements are tested.</logic>
+		<complete>All DOQ imagery is visually inspected for completeness to ensure that no
+gaps, or image misplacement exist in the 3.75' image area or in overedge
+coverage. DOQ images may be derived by mosaicking multiple images, in
+order to insure complete coverage. All DOQ's are cloud free within the
+3.75' image area. Some clouds may, very infrequently, be encountered only
+in the overedge coverage. Source photography is leaf-off in deciduous
+vegetation regions.  Void areas having a radiometric value of zero and
+appearing black may exist.  These are areas for which no photographic
+source is available or result from image transformation from other
+planimetric systems to the Universal Transverse Mercator (UTM). In the
+latter case, the void sliver areas are on the outside edges of the
+overedge area.  The data set field content of each DOQ header record
+element is validated to assure completeness prior to archiving in the
+NDCDB.</complete>
+		<posacc>
+			<horizpa>
+				<horizpar>The DOQ horizontal positional accuracy and the assurance of that
+accuracy depend, in part, on the accuracy of the data inputs to the
+rectification process. These inputs consist of the digital elevation
+model (DEM),aerotriangulation control and methods, the photo source
+camera calibration, scanner calibration, and aerial photographs that
+meet National Aerial Photography Program (NAPP) standards. The
+vertical accuracy of the verified USGS format DEM is equivalent to or
+better than a USGS level 1 or 2 DEM, with a root mean square error
+(RMSE) of no greater than 7.0 meters. Field control is acquired by
+third order class 1 or better survey methods sufficiently spaced to
+meet National Map Accuracy Staandards (NMAS) for 1:12,000-scale
+products.  Aerial cameras have current certification from the USGS,
+National Mapping Division, Optical Science Laboratory. Test
+calibration scans are performed on all source photography scanners.</horizpar>
+			</horizpa>
+		</posacc>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>digital elevation model</title>
+						<geoform>map</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>cartridge tape</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>19880805</begdate>
+							<enddate>Present</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>DEM1</srccitea>
+				<srccontr>Elevation data in the form of an ortho-DEM regridded
+to user-specified intervals and bounds.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unknown</pubdate>
+						<title>photo ID number</title>
+						<geoform>remote-sensing image</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>40000</srcscale>
+				<typesrc>cartridge tape</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Present</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>PHOTO1</srccitea>
+				<srccontr>Panchromatic black and white (or color infra-red)
+NAPP or NAPP-like photograph. NAPP photographs are
+centered on the DOQ coverage area.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unpublished material</pubdate>
+						<title>project ground and photo control</title>
+						<geoform>remote-sensing image</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>various media</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Present</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>ground condition</srccurr>
+				</srctime>
+				<srccitea>CONTROL_INPUT</srccitea>
+				<srccontr>Horizontal and vertical control used
+to establish positions and elevations for reference and
+correlation purposes.</srccontr>
+			</srcinfo>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>U.S. Geological Survey</origin>
+						<pubdate>Unpublished material</pubdate>
+						<title>report of calibration</title>
+						<geoform>remote-sensing image</geoform>
+						<pubinfo>
+							<pubplace>Reston, VA</pubplace>
+							<publish>U.S. Geological Survey</publish>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<typesrc>disc, paper</typesrc>
+				<srctime>
+					<timeinfo>
+						<rngdates>
+							<begdate>Unknown</begdate>
+							<enddate>Present</enddate>
+						</rngdates>
+					</timeinfo>
+					<srccurr>Date of the camera calibration associated with the source</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>Metadata imported.</procdesc>
+				<srcused>C:\DOCUME~1\GISSTU~1\LOCALS~1\Temp\xml36.tmp</srcused>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137</semiaxis>
+				<denflat>298.257</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<eainfo>
+		<overview>
+			<eaover>For DOQ's from panchromatic source each pixel contains an
+8-bit gray-scale value between 0-255. A value of 0 represents
+the color black while a value of 255 represents the color white.
+All values between 0 and 255 are repesented as a shade of gray
+varying from black to white. For color-infrared and natural color
+DOQs' a digital number from 0 to 255 will also be
+asssigned to each pixel but that number will refer to a color
+look-up table which will contain the RGB red, blue and green
+(RGB) values, each from 0 to 255, for that digital number. Areas
+where the rectification process is incomplete due to incomplete data
+(i.e., lack of elevation data, gaps), are represented with the numeric
+value of 0.</eaover>
+			<eadetcit>U.S. Department of the Interior,  U.S. Geological Survey,
+guide for digital orthophotos: Reston, VA.
+
+A hypertext version is available at:
+URL: http://edcwww.cr.usgs.gov/glis/hyper/guide/usgs_doq
+
+U.S. Department of the Interior,  U.S. Geological Survey, 1992,
+Standards for digital orthophotos: Reston, VA.
+
+Softcopies in ASCII, WordPerfect, and PostScript format are available at:
+URL: ftp://mapping.usgs.gov/pub/ti/DOQ/</eadetcit>
+		</overview>
+	</eainfo>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>Earth Science Information Center, U.S. Geological Survey</cntorg>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>Complete list of Earth Science Information Centers at:URL: http://mapping.usgs.gov/esic/esic_index.html</address>
+					<address>507 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+				</cntaddr>
+				<cntvoice>1 800 USA MAPS</cntvoice>
+				<hours>0800-1600</hours>
+				<cntinst>In addition to the address above there are other ESIC offices
+throughout the country.  A full list of these offices is at:
+
+URL: http://mapping.usgs.gov/esic/esic_index.html</cntinst>
+			</cntinfo>
+		</distrib>
+		<resdesc>Geographic Services</resdesc>
+		<distliab>Although these data have been processed successfully on a computer
+system at the U.S. Geological Survey no warranty expressed or
+implied is made by the USGS regarding the utility of the data on any
+other system, nor shall the act of distribution constitute any such
+warranty. The USGS will warrant the delivery of this product in
+computer-readable format and will offer appropriate adjustment
+of credit when the product is determined unreadable by correctly
+adjusted computer input peripherals, or when the physical medium
+is delivered in damaged condition. Requests for adjustments of
+credit must be made within 90 days from the date of this shipment
+from the ordering site.</distliab>
+	</distinfo>
+	<metainfo>
+		<metd>20041112</metd>
+		<metc>
+			<cntinfo>
+				<cntorgp>
+					<cntorg>U.S. Geological Survey</cntorg>
+					<cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+				</cntorgp>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>508 National Center</address>
+					<city>Reston</city>
+					<state>VA</state>
+					<postal>20192</postal>
+				</cntaddr>
+				<cntvoice>703 648 4543</cntvoice>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metsi>
+			<metscs>None</metscs>
+			<metsc>Unclassified</metsc>
+			<metshd>None</metshd>
+		</metsi>
+		<metextns>
+			<onlink>http://www.esri.com/metadata/esriprof80.html</onlink>
+			<metprof>ESRI Metadata Profile</metprof>
+		</metextns>
+	</metainfo>
+<Esri><PublishedDocID>{EDF8CB0E-762D-4034-992D-E526EBDED65E}</PublishedDocID><PublishStatus>Published</PublishStatus></Esri><mdFileID>{EDF8CB0E-762D-4034-992D-E526EBDED65E}</mdFileID></metadata>

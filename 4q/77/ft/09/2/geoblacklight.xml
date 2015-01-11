@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/4q77ft092</field>
+    <field name="dc_creator_sm">Survey of India</field>
+    <field name="dc_description_s">This is a map of the city of Benares, India, shown at a 1:15,840 or 1 in. = 4 mi. scale. The map was created by the government-sponsored Survey of India.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">4q77ft092</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Survey of India</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">City plan</field>
+    <field name="dc_subject_sm">Road map</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">Planimetric map</field>
+    <field name="dc_subject_sm">structure</field>
+    <field name="dc_title_s">Benares guide map</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/4q77ft092/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/4q77ft092/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/4q77ft092", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/4q77ft092/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Benares</field>
+    <field name="dct_spatial_sm">Varanasi</field>
+    <field name="dct_spatial_sm">Kasi</field>
+    <field name="dct_spatial_sm">Uttar Pradesh</field>
+    <field name="dct_spatial_sm">India</field>
+    <field name="dct_spatial_sm">MAX  G7654.V3C1.1933.S9I5</field>
+    <field name="dct_issued_s">1933</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">25.2667 82.9667 25.3500 83.0333</field>
+    <field name="georss_polygon_s">25.3500 82.9667 25.3500 83.0333 25.2667 83.0333 25.2667 82.9667 25.3500 82.9667</field>
+    <field name="layer_slug_s">princeton-4q77ft092</field>
+    <field name="layer_id_s">4q77ft092</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:09Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">82.9667 25.2667 83.0333 25.3500</field>
+    <field name="solr_ne_pt">25.3500,83.0333</field>
+    <field name="solr_sw_pt">25.2667,82.9667</field>
+    <field name="solr_geom">ENVELOPE(82.9667, 83.0333, 25.3500, 25.2667)</field>
+    <field name="solr_year_i">1933</field>
+  </doc>
+</add>

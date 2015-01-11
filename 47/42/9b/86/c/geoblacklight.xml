@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/47429b86c</field>
+    <field name="dc_creator_sm">John Bartholomew &amp; Son, Ltd.</field>
+    <field name="dc_description_s">This is a city map of London, England, shown at a 1:250,000 scale. This city map was created by John Bartholomew &amp; Son Ltd.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">47429b86c</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">John Bartholomew &amp; Son Ltd.</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City blocks</field>
+    <field name="dc_title_s">London and home counties motoring map</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/47429b86c/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/47429b86c/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/47429b86c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/47429b86c/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">London</field>
+    <field name="dct_spatial_sm">England</field>
+    <field name="dct_spatial_sm">United Kingdom</field>
+    <field name="dct_spatial_sm">Kent Co.</field>
+    <field name="dct_spatial_sm">East Sussex Co.</field>
+    <field name="dct_spatial_sm">West Sussex Co.</field>
+    <field name="dct_spatial_sm">Hampshire Co.</field>
+    <field name="dct_spatial_sm">Surrey Co.</field>
+    <field name="dct_spatial_sm">Berkshire Co.</field>
+    <field name="dct_spatial_sm">Oxford Co.</field>
+    <field name="dct_spatial_sm">Buckingham Co.</field>
+    <field name="dct_spatial_sm">Bedford Co.</field>
+    <field name="dct_spatial_sm">Hertford Co.</field>
+    <field name="dct_spatial_sm">Essex Co.</field>
+    <field name="dct_spatial_sm">Suffolk Co.</field>
+    <field name="dct_issued_s">1972</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">50.40 -1.22 52.04 01.26</field>
+    <field name="georss_polygon_s">52.04 -1.22 52.04 01.26 50.40 01.26 50.40 -1.22 52.04 -1.22</field>
+    <field name="layer_slug_s">princeton-47429b86c</field>
+    <field name="layer_id_s">47429b86c</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:10Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-1.22 50.40 01.26 52.04</field>
+    <field name="solr_ne_pt">52.04,01.26</field>
+    <field name="solr_sw_pt">50.40,-1.22</field>
+    <field name="solr_geom">ENVELOPE(-1.22, 01.26, 52.04, 50.40)</field>
+    <field name="solr_year_i">1972</field>
+  </doc>
+</add>

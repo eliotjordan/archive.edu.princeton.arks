@@ -1,0 +1,572 @@
+<metadata xml:lang="en">
+   <Esri>
+      <CreaDate>20040519</CreaDate>
+      <CreaTime>18011200</CreaTime>
+      <SyncDate>20001204</SyncDate>
+      <SyncTime>16100800</SyncTime>
+      <ModDate>20040519</ModDate>
+      <ModTime>18004000</ModTime>
+      <Sync>FALSE</Sync>
+      <MetaID>{A4DD6A69-482E-41BB-98C4-5FAD1E25A193}</MetaID>
+      <SyncOnce>TRUE</SyncOnce>
+      <PublishedDocID>{1A5D6132-A6B9-4817-B306-63670C60E6DE}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <idinfo>
+      <native Sync="TRUE">Windows NT Version 5.0 (Build 2195) ; ESRI ArcInfo 8.1.0.515</native>
+      <descript>
+         <langdata Sync="TRUE">en</langdata>
+         <abstract>World Wildlife Fund Ecoregions represents global terrestrial and freshwater ecoregions defined as relatively large areas of land or water in the world that share a large majority of their species, dynamics, and environmental conditions.  It contains the terrestrial habitats and some freshwater habitats of the Global 200 ecoregions, a collection of the Earth's most outstanding and diverse terrestrial, freshwater, and marine habitats--areas where the Earth's biological wealth is most distinctive and rich, where its loss will be most severely felt, and where we must fight the hardest for conservation.  The data is from the World Wildlife Fund Conservation Science Program 1998 - 1999.  For more information, contact http://www.worldwildlife.org.</abstract>
+         <purpose>World Wildlife Fund Ecoregions provides a global view of mainly terrestrial ecoregions defined by the World Wildlife Fund Conservation Science Program 1998 - 1999, and can be used for geographic display and analysis at national and world levels.</purpose>
+         <supplinf>Largest scale when displaying the data: 1:3,000,000.</supplinf>
+      </descript>
+      <citation>
+         <citeinfo>
+            <pubdate>20001101</pubdate>
+            <title>World Wildlife Fund Ecoregions</title>
+            <ftname Sync="TRUE">wwf_eco</ftname>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <edition>2000</edition>
+            <serinfo>
+               <sername>ESRI Data &amp; Maps</sername>
+               <issue>2000</issue>
+            </serinfo>
+            <pubinfo>
+               <pubplace>Redlands, California, USA</pubplace>
+               <publish>Environmental Systems Research Institute, Inc. (ESRI)</publish>
+            </pubinfo>
+            <othercit>Location: ESRI Data &amp; Maps 2000 (CD 1) \world</othercit>
+            <origin>World Wildlife Fund</origin>
+            <origin>Environmental Systems Research Institute, Inc. (ESRI)</origin>
+            <onlink>http://map.princeton.edu/offline/contact.html</onlink>
+         </citeinfo>
+      </citation>
+      <timeperd>
+         <current>publication date</current>
+         <timeinfo>
+            <sngdate>
+               <caldate>1998&#8211;1999</caldate>
+            </sngdate>
+         </timeinfo>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Matches software update releases</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">-180.000000</westbc>
+            <eastbc Sync="TRUE">180.000000</eastbc>
+            <northbc Sync="TRUE">83.623596</northbc>
+            <southbc Sync="TRUE">-67.600006</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">-180.000000</leftbc>
+            <rightbc Sync="TRUE">180.000000</rightbc>
+            <bottombc Sync="TRUE">-67.600006</bottombc>
+            <topbc Sync="TRUE">83.623596</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>polygon</themekey>
+            <themekey>ecoregions</themekey>
+            <themekey>ecosystems</themekey>
+            <themekey>species richness</themekey>
+            <themekey>species endemism</themekey>
+            <themekey>ecological</themekey>
+            <themekey>evolutionary</themekey>
+            <themekey>habitat</themekey>
+            <themekey>global rarity</themekey>
+            <themekey>biodiversity</themekey>
+         </theme>
+         <place>
+            <placekey>World</placekey>
+            <placekt>None</placekt>
+         </place>
+         <temporal>
+            <tempkey>1998&#8211;1999</tempkey>
+            <tempkt>None</tempkt>
+         </temporal>
+      </keywords>
+      <accconst>Access granted to Licensee only.</accconst>
+      <useconst>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps CD&#8211;ROMs for use with ESRI&#174; software.  Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps CD&#8211;ROMs. As used herein, &#8220;Geodata&#8221; shall mean any digital data set consisting of geographic data coordinates and associated attributes.
+
+The redistribution rights for this data set: Internal Use Only. No redistribution rights are granted by the data vendor and the data is for the end user's own internal use only.
+
+The terms and conditions below apply to all the data sets provided on the ESRI Data &amp; Maps CD&#8211;ROMs.
+
+Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions.
+
+Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt.
+
+THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA.
+
+EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED &quot;AS-IS,&quot; WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee.
+
+IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY.
+
+Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI.
+
+In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</useconst>
+      <natvform Sync="TRUE">Shapefile</natvform>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+               <cntper>Data Team</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>380 New York Street</address>
+               <city>Redlands</city>
+               <state>California</state>
+               <postal>92373-8100</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.&#8211;5:30 p.m. Pacific time, Monday&#8211;Friday</hours>
+            <cntinst>In the United States&#8211;
+Please direct all inquiries regarding software/data pricing and consulting services to your local ESRI Regional Office.  For support, you may contact Technical Support by telephone (voice) between 6:00 a.m. and 6:00 p.m. Pacific time, Monday through Friday, by dialing 909-793-3774; facsimile (fax) available at 909-792-0960; electronic mail (e-mail) support@esri.com; or visit http://support.esri.com; ESRI holidays excluded. 
+
+Outside the United States&#8211;
+Please direct all inquiries regarding software/data pricing, sales, support, and consulting services to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.  
+
+For other questions or comments, you may contact ESRI headquarters by e-mail, telephone, or fax or write to us.</cntinst>
+         </cntinfo>
+      </ptcontac>
+      <browse BrowseGraphicType="Thumbnail">
+         <browsed>Thumbnail</browsed>
+         <browset>BMP</browset>
+      </browse>
+   </idinfo>
+   <metainfo>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntper>Data Team</cntper>
+               <cntorg>Environmental Systems Research Institute, Inc. (ESRI)</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <city>Redlands</city>
+               <state>California</state>
+               <postal>92373-8100</postal>
+               <address>380 New York Street</address>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>909-793-2853</cntvoice>
+            <cntfax>909-793-5953</cntfax>
+            <cntemail>info@esri.com</cntemail>
+            <hours>8:00 a.m.&#8211;5:30 p.m. Pacific time, Monday&#8211;Friday</hours>
+         </cntinfo>
+      </metc>
+      <metd Sync="TRUE">20040519</metd>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <esriterm Name="wwf_eco">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">24944</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+            <featdesc>World Wildlife Fund Ecoregion</featdesc>
+         </esriterm>
+         <sdtsterm Name="wwf_eco">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">24944</ptvctcnt>
+         </sdtsterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+         <geograph>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+            <latres Sync="TRUE">0.000001</latres>
+            <longres Sync="TRUE">0.000001</longres>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="wwf_eco">
+         <enttyp>
+            <enttypl Sync="TRUE">wwf_eco</enttypl>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">24944</enttypc>
+            <enttypd>The polygons represent global terrestrial and freshwater ecoregions defined as relatively large areas of land or water in the world that share a large majority of their species, dynamics, and environmental conditions.</enttypd>
+            <enttypds>World Wildlife Fund</enttypds>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">ECOREGION</attrlabl>
+            <attalias Sync="TRUE">ECOREGION</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">99</attwidth>
+            <attrdef>The descriptive name for the ecoregion. Ecoregions are relatively large areas of land or water that share a large majority of their species, dynamics, and environmental conditions.</attrdef>
+            <attrdefs>World Wildlife Fund</attrdefs>
+            <attrdomv>
+               <udom>Names for the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">MHT_NAME</attrlabl>
+            <attalias Sync="TRUE">MHT_NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">61</attwidth>
+            <attrdef>The major habitat for the area.</attrdef>
+            <attrdefs>World Wildlife Fund</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Boreal forest/taigas</edomv>
+                  <edomvd>Boreal forest/taigas major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Deserts and xeric shrublands</edomv>
+                  <edomvd>Deserts and xeric shrublands major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Flooded grasslands</edomv>
+                  <edomvd>Flooded grasslands major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Mangroves</edomv>
+                  <edomvd>Mangroves major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Mediterranean scrub</edomv>
+                  <edomvd>Mediterranean scrub major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Montane grasslands</edomv>
+                  <edomvd>Montane grasslands major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Snow, ice, glaciers, and rock</edomv>
+                  <edomvd>Snow, ice, glaciers, and rock major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Temperate broadleaf and mixed forests</edomv>
+                  <edomvd>Temperate broadleaf and mixed forests major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Temperate coniferous forests</edomv>
+                  <edomvd>Temperate coniferous forests major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Temperate grasslands, savannas, and shrublands</edomv>
+                  <edomvd>Temperate grasslands, savannas, and shrublands major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Tropical and subtropical coniferous forests</edomv>
+                  <edomvd>Tropical and subtropical coniferous forests major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Tropical and subtropical dry broadleaf forests</edomv>
+                  <edomvd>Tropical and subtropical dry broadleaf forests major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Tropical and subtropical grasslands, savannas, and shrublands</edomv>
+                  <edomvd>Tropical and subtropical grasslands, savannas, and shrublands major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Tropical and subtropical moist broadleaf forests</edomv>
+                  <edomvd>Tropical and subtropical moist broadleaf forests major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Tundra</edomv>
+                  <edomvd>Tundra major habitat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Unknown</edomv>
+                  <edomvd>Major habitat is unknown.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>Water</edomv>
+                  <edomvd>Water.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">BDI</attrlabl>
+            <attalias Sync="TRUE">BDI</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">2</attwidth>
+            <attrdef>The biological distinctiveness index. It is based on the species richness, endemism, rareness, etc.</attrdef>
+            <attrdefs>World Wildlife Fund</attrdefs>
+            <attrdomv>
+               <edom>
+                  <edomv>1</edomv>
+                  <edomvd>Globally outstanding in biological distinctiveness.</edomvd>
+                  <edomvds>World Wildlife Fund</edomvds>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>2</edomv>
+                  <edomvd>Regionally outstanding in biological distinctiveness.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>3</edomv>
+                  <edomvd>Bioregionally outstanding in biological distinctiveness.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>4</edomv>
+                  <edomvd>Locally important in biological distinctiveness.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>0</edomv>
+                  <edomvd>Not assessed or unknown.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">THREAT</attrlabl>
+            <attalias Sync="TRUE">THREAT</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">2</attwidth>
+            <attrdefs>World Wildlife Fund</attrdefs>
+            <attrdef>The degree of threat to the ecoregion. Such threats are from logging, conversion to agriculture/urbanization, etc.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>1</edomv>
+                  <edomvd>Critical in degree of threat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>2</edomv>
+                  <edomvd>Endangered in degree of threat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>3</edomv>
+                  <edomvd>Vulnerable in degree of threat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>4</edomv>
+                  <edomvd>Relatively stable in degree of threat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>5</edomv>
+                  <edomvd>Relatively intact in degree of threat.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>0</edomv>
+                  <edomvd>Not assessed or unknown.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">FINAL</attrlabl>
+            <attalias Sync="TRUE">FINAL</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">2</attwidth>
+            <attrdefs>World Wildlife Fund</attrdefs>
+            <attrdef>The final assessment of the ecoregion as the estimated threat to the ecoregion over the next 20 years.</attrdef>
+            <attrdomv>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>1</edomv>
+                  <edomvd>Critical in estimated threat over the next 20 years.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>2</edomv>
+                  <edomvd>Endangered in estimated threat over the next 20 years.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>3</edomv>
+                  <edomvd>Vulnerable in estimated threat over the next 20 years.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>4</edomv>
+                  <edomvd>Relatively stable in estimated threat over the next 20 years.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>5</edomv>
+                  <edomvd>Relatively intact in estimated threat over the next 20 years.</edomvd>
+               </edom>
+               <edom>
+                  <edomvds>World Wildlife Fund</edomvds>
+                  <edomv>0</edomv>
+                  <edomvd>Not assessed or unknown.</edomvd>
+               </edom>
+            </attrdomv>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <transize Sync="TRUE">67.788</transize>
+               <dssize Sync="TRUE">67.788</dssize>
+               <formname>SHP</formname>
+               <filedec>no compression applied</filedec>
+            </digtinfo>
+            <digtopt>
+               <offoptn>
+                  <offmedia>ESRI Data &amp; Maps 2000 CD&#8211;ROM Set is available only as part of ESRI&#174; software.</offmedia>
+                  <reccap>
+                     <recden>650</recden>
+                     <recdenu>MB (megabytes)</recdenu>
+                  </reccap>
+                  <recfmt>ISO 9660</recfmt>
+               </offoptn>
+            </digtopt>
+         </digform>
+         <fees>Software purchase price</fees>
+      </stdorder>
+      <distrib>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>Environmental Systems Research Institute, Inc. (ESRI); ESRI International Distributors</cntorg>
+            </cntorgp>
+            <cntinst>In the United States, contact the ESRI Telesales staff at 800-447-9778 for more information about our software and data.
+
+Outside the United States, please direct all inquiries to your local ESRI International Distributor.  This information can be found at http://gis.esri.com/intldist/contactint.cfm.</cntinst>
+            <cntaddr>
+               <addrtype>mailing and physical address</addrtype>
+               <address>380 New York Street</address>
+               <city>Redlands</city>
+               <state>California</state>
+               <postal>92373-8100</postal>
+               <country>USA</country>
+            </cntaddr>
+            <cntvoice>800-447-9778</cntvoice>
+         </cntinfo>
+      </distrib>
+      <techpreq>To use this data requires software that supports ArcView&#174; GIS shapefiles.</techpreq>
+      <distliab>See use constraints.</distliab>
+   </distinfo>
+   <dataqual>
+      <lineage>
+         <srcinfo>
+            <srccite>
+               <citeinfo>
+                  <title>World Wildlife Fund Conservation Science Program 1998 - 1999</title>
+                  <origin>World Wildlife Fund </origin>
+                  <pubdate>1999</pubdate>
+                  <edition>1998 - 1999</edition>
+                  <geoform>vector digital data</geoform>
+                  <serinfo />
+                  <pubinfo>
+                     <publish>World Wildlife Fund</publish>
+                     <pubplace>Washington, DC, USA</pubplace>
+                  </pubinfo>
+               </citeinfo>
+            </srccite>
+            <srcscale>1000000</srcscale>
+            <typesrc>CD&#8211;ROM</typesrc>
+            <srctime>
+               <timeinfo>
+                  <sngdate>
+                     <caldate>1999</caldate>
+                  </sngdate>
+               </timeinfo>
+               <srccurr>publication date</srccurr>
+            </srctime>
+            <srccitea>World Wildlife Fund</srccitea>
+            <srccontr>Attribute and geospatial data</srccontr>
+         </srcinfo>
+         <procstep>
+            <procdesc>The WWF Conservation Science Program 1998 - 1999 created terrestrial ecoregions for the world by continent including, Africa, Asia, Australia, Central/South America, Europe, Greenland, Hawaii, Islands, and North America.</procdesc>
+            <srcprod>World Wildlife Fund</srcprod>
+            <procdate>1999</procdate>
+         </procstep>
+      </lineage>
+      <posacc>
+         <horizpa>
+            <horizpar>The geospatial part of this data set is based on the Digital Chart of the World (1:1,000,000 scale) that has been generalized. Generalizing reduces positional accuracy and the tolerance was not recorded so the positional accuracy is not known.</horizpar>
+         </horizpa>
+      </posacc>
+      <logic>Nine data sets were merged together to create this one shapefile and great lengths were taken to ensure no duplicate features are present, but it can't be guaranteed.  The shapefile is exported using Avenue request ExportClean.  This request verifies and enforces the correctness of shapes.</logic>
+      <complete>After processing, the data set is checked for drawing display and number of records and file sizes compared with source materials.</complete>
+   </dataqual>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <linkage Sync="TRUE">Server=gisserver; Service=5152; Database=gisdata; User=administrator; Version=sde.DEFAULT</linkage>
+               <protocol Sync="TRUE">ArcSDE Connection</protocol>
+            </onLineSrc>
+         </distorTran>
+      </distributor>
+   </distInfo>
+   <mdDateSt Sync="TRUE">20040519</mdDateSt>
+</metadata>

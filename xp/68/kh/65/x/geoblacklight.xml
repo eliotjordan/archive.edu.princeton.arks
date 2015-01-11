@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/xp68kh65x</field>
+    <field name="dc_creator_sm">Bellin, Jacques Nicolas</field>
+    <field name="dc_description_s">This is a scanned map of Alicante, Spain, from the Historical Map Collection of Princeton University's Rare Books department.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">xp68kh65x</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Bellin, Jacques Nicolas</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">boundaries</field>
+    <field name="dc_subject_sm">transportation</field>
+    <field name="dc_subject_sm">Historical Maps</field>
+    <field name="dc_subject_sm">Nautical Charts</field>
+    <field name="dc_title_s">Plan de la rade et ville d'Alicant </field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xp68kh65x/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fxp%2F68%2Fkh%2F65%2Fx%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xp68kh65x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xp68kh65x/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Spain</field>
+    <field name="dct_spatial_sm">Alicante</field>
+    <field name="dct_spatial_sm">Alicant</field>
+    <field name="dct_spatial_sm">HMC01.3670</field>
+    <field name="dct_issued_s">1764</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">38.321 -0.539 38.371 -0.444</field>
+    <field name="georss_polygon_s">38.371 -0.539 38.371 -0.444 38.321 -0.444 38.321 -0.539 38.371 -0.539</field>
+    <field name="layer_slug_s">princeton-xp68kh65x</field>
+    <field name="layer_id_s">xp68kh65x</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:10Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-0.539 38.321 -0.444 38.371</field>
+    <field name="solr_ne_pt">38.371,-0.444</field>
+    <field name="solr_sw_pt">38.321,-0.539</field>
+    <field name="solr_geom">ENVELOPE(-0.539, -0.444, 38.371, 38.321)</field>
+    <field name="solr_year_i">1764</field>
+  </doc>
+</add>

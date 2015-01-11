@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/q811km207</field>
+    <field name="dc_creator_sm">United States Geological Survey</field>
+    <field name="dc_description_s">A scanned USGS 1:24,000 topographic map.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">q811km207</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">United States Geological Survey</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Topographic map</field>
+    <field name="dc_subject_sm">7.5 Minute Quadrangle Map</field>
+    <field name="dc_subject_sm">Contour line</field>
+    <field name="dc_subject_sm">Elevation</field>
+    <field name="dc_subject_sm">Roads</field>
+    <field name="dc_subject_sm">geoscientificInformation</field>
+    <field name="dc_title_s">Trenton West Quadrangle, New Jersey - Pennsylvania, 7.5 minute series (topographic) (1981)</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/q811km207/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fq8%2F11%2Fkm%2F20%2F7%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/q811km207", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/q811km207/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Trenton West</field>
+    <field name="dct_spatial_sm">Trenton</field>
+    <field name="dct_spatial_sm">Ewing</field>
+    <field name="dct_spatial_sm">Lawrence</field>
+    <field name="dct_spatial_sm">Bristol</field>
+    <field name="dct_spatial_sm">Falls</field>
+    <field name="dct_spatial_sm">Lower Makefield</field>
+    <field name="dct_spatial_sm">Middletown</field>
+    <field name="dct_spatial_sm">Morrisville</field>
+    <field name="dct_spatial_sm">Tullytown</field>
+    <field name="dct_spatial_sm">Yardley</field>
+    <field name="dct_spatial_sm">Bucks County</field>
+    <field name="dct_spatial_sm">Mercer County</field>
+    <field name="dct_spatial_sm">Pennsylvania</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_issued_s">1955 (photorevised 1981)</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">40.125 -74.875 40.250 -74.750</field>
+    <field name="georss_polygon_s">40.250 -74.875 40.250 -74.750 40.125 -74.750 40.125 -74.875 40.250 -74.875</field>
+    <field name="layer_slug_s">princeton-q811km207</field>
+    <field name="layer_id_s">q811km207</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:26Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">-74.875 40.125 -74.750 40.250</field>
+    <field name="solr_ne_pt">40.250,-74.750</field>
+    <field name="solr_sw_pt">40.125,-74.875</field>
+    <field name="solr_geom">ENVELOPE(-74.875, -74.750, 40.250, 40.125)</field>
+  </doc>
+</add>

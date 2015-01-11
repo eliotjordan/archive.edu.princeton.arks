@@ -1,0 +1,460 @@
+<metadata>
+   <idinfo>
+      <citation>
+         <citeinfo>
+            <origin>LeadDog Consulting, LLC</origin>
+            <pubdate>20100101</pubdate>
+            <title>Pakistan Tehsil Boundary, 2010</title>
+            <geoform Sync="TRUE">vector digital data</geoform>
+            <onlink>http://map.princeton.edu/download/data/Asia/Pakistan/pakistan_tehsil_boundary2010.zip </onlink>
+            <lworkcit>
+               <citeinfo>
+                  <origin>LeadDog Consulting, LLC</origin>
+                  <pubdate>20100101</pubdate>
+                  <title>LeadDog creates and maintains GIS street and road network maps for Iraq, Afghanistan, the Middle East, Africa, Mexico, Latin America, the Caribbean and Asia. LeadDog also offers GIS and postcode maps for virtually every country in the world. LeadDog mapping efforts focus on international locations where quality maps typically do not exist. LeadDog has a unique and open approach to map creation, allowing cost-effective mapping for virtually any part of the world. LeadDog map products are created to the same specification across cities and countries. The results are maps that have the same look, feel, and function whether they are for Baghdad, Tijuana, or Casablanca.</title>
+                  <geoform>Vector digital data</geoform>
+                  <onlink>http://www.goleaddog.com</onlink>
+               </citeinfo>
+            </lworkcit>
+            <ftname Sync="TRUE">Pakistan_Tehsil_Boundary</ftname>
+         </citeinfo>
+      </citation>
+      <descript>
+         <abstract>Pakistan Tehsil Boundary. This LeadDog dataset is released Semi-Annually.</abstract>
+         <purpose>LeadDog products are used in a variety of applications that require accurate and comprehensive GIS street and road centerline maps. LeadDog data products are widely used for routing, geocoding, asset-tracking, and site selection by the government, the military, and private security companies. LeadDog provides a topologically connected network of streets and roads to support routing. In areas where attributes are scarce, basic geometry based routing is supported. In areas where attributes are more complete, more advanced routing using both geometry and attributes describing one-way streets, ramps, etc., is supported. Attributes are empty for many road and street segments, due to scarce information in remote countries and regions. LeadDog is constantly working to collect and fill in missing information.</purpose>
+         <supplinf>LeadDog provides street and road map GIS layers through two basic products: 1) Major Roads and 2) City Streets. Together, the two products provide a navigable network of streets and roads for a given country that can be used for routing. Major Roads product layers are derived from 1:250,000 scale imagery and cover an entire country. City Streets product layers are derived from 1:10,000 scale high resolution imagery and are generally compiled on a city by city basis. For example, for the country of Afghanistan, LeadDog provides a set of Major Roads layers for the entire country and, for each major city, a set of City Streets layers. Both the Major Roads and City Streets product layers contain Streets &amp; Roads, Points of Interest, Railroads, Airports,  City/Town/Place, Linear and Polygon Water features, National Boundaries, Provinces and Urban Areas. In addition, the Major Roads product contains District/Municipality Boundaries and the City Streets product contains Parks/LandUse and Neighborhoods. The number and type of layers may vary by country, for both Major Roads layers and City Streets layers. LeadDog data files are initially packaged as ESRI ShapeFiles and use a country, major roads, layer name folder and file organizing convention for the country-wide Major Roads data and a country, city name, layer folder and file organizating convention for the City Streets data. For example, the afghanistan_p folder will contain a single major_roads folder, containing all country-wide layers, and for each city, e.g., Kabul, Kandahar, etc., the afghanistan_p folder will contain a separate subfolder, each containing specific city-wide layers. As such, each LeadDog filename is unique. When packaged as SDE or GeoDatabase layers, this same convention is used. LeadDog uses two ShapeFile and layer naming schemes. With the first method, each City Streets ShapeFile or layer has a root name built using three parts including 1) city abbreviation, 2) country code, and 3) layer abbreviation, e.g., kabuafst, for Kabul, Afghanistan, Streets, and each Major Roads ShapeFile or layer has a root name with two parts as 1) country code and 2) layer abbreviation, e.g., afst, for Afghanistan Streets. With the second method, for City Streets, an additional country code prefix and city abbreviation are added to the root name as described in method one above, e.g., af_kabul_kabuafst, for Afghanistan, Kabul, Streets. For Major Roads layers, the second method simply adds a country code prefix, e.g., af_afst, for Afghanistan, Streets. There are a small number of exceptions to this folder/file organizing scheme. For additional information, visit LeadDog's website at www.goleaddog.com, which provides an on-line map based data finder and viewer, information for PostCodes data products, and full descriptions and previews of LeadDog datasets by continent and country. LeadDog also provides worldwide Landclass and Contour datasets. In addition LeadDog partners with iMaptools (www.iMaptools.com) to provide a number of GIS data and software applications (iEnterprise) including Routing (iDrivingDirections), Reverse Geocoding (iReverseGeo), and GIS Data Web Servers (iMapServer).</supplinf>
+         <langdata Sync="TRUE">en</langdata>
+      </descript>
+      <timeperd>
+         <timeinfo>
+            <sngdate>
+               <caldate>20100101</caldate>
+            </sngdate>
+         </timeinfo>
+         <current>publication date</current>
+      </timeperd>
+      <status>
+         <progress>Complete</progress>
+         <update>Quarterly</update>
+      </status>
+      <spdom>
+         <bounding>
+            <westbc Sync="TRUE">60.893558</westbc>
+            <eastbc Sync="TRUE">79.285512</eastbc>
+            <northbc Sync="TRUE">37.093082</northbc>
+            <southbc Sync="TRUE">23.693722</southbc>
+         </bounding>
+         <lboundng>
+            <leftbc Sync="TRUE">60.893558</leftbc>
+            <rightbc Sync="TRUE">79.285512</rightbc>
+            <bottombc Sync="TRUE">23.693722</bottombc>
+            <topbc Sync="TRUE">37.093082</topbc>
+         </lboundng>
+      </spdom>
+      <keywords>
+         <theme>
+            <themekt>ISO 19115 Topic Category</themekt>
+            <themekey>location</themekey>
+            <themekey>boundaries</themekey>
+            <themekey>Tehsil Boundary</themekey>
+         </theme>
+         <theme>
+            <themekt>None</themekt>
+            <themekey>Roadmap</themekey>
+            <themekey>Navigation</themekey>
+            <themekey>Routing</themekey>
+            <themekey>Geocoding</themekey>
+            <themekey>LeadDog</themekey>
+            <themekey>Provinces</themekey>
+         </theme>
+         <place>
+            <placekt>None</placekt>
+            <placekey>PAKISTAN</placekey>
+         </place>
+      </keywords>
+      <accconst>Access to this data is allowed only to LeadDog customers, as detailed specifically in LeadDog licensing terms and agreements.</accconst>
+      <useconst>This data can only be used by LeadDog customers, as detailed specifically in LeadDog licensing terms and agreements.</useconst>
+      <ptcontac>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>LeadDog Consulting, LLC</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>Mailing and Physical</addrtype>
+               <address>6220 Farpoint Dr.</address>
+               <city>Anchorage</city>
+               <state>AK</state>
+               <postal>99507</postal>
+            </cntaddr>
+            <cntvoice>US Toll-free &amp; fax: 888-750-0309, International Callers: 907-375-5578</cntvoice>
+            <cntemail>support@goleaddog.com</cntemail>
+         </cntinfo>
+      </ptcontac>
+      <datacred>LeadDog incorporates and enhances data from a number of government and other public sources.</datacred>
+      <native Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</native>
+      <crossref>
+         <citeinfo>
+            <origin>LeadDog</origin>
+            <pubdate>20100101</pubdate>
+            <title>LeadDog Major Roads and City Streets data products, available for over 100 countries, contain GIS layers for Streets &amp; Roads, RailRoads, Points of Interest, Airports, Cities/Towns/Places, District, Province, and Urban Area Boundaries, Land Cover, Linear and Polygon Water features, National Boundaries, Neighborhoods, and Parks. LeadDog uses Feature Class Codes (FCC) for populating certain type attributes, which are based on earlier US Bureau of the Census GIS feature classification.</title>
+            <onlink>http://www.goleaddog.com</onlink>
+         </citeinfo>
+      </crossref>
+      <natvform Sync="TRUE">Shapefile</natvform>
+   </idinfo>
+   <dataqual>
+      <logic>LeadDog quality assurance involves compilation, checking, and cross-referencing information and feedback from a variety of government, commercial, non-commercial, and end user sources.</logic>
+      <complete>LeadDog attributes generally include all publically available information. In some cases, attributes are not available. For example, official street names do not exist for many parts of the Middle East and Africa. LeadDog is continually researching new information available for layers with missing attributes and includes new information in semi-annual updates.</complete>
+      <posacc>
+         <horizpa>
+            <horizpar>LeadDog Major Roads products are derived from a combination of high and low resolution imagery as well as topographic maps in a minority of cases.  The spatial accuracy is 5 - 40 meters.</horizpar>
+         </horizpa>
+      </posacc>
+      <lineage>
+         <procstep>
+            <procdesc>LeadDog generates ESRI SDE layers or GeoDatabase Feature Classes on a one-to-one basis with ShapeFile layers.</procdesc>
+            <procdate>Unknown</procdate>
+         </procstep>
+      </lineage>
+   </dataqual>
+   <spdoinfo>
+      <direct Sync="TRUE">Vector</direct>
+      <ptvctinf>
+         <sdtsterm Name="Pakistan_Tehsil_Boundary">
+            <sdtstype Sync="TRUE">G-polygon</sdtstype>
+            <ptvctcnt Sync="TRUE">451</ptvctcnt>
+         </sdtsterm>
+         <esriterm Name="Pakistan_Tehsil_Boundary">
+            <efeatyp Sync="TRUE">Simple</efeatyp>
+            <efeageom Sync="TRUE">Polygon</efeageom>
+            <esritopo Sync="TRUE">FALSE</esritopo>
+            <efeacnt Sync="TRUE">451</efeacnt>
+            <spindex Sync="TRUE">TRUE</spindex>
+            <linrefer Sync="TRUE">FALSE</linrefer>
+         </esriterm>
+      </ptvctinf>
+   </spdoinfo>
+   <spref>
+      <horizsys>
+         <geograph>
+            <latres Sync="TRUE">0.000000</latres>
+            <longres Sync="TRUE">0.000000</longres>
+            <geogunit Sync="TRUE">Decimal degrees</geogunit>
+         </geograph>
+         <geodetic>
+            <horizdn Sync="TRUE">D_WGS_1984</horizdn>
+            <ellips Sync="TRUE">WGS_1984</ellips>
+            <semiaxis Sync="TRUE">6378137.000000</semiaxis>
+            <denflat Sync="TRUE">298.257224</denflat>
+         </geodetic>
+         <cordsysn>
+            <geogcsn Sync="TRUE">GCS_WGS_1984</geogcsn>
+         </cordsysn>
+      </horizsys>
+   </spref>
+   <eainfo>
+      <detailed Name="Pakistan_Tehsil_Boundary">
+         <enttyp>
+            <enttypl Sync="TRUE">Pakistan_Tehsil_Boundary</enttypl>
+            <enttypd>Tehsil Boundary</enttypd>
+            <enttypds>LeadDog</enttypds>
+            <enttypt Sync="TRUE">Feature Class</enttypt>
+            <enttypc Sync="TRUE">451</enttypc>
+         </enttyp>
+         <attr>
+            <attrlabl Sync="TRUE">FID</attrlabl>
+            <attalias Sync="TRUE">FID</attalias>
+            <attrtype Sync="TRUE">OID</attrtype>
+            <attwidth Sync="TRUE">4</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Internal feature number.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Sequential unique whole numbers that are automatically generated.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">Shape</attrlabl>
+            <attalias Sync="TRUE">Shape</attalias>
+            <attrtype Sync="TRUE">Geometry</attrtype>
+            <attwidth Sync="TRUE">0</attwidth>
+            <atprecis Sync="TRUE">0</atprecis>
+            <attscale Sync="TRUE">0</attscale>
+            <attrdef Sync="TRUE">Feature geometry.</attrdef>
+            <attrdefs Sync="TRUE">ESRI</attrdefs>
+            <attrdomv>
+               <udom Sync="TRUE">Coordinates defining the features.</udom>
+            </attrdomv>
+         </attr>
+         <attr>
+            <attrlabl>ID</attrlabl>
+            <attrdef>The unique record number assigned by LeadDog.</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+            <attrdomv>
+               <udom>The set of all ID values</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">ID</attalias>
+            <attrtype Sync="TRUE">Number</attrtype>
+            <attwidth Sync="TRUE">10</attwidth>
+         </attr>
+         <attr>
+            <attrlabl>NAME</attrlabl>
+            <attrdef>Tehsil Name</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+            <attrdomv>
+               <udom>The set of all NAME values</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">NAME</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+         </attr>
+         <attr>
+            <attrlabl>NAME_ALT</attrlabl>
+            <attrdef>An alternate name for the Tehsil.</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+            <attrdomv>
+               <udom>The set of all NAME_ALT values</udom>
+            </attrdomv>
+            <attalias Sync="TRUE">NAME_ALT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PAK1</attrlabl>
+            <attalias Sync="TRUE">PAK1</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>Province Name</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PAK1_ALT</attrlabl>
+            <attalias Sync="TRUE">PAK1_ALT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>An alternate name for the Province.</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PAK2</attrlabl>
+            <attalias Sync="TRUE">PAK2</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>Division Name</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PAK2_ALT</attrlabl>
+            <attalias Sync="TRUE">PAK2_ALT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>An alternate name for the Division.</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PAK3</attrlabl>
+            <attalias Sync="TRUE">PAK3</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>District Name</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">PAK3_ALT</attrlabl>
+            <attalias Sync="TRUE">PAK3_ALT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>An alternate name for the Distirct.</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TYPE</attrlabl>
+            <attalias Sync="TRUE">TYPE</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>Administrative Unit Type</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+         <attr>
+            <attrlabl Sync="TRUE">TYPE_ALT</attrlabl>
+            <attalias Sync="TRUE">TYPE_ALT</attalias>
+            <attrtype Sync="TRUE">String</attrtype>
+            <attwidth Sync="TRUE">80</attwidth>
+            <attrdef>An alternate name for the  administrative unit type.</attrdef>
+            <attrdefs>LeadDog</attrdefs>
+         </attr>
+      </detailed>
+   </eainfo>
+   <distinfo>
+      <distrib>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>LeadDog Consulting, LLC</cntorg>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>Mailing and Physical</addrtype>
+               <address>6220 Farpoint Dr.</address>
+               <city>Anchorage</city>
+               <state>AK</state>
+               <postal>99507</postal>
+            </cntaddr>
+            <cntvoice>US Toll-free &amp; fax: 888-750-0309, International Callers: 907-375-5578</cntvoice>
+            <cntemail>support@goleaddog.com</cntemail>
+         </cntinfo>
+      </distrib>
+      <resdesc>Downloadable Data</resdesc>
+      <distliab>This data can only be distributed to LeadDog customers, as detailed specifically in LeadDoglicensing terms and agreements.</distliab>
+      <stdorder>
+         <digform>
+            <digtinfo>
+               <formname>All ArcGIS 9.x formats including ShapeFiles, GeoDatabases, and SDE Layers</formname>
+               <formvern>ArcGIS 9.3</formvern>
+               <transize Sync="TRUE">0.743</transize>
+               <dssize Sync="TRUE">0.743</dssize>
+            </digtinfo>
+            <digtopt>
+               <onlinopt>
+                  <computer>
+                     <networka>
+                        <networkr>Standard, secure data delivery is provided to LeadDog customers through a dedicated ftp download site, requiring a username and password, as issued by LeadDog.</networkr>
+                     </networka>
+                  </computer>
+               </onlinopt>
+               <offoptn>
+                  <offmedia>DVD</offmedia>
+                  <recfmt>DVD</recfmt>
+               </offoptn>
+            </digtopt>
+         </digform>
+         <fees>Contact LeadDog Sales for most current pricing information. LeadDog also provides a Data Catalog and Price List on request.</fees>
+         <ordering>US Toll-free &amp; fax: 888-750-0309, International Callers: 907-375-5578</ordering>
+         <turnarnd>In some cases LeadDog data can be delivered immediately, otherwise, some datasets require 2-3 weeks delivery time.</turnarnd>
+      </stdorder>
+   </distinfo>
+   <metainfo>
+      <metd Sync="TRUE">20100702</metd>
+      <metc>
+         <cntinfo>
+            <cntorgp>
+               <cntorg>LeadDog Consulting, LLC</cntorg>
+               <cntper>REQUIRED: The person responsible for the metadata information.</cntper>
+            </cntorgp>
+            <cntaddr>
+               <addrtype>Mailing and Physical</addrtype>
+               <address>6220 Farpoint Dr.</address>
+               <city>Anchorage</city>
+               <state>AK</state>
+               <postal>99507</postal>
+            </cntaddr>
+            <cntvoice>US Toll-free &amp; fax: 888-750-0309, International Callers: 907-375-5578</cntvoice>
+            <cntemail>support@goleaddog.com</cntemail>
+         </cntinfo>
+      </metc>
+      <metstdn Sync="TRUE">FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+      <metstdv Sync="TRUE">FGDC-STD-001-1998</metstdv>
+      <mettc Sync="TRUE">local time</mettc>
+      <langmeta Sync="TRUE">en</langmeta>
+      <metextns>
+         <onlink Sync="TRUE">http://www.esri.com/metadata/esriprof80.html</onlink>
+         <metprof Sync="TRUE">ESRI Metadata Profile</metprof>
+      </metextns>
+   </metainfo>
+   <Esri>
+      <MetaID>{B0C92739-BC80-41D5-831F-8DBEB3752045}</MetaID>
+      <CreaDate>20100702</CreaDate>
+      <CreaTime>16284800</CreaTime>
+      <SyncOnce>FALSE</SyncOnce>
+      <SyncDate>20100702</SyncDate>
+      <SyncTime>16281100</SyncTime>
+      <ModDate>20100702</ModDate>
+      <ModTime>16282100</ModTime>
+      <PublishedDocID>{43051C1D-105E-425D-BEFE-A8644BB85FA4}</PublishedDocID>
+      <PublishStatus>Published</PublishStatus>
+   </Esri>
+   <dataIdInfo>
+      <envirDesc Sync="TRUE">Microsoft Windows Vista Version 6.0 (Build 6001) Service Pack 1; ESRI ArcCatalog 9.3.0.1770</envirDesc>
+      <dataLang>
+         <languageCode Sync="TRUE" value="en" />
+      </dataLang>
+      <idCitation>
+         <resTitle Sync="TRUE">Pakistan_Tehsil_Boundary</resTitle>
+         <presForm>
+            <PresFormCd Sync="TRUE" value="005" />
+         </presForm>
+      </idCitation>
+      <spatRpType>
+         <SpatRepTypCd Sync="TRUE" value="001" />
+      </spatRpType>
+      <dataExt>
+         <geoEle>
+            <GeoBndBox esriExtentType="native">
+               <westBL Sync="TRUE">60.893558</westBL>
+               <eastBL Sync="TRUE">79.285512</eastBL>
+               <northBL Sync="TRUE">37.093082</northBL>
+               <southBL Sync="TRUE">23.693722</southBL>
+               <exTypeCode Sync="TRUE">1</exTypeCode>
+            </GeoBndBox>
+         </geoEle>
+      </dataExt>
+      <geoBox esriExtentType="decdegrees">
+         <westBL Sync="TRUE">60.893558</westBL>
+         <eastBL Sync="TRUE">79.285512</eastBL>
+         <northBL Sync="TRUE">37.093082</northBL>
+         <southBL Sync="TRUE">23.693722</southBL>
+         <exTypeCode Sync="TRUE">1</exTypeCode>
+      </geoBox>
+   </dataIdInfo>
+   <mdLang>
+      <languageCode Sync="TRUE" value="en" />
+   </mdLang>
+   <mdStanName Sync="TRUE">ISO 19115 Geographic Information - Metadata</mdStanName>
+   <mdStanVer Sync="TRUE">DIS_ESRI1.0</mdStanVer>
+   <mdChar>
+      <CharSetCd Sync="TRUE" value="004" />
+   </mdChar>
+   <mdHrLv>
+      <ScopeCd Sync="TRUE" value="005" />
+   </mdHrLv>
+   <mdHrLvName Sync="TRUE">dataset</mdHrLvName>
+   <distInfo>
+      <distributor>
+         <distorTran>
+            <onLineSrc>
+               <orDesc Sync="TRUE">002</orDesc>
+               <linkage Sync="TRUE">file://\\LIB-GIS006\C$\New Folder (2)\Pakistan_Tehsil_Boundary.shp</linkage>
+               <protocol Sync="TRUE">Local Area Network</protocol>
+            </onLineSrc>
+            <transSize Sync="TRUE">0.743</transSize>
+         </distorTran>
+         <distorFormat>
+            <formatName Sync="TRUE">Shapefile</formatName>
+         </distorFormat>
+      </distributor>
+   </distInfo>
+   <refSysInfo>
+      <RefSystem>
+         <refSysID>
+            <identCode Sync="TRUE">GCS_WGS_1984</identCode>
+         </refSysID>
+      </RefSystem>
+   </refSysInfo>
+   <spatRepInfo>
+      <VectSpatRep>
+         <topLvl>
+            <TopoLevCd Sync="TRUE" value="001" />
+         </topLvl>
+         <geometObjs Name="Pakistan_Tehsil_Boundary">
+            <geoObjTyp>
+               <GeoObjTypCd Sync="TRUE" value="001" />
+            </geoObjTyp>
+            <geoObjCnt Sync="TRUE">451</geoObjCnt>
+         </geometObjs>
+      </VectSpatRep>
+   </spatRepInfo>
+   <mdDateSt Sync="TRUE">20100702</mdDateSt>
+   <Binary>
+      <Thumbnail />
+   </Binary>
+   <mdFileID Sync="TRUE">{43051C1D-105E-425D-BEFE-A8644BB85FA4}</mdFileID>
+</metadata>

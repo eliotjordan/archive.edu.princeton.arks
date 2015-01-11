@@ -1,0 +1,225 @@
+<metadata>
+	<idinfo>
+		<citation>
+			<citeinfo>
+				<origin>Vermeule, Cornelius Clarkson</origin>
+				<pubdate>1884</pubdate>
+				<title>A topographical map of the central Highlands including all of Morris County west of Boonton and Sussex County south and east of Newton.</title>
+				<geoform>map</geoform>
+				<serinfo>
+					<sername>New Jersey Geological Survey Atlas Sheets</sername>
+				</serinfo>
+				<pubinfo>
+					<pubplace>[Trenton, NJ]</pubplace>
+					<publish>Geological Survey of New Jersey. New Jersey Geological Survey.</publish>
+				</pubinfo>
+				<othercit>Relief shown by 20 ft contour interval and spot heights. From original surveys and levelings based on the triangulation of the U.S. Coast and Geodetic Survey. In upper margin: Geological Survey of New Jersey. Atlas sheet no. 3 (central Highlands).</othercit>
+				<onlink>http://gisserver.princeton.edu/map/2224</onlink>
+			</citeinfo>
+		</citation>
+		<descript>
+			<abstract>A scanned historical New Jersey Geological Survey Atlas Sheet shown at a scale of 1:63,360.</abstract>
+			<purpose>The historical geological map can be used in Geographic Information Systems to analyze historical information.</purpose>
+		</descript>
+		<timeperd>
+			<timeinfo>
+				<sngdate>
+					<caldate>1884</caldate>
+				</sngdate>
+			</timeinfo>
+			<current>publication date</current>
+		</timeperd>
+		<status>
+			<progress>Complete</progress>
+			<update>As needed</update>
+		</status>
+		<spdom>
+			<bounding>
+				<westbc>-74.8500</westbc>
+				<eastbc>-74.3916</eastbc>
+				<northbc>41.1500</northbc>
+				<southbc>40.6500</southbc>
+			</bounding>
+		</spdom>
+		<keywords>
+			<theme>
+				<themekt>none</themekt>
+				<themekey>historical maps</themekey>
+				<themekey>Topography</themekey>
+				<themekey>Mineral resources</themekey>
+				<themekey>Contour</themekey>
+				<themekey>Railroad Stations</themekey>
+				<themekey>Boundaries</themekey>
+				<themekey>Administrative and political boundaries</themekey>
+			</theme>
+			<place>
+				<placekt>none</placekt>
+				<placekey>Highlands</placekey>
+				<placekey>Morris</placekey>
+				<placekey>Morris</placekey>
+				<placekey>Sussex</placekey>
+				<placekey>MC  G3811.C2.s63.N4J4 no.3 (1884)</placekey>
+			</place>
+			<temporal>
+				<tempkt>none</tempkt>
+			</temporal>
+		</keywords>
+		<accconst>none</accconst>
+		<useconst>Data set is not for use in litigation.</useconst>
+		<ptcontac>
+			<cntinfo>
+				<cntperp>
+					<cntper>Tsering Wangyal Shawa</cntper>
+					<cntorg>Princeton University Library</cntorg>
+				</cntperp>
+				<cntpos>GIS Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University</address>
+					<city>Princeton</city>
+					<state>NJ</state>
+					<postal>08544</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>609-258-6804</cntvoice>
+				<cntfax>609-258-4607</cntfax>
+				<cntemail>shawatw@princeton.edu</cntemail>
+				<hours>8:45am-5:00pm Monday-Friday</hours>
+			</cntinfo>
+		</ptcontac>
+		<secinfo>
+			<secclass>Unclassified</secclass>
+		</secinfo>
+		<native>Microsoft Windows 2000 Version 5.0 (Build 2195) Service Pack 2; ESRI ArcCatalog 9.0.0.535</native>
+		<crossref>
+			<citeinfo>
+				<origin>New Jersey Geological Survey</origin>
+				<pubdate>1887</pubdate>
+				<pubtime>Unknown</pubtime>
+				<title>New Jersey Geological Survey Atlas Sheets</title>
+				<geoform>map</geoform>
+			</citeinfo>
+		</crossref>
+	</idinfo>
+	<dataqual>
+		<complete>complete</complete>
+		<lineage>
+			<srcinfo>
+				<srccite>
+					<citeinfo>
+						<origin>Geologic Survey of New Jersey</origin>
+						<pubdate>1887</pubdate>
+						<pubtime>Unknown</pubtime>
+						<title>A Topographic Map of the Vicinity of Trenton: New Brunswick and Bordentown</title>
+						<edition>1</edition>
+						<geoform>map</geoform>
+						<serinfo>
+							<sername>New Jersey Geological Survey Atlas Sheets</sername>
+						</serinfo>
+						<pubinfo>
+							<pubplace>[Trenton, NJ]</pubplace>
+						</pubinfo>
+					</citeinfo>
+				</srccite>
+				<srcscale>63360</srcscale>
+				<typesrc>paper</typesrc>
+				<srctime>
+					<srccurr>publication date</srccurr>
+				</srctime>
+			</srcinfo>
+			<procstep>
+				<procdesc>The historical New Jersey Geological Atlas Sheets was originally scanned at 600 dpi using an Altek VIDAR large format scanner. The scanned map was saved in a single layer tiff format at 16 million colors. Color correction and adaptive color level balancing was done in Adobe Photoshop 6.0. This process was done at the New Jersey Environmental Digital Library (NJEDL) , Rutgers University. The original maps were FTP in TIFF LZW format from the New Jersey Digital Environmental Library (NJDEL) to the Digital Map and Geospatial Information Center, Princeton University Library. Later The TIFF LZW file was opened in the IrfanView software, version 3.80 and resaved as non-compressed TIFF file. The TIFF file was georeferenced first using ArcView 3.2a Image Analysis software. On each map, the four corners and two middle graticules were used to georeference the maps, and later the TIFF file was reprojected to the New Jersey State Plane Coordinate System, NAD 83 using ERDAS IMAGINE software 8.6.</procdesc>
+				<procdate>2003</procdate>
+				<proccont>
+					<cntinfo>
+						<cntperp>
+							<cntper>Tsering Wangyal Shawa</cntper>
+							<cntorg>Princeton University Library</cntorg>
+						</cntperp>
+						<cntpos>GIS Librarian</cntpos>
+						<cntaddr>
+							<addrtype>mailing and physical address</addrtype>
+							<address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University.</address>
+							<city>Princeton</city>
+							<state>NJ</state>
+							<postal>085441</postal>
+							<country>USA</country>
+						</cntaddr>
+						<cntvoice>609-258-6804</cntvoice>
+						<cntfax>609-258-4607</cntfax>
+						<cntemail>shawatw@princeton.edu</cntemail>
+						<hours>8:45am-5:00pm Monday-Friday</hours>
+					</cntinfo>
+				</proccont>
+			</procstep>
+		</lineage>
+	</dataqual>
+	<spref>
+		<horizsys>
+			<geograph>
+				<geogunit>Decimal degrees</geogunit>
+			</geograph>
+			<geodetic>
+				<horizdn>North American Datum of 1983</horizdn>
+				<ellips>Geodetic Reference System 80</ellips>
+				<semiaxis>6378137.000000</semiaxis>
+				<denflat>298.257222</denflat>
+			</geodetic>
+		</horizsys>
+	</spref>
+	<distinfo>
+		<distrib>
+			<cntinfo>
+				<cntperp>
+					<cntper>Tsering Wangyal Shawa</cntper>
+					<cntorg>Princeton University Library</cntorg>
+				</cntperp>
+				<cntpos>GIS Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing address</addrtype>
+					<address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University</address>
+					<city>Princeton</city>
+					<state>NJ</state>
+					<postal>08544</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>609-258-6804</cntvoice>
+				<cntfax>609-258-4607</cntfax>
+				<cntemail>shawatw@princeton.edu</cntemail>
+				<hours>8:45-5:00pm; Monday-Friday</hours>
+			</cntinfo>
+		</distrib>
+		<resdesc>Static Map Images</resdesc>
+		<distliab>While efforts have been made to ensure that these data are accurate and reliable we do not assume liability for any damages or misrepresentations caused by any inaccuracies in the data, or as a result of the data being used on a particular system. We make no warranty, expressed or implied, nor does the fact of distribution constitute such a warranty. Data set is not for use in litigation.</distliab>
+	</distinfo>
+	<metainfo>
+		<metd>20050706</metd>
+		<metc>
+			<cntinfo>
+				<cntperp>
+					<cntper>Tsering Wangyal Shawa</cntper>
+					<cntorg>Princeton University Library</cntorg>
+				</cntperp>
+				<cntpos>GIS Librarian</cntpos>
+				<cntaddr>
+					<addrtype>mailing and physical address</addrtype>
+					<address>Digital Map and Geospatial Information Center, Guyot Hall, Princeton University</address>
+					<city>Princeton</city>
+					<state>NJ</state>
+					<postal>08544</postal>
+					<country>USA</country>
+				</cntaddr>
+				<cntvoice>609-258-6804</cntvoice>
+				<cntfax>609-258-4607</cntfax>
+				<cntemail>shawatw@princeton.edu</cntemail>
+				<hours>8:45am-5:00pm Monday-Friday</hours>
+			</cntinfo>
+		</metc>
+		<metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn>
+		<metstdv>FGDC-STD-001-1998</metstdv>
+		<mettc>local time</mettc>
+		<metextns>
+			<onlink>http://gisserver.princeton.edu/browsemaps/North_America/United_States/New_Jersey/NJ_Historical_Geological_Survey_Atlas_Sheets</onlink>
+		</metextns>
+	</metainfo>
+<Esri><PublishedDocID>{8E455D0B-9AC7-4A49-8351-949D3D814FF1}</PublishedDocID><PublishStatus>Published</PublishStatus></Esri><mdFileID>{8E455D0B-9AC7-4A49-8351-949D3D814FF1}</mdFileID></metadata>

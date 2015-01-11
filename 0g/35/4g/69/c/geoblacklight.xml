@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/0g354g69c</field>
+    <field name="dc_creator_sm">Bollmann-Bildkarten-Verlag KG</field>
+    <field name="dc_description_s">This is a city map of Gütersloh, Germany, shown at a  ca.1:4,070 scale. This city map was created by Bollmann Bildkarten Verlag KG.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">0g354g69c</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">Bollmann-Bildkarten-Verlag KG</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City blocks</field>
+    <field name="dc_title_s">Gütersloh</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/0g354g69c/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/0g354g69c/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0g354g69c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/0g354g69c/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Gütersloh</field>
+    <field name="dct_spatial_sm">Germany</field>
+    <field name="dct_spatial_sm">Bundesrepublik Deutschland</field>
+    <field name="dct_spatial_sm">Federal Republic of Germany</field>
+    <field name="dct_spatial_sm">Nordrhein-Westfalen</field>
+    <field name="dct_issued_s">1961</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">51.8561 8.2860 51.9768 8.5050</field>
+    <field name="georss_polygon_s">51.9768 8.2860 51.9768 8.5050 51.8561 8.5050 51.8561 8.2860 51.9768 8.2860</field>
+    <field name="layer_slug_s">princeton-0g354g69c</field>
+    <field name="layer_id_s">0g354g69c</field>
+    <field name="layer_modified_dt">2014-12-30T13:15:18Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">8.2860 51.8561 8.5050 51.9768</field>
+    <field name="solr_ne_pt">51.9768,8.5050</field>
+    <field name="solr_sw_pt">51.8561,8.2860</field>
+    <field name="solr_geom">ENVELOPE(8.2860, 8.5050, 51.9768, 51.8561)</field>
+    <field name="solr_year_i">1961</field>
+  </doc>
+</add>

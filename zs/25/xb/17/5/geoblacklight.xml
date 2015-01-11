@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/zs25xb175</field>
+    <field name="dc_creator_sm">I.P.V. Ommassini &amp; Pascon</field>
+    <field name="dc_description_s">This is a city map of Venice, Italy, shown at an unknown scale. This city map was created by I.P.V. Ommassini &amp; Pascon.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">zs25xb175</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">I.P.V. Ommassini &amp; Pascon</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Transportation</field>
+    <field name="dc_subject_sm">City map</field>
+    <field name="dc_subject_sm">Facilities and Structures</field>
+    <field name="dc_subject_sm">City blocks</field>
+    <field name="dc_title_s">Map of Venice</field>
+    <field name="dc_type_s">Dataset</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zs25xb175/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/zs25xb175/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zs25xb175", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zs25xb175/fgdc.xml"}</field>
+    <field name="dct_spatial_sm">Venice</field>
+    <field name="dct_spatial_sm">Venezia</field>
+    <field name="dct_spatial_sm">Italy</field>
+    <field name="dct_spatial_sm">Province of Venice</field>
+    <field name="dct_spatial_sm">Regione del Veneto</field>
+    <field name="dct_spatial_sm">Veneto Region</field>
+    <field name="dct_spatial_sm">Provincia di Venezia</field>
+    <field name="dct_issued_s">1960</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="georss_box_s">45.423 12.3023 45.4501 12.3668</field>
+    <field name="georss_polygon_s">45.4501 12.3023 45.4501 12.3668 45.423 12.3668 45.423 12.3023 45.4501 12.3023</field>
+    <field name="layer_slug_s">princeton-zs25xb175</field>
+    <field name="layer_id_s">zs25xb175</field>
+    <field name="layer_modified_dt">2014-12-30T13:14:09Z</field>
+    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="solr_bbox">12.3023 45.423 12.3668 45.4501</field>
+    <field name="solr_ne_pt">45.4501,12.3668</field>
+    <field name="solr_sw_pt">45.423,12.3023</field>
+    <field name="solr_geom">ENVELOPE(12.3023, 12.3668, 45.4501, 45.423)</field>
+    <field name="solr_year_i">1960</field>
+  </doc>
+</add>
