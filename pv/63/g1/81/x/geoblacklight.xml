@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Administrative and Political Boundaries</field>
     <field name="dc_title_s">Chad, 1991 (with relief)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/pv63g181x/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpv%2F63%2Fg1%2F81%2Fx%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/pv63g181x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/pv63g181x/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/pv63g181x/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpv%2F63%2Fg1%2F81%2Fx%2F00000001.jp2%2Finfo.json", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/pv63g181x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/pv63g181x/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Chad</field>
     <field name="dct_spatial_sm">Africa</field>
     <field name="dct_issued_s">July 1991</field>
@@ -24,8 +24,8 @@
     <field name="georss_polygon_s">23 11 23 25 8 25 8 11 23 11</field>
     <field name="layer_slug_s">princeton-pv63g181x</field>
     <field name="layer_id_s">pv63g181x</field>
-    <field name="layer_modified_dt">2014-12-30T13:14:27Z</field>
-    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="layer_modified_dt">2015-01-11T17:42:59Z</field>
+    <field name="layer_geom_type_s">Image</field>
     <field name="solr_bbox">11 8 25 23</field>
     <field name="solr_ne_pt">23,25</field>
     <field name="solr_sw_pt">8,11</field>

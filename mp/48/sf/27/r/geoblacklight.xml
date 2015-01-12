@@ -20,7 +20,7 @@
     <field name="dc_subject_sm">Quarries</field>
     <field name="dc_title_s">A topographical map of the central Highlands including all of Morris County west of Boonton and Sussex County south and east Newton.</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mp48sf27r/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fmp%2F48%2Fsf%2F27%2Fr%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mp48sf27r", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mp48sf27r/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mp48sf27r/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fmp%2F48%2Fsf%2F27%2Fr%2F00000001.jp2%2Finfo.json", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mp48sf27r", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mp48sf27r/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Highlands</field>
     <field name="dct_spatial_sm">Morris</field>
     <field name="dct_spatial_sm">Sussex</field>
@@ -31,8 +31,8 @@
     <field name="georss_polygon_s">41.1500 -74.8500 41.1500 -74.3916 40.6500 -74.3916 40.6500 -74.8500 41.1500 -74.8500</field>
     <field name="layer_slug_s">princeton-mp48sf27r</field>
     <field name="layer_id_s">mp48sf27r</field>
-    <field name="layer_modified_dt">2014-12-30T13:14:34Z</field>
-    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="layer_modified_dt">2015-01-11T17:42:47Z</field>
+    <field name="layer_geom_type_s">Image</field>
     <field name="solr_bbox">-74.8500 40.6500 -74.3916 41.1500</field>
     <field name="solr_ne_pt">41.1500,-74.3916</field>
     <field name="solr_sw_pt">40.6500,-74.8500</field>

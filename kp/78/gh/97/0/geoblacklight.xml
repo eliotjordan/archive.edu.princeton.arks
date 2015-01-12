@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">Private Land Grant</field>
     <field name="dc_title_s">The State of California (Sheet 2)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kp78gh970/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fkp%2F78%2Fgh%2F97%2F0%2F00000001.jp2", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kp78gh970", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kp78gh970/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kp78gh970/preview.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fkp%2F78%2Fgh%2F97%2F0%2F00000001.jp2%2Finfo.json", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kp78gh970", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kp78gh970/fgdc.xml"}</field>
     <field name="dct_spatial_sm">California</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_issued_s">1900</field>
@@ -28,8 +28,8 @@
     <field name="georss_polygon_s">37 -122 37 -112 33 -112 33 -122 37 -122</field>
     <field name="layer_slug_s">princeton-kp78gh970</field>
     <field name="layer_id_s">kp78gh970</field>
-    <field name="layer_modified_dt">2014-12-30T13:14:37Z</field>
-    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="layer_modified_dt">2015-01-11T17:43:09Z</field>
+    <field name="layer_geom_type_s">Image</field>
     <field name="solr_bbox">-122 33 -112 37</field>
     <field name="solr_ne_pt">37,-112</field>
     <field name="solr_sw_pt">33,-122</field>
