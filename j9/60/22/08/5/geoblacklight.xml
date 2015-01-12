@@ -4,7 +4,7 @@
     <field name="uuid">http://arks.princeton.edu/ark:/88435/j96022085</field>
     <field name="dc_creator_sm">BAE SYSTEMS ADR</field>
     <field name="dc_description_s">Digital color infrared (CIR) orthophotography of New Jersey in State Plane NAD83 Coordinates, U.S. Survey Feet. The digital orthophotography was produced at a scale of 1:2400 (1"=200') with a 1 foot pixel resolution. Digital orthophotography combines the image characteristics of a photograph with the geometric qualities of a map. Digital orthophotography is a process which converts aerial photography from an original photo negative to a digital product that has been positionally corrected for camera lens distortion, vertical displacement and variations in aircraft altitude and orientation. Aerial photography of the entire State of New Jersey was captured during February-April, 2002. The ortho-rectification process achieved a +/-4.0 ft. horizontal accuracy at a 95% confidence level, National Standard for Spatial Data Accuracy (NSSDA). This dataset consists of 5000' x 5000' files in MrSID format with a 15:1 compresssion ratio. The files were produced utilizing MrSID Geospatial Edition 1.4 and are approximately 5 MB in size.</field>
-    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_format_s">CD-ROM</field>
     <field name="dc_identifier_s">j96022085</field>
     <field name="dc_language_s">English</field>
     <field name="dc_publisher_s">State of New Jersey, Office of Information Technology</field>
@@ -27,7 +27,7 @@
     <field name="dc_subject_sm">imageryBaseMapsEarthCover</field>
     <field name="dc_title_s">New Jersey Digital Orthophotography, 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j96022085/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/j96022085/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j96022085", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j96022085/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j96022085/preview.jpg", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j96022085", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j96022085/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Atlantic County</field>
     <field name="dct_spatial_sm">Camden County</field>
     <field name="dct_spatial_sm">Cape May County</field>
@@ -58,7 +58,7 @@
     <field name="layer_slug_s">princeton-j96022085</field>
     <field name="layer_id_s">j96022085</field>
     <field name="layer_modified_dt">2014-12-30T13:14:40Z</field>
-    <field name="layer_geom_type_s">Scanned Map</field>
+    <field name="layer_geom_type_s">Raster</field>
     <field name="solr_bbox">-075.570555 38.927499 -073.901666 41.356944</field>
     <field name="solr_ne_pt">41.356944,-073.901666</field>
     <field name="solr_sw_pt">38.927499,-075.570555</field>
