@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/p8418q15q</field>
+    <field name="dc_creator_sm">Sanborn Map Company</field>
+    <field name="dc_description_s">This a Sanborn map of Vineland</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">p8418q15q</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">New York: Sanborn Map Company</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://libimages.princeton.edu/loris2/pulmap%2Fp8%2F41%2F8q%2F15%2Fq%2F00000001.jp2/full/,133/0/default.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fp8%2F41%2F8q%2F15%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">p8418q15q</field>
+    <field name="layer_slug_s">princeton-p8418q15q</field>
+    <field name="layer_geom_type_s">Raster</field>
+    <field name="layer_modified_dt">2015-01-16T22:52:37Z</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Fire Insurance</field>
+    <field name="dc_subject_sm">Sanborn</field>
+    <field name="dc_title_s">Vineland, Cumberland Co., New Jersey (Sheet 14)</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">Vineland</field>
+    <field name="dct_temporal_sm">1906</field>
+    <field name="georss_box_s">39.377715 -75.087129 39.568643 -74.896626</field>
+    <field name="georss_polygon_s">39.568643 -75.087129 39.568643 -74.896626 39.377715 -74.896626 39.377715 -75.087129 39.568643 -75.087129</field>
+    <field name="solr_bbox">-75.087129 39.377715 -74.896626 39.568643</field>
+    <field name="solr_ne_pt">39.568643,-74.896626</field>
+    <field name="solr_sw_pt">39.377715,-75.087129</field>
+    <field name="solr_geom">ENVELOPE(-75.087129, -74.896626, 39.568643, 39.377715)</field>
+    <field name="solr_year_i">1906</field>
+  </doc>
+</add>
