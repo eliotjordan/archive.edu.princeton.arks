@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/1n79h6197</field>
+    <field name="dc_creator_sm">Sanborn Map Company</field>
+    <field name="dc_description_s">This a Sanborn map of Burlington</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">1n79h6197</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">New York: Sanborn Map Company</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://libimages.princeton.edu/loris2/pulmap%2F1n%2F79%2Fh6%2F19%2F7%2F00000001.jp2/full/,133/0/default.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F1n%2F79%2Fh6%2F19%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">1n79h6197</field>
+    <field name="layer_slug_s">princeton-1n79h6197</field>
+    <field name="layer_geom_type_s">Raster</field>
+    <field name="layer_modified_dt">2015-01-16T22:52:27Z</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Fire Insurance</field>
+    <field name="dc_subject_sm">Sanborn</field>
+    <field name="dc_title_s">Maple Shade, Burlington County, New Jersey: including part of Cinnaminson Township (Sheet 17)</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">Burlington</field>
+    <field name="dct_temporal_sm">1929</field>
+    <field name="georss_box_s">40.062631 -74.879239 40.09805 -74.828908</field>
+    <field name="georss_polygon_s">40.09805 -74.879239 40.09805 -74.828908 40.062631 -74.828908 40.062631 -74.879239 40.09805 -74.879239</field>
+    <field name="solr_bbox">-74.879239 40.062631 -74.828908 40.09805</field>
+    <field name="solr_ne_pt">40.09805,-74.828908</field>
+    <field name="solr_sw_pt">40.062631,-74.879239</field>
+    <field name="solr_geom">ENVELOPE(-74.879239, -74.828908, 40.09805, 40.062631)</field>
+    <field name="solr_year_i">1929</field>
+  </doc>
+</add>

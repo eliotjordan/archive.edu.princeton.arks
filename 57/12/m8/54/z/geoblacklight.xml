@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/5712m854z</field>
+    <field name="dc_creator_sm">Sanborn Map Company</field>
+    <field name="dc_description_s">This a Sanborn map of Caldwell</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">5712m854z</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">New York: Sanborn Map Company</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://libimages.princeton.edu/loris2/pulmap%2F57%2F12%2Fm8%2F54%2Fz%2F00000001.jp2/full/,133/0/default.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F57%2F12%2Fm8%2F54%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">5712m854z</field>
+    <field name="layer_slug_s">princeton-5712m854z</field>
+    <field name="layer_geom_type_s">Raster</field>
+    <field name="layer_modified_dt">2015-01-16T22:52:47Z</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Fire Insurance</field>
+    <field name="dc_subject_sm">Sanborn</field>
+    <field name="dc_title_s">Insurance maps of Essex County, New Jersey, volume three : including boroughs of Verona, Caldwell, North Caldwell, West Caldwell, Essex Fells and Roseland and parts of townships of Cedar Grove, Caldwell and Livingston (Sheet 501).</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">Caldwell</field>
+    <field name="dct_temporal_sm">1934</field>
+    <field name="georss_box_s">40.98419 -74.367129 41.014161 -74.32879</field>
+    <field name="georss_polygon_s">41.014161 -74.367129 41.014161 -74.32879 40.98419 -74.32879 40.98419 -74.367129 41.014161 -74.367129</field>
+    <field name="solr_bbox">-74.367129 40.98419 -74.32879 41.014161</field>
+    <field name="solr_ne_pt">41.014161,-74.32879</field>
+    <field name="solr_sw_pt">40.98419,-74.367129</field>
+    <field name="solr_geom">ENVELOPE(-74.367129, -74.32879, 41.014161, 40.98419)</field>
+    <field name="solr_year_i">1934</field>
+  </doc>
+</add>

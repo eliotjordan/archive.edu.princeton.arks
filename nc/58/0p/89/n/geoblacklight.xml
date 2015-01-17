@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/nc580p89n</field>
+    <field name="dc_creator_sm">Sanborn Map Company</field>
+    <field name="dc_description_s">This a Sanborn map of Newton</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">nc580p89n</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">New York: Sanborn Map Company</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://libimages.princeton.edu/loris2/pulmap%2Fnc%2F58%2F0p%2F89%2Fn%2F00000001.jp2/full/,133/0/default.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fnc%2F58%2F0p%2F89%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">nc580p89n</field>
+    <field name="layer_slug_s">princeton-nc580p89n</field>
+    <field name="layer_geom_type_s">Raster</field>
+    <field name="layer_modified_dt">2015-01-16T22:53:52Z</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Fire Insurance</field>
+    <field name="dc_subject_sm">Sanborn</field>
+    <field name="dc_title_s">Insurance maps of Newton, Sussex County, New Jersey (Sheet 3).</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">Newton</field>
+    <field name="dct_temporal_sm">1916</field>
+    <field name="georss_box_s">41.038007 -74.773849 41.071392 -74.729993</field>
+    <field name="georss_polygon_s">41.071392 -74.773849 41.071392 -74.729993 41.038007 -74.729993 41.038007 -74.773849 41.071392 -74.773849</field>
+    <field name="solr_bbox">-74.773849 41.038007 -74.729993 41.071392</field>
+    <field name="solr_ne_pt">41.071392,-74.729993</field>
+    <field name="solr_sw_pt">41.038007,-74.773849</field>
+    <field name="solr_geom">ENVELOPE(-74.773849, -74.729993, 41.071392, 41.038007)</field>
+    <field name="solr_year_i">1916</field>
+  </doc>
+</add>

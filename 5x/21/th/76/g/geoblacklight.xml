@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/5x21th76g</field>
+    <field name="dc_creator_sm">Sanborn Map Company</field>
+    <field name="dc_description_s">This a Sanborn map of Jersey City</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">5x21th76g</field>
+    <field name="dc_language_s">English</field>
+    <field name="dc_publisher_s">New York: Sanborn Map Company</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://libimages.princeton.edu/loris2/pulmap%2F5x%2F21%2Fth%2F76%2Fg%2F00000001.jp2/full/,133/0/default.jpg", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F5x%2F21%2Fth%2F76%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">5x21th76g</field>
+    <field name="layer_slug_s">princeton-5x21th76g</field>
+    <field name="layer_geom_type_s">Raster</field>
+    <field name="layer_modified_dt">2015-01-16T22:54:28Z</field>
+    <field name="dc_subject_sm">Boundaries</field>
+    <field name="dc_subject_sm">Structure</field>
+    <field name="dc_subject_sm">Fire Insurance</field>
+    <field name="dc_subject_sm">Sanborn</field>
+    <field name="dc_title_s">[Jersey City] : skeleton (Sheet 20)</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">Jersey City</field>
+    <field name="dct_temporal_sm">1911</field>
+    <field name="georss_box_s">40.66689 -74.117057 40.768867 -74.026614</field>
+    <field name="georss_polygon_s">40.768867 -74.117057 40.768867 -74.026614 40.66689 -74.026614 40.66689 -74.117057 40.768867 -74.117057</field>
+    <field name="solr_bbox">-74.117057 40.66689 -74.026614 40.768867</field>
+    <field name="solr_ne_pt">40.768867,-74.026614</field>
+    <field name="solr_sw_pt">40.66689,-74.117057</field>
+    <field name="solr_geom">ENVELOPE(-74.117057, -74.026614, 40.768867, 40.66689)</field>
+    <field name="solr_year_i">1911</field>
+  </doc>
+</add>
