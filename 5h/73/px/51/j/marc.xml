@@ -1,0 +1,99 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01364cem a22002773a 4500</marc:leader>
+        <marc:controlfield tag="001">6830309</marc:controlfield>
+        <marc:controlfield tag="005">20141202155454.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1996    xx z   zz a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">10000</marc:subfield>
+            <marc:subfield code="d">19.166666666666668</marc:subfield>
+            <marc:subfield code="e">19.25</marc:subfield>
+            <marc:subfield code="f">44.78333333333333</marc:subfield>
+            <marc:subfield code="g">44.71666666666667</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 64160</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Bosnia and Herzegovina city graphic 1:10,000 : Bijeljina. Series M903</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">1-NIMA</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:10,000</marc:subfield>
+            <marc:subfield code="b">Transverse Mercator proj.</marc:subfield>
+            <marc:subfield code="c">(E 19°10ʹ--E 19°15ʹ/N 44°47ʹ--N 44°43ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Washington, D.C. :</marc:subfield>
+            <marc:subfield code="b">[s.n.],</marc:subfield>
+            <marc:subfield code="c">1996.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="0" ind2=" ">
+            <marc:subfield code="a">United States. National Imagery and Mapping Agency. Series ;</marc:subfield>
+            <marc:subfield code="v">M903</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Alternate title: Bijeljina. In upper margin: WGS 84.Transverse Mercator projection. Relief shown by 5 meter contour intervals and spot elevations. Coordinate conversion WGS 84 to ED 50. This map falls within the NL 34-10, 1501,1:250,000 and 2884 II, 2984 III, 2984 IV, M709, 1:50,000. With a glossary, a guide to numbered features, a location map, and boundary guides.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Relief models.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">City plan</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Bijeljina</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Bijeljina.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Bosnia and Herzegovina--Bijeljina.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6864.B6C2.1996.N3I4</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/791</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00185nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6752617</marc:controlfield>
+        <marc:controlfield tag="004">6830309</marc:controlfield>
+        <marc:controlfield tag="005">20110927210152.0</marc:controlfield>
+        <marc:controlfield tag="008">1109270u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6864.B6C2.1996.N3I4</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7324758</marc:controlfield>
+        <marc:controlfield tag="004">6830309</marc:controlfield>
+        <marc:controlfield tag="005">20130514143002.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

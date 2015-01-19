@@ -1,0 +1,116 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01690cem a2200301 a 4500</marc:leader>
+        <marc:controlfield tag="001">7342596</marc:controlfield>
+        <marc:controlfield tag="005">20130301075940.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">930417q17311760gw i      a     0   lat d</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">300000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Seutter, Matthaeus,</marc:subfield>
+            <marc:subfield code="d">1678-1756.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Accurata delineatio episcopat. Frisingensis, una cum dynastia Burkrainensi et comitatu Werdenfelsensi episcopatui subjectis :</marc:subfield>
+            <marc:subfield code="b">nec non maxima parte Bavariæ superioris</marc:subfield>
+            <marc:subfield code="h">[map] /</marc:subfield>
+            <marc:subfield code="c">studio et prelo Matth. Seutter, S.C.M geogr. Aug.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2="3">
+            <marc:subfield code="a">Accurata delineatio episcopatus Frisingensis, una cum dynastia Burkrainensi et comitatu Werdenfelsensi episcopatui subjectis, nec non maxima parte Bavariae superioris</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [ca. 1:300,000].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Augsburg :</marc:subfield>
+            <marc:subfield code="b">Matthäus Seutter,</marc:subfield>
+            <marc:subfield code="c">between 1731 and 1760]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">hand col. ;</marc:subfield>
+            <marc:subfield code="c">55 x 48 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Map of Upper Bavaria, including the episcopal see of Freising and the Werdenfelser Land. Relief shown pictorially.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Seutter was awarded the title of Imperial Geographer in 1731; the business passed to his son-in-law, Tobias Conrad Lotter, in 1760; cf. Tooley's dict. of mapmakers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Freising (Ecclesiastical principality)</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Oberbayern (Germany)</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Werdenfelser Land (Germany)</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Germany</marc:subfield>
+            <marc:subfield code="z">Freising</marc:subfield>
+            <marc:subfield code="y">1731.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Germany</marc:subfield>
+            <marc:subfield code="z">Oberbayern</marc:subfield>
+            <marc:subfield code="y">1731.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Germany</marc:subfield>
+            <marc:subfield code="z">Werdenfelser Land</marc:subfield>
+            <marc:subfield code="y">1731.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27579</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20130225</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20130225</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">7172004</marc:controlfield>
+        <marc:controlfield tag="004">7342596</marc:controlfield>
+        <marc:controlfield tag="005">20130225122043.0</marc:controlfield>
+        <marc:controlfield tag="008">1302254u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.3204</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

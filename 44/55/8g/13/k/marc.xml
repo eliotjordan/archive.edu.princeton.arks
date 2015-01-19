@@ -1,0 +1,116 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01266cem a2200289 a 4500</marc:leader>
+        <marc:controlfield tag="001">4580901</marc:controlfield>
+        <marc:controlfield tag="005">20060421155944.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">050829s1879    nyud      a     0   eng  </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">fw-----</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="110" ind1="2" ind2=" ">
+            <marc:subfield code="a">Harper &amp; Brothers.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Map showing the western half of Equatorial Africa and the explorations by land and water of Henry M. Stanley in the years 1874-77.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [ca. 1:2,850,000].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[New York :</marc:subfield>
+            <marc:subfield code="b">Harper &amp; Brothers,</marc:subfield>
+            <marc:subfield code="c">1879]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">col.</marc:subfield>
+            <marc:subfield code="c">80 x 65 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by hachures.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Extracted from Henry M. Stanley's "Through The Dark Continent ..." New York, Harper &amp; Brothers, 1879. [BMW, Stanley, v. 2].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Historic Maps copy mounted on linen with: Map showing the eastern half of Equatorial Africa ...</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="600" ind1="1" ind2="0">
+            <marc:subfield code="a">Stanley, Henry M.</marc:subfield>
+            <marc:subfield code="q">(Henry Morton),</marc:subfield>
+            <marc:subfield code="d">1841-1904</marc:subfield>
+            <marc:subfield code="x">Travel</marc:subfield>
+            <marc:subfield code="z">Africa.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Africa, West</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Africa, West</marc:subfield>
+            <marc:subfield code="v">Maps, Physical.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Africa, West</marc:subfield>
+            <marc:subfield code="y">1879.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Stanley, Henry M.</marc:subfield>
+            <marc:subfield code="q">(Henry Morton),</marc:subfield>
+            <marc:subfield code="d">1841-1904.</marc:subfield>
+            <marc:subfield code="t">Through the dark continent.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/4160</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">m</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20050829</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20050829</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00195cx  a22000971  4500</marc:leader>
+        <marc:controlfield tag="001">4823006</marc:controlfield>
+        <marc:controlfield tag="004">4580895</marc:controlfield>
+        <marc:controlfield tag="005">20050829144536.0</marc:controlfield>
+        <marc:controlfield tag="008">0508294u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="014" ind1="1" ind2=" ">
+            <marc:subfield code="a">4580901</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.246</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7323155</marc:controlfield>
+        <marc:controlfield tag="004">4580901</marc:controlfield>
+        <marc:controlfield tag="005">20130514100910.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

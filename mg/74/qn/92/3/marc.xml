@@ -1,0 +1,94 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01181nem a22003013a 4500</marc:leader>
+        <marc:controlfield tag="001">6867265</marc:controlfield>
+        <marc:controlfield tag="005">20111019095436.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1973    xx z      a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">10600</marc:subfield>
+            <marc:subfield code="d">-4.5</marc:subfield>
+            <marc:subfield code="e">-4.4</marc:subfield>
+            <marc:subfield code="f">55.86666666666667</marc:subfield>
+            <marc:subfield code="g">55.81666666666667</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 68004</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Burgh of Paisley</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [1:10,600] or 6 in to 1 mi.</marc:subfield>
+            <marc:subfield code="c">(W 4°30ʹ--W 4°24ʹ/N 55°52ʹ--N 55°49ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Paisley : </marc:subfield>
+            <marc:subfield code="b">[s.n.], </marc:subfield>
+            <marc:subfield code="c">1973.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Paisley Planning Office].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Reproduced from the Ordnance Survey Map by Cook, Hammond &amp; Kell Ltd. with the sanction of the Controller of H. M. Stationary Office. Crown copyright reserved. Relief shown by 25 feet contour interval. Blue line copy.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">City blocks.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Topographic maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Scotland</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Scotland--Burgh of Paisley.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Burgh of Paisley.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Paisley.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Scotland--Renfrewshire.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">McNaughtan, H. V.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G5774.P3C2.1973.P3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/2540</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00183nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6780434</marc:controlfield>
+        <marc:controlfield tag="004">6867265</marc:controlfield>
+        <marc:controlfield tag="005">20111019095438.0</marc:controlfield>
+        <marc:controlfield tag="008">1110190u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G5774.P3C2.1973.P3</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

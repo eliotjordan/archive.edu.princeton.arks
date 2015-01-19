@@ -1,0 +1,102 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01557cem a22002893a 4500</marc:leader>
+        <marc:controlfield tag="001">6831072</marc:controlfield>
+        <marc:controlfield tag="005">20141202103250.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1948    xx c   zz a     1   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">250000</marc:subfield>
+            <marc:subfield code="d">21.466666666666665</marc:subfield>
+            <marc:subfield code="e">23.716666666666665</marc:subfield>
+            <marc:subfield code="f">37.5</marc:subfield>
+            <marc:subfield code="g">36.5</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 65921</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="4">
+            <marc:subfield code="a">The Balkans 1:250,000. Kalamai, sheet G-13. A.M.S. M506 (G.S.G.S. 4410)</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">1st ed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:250,000 or 1 cm. = 2.5 km.; 1 in. = 3.95 mi.</marc:subfield>
+            <marc:subfield code="b">Transverse Mercator proj.</marc:subfield>
+            <marc:subfield code="c">(E 21°28ʹ--E 23°43ʹ/N 37°30ʹ--N 36°30ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Washington, D.C. :</marc:subfield>
+            <marc:subfield code="b">Army Map Service, U.S. Army,</marc:subfield>
+            <marc:subfield code="c">1948.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="0" ind2=" ">
+            <marc:subfield code="a">United States. Army Map Service. Series A.M.S. ;</marc:subfield>
+            <marc:subfield code="v">M506</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">AMS 2.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4410.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Alternate title: Kalamai. Transverse Mercator projection. Principal meridians are Athens and Greenwich. Universal transverse Mercator and Mediterranean zone grids. UTM grid added and gradient tints and air information deleted by AMS 1948. Relief shown by 100 meter contour intervals and spot elevations. With a Greek glossary. Compiled by 512 Fd. Survey Coy., R. E., June, 1944. See index. Library holdings for this set are incomplete.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Topographic maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Kalamai.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Kalamata.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Greece--Kalamai Sheet.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6801.C2.s250.A7M3 sh G-13</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/1384</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00191nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6753380</marc:controlfield>
+        <marc:controlfield tag="004">6831072</marc:controlfield>
+        <marc:controlfield tag="005">20110927213951.0</marc:controlfield>
+        <marc:controlfield tag="008">1109270u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6801.C2.s250.A7M3 sh G-13</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7315804</marc:controlfield>
+        <marc:controlfield tag="004">6831072</marc:controlfield>
+        <marc:controlfield tag="005">20130513140955.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

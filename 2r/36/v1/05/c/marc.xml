@@ -1,0 +1,101 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>00970cem a2200265Ia 4500</marc:leader>
+        <marc:controlfield tag="001">7569574</marc:controlfield>
+        <marc:controlfield tag="005">20140317081958.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">900531s1892    gw        a     1   ger d</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">25000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">e-gx---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Gaebler, Eduard,</marc:subfield>
+            <marc:subfield code="d">1842-1911.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Plan von Dresden</marc:subfield>
+            <marc:subfield code="h">[map] /</marc:subfield>
+            <marc:subfield code="c">Ausführung u. Verlag v. Ed. Gaebler's geogr. Inst., Leipzig-N.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:25,000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Leipzig :</marc:subfield>
+            <marc:subfield code="b">Ed. Gaebler's geogr. Inst.,</marc:subfield>
+            <marc:subfield code="c">[1892]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">col. ;</marc:subfield>
+            <marc:subfield code="c">29 x 27 cm. on sheet 34 x 42 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Includes street index and list of sight-seeing spots.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Dresden (Germany)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">City maps</marc:subfield>
+            <marc:subfield code="z">Germany</marc:subfield>
+            <marc:subfield code="z">Dresen</marc:subfield>
+            <marc:subfield code="y">1892.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Germany</marc:subfield>
+            <marc:subfield code="z">Dresden</marc:subfield>
+            <marc:subfield code="y">1892.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Street maps</marc:subfield>
+            <marc:subfield code="z">Germany</marc:subfield>
+            <marc:subfield code="y">Dresden</marc:subfield>
+            <marc:subfield code="y">1892.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/28547</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20130529</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20130531</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">7388331</marc:controlfield>
+        <marc:controlfield tag="004">7569574</marc:controlfield>
+        <marc:controlfield tag="005">20130531103501.0</marc:controlfield>
+        <marc:controlfield tag="008">1305314u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.4623</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

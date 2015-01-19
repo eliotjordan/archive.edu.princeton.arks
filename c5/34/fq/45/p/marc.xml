@@ -1,0 +1,111 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01710cem a22003253a 4500</marc:leader>
+        <marc:controlfield tag="001">6845030</marc:controlfield>
+        <marc:controlfield tag="005">20141202103254.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1967    xx g   cu a  o  0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">24000</marc:subfield>
+            <marc:subfield code="d">-75.125</marc:subfield>
+            <marc:subfield code="e">-75</marc:subfield>
+            <marc:subfield code="f">39.875</marc:subfield>
+            <marc:subfield code="g">39.75</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 77859</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Roselle, New Jersey. 7.5 minute series (topographic)</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">Reprinted 1969</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:24,000</marc:subfield>
+            <marc:subfield code="b"> Polyconic proj.</marc:subfield>
+            <marc:subfield code="c">(W 75°7ʹ--W 75°0ʹ/N 39°52ʹ--N 39°45ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Reston, Va.] : </marc:subfield>
+            <marc:subfield code="b">U.S. Geological Survey, </marc:subfield>
+            <marc:subfield code="c">1967.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">U.S.G.S. 7.5 minute series (topographic)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">North Decimal Degree 39.875000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">South Decimal Degree 39.750000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">East Decimal Degree -75.000000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">West Decimal Degree -75.125000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Alternate title: Runnemede, NJ. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 20 feet contour interval and spot heights. Datum is mean sea level. "Mapped edited and published by the United States Geological Survey. Control by USGS, USC&amp;GS, and New Jersey Geodetic Survey. Planimetry by photogrammetric methods from aerial photographs taken 1951. Topography by planetable surveys 1952. Revised from aerial photographs taken 1965. Field checked 1967. Map is temporarily filed in the Reserve Course Materials Collection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Topographic maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Runnemede.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Camden Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Runnemede Quad.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Gloucester Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3811.C2.s24.U5G4 Runnemede</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/130</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00191nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6763643</marc:controlfield>
+        <marc:controlfield tag="004">6845030</marc:controlfield>
+        <marc:controlfield tag="005">20111001211649.0</marc:controlfield>
+        <marc:controlfield tag="008">1110010u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3811.C2.s24.U5G4 Runnemede</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7315722</marc:controlfield>
+        <marc:controlfield tag="004">6845030</marc:controlfield>
+        <marc:controlfield tag="005">20130513140357.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

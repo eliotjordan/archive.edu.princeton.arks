@@ -1,0 +1,99 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01066cem a2200301Ia 4500</marc:leader>
+        <marc:controlfield tag="001">7280817</marc:controlfield>
+        <marc:controlfield tag="005">20130426085624.0</marc:controlfield>
+        <marc:controlfield tag="007">aj aanun</marc:controlfield>
+        <marc:controlfield tag="008">130111s18uu    cc        a     0   chi d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocn823935696</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">PULEA</marc:subfield>
+            <marc:subfield code="c">PUL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="066" ind1=" " ind2=" ">
+            <marc:subfield code="c">$1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)823935696</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">a-cc-pe</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="6">880-01</marc:subfield>
+            <marc:subfield code="a">Jing cheng nei wai shou shan quan tu.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale not given.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[S.l. :</marc:subfield>
+            <marc:subfield code="b">s.n.,</marc:subfield>
+            <marc:subfield code="c">18uu]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map ;</marc:subfield>
+            <marc:subfield code="c">64 x 56 cm</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="541" ind1=" " ind2=" ">
+            <marc:subfield code="c">gift;</marc:subfield>
+            <marc:subfield code="e">deposit 1493c;</marc:subfield>
+            <marc:subfield code="a">Robert Garrett,1875-1961.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="580" ind1=" " ind2=" ">
+            <marc:subfield code="a">Forms part of the Robert Garrett Collection (C0744).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="6">880-02</marc:subfield>
+            <marc:subfield code="a">Beijing (China)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Streets</marc:subfield>
+            <marc:subfield code="z">China</marc:subfield>
+            <marc:subfield code="z">Beijing</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Garrett, Robert,</marc:subfield>
+            <marc:subfield code="d">1875-1961.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="773" ind1="0" ind2=" ">
+            <marc:subfield code="t">Robert Garrett Collection,</marc:subfield>
+            <marc:subfield code="d">ca. 1340 B.C.-1900s.</marc:subfield>
+            <marc:subfield code="w">789523</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="880" ind1="0" ind2="0">
+            <marc:subfield code="6">245-01/$1</marc:subfield>
+            <marc:subfield code="a">京城内外首善全圖.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="880" ind1=" " ind2=" ">
+            <marc:subfield code="6">500-00/$1</marc:subfield>
+            <marc:subfield code="a">Previously in case with: 大清高宗純皇帝實錄.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="880" ind1=" " ind2="4">
+            <marc:subfield code="6">651-02/$1</marc:subfield>
+            <marc:subfield code="a">北京 (China)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27808</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00208cx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">7119827</marc:controlfield>
+        <marc:controlfield tag="004">7280817</marc:controlfield>
+        <marc:controlfield tag="005">20130228141942.0</marc:controlfield>
+        <marc:controlfield tag="008">1301114u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">hsvm</marc:subfield>
+            <marc:subfield code="h">C0744.07 (Garrett Chinese Manuscripts, No. 4)</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

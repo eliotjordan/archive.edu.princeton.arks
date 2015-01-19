@@ -1,0 +1,90 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01373nem a22002893a 4500</marc:leader>
+        <marc:controlfield tag="001">6867229</marc:controlfield>
+        <marc:controlfield tag="005">20111019095328.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1947    xx     zz a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">48000000</marc:subfield>
+            <marc:subfield code="d">-180</marc:subfield>
+            <marc:subfield code="e">180</marc:subfield>
+            <marc:subfield code="f">90</marc:subfield>
+            <marc:subfield code="g">0</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 67715</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Economic chart : Northern Hemisphere. Seires GH-8a</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:48,000,000 (approximate) at latitude 40 degrees N or 1 in. = 658 nautical mi.</marc:subfield>
+            <marc:subfield code="b">Polar stereogaphic proj.</marc:subfield>
+            <marc:subfield code="c">(W 180°0ʹ--E 180°0ʹ/N 90°0ʹ--N 0°0ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a"> St. Louis, Mo : </marc:subfield>
+            <marc:subfield code="b">Aeronautical Chart and Information Center, </marc:subfield>
+            <marc:subfield code="c">January 1947.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="0" ind2=" ">
+            <marc:subfield code="a">United States. Air Force. Aeronautical Chart and Information Center. Chart ;</marc:subfield>
+            <marc:subfield code="v">GH-8a</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">North Decimal Degree 90.000000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">South Decimal Degree 0.000000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">East Decimal Degree 180.000000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">West Decimal Degree -180.000000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Polar stereogaphic projection. "Pending postwar settlemets, political boundaries shown are as of 1935. Map is: No. GH-8a . Base no. 1R1. Sources: Britannica Atlas and Goode's School Atlas, Rand McNally.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Economic geography.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Northern Hemisphere</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Northern Hemisphere.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G3200.s48.A3C4 GH-8a</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1=" " ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/5959</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00185nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6780399</marc:controlfield>
+        <marc:controlfield tag="004">6867229</marc:controlfield>
+        <marc:controlfield tag="005">20111019095330.0</marc:controlfield>
+        <marc:controlfield tag="008">1110190u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G3200.s48.A3C4 GH-8a</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

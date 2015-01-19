@@ -1,0 +1,111 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01656cem a22003133a 4500</marc:leader>
+        <marc:controlfield tag="001">6830849</marc:controlfield>
+        <marc:controlfield tag="005">20141202103247.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1949    xx z   cu a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">250000</marc:subfield>
+            <marc:subfield code="d">16.833333333333332</marc:subfield>
+            <marc:subfield code="e">17.833333333333332</marc:subfield>
+            <marc:subfield code="f">45.5</marc:subfield>
+            <marc:subfield code="g">44.5</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 65946</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="4">
+            <marc:subfield code="a">The Balkans 1:250,000. Banja Luka, sheet Y-14. A.M.S. M506 (G.S.G.S. 4413)</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">AMS 1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:250,000 or 1 cm. = 2.5 km.; 1 in. = 3.95 mi.</marc:subfield>
+            <marc:subfield code="b">Lambert conical orthomorphic proj.</marc:subfield>
+            <marc:subfield code="c">(E 16°50ʹ--E 17°50ʹ/N 45°30ʹ--N 44°30ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Washington, D.C. :</marc:subfield>
+            <marc:subfield code="b">Army Map Service, U.S. Army,</marc:subfield>
+            <marc:subfield code="c">1949.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="0" ind2=" ">
+            <marc:subfield code="a">United States. Army Map Service. Series A.M.S. ;</marc:subfield>
+            <marc:subfield code="v">M506</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. 4413.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Alternate title: Banja Luka. Lambert conical orthomorphic projection. North Italy zone grid Relief shown by 50 and 100 meter contour intervals and and spot elevations. With a Serb and Croat glossary. Corrected from intelligence reports up to March 1944 Compiled and drawn by War Office, 1944. Map area is designated as Yugoslavia it is now Croatia and Bosnia and Herzegovina.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Topographic maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Bosnia and Herzegovina</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Bosnia and Herzegovina--Banja Luka Sheet.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Banialuca.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Banja Luka.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Yugoslavia--Banja Luka Sheet.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Croatia--Banja Luka Sheet.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6801.C2.s250.A7M3 sh Y-14</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/1369</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00191nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6753157</marc:controlfield>
+        <marc:controlfield tag="004">6830849</marc:controlfield>
+        <marc:controlfield tag="005">20110927212642.0</marc:controlfield>
+        <marc:controlfield tag="008">1109270u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6801.C2.s250.A7M3 sh Y-14</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7315786</marc:controlfield>
+        <marc:controlfield tag="004">6830849</marc:controlfield>
+        <marc:controlfield tag="005">20130513140835.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

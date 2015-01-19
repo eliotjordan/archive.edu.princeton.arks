@@ -1,0 +1,108 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01413cem a22003013a 4500</marc:leader>
+        <marc:controlfield tag="001">6830303</marc:controlfield>
+        <marc:controlfield tag="005">20141202155454.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1991    xx z   zz a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">10000</marc:subfield>
+            <marc:subfield code="d">-89.33333333333333</marc:subfield>
+            <marc:subfield code="e">-89.3</marc:subfield>
+            <marc:subfield code="f">13.483333333333333</marc:subfield>
+            <marc:subfield code="g">13.466666666666667</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 64147</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+            <marc:subfield code="a">spa</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">El Salvador city graphic 1:10,000 : La Libertad. Series E955</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">1-DMA</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:10,000</marc:subfield>
+            <marc:subfield code="b">Transverse Merrcator proj.</marc:subfield>
+            <marc:subfield code="c">(W 89°20ʹ--W 89°18ʹ/N 13°29ʹ--N 13°28ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Washington, D.C. :</marc:subfield>
+            <marc:subfield code="b">Defense Mapping Agency Hydrographic-Topographic Center,</marc:subfield>
+            <marc:subfield code="c">1991.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="490" ind1="0" ind2=" ">
+            <marc:subfield code="a">United States. Defense Mapping Agency. Hydrographic/Topographic Center. Series ;</marc:subfield>
+            <marc:subfield code="v">E955</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Alternate title: La Libertad.Transverse Merrcator projection. Relief shown by 20 meter contour intervals and spot elevations. Coordinate conversion NAD 27 to NAD 83. "Compiled in 1990 from best available sources." With a glossary.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English and Spanish.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Topographic maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">City plan</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">El Salvador</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">El Salvador--La Libertad.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">La Libertad.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">El Salvador--La Libertad Dept.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">El Salvador--Puerto La Libertad.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G4844.L24C2.1991.D4M3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/792</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00186nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6752611</marc:controlfield>
+        <marc:controlfield tag="004">6830303</marc:controlfield>
+        <marc:controlfield tag="005">20110927210138.0</marc:controlfield>
+        <marc:controlfield tag="008">1109270u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G4844.L24C2.1991.D4M3</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7324763</marc:controlfield>
+        <marc:controlfield tag="004">6830303</marc:controlfield>
+        <marc:controlfield tag="005">20130514143027.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

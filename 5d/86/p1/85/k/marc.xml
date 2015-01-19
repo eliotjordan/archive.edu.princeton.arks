@@ -1,0 +1,106 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01491cem a22003133a 4500</marc:leader>
+        <marc:controlfield tag="001">6527081</marc:controlfield>
+        <marc:controlfield tag="005">20141202155449.0</marc:controlfield>
+        <marc:controlfield tag="008">110110s1916    xx z      a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">62500</marc:subfield>
+            <marc:subfield code="d">-76.85</marc:subfield>
+            <marc:subfield code="e">-76.4</marc:subfield>
+            <marc:subfield code="f">39.233333333333334</marc:subfield>
+            <marc:subfield code="g">38.71666666666667</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)715466268</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 9933</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Map of Arundel County showwing geological formations.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:62,500</marc:subfield>
+            <marc:subfield code="c">(W 76°51ʹ--W 76°24ʹ/N 39°14ʹ--N 38°43ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Baltimore, Md. :</marc:subfield>
+            <marc:subfield code="b">Maryland Geological Survey,</marc:subfield>
+            <marc:subfield code="c">1916.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Maryland Geological Survey. County Maps. Anne Arundel Sheet</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Maryland Geological Survey. County Reports v.7 Anne Arundel</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">United States. Geological Survey</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Companion text: Anne Arundel County / Homer P. Little; J. C. Britton; C. R. Zappone, Jr; O. L. Fassig; B. D. Wood; L. A. Bauer; F. W. Besley. Maryland Geological Survey. County Reports v.7 Anne Arundel County. 1917. 232p. 4 maps in separete atlas.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by 20 feet contour interval. Stratigraphic column, cross section. Another copy of map with source publication.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Geology.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Anne Arundel County (Md.)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--MD--Anne Arundel Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Arundel Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3841.C5.s62.M3 ANNE ARUNDEL</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scidoc</marc:subfield>
+            <marc:subfield code="h">8557.621.4 v.7 ANNE ARUNDEL (text)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/972</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00192nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6499539</marc:controlfield>
+        <marc:controlfield tag="004">6527081</marc:controlfield>
+        <marc:controlfield tag="005">20110420203001.0</marc:controlfield>
+        <marc:controlfield tag="008">1104200u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3841.C5.s62.M3 ANNE ARUNDEL</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7325013</marc:controlfield>
+        <marc:controlfield tag="004">6527081</marc:controlfield>
+        <marc:controlfield tag="005">20130514145222.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

@@ -1,0 +1,96 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01216cem a2200277 a 4500</marc:leader>
+        <marc:controlfield tag="001">8000798</marc:controlfield>
+        <marc:controlfield tag="005">20140320111213.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">950411s1742    fr i      a     0   fre d</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">540000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">e-it---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Le Rouge, Georges-Louis.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Succession de Charles VI. en Italie</marc:subfield>
+            <marc:subfield code="h">[map] :</marc:subfield>
+            <marc:subfield code="b">le duché de Milan, de Mantoue, de Parme et de Plaisance : suivant les nouvelles observations.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Duché de Milan, de Mantoue, de Parme et de Plaisance</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [ca. 1:540,000].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">À Paris :</marc:subfield>
+            <marc:subfield code="b">Par le Sr. le Rouge, ingr. géographe du Roy, rue des Augustins,</marc:subfield>
+            <marc:subfield code="c">A.P.D.R. 1742.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">hand col. ;</marc:subfield>
+            <marc:subfield code="c">49 x 64 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Map of northwestern Italy. Relief shown pictorially.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">In lower left: On trouve chez l'auteur toutes les cartes necessaires pour l'intelligence de la guerre present.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Austrian Succession, War of, 1740-1748</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Italy, Northern</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Italy, Northern</marc:subfield>
+            <marc:subfield code="y">1742.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/28598</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20131230</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20131230</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">7778720</marc:controlfield>
+        <marc:controlfield tag="004">8000798</marc:controlfield>
+        <marc:controlfield tag="005">20131230105622.0</marc:controlfield>
+        <marc:controlfield tag="008">1312304u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.2561</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

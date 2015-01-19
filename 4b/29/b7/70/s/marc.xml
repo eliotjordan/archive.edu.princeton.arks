@@ -1,0 +1,100 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01469cem a22002893a 4500</marc:leader>
+        <marc:controlfield tag="001">6830469</marc:controlfield>
+        <marc:controlfield tag="005">20141202155455.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1944    xx        a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">25000</marc:subfield>
+            <marc:subfield code="d">13.416666666666666</marc:subfield>
+            <marc:subfield code="e">13.733333333333333</marc:subfield>
+            <marc:subfield code="f">52.516666666666666</marc:subfield>
+            <marc:subfield code="g">52.35</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 65267</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Berlin. G.S.G.S. 4480</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">1st ed.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:25,000</marc:subfield>
+            <marc:subfield code="c">(E 13°25ʹ--E 13°44ʹ/N 52°31ʹ--N 52°21ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[London] :</marc:subfield>
+            <marc:subfield code="b">[s.n.],</marc:subfield>
+            <marc:subfield code="c">1944.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Great Britain. War Office. General Staff. Geographical Section. G.S.G.S. no. 4480.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Map is in four sheets. In upper left margin: "Berlin 1:25,000". In upper right margin: "Sheet 4". Map "B" annex to Protocol on zones of occupation of Germany and the administration of "Great Berlin.". In lower right margin: "Reproduced by Co. "C" 660th Engineers, U.S. Army. Copied from a German map dated 1937". With three insets: "Fortsetzung von lichtenrade", "Nebenkarte 1" and "Nebenkarte 2". GPO-DSSO-3949. Map shows boundaries of parts of Berlin allotted to the U.K., U.S.A., and U.S.S.R.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="653" ind1=" " ind2="0">
+            <marc:subfield code="a">City plan</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">World War, 1939-1945.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Administrative and political divisions.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Germany</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Germany--Berlin.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Berlin.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6299.B3.1944.W3O3 sh4</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/731</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00187nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6752777</marc:controlfield>
+        <marc:controlfield tag="004">6830469</marc:controlfield>
+        <marc:controlfield tag="005">20110927210847.0</marc:controlfield>
+        <marc:controlfield tag="008">1109270u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimcm</marc:subfield>
+            <marc:subfield code="h">G6299.B3.1944.W3O3 sh4</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7324624</marc:controlfield>
+        <marc:controlfield tag="004">6830469</marc:controlfield>
+        <marc:controlfield tag="005">20130514135515.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

@@ -1,0 +1,97 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01064cpcaa22002295a 4500</marc:leader>
+        <marc:controlfield tag="001">6170960</marc:controlfield>
+        <marc:controlfield tag="005">20110304084343.0</marc:controlfield>
+        <marc:controlfield tag="008">100701s1770    enk                 eng  </marc:controlfield>
+        <marc:datafield tag="024" ind1="1" ind2=" ">
+            <marc:subfield code="a">HM2011-1</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dollond, Peter,</marc:subfield>
+            <marc:subfield code="d">1730-1820.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">The description and use of the pantographer, or instrument for copying drawings</marc:subfield>
+            <marc:subfield code="h">[cartographic material] /</marc:subfield>
+            <marc:subfield code="c">made and sold by Peter Dollond, optician to His Majesty and to his Royal Highness the Duke of York, near Exeter-Exchange in the Strand, London ; Harper sculpt., Foster Lane.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">London :</marc:subfield>
+            <marc:subfield code="b">P. Dollond,</marc:subfield>
+            <marc:subfield code="c">[ca.1770]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 broadside :</marc:subfield>
+            <marc:subfield code="b">ill. ;</marc:subfield>
+            <marc:subfield code="c">42 x 34 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Illustration shows the pantograph being used to copy a map of North and South America.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Pantograph</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Cartography</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Western Hemisphere</marc:subfield>
+            <marc:subfield code="y">1770.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Harper,</marc:subfield>
+            <marc:subfield code="e">engraver.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/26058</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">twm</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20100701</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">p</marc:subfield>
+            <marc:subfield code="7">c</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20100709</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6201151</marc:controlfield>
+        <marc:controlfield tag="004">6170960</marc:controlfield>
+        <marc:controlfield tag="005">20100709094727.0</marc:controlfield>
+        <marc:controlfield tag="008">1007094u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.6568</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7321369</marc:controlfield>
+        <marc:controlfield tag="004">6170960</marc:controlfield>
+        <marc:controlfield tag="005">20130514082644.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

@@ -1,0 +1,176 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01838cem a2200493 a 4500</marc:leader>
+        <marc:controlfield tag="001">7008362</marc:controlfield>
+        <marc:controlfield tag="005">20120411082736.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">060424s1893    gw dg     a     0   ger d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm67537974</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">CGU</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">CGU</marc:subfield>
+            <marc:subfield code="d">OCLCQ</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">5000000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)67537974</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">fn-----</marc:subfield>
+            <marc:subfield code="a">f-ua---</marc:subfield>
+            <marc:subfield code="a">f-sj---</marc:subfield>
+            <marc:subfield code="a">f-ea---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="052" ind1=" " ind2=" ">
+            <marc:subfield code="a">8220</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="052" ind1=" " ind2=" ">
+            <marc:subfield code="a">8300</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="052" ind1=" " ind2=" ">
+            <marc:subfield code="a">8310</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="052" ind1=" " ind2=" ">
+            <marc:subfield code="a">8340</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="a">G8220 1893</marc:subfield>
+            <marc:subfield code="b">.K5</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kiepert, Richard,</marc:subfield>
+            <marc:subfield code="d">1846-1915.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="4">
+            <marc:subfield code="a">Die Nilländer und Westarabien</marc:subfield>
+            <marc:subfield code="h">[map] /</marc:subfield>
+            <marc:subfield code="c">Neubearbeitung von Richard Kiepert ; Revision der arabischen Orthographie von B. Moritz ; lith. v. J. Sulzer.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:5,000,000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Berlin :</marc:subfield>
+            <marc:subfield code="b">Geographische Verlagshandlung Dietrich Reimer,</marc:subfield>
+            <marc:subfield code="c">1893</marc:subfield>
+            <marc:subfield code="e">(Berlin :</marc:subfield>
+            <marc:subfield code="f">Lith. Anst. v. Leop. Kraatz)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">col. ;</marc:subfield>
+            <marc:subfield code="c">51 x 42 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by hachures and spot heights.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Includes inset: Das Nil-Delta. Scale 1:1,500,000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"Kiepert's grosser Handatlas. No. 38"--In upper margin.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"Ausgabe 1893"--In lower left and corner.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Africa, North</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Eritrea</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Nile River Delta (Egypt)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Nile River Watershed</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Sudan</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Africa, North</marc:subfield>
+            <marc:subfield code="y">1893.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Egypt</marc:subfield>
+            <marc:subfield code="z">Nile River Delta</marc:subfield>
+            <marc:subfield code="y">1893.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Eritrea</marc:subfield>
+            <marc:subfield code="y">1893.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Nile River Watershed</marc:subfield>
+            <marc:subfield code="y">1893.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Sudan</marc:subfield>
+            <marc:subfield code="y">1893.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Moritz, B.</marc:subfield>
+            <marc:subfield code="q">(Bernhard),</marc:subfield>
+            <marc:subfield code="d">1859-1939.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Sulzer, J.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="710" ind1="2" ind2=" ">
+            <marc:subfield code="a">Dietrich Reimer Verlag (Berlin, Germany)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/26760</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">m</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20120306</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">m</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20120307</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6896536</marc:controlfield>
+        <marc:controlfield tag="004">7008362</marc:controlfield>
+        <marc:controlfield tag="005">20120306150711.0</marc:controlfield>
+        <marc:controlfield tag="008">1203064u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.4223</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

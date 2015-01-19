@@ -1,0 +1,116 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01353cem a2200313Ma 4500</marc:leader>
+        <marc:controlfield tag="001">3011689</marc:controlfield>
+        <marc:controlfield tag="005">20090203124740.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">871102s1871    utu       a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="0" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm21810858</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="9">CPR0284TS</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">CUY</marc:subfield>
+            <marc:subfield code="c">CUY</marc:subfield>
+            <marc:subfield code="d">OCL</marc:subfield>
+            <marc:subfield code="d">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="052" ind1=" " ind2=" ">
+            <marc:subfield code="a">4340</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Froiseth, B. A. M.</marc:subfield>
+            <marc:subfield code="q">(Bernard Arnold Martin),</marc:subfield>
+            <marc:subfield code="d">1839-1922.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Froiseth's new sectional &amp; mineral map of Utah :</marc:subfield>
+            <marc:subfield code="b">compiled from the latest U.S. government surveys and other authentic sources : exhibiting the sections, fractional sections, counties, cities, towns, settlements, mines, railroads and other internal improvements.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">Froiseth's new sectional and mineral map of Utah</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">New sectional and mineral map of Utah</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [ca. 1:293,040]. 8 miles to an inch.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Salt Lake City,</marc:subfield>
+            <marc:subfield code="b">B.A.M. Froiseth,</marc:subfield>
+            <marc:subfield code="c">1871.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">hand col. ;</marc:subfield>
+            <marc:subfield code="c">135 x 89 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">In cover.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">Wheat, C. I. Mapping Transmississippi West,</marc:subfield>
+            <marc:subfield code="c">v. 5, no. 1224.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="583" ind1="0" ind2=" ">
+            <marc:subfield code="x">Map removed from cover and stored in Utah map drawer 9/13/06.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Utah</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Utah</marc:subfield>
+            <marc:subfield code="y">1871.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map (top)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/5772</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map (bottom)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/6088</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="911" ind1=" " ind2=" ">
+            <marc:subfield code="a">20000603</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00229cx  a2200109z  4500</marc:leader>
+        <marc:controlfield tag="001">3327828</marc:controlfield>
+        <marc:controlfield tag="004">3011689</marc:controlfield>
+        <marc:controlfield tag="005">20060913114712.0</marc:controlfield>
+        <marc:controlfield tag="008">0006132u    0   1001uu   0000000</marc:controlfield>
+        <marc:datafield tag="014" ind1="1" ind2=" ">
+            <marc:subfield code="a">CPR0284TS001</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="014" ind1="0" ind2=" ">
+            <marc:subfield code="9">003327828</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2="0">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="t">1</marc:subfield>
+            <marc:subfield code="h">HMC02.259</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7324368</marc:controlfield>
+        <marc:controlfield tag="004">3011689</marc:controlfield>
+        <marc:controlfield tag="005">20130514132531.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

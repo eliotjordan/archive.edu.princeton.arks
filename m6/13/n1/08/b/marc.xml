@@ -1,0 +1,114 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01631cem a2200337 a 4500</marc:leader>
+        <marc:controlfield tag="001">7386585</marc:controlfield>
+        <marc:controlfield tag="005">20130514122054.0</marc:controlfield>
+        <marc:controlfield tag="007">aj aanzn</marc:controlfield>
+        <marc:controlfield tag="008">100204r19121813fr di     a     0   fre  </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">178000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">e-gx---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="110" ind1="2" ind2=" ">
+            <marc:subfield code="a">Geographisches Institut (Weimar, Thuringia, Germany)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Region entre Potsdam et l'Oder</marc:subfield>
+            <marc:subfield code="h">[map].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:178,000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Paris :</marc:subfield>
+            <marc:subfield code="b">Librairie Militaire Chapelot,</marc:subfield>
+            <marc:subfield code="c">1912.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map ;</marc:subfield>
+            <marc:subfield code="c">58 x 77 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Map of the region between Potsdam and Frankfurt an den Oder, Germany, with part of western Poland, to illustrate the military campaign of 1813; the region now comprises the German states of Berlin and Brandenburg. Relief shown pictorially and by hachures.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"Extrait de la Carte topographique et militaire de l'Allemagne en 204 feuilles, publiée par l'Institut Géographique de Weimer 1807-1813 (Feuilles 40, 41, 50, 51)."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"La Campagne de 1813--Tome II."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">From: Campagne de 1813 : les préliminaires / par Frédéric Reboul. Paris : Librairie Militaire Chapelot, 1910-1912.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Wars of Liberation, 1813-1814</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Berlin (Germany)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Brandenburg (Germany : Landkreis)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Historical maps</marc:subfield>
+            <marc:subfield code="z">Germany.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Military maps</marc:subfield>
+            <marc:subfield code="z">Germany.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Topographic maps</marc:subfield>
+            <marc:subfield code="z">Germany.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Reboul, Frédéric,</marc:subfield>
+            <marc:subfield code="d">1863- .</marc:subfield>
+            <marc:subfield code="t">Campagne de 1813.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27676</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20130327</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20130327</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">7209253</marc:controlfield>
+        <marc:controlfield tag="004">7386585</marc:controlfield>
+        <marc:controlfield tag="005">20130327122246.0</marc:controlfield>
+        <marc:controlfield tag="008">1303274u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.3345</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

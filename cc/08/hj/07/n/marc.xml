@@ -1,0 +1,102 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01219cem a2200265 a 4500</marc:leader>
+        <marc:controlfield tag="001">6738919</marc:controlfield>
+        <marc:controlfield tag="005">20111017090146.0</marc:controlfield>
+        <marc:controlfield tag="007">az canzn</marc:controlfield>
+        <marc:controlfield tag="008">110727s1753    gw        a     0   ger  </marc:controlfield>
+        <marc:datafield tag="024" ind1="0" ind2=" ">
+            <marc:subfield code="a">HM 2012-3</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hübner, Johann,</marc:subfield>
+            <marc:subfield code="d">1668-1731.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Tab. IV. :</marc:subfield>
+            <marc:subfield code="b">Geometria</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">Geometria</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Regensburg :</marc:subfield>
+            <marc:subfield code="b">E.F. Bader,</marc:subfield>
+            <marc:subfield code="c">1753]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 sheet :</marc:subfield>
+            <marc:subfield code="b">hand col. ;</marc:subfield>
+            <marc:subfield code="c">19 x 22 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">In upper right-hand corner: Erklärung deren in der Geometrie gewöhnl. Figuren und Instrumenten.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Shows scientific instruments and tools used in mapmaking.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Plate 4 from: Johann Hübners Neu-vermehrtes und verbessertes Reales Staats-Zeitungs-und Conversations-Lexicon ... Regenspurg und Wien : In Verlegung Emerich Felix Baders, Buchhändlers, 1753.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Geometry</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Cartography</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Hübner, Johann,</marc:subfield>
+            <marc:subfield code="d">1668-1731.</marc:subfield>
+            <marc:subfield code="t">Neu-vermehrtes und verbessertes Reales Staats-Zeitungs-und Conversations-Lexicon.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/26361</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">twm</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20110727</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20110819</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172cx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">6671522</marc:controlfield>
+        <marc:controlfield tag="004">6738919</marc:controlfield>
+        <marc:controlfield tag="005">20110818114446.0</marc:controlfield>
+        <marc:controlfield tag="008">1107270p    8   1001uu   0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.6725</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7321719</marc:controlfield>
+        <marc:controlfield tag="004">6738919</marc:controlfield>
+        <marc:controlfield tag="005">20130514084700.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

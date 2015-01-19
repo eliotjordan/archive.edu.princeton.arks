@@ -1,0 +1,123 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01196cem a2200325 a 4500</marc:leader>
+        <marc:controlfield tag="001">4422800</marc:controlfield>
+        <marc:controlfield tag="005">20130419094521.0</marc:controlfield>
+        <marc:controlfield tag="007">aj aanzn</marc:controlfield>
+        <marc:controlfield tag="008">900607s1561    it        a     0   ita d</marc:controlfield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)60356611</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(AuNL)1773735</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)AULG1773735-M</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">ANL</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">ANL</marc:subfield>
+            <marc:subfield code="d">ABN-SNR</marc:subfield>
+            <marc:subfield code="d">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="045" ind1="1" ind2=" ">
+            <marc:subfield code="b">d1561</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="a">MAP RM 2927</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Ruscelli, Girolamo,</marc:subfield>
+            <marc:subfield code="d">d. ca. 1565.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Carta marina nuova tavola</marc:subfield>
+            <marc:subfield code="h">[map].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale indeterminable.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Venetia :</marc:subfield>
+            <marc:subfield code="b">Vincenzo Valgrisi,</marc:subfield>
+            <marc:subfield code="c">1561]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map ;</marc:subfield>
+            <marc:subfield code="c">18 x 24 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">World map with relief shown pictorially.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">From: La geografia de Claudio Tolomeo ... Nuovamente tradotto di Greco in Italiano da Girolamo Ruscelli ... In Venetia ... Vincenzo Valgrisi MDLXI.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">Shirley</marc:subfield>
+            <marc:subfield code="c">111.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">World maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">World maps</marc:subfield>
+            <marc:subfield code="y">1561.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Valgrisi, Vincenzo,</marc:subfield>
+            <marc:subfield code="d">fl. 1540-1572,</marc:subfield>
+            <marc:subfield code="e">printer.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="0" ind2=" ">
+            <marc:subfield code="a">Ptolemy,</marc:subfield>
+            <marc:subfield code="d">active 2nd century.</marc:subfield>
+            <marc:subfield code="t">Geographia.</marc:subfield>
+            <marc:subfield code="l">Italian.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/1932</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">m</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20050211</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">m</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20050217</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00169nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">4676011</marc:controlfield>
+        <marc:controlfield tag="004">4422800</marc:controlfield>
+        <marc:controlfield tag="005">20050211141631.0</marc:controlfield>
+        <marc:controlfield tag="008">0502114u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.2</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7316276</marc:controlfield>
+        <marc:controlfield tag="004">4422800</marc:controlfield>
+        <marc:controlfield tag="005">20130513151218.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

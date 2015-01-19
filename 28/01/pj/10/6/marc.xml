@@ -1,0 +1,118 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01579cem a22003493a 4500</marc:leader>
+        <marc:controlfield tag="001">6449160</marc:controlfield>
+        <marc:controlfield tag="005">20141202103450.0</marc:controlfield>
+        <marc:controlfield tag="008">110203s1903    xx e      a     0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">63360</marc:subfield>
+            <marc:subfield code="d">-74.33333333333333</marc:subfield>
+            <marc:subfield code="e">-73.9</marc:subfield>
+            <marc:subfield code="f">41.4</marc:subfield>
+            <marc:subfield code="g">40.93333333333333</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)706473863</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 82</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">[New Jersey.] Atlas sheet no. 23.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">1903</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:63,360 or 1 in. = 1 mi.</marc:subfield>
+            <marc:subfield code="c">(W 74°20ʹ--W 73°54ʹ/N 41°24ʹ--N 40°56ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Trenton, N.J. :</marc:subfield>
+            <marc:subfield code="b">Geological Survey of New Jersey,</marc:subfield>
+            <marc:subfield code="c">1903.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Geological Survey of New Jersey. Atlas Sheet 23 (1903)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">New Jersey Geological Survey</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by 10 to 20 ft contour interval. Depth shown by soundings in feet at low tide. Title is not given. Region covered: northern Bergen and eastern Passaic counties. Original survey 1882, principal features revised 1903,1923, 1932. Original survey and revisions to 1903 made under direction of C.C. Vermeule, Topographer. Revision of 1923 by L.P. Plummer, Topographic Engineer."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Topographic maps</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Bathymetric maps</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Bergen County (N.J.)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Bergen Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Passaic Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NY--Rockland Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NY--Orange Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Kummel, Henry Barnard</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Vermeule, Cornelius Clarkson</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3811.C2.s63.N4J4 no.23</marc:subfield>
+            <marc:subfield code="i">1903</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/2160</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00193nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6430023</marc:controlfield>
+        <marc:controlfield tag="004">6449160</marc:controlfield>
+        <marc:controlfield tag="005">20110306091247.0</marc:controlfield>
+        <marc:controlfield tag="008">1103060u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3811.C2.s63.N4J4 no.23</marc:subfield>
+            <marc:subfield code="i">1903</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7316374</marc:controlfield>
+        <marc:controlfield tag="004">6449160</marc:controlfield>
+        <marc:controlfield tag="005">20130513151851.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

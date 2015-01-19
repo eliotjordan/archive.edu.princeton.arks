@@ -1,0 +1,137 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01737cem a2200361 a 4500</marc:leader>
+        <marc:controlfield tag="001">5625568</marc:controlfield>
+        <marc:controlfield tag="005">20090909093844.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">081215s1851    fr d      a     0   spa  </marc:controlfield>
+        <marc:datafield tag="024" ind1="0" ind2=" ">
+            <marc:subfield code="a">HM 2009-23</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">1700000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">nwcu---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Vuillemin, A.</marc:subfield>
+            <marc:subfield code="q">(Alexandre),</marc:subfield>
+            <marc:subfield code="d">b. 1812.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Mapa de la Isla de Cuba :</marc:subfield>
+            <marc:subfield code="b">indicando la geografía física y política y tambien las grandes lineas de communicacion</marc:subfield>
+            <marc:subfield code="h">[map] /</marc:subfield>
+            <marc:subfield code="c">por A. Vuillemin, géografo y  E. Picard ... ; grabado por Langevin.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale: [ca. 1:1,700,000].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">En Paris ; New York:</marc:subfield>
+            <marc:subfield code="b">Turgis Jne. editeur, Rue des Ecoles, 60 ... ;</marc:subfield>
+            <marc:subfield code="c">[1851?]</marc:subfield>
+            <marc:subfield code="e">(Paris :</marc:subfield>
+            <marc:subfield code="f">Delarue, Impr.)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">hand col., dissected in 18 pieces, mounted on cloth ;</marc:subfield>
+            <marc:subfield code="c">52 x 72 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by hachures.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Includes Inset maps: Plano de La Habana -- Mapa indicando el curso de los buques de vapor -- Isla de Puertorico.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Includes inset views: Habana, vista tomada desde casa blanca -- Montes ... (cross-section of mountains).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"Ojeada sobre la Isla de Cuba" gives date of latest census as 1851.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="561" ind1=" " ind2=" ">
+            <marc:subfield code="a">Historic Maps copy has label of mapseller on verso: Lanée, succr. de Longuet, graveur-editeur de cartes géographiques; in ms. on label: Ile de Cuba.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Steamboat lines</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Cuba</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Havana (Cuba)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Cuba</marc:subfield>
+            <marc:subfield code="y">1851.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Cuba</marc:subfield>
+            <marc:subfield code="z">Havana</marc:subfield>
+            <marc:subfield code="y">1851.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Picard, E.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Langevin,</marc:subfield>
+            <marc:subfield code="e">engraver.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Lanée,</marc:subfield>
+            <marc:subfield code="e">mapseller.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/22391</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20081218</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172cx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">5734740</marc:controlfield>
+        <marc:controlfield tag="004">5625568</marc:controlfield>
+        <marc:controlfield tag="005">20081218100108.0</marc:controlfield>
+        <marc:controlfield tag="008">0812150p    8   1001uu   0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.6421</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7316452</marc:controlfield>
+        <marc:controlfield tag="004">5625568</marc:controlfield>
+        <marc:controlfield tag="005">20130513152358.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

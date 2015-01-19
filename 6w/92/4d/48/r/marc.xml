@@ -1,0 +1,108 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01224cem a2200277 a 4500</marc:leader>
+        <marc:controlfield tag="001">4461229</marc:controlfield>
+        <marc:controlfield tag="005">20130522120027.0</marc:controlfield>
+        <marc:controlfield tag="007">aj aanzn</marc:controlfield>
+        <marc:controlfield tag="008">050223s1535    fr        a     0   lat  </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fries, Lorenz,</marc:subfield>
+            <marc:subfield code="d">approximately 1490-1531.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Orbis typus universalis iuxta</marc:subfield>
+            <marc:subfield code="h">[map] :</marc:subfield>
+            <marc:subfield code="b">hydrographorum traditionem, exactissime depicta.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale not given.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Lyon] :</marc:subfield>
+            <marc:subfield code="b">... Trechsel fratrum,</marc:subfield>
+            <marc:subfield code="c">1535.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map ;</marc:subfield>
+            <marc:subfield code="c">30 x 46 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Title and imprint from Shirley.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Waldseemüller's Ptolemaic map of 1513, redrawn and reduced in size; with surround of windheads and clouds, but without title.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">From: Claudii Ptolemaei Alexandrini Geographicae enarrationis libri octo ... Lugduni [Lyon] : Ex officina Melchioris et Gasparis Trechsel fratrum, 1535.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">Shirley</marc:subfield>
+            <marc:subfield code="c">47</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="541" ind1=" " ind2=" ">
+            <marc:subfield code="c">Gift</marc:subfield>
+            <marc:subfield code="a">of Robert A. McCabe, Princeton Class of 1956.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">World maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">World maps</marc:subfield>
+            <marc:subfield code="y">1535.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="0" ind2=" ">
+            <marc:subfield code="a">Ptolemy,</marc:subfield>
+            <marc:subfield code="d">active 2nd century.</marc:subfield>
+            <marc:subfield code="t">Geography.</marc:subfield>
+            <marc:subfield code="f">1535.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/1927</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20050223</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20050224</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00170nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">4714378</marc:controlfield>
+        <marc:controlfield tag="004">4461229</marc:controlfield>
+        <marc:controlfield tag="005">20050223124434.0</marc:controlfield>
+        <marc:controlfield tag="008">0502234u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.11</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7316272</marc:controlfield>
+        <marc:controlfield tag="004">4461229</marc:controlfield>
+        <marc:controlfield tag="005">20130513151158.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

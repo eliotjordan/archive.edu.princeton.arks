@@ -1,0 +1,114 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01843cem a22003373a 4500</marc:leader>
+        <marc:controlfield tag="001">6845034</marc:controlfield>
+        <marc:controlfield tag="005">20141202103254.0</marc:controlfield>
+        <marc:controlfield tag="008">110422s1947    xx g   cu a  o  0   eng d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">24000</marc:subfield>
+            <marc:subfield code="d">-75.375</marc:subfield>
+            <marc:subfield code="e">-75.25</marc:subfield>
+            <marc:subfield code="f">39.5</marc:subfield>
+            <marc:subfield code="g">39.375</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(NjP Geomap) 77863</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="041" ind1="0" ind2=" ">
+            <marc:subfield code="a">eng</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Shiloh Quadrangle, New Jersey. 7.5 minute series (topographic)</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="250" ind1=" " ind2=" ">
+            <marc:subfield code="a">Reprinted 1969</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale 1:24,000</marc:subfield>
+            <marc:subfield code="b"> Polyconic proj.</marc:subfield>
+            <marc:subfield code="c">(W 75°22ʹ--W 75°15ʹ/N 39°30ʹ--N 39°22ʹ)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Reston, Va.] : </marc:subfield>
+            <marc:subfield code="b">U.S. Geological Survey, </marc:subfield>
+            <marc:subfield code="c">1947.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">U.S.G.S. 7.5 minute series (topographic)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">North Decimal Degree 39.500000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">South Decimal Degree 39.375000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">East Decimal Degree -75.250000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">West Decimal Degree -75.375000.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Alternate title: Shiloh, N. J. Polyconic projection. Universal transverse Mercator grids are shown. Relief shown by 10 feet contour interval and spot heights. Datum is mean sea level. Shoreline shown represents the approximate line of mean high water. The mean range of tide is approximately 6 feet. "Mapped by the United States Coast and Geodetic Survey; Edited and published by the United States Geological Survey. Control by USC&amp;GS, and New Jersey Geodetic Survey. Culture and drainage in part compiled from aerial photographs taken 1946. Topography by plane-table methods 1947." Map is temporarily filed in the Reserve Course Materials Collection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="546" ind1=" " ind2=" ">
+            <marc:subfield code="a">In English.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Topographic maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Bathymetric maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">Shiloh.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Salem Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Shiloh Quad.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="7">
+            <marc:subfield code="a">U.S.--NJ--Cumberland Co.</marc:subfield>
+            <marc:subfield code="2">local</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3811.C2.s24.U5G4 Shiloh</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2=" ">
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/134</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00188nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6763647</marc:controlfield>
+        <marc:controlfield tag="004">6845034</marc:controlfield>
+        <marc:controlfield tag="005">20111001211710.0</marc:controlfield>
+        <marc:controlfield tag="008">1110010u||||8|||4001uu|||0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">scimc</marc:subfield>
+            <marc:subfield code="h">G3811.C2.s24.U5G4 Shiloh</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7315761</marc:controlfield>
+        <marc:controlfield tag="004">6845034</marc:controlfield>
+        <marc:controlfield tag="005">20130513140638.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

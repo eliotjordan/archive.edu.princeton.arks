@@ -1,0 +1,140 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01326cem a2200349Ia 4500</marc:leader>
+        <marc:controlfield tag="001">5609639</marc:controlfield>
+        <marc:controlfield tag="005">20090710150620.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">911030s1866    dcud      a  f  0   eng d</marc:controlfield>
+        <marc:datafield tag="024" ind1="0" ind2=" ">
+            <marc:subfield code="a">HM2009-20</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocm24646390</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">UUM</marc:subfield>
+            <marc:subfield code="c">UUM</marc:subfield>
+            <marc:subfield code="d">OCL</marc:subfield>
+            <marc:subfield code="d">OCLCQ</marc:subfield>
+            <marc:subfield code="d">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">1140480</marc:subfield>
+            <marc:subfield code="d">W1200000</marc:subfield>
+            <marc:subfield code="e">W1140000</marc:subfield>
+            <marc:subfield code="f">N0420000</marc:subfield>
+            <marc:subfield code="g">N0350000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)24646390</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">n-us-nv</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="052" ind1=" " ind2=" ">
+            <marc:subfield code="a">4350</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="090" ind1=" " ind2=" ">
+            <marc:subfield code="a">G4350 1866</marc:subfield>
+            <marc:subfield code="b">U5</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="110" ind1="1" ind2=" ">
+            <marc:subfield code="a">United States.</marc:subfield>
+            <marc:subfield code="b">General Land Office.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Map of the State of Nevada :</marc:subfield>
+            <marc:subfield code="b">to accompany the annual report of the Commr. Genl. Land Office</marc:subfield>
+            <marc:subfield code="h">[map] /</marc:subfield>
+            <marc:subfield code="c">Department of the Interior, General Land Office.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [1:1,140,480]. 18 mi. to an inch</marc:subfield>
+            <marc:subfield code="c">(W 120⁰--W 114⁰/N 42⁰--N 35⁰).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Washington, D.C.] :</marc:subfield>
+            <marc:subfield code="b">The Office,</marc:subfield>
+            <marc:subfield code="c">[1866]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">hand col., mounted on cloth ;</marc:subfield>
+            <marc:subfield code="c">66 x 49 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by hachures.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Shows silver, gold, and copper mines.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">"October 2d, 1866."</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Nevada</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Nevada</marc:subfield>
+            <marc:subfield code="y">1866.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">State maps</marc:subfield>
+            <marc:subfield code="z">Nevada</marc:subfield>
+            <marc:subfield code="y">1866.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Topographic maps</marc:subfield>
+            <marc:subfield code="z">Nevada</marc:subfield>
+            <marc:subfield code="y">1866.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/22624</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">twm</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="h">m</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20081118</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">m</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20081119</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172cx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">5720687</marc:controlfield>
+        <marc:controlfield tag="004">5609639</marc:controlfield>
+        <marc:controlfield tag="005">20081119141353.0</marc:controlfield>
+        <marc:controlfield tag="008">0811180p    8   1001uu   0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.6416</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7316461</marc:controlfield>
+        <marc:controlfield tag="004">5609639</marc:controlfield>
+        <marc:controlfield tag="005">20130513152444.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

@@ -1,0 +1,99 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01379cam a2200241 a 4500</marc:leader>
+        <marc:controlfield tag="001">4413269</marc:controlfield>
+        <marc:controlfield tag="005">20090713081129.0</marc:controlfield>
+        <marc:controlfield tag="008">050207s1888    ilu           001 0 eng  </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">n-us-nj</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="110" ind1="2" ind2=" ">
+            <marc:subfield code="a">Rand McNally and Company.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Rand, McNally &amp; Co.'s indexed county and railroad pocket map and shippers' guide of New Jersey :</marc:subfield>
+            <marc:subfield code="b">accompanied by a new and original compilation and ready reference index, showing in detail the entire railroad system, the express company doing business over each road, and accurately locating all the cities, towns, post offices, railroad stations, villages, counties, islands, lakes, rivers, etc. ... : population is given according to the latest official census</marc:subfield>
+            <marc:subfield code="h">[map].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">Indexed county and railroad pocket map and shippers' guide of New Jersey</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2="0">
+            <marc:subfield code="a">Rand, McNally &amp; Co.'s New Jersey</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Chicago and New York :</marc:subfield>
+            <marc:subfield code="b">Rand, McNally &amp; Co.,</marc:subfield>
+            <marc:subfield code="c">1888.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">45 p. ;</marc:subfield>
+            <marc:subfield code="c">17 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Issued to accompany: Rand, McNally &amp; Co.'s New Jersey. Map was removed from cover and placed in state's flat file.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">New Jersey</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">New Jersey</marc:subfield>
+            <marc:subfield code="y">1888.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Railroad maps</marc:subfield>
+            <marc:subfield code="z">New Jersey</marc:subfield>
+            <marc:subfield code="y">1888.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">State maps</marc:subfield>
+            <marc:subfield code="z">New Jersey</marc:subfield>
+            <marc:subfield code="y">1888.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/22641</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">r</marc:subfield>
+            <marc:subfield code="6">a</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">0</marc:subfield>
+            <marc:subfield code="e">20050207</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00171nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">4666534</marc:controlfield>
+        <marc:controlfield tag="004">4413269</marc:controlfield>
+        <marc:controlfield tag="005">20050207104826.0</marc:controlfield>
+        <marc:controlfield tag="008">0502074u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC02.180</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7316477</marc:controlfield>
+        <marc:controlfield tag="004">4413269</marc:controlfield>
+        <marc:controlfield tag="005">20130513152559.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

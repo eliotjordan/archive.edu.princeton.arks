@@ -1,0 +1,118 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01168cem a2200313 a 4500</marc:leader>
+        <marc:controlfield tag="001">4485297</marc:controlfield>
+        <marc:controlfield tag="005">20050823134317.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">950511s1670    ne        a     0   lat d</marc:controlfield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">74000000</marc:subfield>
+            <marc:subfield code="d">W1800000</marc:subfield>
+            <marc:subfield code="e">E1800000</marc:subfield>
+            <marc:subfield code="f">N0900000</marc:subfield>
+            <marc:subfield code="g">S0900000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(MiU)notisAQP8551</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)32458139</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(CStRLIN)MIUGAQP8551-M</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">EYM</marc:subfield>
+            <marc:subfield code="c">EYM</marc:subfield>
+            <marc:subfield code="d">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="052" ind1=" " ind2=" ">
+            <marc:subfield code="a">3200</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Wit, Frederik de.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Nova orbis tabula</marc:subfield>
+            <marc:subfield code="h">[map] /</marc:subfield>
+            <marc:subfield code="c">in lucem edita, a F. de Wit.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [ca. 1:74,000,000]</marc:subfield>
+            <marc:subfield code="c">(W 180⁰--E 180⁰/N 90⁰--S 90⁰).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Amstelodami : de Wit,</marc:subfield>
+            <marc:subfield code="c">ca. 1670]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2=" ">
+            <marc:subfield code="a">Nova orbis tabvla</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map ;</marc:subfield>
+            <marc:subfield code="c">2 hemispheres 27 cm. in diam., on sheet 52 x 59 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Includes ancillary maps of north and south polar regions.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scenes in 4 corners with images of the seasons, the elements and signs of the Zodiac.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">Shirley</marc:subfield>
+            <marc:subfield code="c">451</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">World maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">World maps</marc:subfield>
+            <marc:subfield code="y">1670.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/2038</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">m</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20050324</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">m</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20050324</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">4738555</marc:controlfield>
+        <marc:controlfield tag="004">4485297</marc:controlfield>
+        <marc:controlfield tag="005">20050324143410.0</marc:controlfield>
+        <marc:controlfield tag="008">0503244u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.2774</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7316306</marc:controlfield>
+        <marc:controlfield tag="004">4485297</marc:controlfield>
+        <marc:controlfield tag="005">20130513151429.0</marc:controlfield>
+        <marc:controlfield tag="008">1305134u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
