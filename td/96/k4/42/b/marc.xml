@@ -1,0 +1,93 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01012cem a2200229 a 4500</marc:leader>
+        <marc:controlfield tag="001">5274811</marc:controlfield>
+        <marc:controlfield tag="005">20080303075317.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">070824e18130701enk       a     0   eng  </marc:controlfield>
+        <marc:datafield tag="024" ind1="1" ind2=" ">
+            <marc:subfield code="a">HM2008-6</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="4">
+            <marc:subfield code="a">The Pilgrims progress, or, Christians journey from the city of destruction in this evil world to the celestial city in the world that is to come</marc:subfield>
+            <marc:subfield code="h">[cartographic material].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[London] :</marc:subfield>
+            <marc:subfield code="b">Published ... by J. Pitts, no. 14 Great St. Andrew Street Seven Dials,</marc:subfield>
+            <marc:subfield code="c">July 1,1813 .</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">col. ;</marc:subfield>
+            <marc:subfield code="c">34 x 45 cm., on sheet 41 x 51 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Map showing episodes from Bunyan's Pilgrim's progress, with explanatory text.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="650" ind1=" " ind2="0">
+            <marc:subfield code="a">Pilgrims and pilgrimages.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Thematic maps</marc:subfield>
+            <marc:subfield code="y">1813.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Bunyan, John,</marc:subfield>
+            <marc:subfield code="d">1628-1688.</marc:subfield>
+            <marc:subfield code="t">Pilgrim's progress.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Pitts, John,</marc:subfield>
+            <marc:subfield code="d">1765-1844,</marc:subfield>
+            <marc:subfield code="e">printer.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/9171</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">twm</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20070824</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20070827</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172cx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">5445169</marc:controlfield>
+        <marc:controlfield tag="004">5274811</marc:controlfield>
+        <marc:controlfield tag="005">20070827135545.0</marc:controlfield>
+        <marc:controlfield tag="008">0708240p    8   1001uu   0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.3743</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00182nx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7324950</marc:controlfield>
+        <marc:controlfield tag="004">5274811</marc:controlfield>
+        <marc:controlfield tag="005">20130514144705.0</marc:controlfield>
+        <marc:controlfield tag="008">1305144u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="8" ind2=" ">
+            <marc:subfield code="b">elf1</marc:subfield>
+            <marc:subfield code="h">Electronic Resource</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

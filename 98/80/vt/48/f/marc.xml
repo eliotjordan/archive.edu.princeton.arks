@@ -1,0 +1,130 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01890cem a2200349 a 4500</marc:leader>
+        <marc:controlfield tag="001">7292163</marc:controlfield>
+        <marc:controlfield tag="005">20130301075639.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">050608s1774    fr        a     0   fre d</marc:controlfield>
+        <marc:datafield tag="024" ind1="0" ind2=" ">
+            <marc:subfield code="a">HM 2013-29</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)ocn309454214</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">UAF</marc:subfield>
+            <marc:subfield code="b">eng</marc:subfield>
+            <marc:subfield code="c">UAF</marc:subfield>
+            <marc:subfield code="d">OCLCQ</marc:subfield>
+            <marc:subfield code="d">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="0" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="d">W1800000</marc:subfield>
+            <marc:subfield code="e">E1800000</marc:subfield>
+            <marc:subfield code="f">N0900000</marc:subfield>
+            <marc:subfield code="g">N0600000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="035" ind1=" " ind2=" ">
+            <marc:subfield code="a">(OCoLC)309454214</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">r------</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Robert de Vaugondy, Didier,</marc:subfield>
+            <marc:subfield code="d">1723-1786.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Essai d'une carte polaire arctique :</marc:subfield>
+            <marc:subfield code="b">construite d'après toutes les connoissances les plus nouvelles pour servir aux navigations et aux découvertes à faire dans la mer glaciale</marc:subfield>
+            <marc:subfield code="h">[map] /</marc:subfield>
+            <marc:subfield code="c">presentée à l'Académie Royale des Sciences avec un Mémoire approuvé le 24 Mars 1773 et jugé digne d'être imprimé dans le Recueil des Mémoires des Savans étrangers, par le Sr. de Vaugondy Géographe ordinaire du Roi, du feu Roi de Pologne Duc de Lorraine et de Bar, de l'Academie royale de Nanci, et Censeur royal ; gravé par E. Dussy.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale not given</marc:subfield>
+            <marc:subfield code="c">(W 180°--E 180°/N 90°--N 60°).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">A Paris :</marc:subfield>
+            <marc:subfield code="b">Chés l'Auteur Quai de l'horloge du Palais près le Pont neuf,</marc:subfield>
+            <marc:subfield code="c">1774.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">hand col. ;</marc:subfield>
+            <marc:subfield code="c">47 cm.  in diam., on sheet 55 x 48 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Polar projection.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Shows Robert de Vaugondy's proposed route across the North Pole to the Pacific Ocean.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="510" ind1="4" ind2=" ">
+            <marc:subfield code="a">Pedley, Mary. Bel et utile</marc:subfield>
+            <marc:subfield code="c">no. 25</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Historic Maps copy has ms. annotations.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Arctic regions</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Polar regions</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="0">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Arctic regions</marc:subfield>
+            <marc:subfield code="y">1774.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="0">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Polar regions</marc:subfield>
+            <marc:subfield code="y">1774.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Dussy, E.,</marc:subfield>
+            <marc:subfield code="e">engraver.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27570</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">twm</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="h">m</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20130129</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">m</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20130212</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172cx  a22000854  4500</marc:leader>
+        <marc:controlfield tag="001">7132255</marc:controlfield>
+        <marc:controlfield tag="004">7292163</marc:controlfield>
+        <marc:controlfield tag="005">20130212115342.0</marc:controlfield>
+        <marc:controlfield tag="008">1301290p    8   1001uu   0000000</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.6843</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
