@@ -12,10 +12,10 @@
         <marc:datafield tag="034" ind1="1" ind2=" ">
             <marc:subfield code="a">a</marc:subfield>
             <marc:subfield code="b">200000</marc:subfield>
-            <marc:subfield code="d">E1150000</marc:subfield>
-            <marc:subfield code="e">E1170000</marc:subfield>
-            <marc:subfield code="f">N0390000</marc:subfield>
-            <marc:subfield code="g">N0410000</marc:subfield>
+            <marc:subfield code="d">115.0000</marc:subfield>
+            <marc:subfield code="e">117.0000</marc:subfield>
+            <marc:subfield code="f">41.0000</marc:subfield>
+            <marc:subfield code="g">39.0000</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="041" ind1="0" ind2=" ">
             <marc:subfield code="a">eng</marc:subfield>
@@ -38,7 +38,7 @@
         </marc:datafield>
         <marc:datafield tag="255" ind1=" " ind2=" ">
             <marc:subfield code="a">Scale 1:200,000</marc:subfield>
-            <marc:subfield code="c">(E 115⁰--E 117⁰/N 39⁰--N 41⁰).</marc:subfield>
+            <marc:subfield code="c">(E 115⁰--E 117⁰/N 41⁰--N 39⁰).</marc:subfield>
         </marc:datafield>
         <marc:datafield tag="260" ind1=" " ind2=" ">
             <marc:subfield code="a">[Berlin] :</marc:subfield>
