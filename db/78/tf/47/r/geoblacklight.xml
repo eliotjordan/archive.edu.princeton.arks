@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/db78tf47r</field>
+    <field name="dc_creator_sm">Bew, John,</field>
+    <field name="dc_description_s">An accurate map of Rhode Island, part of Connecticut and Massachusets [sic] : shewing Admiral Arbuthnot's station in blocking up Admiral Ternay</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">db78tf47r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/db78tf47r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fdb%2F78%2Ftf%2F47%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">db78tf47r</field>
+    <field name="layer_slug_s">princeton-db78tf47r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:09Z</field>
+    <field name="dc_title_s">An accurate map of Rhode Island, part of Connecticut and Massachusets [sic] : shewing Admiral Arbuthnot's station in blocking up Admiral Ternay</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Connecticut</field>
+    <field name="dct_spatial_sm">Massachusetts</field>
+    <field name="dct_spatial_sm">Rhode Island</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_temporal_sm">1780</field>
+    <field name="georss_box_s">40.8833333333 -72.9166666667 42.0 -70.5</field>
+    <field name="georss_polygon_s">42.0 -72.9166666667 42.0 -70.5 40.8833333333 -70.5 40.8833333333 -72.9166666667 42.0 -72.9166666667</field>
+    <field name="solr_bbox">-72.9166666667 40.8833333333 -70.5 42.0</field>
+    <field name="solr_ne_pt">42.0,-70.5</field>
+    <field name="solr_sw_pt">40.8833333333,-72.9166666667</field>
+    <field name="solr_geom">ENVELOPE(-72.9166666667, -70.5, 42.0, 40.8833333333)</field>
+    <field name="solr_year_i">1780</field>
+  </doc>
+</add>

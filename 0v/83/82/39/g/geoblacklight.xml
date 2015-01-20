@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/0v838239g</field>
+    <field name="dc_description_s">Misr, miqyas ar-rasm 1:25,000: al-Hammad, lawhat 98/630 = Egypt 1:25,000: El Hammad, sheet 98/630</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">0v838239g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/0v838239g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F0v%2F83%2F82%2F39%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">0v838239g</field>
+    <field name="layer_slug_s">princeton-0v838239g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:39Z</field>
+    <field name="dc_title_s">Misr, miqyas ar-rasm 1:25,000: al-Hammad, lawhat 98/630 = Egypt 1:25,000: El Hammad, sheet 98/630</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Egypt</field>
+    <field name="dct_temporal_sm">1931</field>
+    <field name="georss_box_s">31.51667 31.15000 31.61667 31.31667</field>
+    <field name="georss_polygon_s">31.61667 31.15000 31.61667 31.31667 31.51667 31.31667 31.51667 31.15000 31.61667 31.15000</field>
+    <field name="solr_bbox">31.15000 31.51667 31.31667 31.61667</field>
+    <field name="solr_ne_pt">31.61667,31.31667</field>
+    <field name="solr_sw_pt">31.51667,31.15000</field>
+    <field name="solr_geom">ENVELOPE(31.15000, 31.31667, 31.61667, 31.51667)</field>
+    <field name="solr_year_i">1931</field>
+  </doc>
+</add>

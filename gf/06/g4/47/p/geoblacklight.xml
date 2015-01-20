@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/gf06g447p</field>
+    <field name="dc_creator_sm">Raguin, E.</field>
+    <field name="dc_description_s">Carte geologique detaillee de la France [a 1/80 000]: Beaugency.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">gf06g447p</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/gf06g447p/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fgf%2F06%2Fg4%2F47%2Fp%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">gf06g447p</field>
+    <field name="layer_slug_s">princeton-gf06g447p</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:38Z</field>
+    <field name="dc_title_s">Carte geologique detaillee de la France [a 1/80 000]: Beaugency.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">France</field>
+    <field name="dct_temporal_sm">1950</field>
+    <field name="georss_box_s">47.69860 1.04900 48.05840 1.90780</field>
+    <field name="georss_polygon_s">48.05840 1.04900 48.05840 1.90780 47.69860 1.90780 47.69860 1.04900 48.05840 1.04900</field>
+    <field name="solr_bbox">1.04900 47.69860 1.90780 48.05840</field>
+    <field name="solr_ne_pt">48.05840,1.90780</field>
+    <field name="solr_sw_pt">47.69860,1.04900</field>
+    <field name="solr_geom">ENVELOPE(1.04900, 1.90780, 48.05840, 47.69860)</field>
+    <field name="solr_year_i">1950</field>
+  </doc>
+</add>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sf268755x</field>
+    <field name="dc_creator_sm">Mitchell, S. Augustus</field>
+    <field name="dc_description_s">County map of Utah and Nevada</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sf268755x</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sf268755x/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsf%2F26%2F87%2F55%2Fx%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sf268755x</field>
+    <field name="layer_slug_s">princeton-sf268755x</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:13Z</field>
+    <field name="dc_title_s">County map of Utah and Nevada</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Nevada</field>
+    <field name="dct_spatial_sm">Utah</field>
+    <field name="dct_temporal_sm">1870</field>
+    <field name="georss_box_s">36.0 -120.0 41.0 -109.0</field>
+    <field name="georss_polygon_s">41.0 -120.0 41.0 -109.0 36.0 -109.0 36.0 -120.0 41.0 -120.0</field>
+    <field name="solr_bbox">-120.0 36.0 -109.0 41.0</field>
+    <field name="solr_ne_pt">41.0,-109.0</field>
+    <field name="solr_sw_pt">36.0,-120.0</field>
+    <field name="solr_geom">ENVELOPE(-120.0, -109.0, 41.0, 36.0)</field>
+    <field name="solr_year_i">1870</field>
+  </doc>
+</add>

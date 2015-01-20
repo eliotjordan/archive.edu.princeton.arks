@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8g84mp788</field>
+    <field name="dc_creator_sm">Schenk, Peter,</field>
+    <field name="dc_creator_sm">Valck, G.</field>
+    <field name="dc_description_s">Regnum Moreae accuratissime divisum in Provincias Saccaniam, Tzaconiam, Caliscopium et Ducatum Clarensae, una cum Insulis Cephalonia, Zacyntho, Cythera, Aegina et Sidra</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8g84mp788</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8g84mp788/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F8g%2F84%2Fmp%2F78%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8g84mp788</field>
+    <field name="layer_slug_s">princeton-8g84mp788</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:37Z</field>
+    <field name="dc_title_s">Regnum Moreae accuratissime divisum in Provincias Saccaniam, Tzaconiam, Caliscopium et Ducatum Clarensae, una cum Insulis Cephalonia, Zacyntho, Cythera, Aegina et Sidra</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Peloponnesus (Greece : Peninsula)</field>
+    <field name="dct_temporal_sm">1702</field>
+    <field name="georss_box_s">36.00000 20.00000 38.61667 24.50000</field>
+    <field name="georss_polygon_s">38.61667 20.00000 38.61667 24.50000 36.00000 24.50000 36.00000 20.00000 38.61667 20.00000</field>
+    <field name="solr_bbox">20.00000 36.00000 24.50000 38.61667</field>
+    <field name="solr_ne_pt">38.61667,24.50000</field>
+    <field name="solr_sw_pt">36.00000,20.00000</field>
+    <field name="solr_geom">ENVELOPE(20.00000, 24.50000, 38.61667, 36.00000)</field>
+    <field name="solr_year_i">1702</field>
+  </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/f1881n72h</field>
+    <field name="dc_creator_sm">Peet, Charles E.</field>
+    <field name="dc_creator_sm">Salisbury, Rollin D.</field>
+    <field name="dc_creator_sm">Smock, John Conover</field>
+    <field name="dc_description_s">Map showing the direction of glacial striae on the Palisade Ridge.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">f1881n72h</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/f1881n72h/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ff1%2F88%2F1n%2F72%2Fh%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">f1881n72h</field>
+    <field name="layer_slug_s">princeton-f1881n72h</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:35Z</field>
+    <field name="dc_title_s">Map showing the direction of glacial striae on the Palisade Ridge.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Palisade Ridge (N.J.)</field>
+    <field name="dct_temporal_sm">1893</field>
+    <field name="georss_box_s">40.60000 -74.16667 50.00000 -73.83333</field>
+    <field name="georss_polygon_s">50.00000 -74.16667 50.00000 -73.83333 40.60000 -73.83333 40.60000 -74.16667 50.00000 -74.16667</field>
+    <field name="solr_bbox">-74.16667 40.60000 -73.83333 50.00000</field>
+    <field name="solr_ne_pt">50.00000,-73.83333</field>
+    <field name="solr_sw_pt">40.60000,-74.16667</field>
+    <field name="solr_geom">ENVELOPE(-74.16667, -73.83333, 50.00000, 40.60000)</field>
+    <field name="solr_year_i">1893</field>
+  </doc>
+</add>

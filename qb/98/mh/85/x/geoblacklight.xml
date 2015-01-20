@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qb98mh85x</field>
+    <field name="dc_creator_sm">Vandermaelen, Philippe,</field>
+    <field name="dc_description_s">Partie du Bas Canada</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qb98mh85x</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qb98mh85x/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqb%2F98%2Fmh%2F85%2Fx%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qb98mh85x</field>
+    <field name="layer_slug_s">princeton-qb98mh85x</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:02Z</field>
+    <field name="dc_title_s">Partie du Bas Canada</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Newfoundland and Labrador</field>
+    <field name="dct_spatial_sm">Quebec (Province)</field>
+    <field name="dct_temporal_sm">1827</field>
+    <field name="georss_box_s">48.0 -68.6666666667 54.0 -56.6666666667</field>
+    <field name="georss_polygon_s">54.0 -68.6666666667 54.0 -56.6666666667 48.0 -56.6666666667 48.0 -68.6666666667 54.0 -68.6666666667</field>
+    <field name="solr_bbox">-68.6666666667 48.0 -56.6666666667 54.0</field>
+    <field name="solr_ne_pt">54.0,-56.6666666667</field>
+    <field name="solr_sw_pt">48.0,-68.6666666667</field>
+    <field name="solr_geom">ENVELOPE(-68.6666666667, -56.6666666667, 54.0, 48.0)</field>
+    <field name="solr_year_i">1827</field>
+  </doc>
+</add>

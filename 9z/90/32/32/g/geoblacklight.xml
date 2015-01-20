@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9z903232g</field>
+    <field name="dc_creator_sm">Veni︠u︡kov, M.</field>
+    <field name="dc_creator_sm">Michell, J.,</field>
+    <field name="dc_creator_sm">Weller, Edward.</field>
+    <field name="dc_description_s">The Bolor Mountains and upper sources of the Amu Daria explanatory map to article on the Pamir by M. Veniukof /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9z903232g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9z903232g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9z%2F90%2F32%2F32%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9z903232g</field>
+    <field name="layer_slug_s">princeton-9z903232g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:21Z</field>
+    <field name="dc_title_s">The Bolor Mountains and upper sources of the Amu Daria explanatory map to article on the Pamir by M. Veniukof /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Asia, Central</field>
+    <field name="dct_spatial_sm">Afghanistan</field>
+    <field name="dct_spatial_sm">Pakistan</field>
+    <field name="dct_spatial_sm">Tajikistan</field>
+    <field name="dct_spatial_sm">Uzbekistan</field>
+    <field name="dct_spatial_sm">Pamir</field>
+    <field name="dct_spatial_sm">Pamir-Alai Mountains</field>
+    <field name="dct_spatial_sm">Amu Darya.</field>
+    <field name="dct_spatial_sm">Syr Darya.</field>
+    <field name="dct_temporal_sm">1866</field>
+    <field name="georss_box_s">35.00000 67.33333 42.25000 76.25000</field>
+    <field name="georss_polygon_s">42.25000 67.33333 42.25000 76.25000 35.00000 76.25000 35.00000 67.33333 42.25000 67.33333</field>
+    <field name="solr_bbox">67.33333 35.00000 76.25000 42.25000</field>
+    <field name="solr_ne_pt">42.25000,76.25000</field>
+    <field name="solr_sw_pt">35.00000,67.33333</field>
+    <field name="solr_geom">ENVELOPE(67.33333, 76.25000, 42.25000, 35.00000)</field>
+    <field name="solr_year_i">1866</field>
+  </doc>
+</add>

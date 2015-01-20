@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/w0892c757</field>
+    <field name="dc_creator_sm">Bartholomew, John George.</field>
+    <field name="dc_description_s">Plan of the County of the City of Glasgow: constructed for the Post Office Directory</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">w0892c757</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/w0892c757/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fw0%2F89%2F2c%2F75%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">w0892c757</field>
+    <field name="layer_slug_s">princeton-w0892c757</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:36Z</field>
+    <field name="dc_title_s">Plan of the County of the City of Glasgow: constructed for the Post Office Directory</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Scotland</field>
+    <field name="dct_temporal_sm">1934</field>
+    <field name="georss_box_s">55.81667 -4.35000 55.90000 -4.16667</field>
+    <field name="georss_polygon_s">55.90000 -4.35000 55.90000 -4.16667 55.81667 -4.16667 55.81667 -4.35000 55.90000 -4.35000</field>
+    <field name="solr_bbox">-4.35000 55.81667 -4.16667 55.90000</field>
+    <field name="solr_ne_pt">55.90000,-4.16667</field>
+    <field name="solr_sw_pt">55.81667,-4.35000</field>
+    <field name="solr_geom">ENVELOPE(-4.35000, -4.16667, 55.90000, 55.81667)</field>
+    <field name="solr_year_i">1934</field>
+  </doc>
+</add>

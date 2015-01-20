@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/j96023105</field>
+    <field name="dc_creator_sm">Morse, Hazen,</field>
+    <field name="dc_creator_sm">Cummings, J. A.</field>
+    <field name="dc_creator_sm">Hansell, Nils,</field>
+    <field name="dc_description_s">Britain, or the United Kingdom of England, Scotland and Ireland</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">j96023105</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/j96023105/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9%2F60%2F23%2F10%2F5%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">j96023105</field>
+    <field name="layer_slug_s">princeton-j96023105</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:26Z</field>
+    <field name="dc_title_s">Britain, or the United Kingdom of England, Scotland and Ireland</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Great Britain</field>
+    <field name="dct_temporal_sm">1821</field>
+    <field name="georss_box_s">49.0 -11.0 61.0 2.0</field>
+    <field name="georss_polygon_s">61.0 -11.0 61.0 2.0 49.0 2.0 49.0 -11.0 61.0 -11.0</field>
+    <field name="solr_bbox">-11.0 49.0 2.0 61.0</field>
+    <field name="solr_ne_pt">61.0,2.0</field>
+    <field name="solr_sw_pt">49.0,-11.0</field>
+    <field name="solr_geom">ENVELOPE(-11.0, 2.0, 61.0, 49.0)</field>
+    <field name="solr_year_i">1821</field>
+  </doc>
+</add>

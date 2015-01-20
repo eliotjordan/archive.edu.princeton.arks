@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/7s75df899</field>
+    <field name="dc_creator_sm">Macomb, J. N.</field>
+    <field name="dc_creator_sm">Woodruff, I. C.</field>
+    <field name="dc_creator_sm">Gunnison, J. W.</field>
+    <field name="dc_creator_sm">Kearney, James,</field>
+    <field name="dc_creator_sm">Lee, Thomas Jefferson,</field>
+    <field name="dc_creator_sm">Lambert, John.</field>
+    <field name="dc_creator_sm">Dougal, William H.,</field>
+    <field name="dc_creator_sm">Throop, John Peter Van Ness,</field>
+    <field name="dc_description_s">Kelley's and Bass Islands showing the harbors of refuge in their vicinity, being an extract from the survey of the west end of Lake Erie made under the direction of the Bureau of Topographical Engineers, War Department in obedience to acts of Congress requiring the survey of the northern and northwestern lakes /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">7s75df899</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/7s75df899/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F7s%2F75%2Fdf%2F89%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">7s75df899</field>
+    <field name="layer_slug_s">princeton-7s75df899</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:36Z</field>
+    <field name="dc_title_s">Kelley's and Bass Islands showing the harbors of refuge in their vicinity, being an extract from the survey of the west end of Lake Erie made under the direction of the Bureau of Topographical Engineers, War Department in obedience to acts of Congress requiring the survey of the northern and northwestern lakes /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Bass Islands (Ohio)</field>
+    <field name="dct_spatial_sm">Erie, Lake</field>
+    <field name="dct_spatial_sm">Kelleys Island (Ohio)</field>
+    <field name="dct_temporal_sm">1852</field>
+    <field name="georss_box_s">41.5333333333 -82.9166666667 41.75 -82.55</field>
+    <field name="georss_polygon_s">41.75 -82.9166666667 41.75 -82.55 41.5333333333 -82.55 41.5333333333 -82.9166666667 41.75 -82.9166666667</field>
+    <field name="solr_bbox">-82.9166666667 41.5333333333 -82.55 41.75</field>
+    <field name="solr_ne_pt">41.75,-82.55</field>
+    <field name="solr_sw_pt">41.5333333333,-82.9166666667</field>
+    <field name="solr_geom">ENVELOPE(-82.9166666667, -82.55, 41.75, 41.5333333333)</field>
+    <field name="solr_year_i">1852</field>
+  </doc>
+</add>

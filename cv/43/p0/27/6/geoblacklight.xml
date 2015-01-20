@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/cv43p0276</field>
+    <field name="dc_description_s">Spain and Portugal</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">cv43p0276</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/cv43p0276/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fcv%2F43%2Fp0%2F27%2F6%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">cv43p0276</field>
+    <field name="layer_slug_s">princeton-cv43p0276</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:17Z</field>
+    <field name="dc_title_s">Spain and Portugal</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Iberian Peninsula</field>
+    <field name="dct_spatial_sm">Portugal</field>
+    <field name="dct_spatial_sm">Spain</field>
+    <field name="dct_temporal_sm">1914</field>
+    <field name="georss_box_s">36.0 -10.0 44.0 4.0</field>
+    <field name="georss_polygon_s">44.0 -10.0 44.0 4.0 36.0 4.0 36.0 -10.0 44.0 -10.0</field>
+    <field name="solr_bbox">-10.0 36.0 4.0 44.0</field>
+    <field name="solr_ne_pt">44.0,4.0</field>
+    <field name="solr_sw_pt">36.0,-10.0</field>
+    <field name="solr_geom">ENVELOPE(-10.0, 4.0, 44.0, 36.0)</field>
+    <field name="solr_year_i">1914</field>
+  </doc>
+</add>

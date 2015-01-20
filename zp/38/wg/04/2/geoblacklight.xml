@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/zp38wg042</field>
+    <field name="dc_creator_sm">Folger, Timothy.</field>
+    <field name="dc_creator_sm">Franklin, Benjamin,</field>
+    <field name="dc_description_s">Remarques sur la navigation de terre-neuve à New-York afin d'eviter les courrants et les bas-fonds au sud de Nantuckett et du Banc de George</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">zp38wg042</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/zp38wg042/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fzp%2F38%2Fwg%2F04%2F2%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">zp38wg042</field>
+    <field name="layer_slug_s">princeton-zp38wg042</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:04Z</field>
+    <field name="dc_title_s">Remarques sur la navigation de terre-neuve à New-York afin d'eviter les courrants et les bas-fonds au sud de Nantuckett et du Banc de George</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Atlantic Coast (North America)</field>
+    <field name="dct_spatial_sm">Gulf Stream</field>
+    <field name="dct_temporal_sm">1785</field>
+    <field name="georss_box_s">23.75 -79.0 55.25 -30.0</field>
+    <field name="georss_polygon_s">55.25 -79.0 55.25 -30.0 23.75 -30.0 23.75 -79.0 55.25 -79.0</field>
+    <field name="solr_bbox">-79.0 23.75 -30.0 55.25</field>
+    <field name="solr_ne_pt">55.25,-30.0</field>
+    <field name="solr_sw_pt">23.75,-79.0</field>
+    <field name="solr_geom">ENVELOPE(-79.0, -30.0, 55.25, 23.75)</field>
+    <field name="solr_year_i">1785</field>
+  </doc>
+</add>

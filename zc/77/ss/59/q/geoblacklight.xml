@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/zc77ss59q</field>
+    <field name="dc_description_s">Carte génerale des Iles Britanniques</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">zc77ss59q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/zc77ss59q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fzc%2F77%2Fss%2F59%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">zc77ss59q</field>
+    <field name="layer_slug_s">princeton-zc77ss59q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:27Z</field>
+    <field name="dc_title_s">Carte génerale des Iles Britanniques</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">British Isles</field>
+    <field name="dct_temporal_sm">1820</field>
+    <field name="georss_box_s">48.5 -13.0 60.0 -0.5</field>
+    <field name="georss_polygon_s">60.0 -13.0 60.0 -0.5 48.5 -0.5 48.5 -13.0 60.0 -13.0</field>
+    <field name="solr_bbox">-13.0 48.5 -0.5 60.0</field>
+    <field name="solr_ne_pt">60.0,-0.5</field>
+    <field name="solr_sw_pt">48.5,-13.0</field>
+    <field name="solr_geom">ENVELOPE(-13.0, -0.5, 60.0, 48.5)</field>
+    <field name="solr_year_i">1820</field>
+  </doc>
+</add>

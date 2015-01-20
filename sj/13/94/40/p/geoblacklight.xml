@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sj139440p</field>
+    <field name="dc_creator_sm">Hebert, L.</field>
+    <field name="dc_creator_sm">Neele, Samuel John,</field>
+    <field name="dc_creator_sm">Pinkerton, John,</field>
+    <field name="dc_description_s">Peru</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sj139440p</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sj139440p/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsj%2F13%2F94%2F40%2Fp%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sj139440p</field>
+    <field name="layer_slug_s">princeton-sj139440p</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:11Z</field>
+    <field name="dc_title_s">Peru</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Peru</field>
+    <field name="dct_temporal_sm">1818</field>
+    <field name="georss_box_s">-16.3333333333 -81.6666666667 -2.0 -62.3333333333</field>
+    <field name="georss_polygon_s">-2.0 -81.6666666667 -2.0 -62.3333333333 -16.3333333333 -62.3333333333 -16.3333333333 -81.6666666667 -2.0 -81.6666666667</field>
+    <field name="solr_bbox">-81.6666666667 -16.3333333333 -62.3333333333 -2.0</field>
+    <field name="solr_ne_pt">-2.0,-62.3333333333</field>
+    <field name="solr_sw_pt">-16.3333333333,-81.6666666667</field>
+    <field name="solr_geom">ENVELOPE(-81.6666666667, -62.3333333333, -2.0, -16.3333333333)</field>
+    <field name="solr_year_i">1818</field>
+  </doc>
+</add>

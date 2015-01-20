@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/n870zt298</field>
+    <field name="dc_creator_sm">Weller, Edward,</field>
+    <field name="dc_description_s">Map illustrating M. du Chaillu's routes in Equatorial Africa in 1864 &amp; -65</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">n870zt298</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/n870zt298/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fn8%2F70%2Fzt%2F29%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">n870zt298</field>
+    <field name="layer_slug_s">princeton-n870zt298</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:22Z</field>
+    <field name="dc_title_s">Map illustrating M. du Chaillu's routes in Equatorial Africa in 1864 &amp; -65</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">French Equatorial Africa</field>
+    <field name="dct_temporal_sm">1866</field>
+    <field name="georss_box_s">-2.11667 9.00000 0.83333 13.00000</field>
+    <field name="georss_polygon_s">0.83333 9.00000 0.83333 13.00000 -2.11667 13.00000 -2.11667 9.00000 0.83333 9.00000</field>
+    <field name="solr_bbox">9.00000 -2.11667 13.00000 0.83333</field>
+    <field name="solr_ne_pt">0.83333,13.00000</field>
+    <field name="solr_sw_pt">-2.11667,9.00000</field>
+    <field name="solr_geom">ENVELOPE(9.00000, 13.00000, 0.83333, -2.11667)</field>
+    <field name="solr_year_i">1866</field>
+  </doc>
+</add>

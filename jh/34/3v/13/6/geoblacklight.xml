@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/jh343v136</field>
+    <field name="dc_creator_sm">Sigmond, Ellen M. O.</field>
+    <field name="dc_creator_sm">Gjelle, Svein.</field>
+    <field name="dc_creator_sm">Marker, Mogens.</field>
+    <field name="dc_creator_sm">Rindstad, Bjor Ivar.</field>
+    <field name="dc_creator_sm">Herrevold, Tore.</field>
+    <field name="dc_description_s">Geological map, land and sea areas of northern Europe</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">jh343v136</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/jh343v136/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fh%2F34%2F3v%2F13%2F6%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">jh343v136</field>
+    <field name="layer_slug_s">princeton-jh343v136</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:43Z</field>
+    <field name="dc_title_s">Geological map, land and sea areas of northern Europe</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Europe, Northern</field>
+    <field name="dct_temporal_sm">2002</field>
+    <field name="georss_box_s">47.00000 -39.00000 82.50000 75.00000</field>
+    <field name="georss_polygon_s">82.50000 -39.00000 82.50000 75.00000 47.00000 75.00000 47.00000 -39.00000 82.50000 -39.00000</field>
+    <field name="solr_bbox">-39.00000 47.00000 75.00000 82.50000</field>
+    <field name="solr_ne_pt">82.50000,75.00000</field>
+    <field name="solr_sw_pt">47.00000,-39.00000</field>
+    <field name="solr_geom">ENVELOPE(-39.00000, 75.00000, 82.50000, 47.00000)</field>
+    <field name="solr_year_i">2002</field>
+  </doc>
+</add>
