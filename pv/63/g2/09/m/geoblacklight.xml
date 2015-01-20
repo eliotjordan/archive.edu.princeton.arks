@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pv63g209m</field>
+    <field name="dc_description_s">A new &amp; accurate map of the North Pole, with all the countries hitherto discovered situated near or adjacent to it as well as some others more remote : drawn from the latest and best authorities and regulated by astronom[ica]l observat[io]ns /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pv63g209m</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/pv63g209m/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpv%2F63%2Fg2%2F09%2Fm%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">pv63g209m</field>
+    <field name="layer_slug_s">princeton-pv63g209m</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:45Z</field>
+    <field name="dc_title_s">A new &amp; accurate map of the North Pole, with all the countries hitherto discovered situated near or adjacent to it as well as some others more remote : drawn from the latest and best authorities and regulated by astronom[ica]l observat[io]ns /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">North Pole</field>
+    <field name="dct_spatial_sm">Northern Hemisphere</field>
+    <field name="dct_spatial_sm">Arctic regions</field>
+    <field name="dct_spatial_sm">Northwest Passage</field>
+    <field name="dct_temporal_sm">1747</field>
+    <field name="georss_box_s">50.0 -180.0 90.0 180.0</field>
+    <field name="georss_polygon_s">90.0 -180.0 90.0 180.0 50.0 180.0 50.0 -180.0 90.0 -180.0</field>
+    <field name="solr_bbox">-180.0 50.0 180.0 90.0</field>
+    <field name="solr_ne_pt">90.0,180.0</field>
+    <field name="solr_sw_pt">50.0,-180.0</field>
+    <field name="solr_geom">ENVELOPE(-180.0, 180.0, 90.0, 50.0)</field>
+    <field name="solr_year_i">1747</field>
+  </doc>
+</add>

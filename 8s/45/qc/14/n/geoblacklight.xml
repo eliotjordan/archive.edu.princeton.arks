@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8s45qc14n</field>
+    <field name="dc_creator_sm">Mitchell, John,</field>
+    <field name="dc_description_s">La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8s45qc14n</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8s45qc14n/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F8s%2F45%2Fqc%2F14%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8s45qc14n</field>
+    <field name="layer_slug_s">princeton-8s45qc14n</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:01Z</field>
+    <field name="dc_title_s">La Pensilvania, la Nuova York, il Jersey Settentrio[na]le : con la parte occidentale del Connecticut, Massachusset-s-bay e l'Irochesia</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Northeastern States</field>
+    <field name="dct_temporal_sm">1778</field>
+    <field name="georss_box_s">40.25 -83.5 45.75 -72.5</field>
+    <field name="georss_polygon_s">45.75 -83.5 45.75 -72.5 40.25 -72.5 40.25 -83.5 45.75 -83.5</field>
+    <field name="solr_bbox">-83.5 40.25 -72.5 45.75</field>
+    <field name="solr_ne_pt">45.75,-72.5</field>
+    <field name="solr_sw_pt">40.25,-83.5</field>
+    <field name="solr_geom">ENVELOPE(-83.5, -72.5, 45.75, 40.25)</field>
+    <field name="solr_year_i">1778</field>
+  </doc>
+</add>

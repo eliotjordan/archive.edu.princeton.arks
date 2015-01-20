@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/wp988n35h</field>
+    <field name="dc_creator_sm">Bew, John,</field>
+    <field name="dc_description_s">A new and accurate map of the province of New York and part of the Jerseys, New England and Canada shewing the scenes of our military operations during the present war : also the new erected state of Vermont /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">wp988n35h</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/wp988n35h/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fwp%2F98%2F8n%2F35%2Fh%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">wp988n35h</field>
+    <field name="layer_slug_s">princeton-wp988n35h</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:42Z</field>
+    <field name="dc_title_s">A new and accurate map of the province of New York and part of the Jerseys, New England and Canada shewing the scenes of our military operations during the present war : also the new erected state of Vermont /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Northeastern States</field>
+    <field name="dct_temporal_sm">1780</field>
+    <field name="georss_box_s">40.3333333333 -77.0 45.5 -72.3333333333</field>
+    <field name="georss_polygon_s">45.5 -77.0 45.5 -72.3333333333 40.3333333333 -72.3333333333 40.3333333333 -77.0 45.5 -77.0</field>
+    <field name="solr_bbox">-77.0 40.3333333333 -72.3333333333 45.5</field>
+    <field name="solr_ne_pt">45.5,-72.3333333333</field>
+    <field name="solr_sw_pt">40.3333333333,-77.0</field>
+    <field name="solr_geom">ENVELOPE(-77.0, -72.3333333333, 45.5, 40.3333333333)</field>
+    <field name="solr_year_i">1780</field>
+  </doc>
+</add>

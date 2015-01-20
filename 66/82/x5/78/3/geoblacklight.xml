@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/6682x5783</field>
+    <field name="dc_creator_sm">Grikurov, Garik Eduardovich.</field>
+    <field name="dc_creator_sm">Segoufin, Jacques.</field>
+    <field name="dc_creator_sm">Munschy, M.</field>
+    <field name="dc_creator_sm">Bouysse, Philippe.</field>
+    <field name="dc_creator_sm">Mendel, Veronique.</field>
+    <field name="dc_description_s">Map of the Indian Ocean - structural map (sheet 2) = Carte de l'océan Indien - carte structurale (feuille 2)</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">6682x5783</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/6682x5783/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F66%2F82%2Fx5%2F78%2F3%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">6682x5783</field>
+    <field name="layer_slug_s">princeton-6682x5783</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:43Z</field>
+    <field name="dc_title_s">Map of the Indian Ocean - structural map (sheet 2) = Carte de l'océan Indien - carte structurale (feuille 2)</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Indian Ocean</field>
+    <field name="dct_temporal_sm">2004</field>
+    <field name="georss_box_s">-71.25000 0.00000 30.00000 155.00000</field>
+    <field name="georss_polygon_s">30.00000 0.00000 30.00000 155.00000 -71.25000 155.00000 -71.25000 0.00000 30.00000 0.00000</field>
+    <field name="solr_bbox">0.00000 -71.25000 155.00000 30.00000</field>
+    <field name="solr_ne_pt">30.00000,155.00000</field>
+    <field name="solr_sw_pt">-71.25000,0.00000</field>
+    <field name="solr_geom">ENVELOPE(0.00000, 155.00000, 30.00000, -71.25000)</field>
+    <field name="solr_year_i">2004</field>
+  </doc>
+</add>

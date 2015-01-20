@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/h128nh23j</field>
+    <field name="dc_creator_sm">Bache, A. D.</field>
+    <field name="dc_creator_sm">Hassler, F. R.</field>
+    <field name="dc_creator_sm">Farley, J.</field>
+    <field name="dc_creator_sm">Fairfax, Wilson M. C.</field>
+    <field name="dc_creator_sm">Mahon, Charles.</field>
+    <field name="dc_creator_sm">Ricketts, James J.</field>
+    <field name="dc_creator_sm">Lawson, Oscar A.,</field>
+    <field name="dc_creator_sm">Dankworth, Frederick,</field>
+    <field name="dc_creator_sm">Lawson, Oscar A.,</field>
+    <field name="dc_creator_sm">Smith, W.</field>
+    <field name="dc_creator_sm">McCoy, G.</field>
+    <field name="dc_creator_sm">Mathiot, G.</field>
+    <field name="dc_description_s">General chart of the coast from Gay Head to Cape Henlopen</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">h128nh23j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/h128nh23j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fh1%2F28%2Fnh%2F23%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">h128nh23j</field>
+    <field name="layer_slug_s">princeton-h128nh23j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:40Z</field>
+    <field name="dc_title_s">General chart of the coast from Gay Head to Cape Henlopen</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Atlantic Coast (U.S.)</field>
+    <field name="dct_temporal_sm">1852</field>
+    <field name="georss_box_s">38.44000 -75.13000 41.30000 70.40000</field>
+    <field name="georss_polygon_s">41.30000 -75.13000 41.30000 70.40000 38.44000 70.40000 38.44000 -75.13000 41.30000 -75.13000</field>
+    <field name="solr_bbox">-75.13000 38.44000 70.40000 41.30000</field>
+    <field name="solr_ne_pt">41.30000,70.40000</field>
+    <field name="solr_sw_pt">38.44000,-75.13000</field>
+    <field name="solr_geom">ENVELOPE(-75.13000, 70.40000, 41.30000, 38.44000)</field>
+    <field name="solr_year_i">1852</field>
+  </doc>
+</add>

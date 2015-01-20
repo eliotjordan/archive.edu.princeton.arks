@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/df65vb35z</field>
+    <field name="dc_creator_sm">Jansson, Jan,</field>
+    <field name="dc_description_s">Orbis terrarum descriptio duobis planis hemisphæriis comprehesa</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">df65vb35z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/df65vb35z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fdf%2F65%2Fvb%2F35%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">df65vb35z</field>
+    <field name="layer_slug_s">princeton-df65vb35z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:33Z</field>
+    <field name="dc_title_s">Orbis terrarum descriptio duobis planis hemisphæriis comprehesa</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_temporal_sm">1618</field>
+    <field name="georss_box_s">-90.0 -180.0 90.0 180.0</field>
+    <field name="georss_polygon_s">90.0 -180.0 90.0 180.0 -90.0 180.0 -90.0 -180.0 90.0 -180.0</field>
+    <field name="solr_bbox">-180.0 -90.0 180.0 90.0</field>
+    <field name="solr_ne_pt">90.0,180.0</field>
+    <field name="solr_sw_pt">-90.0,-180.0</field>
+    <field name="solr_geom">ENVELOPE(-180.0, 180.0, 90.0, -90.0)</field>
+    <field name="solr_year_i">1618</field>
+  </doc>
+</add>

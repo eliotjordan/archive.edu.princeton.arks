@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/0r9675658</field>
+    <field name="dc_creator_sm">Mol, P.</field>
+    <field name="dc_creator_sm">Fox, N. B.,</field>
+    <field name="dc_creator_sm">Kalm, Pehr,</field>
+    <field name="dc_description_s">Nieuwe en nauwkeurige kaart van een gedeelte van Noord Amerika : behelzende Nieuw Engeland, New York, Pensylvania, New Jersey, Connecticut, Rhode Island, een stuk van Virginia, Kanada en Halifax, ter opheldering der reizen van den Heer P. Kalm</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">0r9675658</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/0r9675658/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F0r%2F96%2F75%2F65%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">0r9675658</field>
+    <field name="layer_slug_s">princeton-0r9675658</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:55Z</field>
+    <field name="dc_title_s">Nieuwe en nauwkeurige kaart van een gedeelte van Noord Amerika : behelzende Nieuw Engeland, New York, Pensylvania, New Jersey, Connecticut, Rhode Island, een stuk van Virginia, Kanada en Halifax, ter opheldering der reizen van den Heer P. Kalm</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Northeastern States</field>
+    <field name="dct_temporal_sm">1772</field>
+    <field name="georss_box_s">37.0 -88.0 48.0 -66.0</field>
+    <field name="georss_polygon_s">48.0 -88.0 48.0 -66.0 37.0 -66.0 37.0 -88.0 48.0 -88.0</field>
+    <field name="solr_bbox">-88.0 37.0 -66.0 48.0</field>
+    <field name="solr_ne_pt">48.0,-66.0</field>
+    <field name="solr_sw_pt">37.0,-88.0</field>
+    <field name="solr_geom">ENVELOPE(-88.0, -66.0, 48.0, 37.0)</field>
+    <field name="solr_year_i">1772</field>
+  </doc>
+</add>

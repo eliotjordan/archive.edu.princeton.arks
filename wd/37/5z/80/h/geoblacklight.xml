@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/wd375z80h</field>
+    <field name="dc_creator_sm">Woodruff, I. C.</field>
+    <field name="dc_creator_sm">Gunnison, J. W.</field>
+    <field name="dc_creator_sm">Kearney, James,</field>
+    <field name="dc_creator_sm">Lambert, John.</field>
+    <field name="dc_creator_sm">Smith, W.</field>
+    <field name="dc_creator_sm">Lee, Thomas Jefferson,</field>
+    <field name="dc_description_s">West end of Lake Erie and Detroit River from surveys under the direction of the Topographical Bureau of the War Department, in obedience to Acts of Congress requiring the Survey of the Northern and North Western Lakes /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">wd375z80h</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/wd375z80h/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fwd%2F37%2F5z%2F80%2Fh%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">wd375z80h</field>
+    <field name="layer_slug_s">princeton-wd375z80h</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:36Z</field>
+    <field name="dc_title_s">West end of Lake Erie and Detroit River from surveys under the direction of the Topographical Bureau of the War Department, in obedience to Acts of Congress requiring the Survey of the Northern and North Western Lakes /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Erie, Lake</field>
+    <field name="dct_spatial_sm">Detroit River (Mich. and Ont.)</field>
+    <field name="dct_temporal_sm">1852</field>
+    <field name="georss_box_s">41.3833333333 -83.4833333333 42.3666666667 -82.4666666667</field>
+    <field name="georss_polygon_s">42.3666666667 -83.4833333333 42.3666666667 -82.4666666667 41.3833333333 -82.4666666667 41.3833333333 -83.4833333333 42.3666666667 -83.4833333333</field>
+    <field name="solr_bbox">-83.4833333333 41.3833333333 -82.4666666667 42.3666666667</field>
+    <field name="solr_ne_pt">42.3666666667,-82.4666666667</field>
+    <field name="solr_sw_pt">41.3833333333,-83.4833333333</field>
+    <field name="solr_geom">ENVELOPE(-83.4833333333, -82.4666666667, 42.3666666667, 41.3833333333)</field>
+    <field name="solr_year_i">1852</field>
+  </doc>
+</add>

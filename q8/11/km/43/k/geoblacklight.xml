@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/q811km43k</field>
+    <field name="dc_creator_sm">Goguel, Jean</field>
+    <field name="dc_description_s">Carte geologique detaillee de la France [a 1/80 000]: Boulogne-Calais.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">q811km43k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/q811km43k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fq8%2F11%2Fkm%2F43%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">q811km43k</field>
+    <field name="layer_slug_s">princeton-q811km43k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:36Z</field>
+    <field name="dc_title_s">Carte geologique detaillee de la France [a 1/80 000]: Boulogne-Calais.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">France</field>
+    <field name="dct_temporal_sm">1964</field>
+    <field name="georss_box_s">50.57660 1.26620 51.03540 1.88170</field>
+    <field name="georss_polygon_s">51.03540 1.26620 51.03540 1.88170 50.57660 1.88170 50.57660 1.26620 51.03540 1.26620</field>
+    <field name="solr_bbox">1.26620 50.57660 1.88170 51.03540</field>
+    <field name="solr_ne_pt">51.03540,1.88170</field>
+    <field name="solr_sw_pt">50.57660,1.26620</field>
+    <field name="solr_geom">ENVELOPE(1.26620, 1.88170, 51.03540, 50.57660)</field>
+    <field name="solr_year_i">1964</field>
+  </doc>
+</add>

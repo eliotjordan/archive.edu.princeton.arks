@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/d504rn77w</field>
+    <field name="dc_description_s">[Gold mining claims of Cripple Creek Mining District, Colorado, May 1896]</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">d504rn77w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/d504rn77w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fd5%2F04%2Frn%2F77%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">d504rn77w</field>
+    <field name="layer_slug_s">princeton-d504rn77w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:12Z</field>
+    <field name="dc_title_s">[Gold mining claims of Cripple Creek Mining District, Colorado, May 1896]</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Arequa (Colo.)</field>
+    <field name="dct_spatial_sm">Cripple Creek (Colo.)</field>
+    <field name="dct_spatial_sm">Cripple Creek Mining District (Colo.)</field>
+    <field name="dct_spatial_sm">Teller County (Colo.)</field>
+    <field name="dct_spatial_sm">Victor (Colo.)</field>
+    <field name="dct_temporal_sm">1895</field>
+    <field name="georss_box_s">38.7 -105.183333333 38.7666666667 -105.116666667</field>
+    <field name="georss_polygon_s">38.7666666667 -105.183333333 38.7666666667 -105.116666667 38.7 -105.116666667 38.7 -105.183333333 38.7666666667 -105.183333333</field>
+    <field name="solr_bbox">-105.183333333 38.7 -105.116666667 38.7666666667</field>
+    <field name="solr_ne_pt">38.7666666667,-105.116666667</field>
+    <field name="solr_sw_pt">38.7,-105.183333333</field>
+    <field name="solr_geom">ENVELOPE(-105.183333333, -105.116666667, 38.7666666667, 38.7)</field>
+    <field name="solr_year_i">1895</field>
+  </doc>
+</add>

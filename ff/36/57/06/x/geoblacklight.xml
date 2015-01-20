@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ff365706x</field>
+    <field name="dc_creator_sm">Grandjean, F.</field>
+    <field name="dc_description_s">Carte geologique detaillee de la France [a 1/80 000]: Tours.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ff365706x</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ff365706x/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fff%2F36%2F57%2F06%2Fx%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ff365706x</field>
+    <field name="layer_slug_s">princeton-ff365706x</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:39Z</field>
+    <field name="dc_title_s">Carte geologique detaillee de la France [a 1/80 000]: Tours.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">France</field>
+    <field name="dct_temporal_sm">1940</field>
+    <field name="georss_box_s">47.33270 0.20550 47.69250 1.05790</field>
+    <field name="georss_polygon_s">47.69250 0.20550 47.69250 1.05790 47.33270 1.05790 47.33270 0.20550 47.69250 0.20550</field>
+    <field name="solr_bbox">0.20550 47.33270 1.05790 47.69250</field>
+    <field name="solr_ne_pt">47.69250,1.05790</field>
+    <field name="solr_sw_pt">47.33270,0.20550</field>
+    <field name="solr_geom">ENVELOPE(0.20550, 1.05790, 47.69250, 47.33270)</field>
+    <field name="solr_year_i">1940</field>
+  </doc>
+</add>

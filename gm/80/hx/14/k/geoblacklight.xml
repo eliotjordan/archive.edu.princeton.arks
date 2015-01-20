@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/gm80hx14k</field>
+    <field name="dc_creator_sm">Granjean, F.</field>
+    <field name="dc_description_s">Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">gm80hx14k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/gm80hx14k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fgm%2F80%2Fhx%2F14%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">gm80hx14k</field>
+    <field name="layer_slug_s">princeton-gm80hx14k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:37Z</field>
+    <field name="dc_title_s">Carte geologique detaillee de la France [a 1/80 000]: Bar-Le-Duc.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">France</field>
+    <field name="dct_temporal_sm">1940</field>
+    <field name="georss_box_s">48.75950 4.53000 49.11910 5.40630</field>
+    <field name="georss_polygon_s">49.11910 4.53000 49.11910 5.40630 48.75950 5.40630 48.75950 4.53000 49.11910 4.53000</field>
+    <field name="solr_bbox">4.53000 48.75950 5.40630 49.11910</field>
+    <field name="solr_ne_pt">49.11910,5.40630</field>
+    <field name="solr_sw_pt">48.75950,4.53000</field>
+    <field name="solr_geom">ENVELOPE(4.53000, 5.40630, 49.11910, 48.75950)</field>
+    <field name="solr_year_i">1940</field>
+  </doc>
+</add>

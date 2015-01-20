@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/7p88cj430</field>
+    <field name="dc_creator_sm">Warren, H.</field>
+    <field name="dc_creator_sm">Kernot, J. H.</field>
+    <field name="dc_creator_sm">Martin, Robert Montgomery,</field>
+    <field name="dc_description_s">Asia Minor</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">7p88cj430</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/7p88cj430/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F7p%2F88%2Fcj%2F43%2F0%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">7p88cj430</field>
+    <field name="layer_slug_s">princeton-7p88cj430</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:50Z</field>
+    <field name="dc_title_s">Asia Minor</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Turkey</field>
+    <field name="dct_spatial_sm">Cyprus</field>
+    <field name="dct_temporal_sm">1851</field>
+    <field name="georss_box_s">34.0 25.0 43.0 41.0</field>
+    <field name="georss_polygon_s">43.0 25.0 43.0 41.0 34.0 41.0 34.0 25.0 43.0 25.0</field>
+    <field name="solr_bbox">25.0 34.0 41.0 43.0</field>
+    <field name="solr_ne_pt">43.0,41.0</field>
+    <field name="solr_sw_pt">34.0,25.0</field>
+    <field name="solr_geom">ENVELOPE(25.0, 41.0, 43.0, 34.0)</field>
+    <field name="solr_year_i">1851</field>
+  </doc>
+</add>

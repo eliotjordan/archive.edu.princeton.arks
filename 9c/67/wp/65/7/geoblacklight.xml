@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9c67wp657</field>
+    <field name="dc_creator_sm">Warner, H. G.</field>
+    <field name="dc_creator_sm">England, A. G.</field>
+    <field name="dc_creator_sm">Maltby, C. S.</field>
+    <field name="dc_description_s">Pennsylvania: Allensville Quadrangle</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9c67wp657</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9c67wp657/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9c%2F67%2Fwp%2F65%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9c67wp657</field>
+    <field name="layer_slug_s">princeton-9c67wp657</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:39Z</field>
+    <field name="dc_title_s">Pennsylvania: Allensville Quadrangle</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Allensville (Pa.)</field>
+    <field name="dct_temporal_sm">1938</field>
+    <field name="georss_box_s">40.50000 -78.00000 40.75000 -77.75000</field>
+    <field name="georss_polygon_s">40.75000 -78.00000 40.75000 -77.75000 40.50000 -77.75000 40.50000 -78.00000 40.75000 -78.00000</field>
+    <field name="solr_bbox">-78.00000 40.50000 -77.75000 40.75000</field>
+    <field name="solr_ne_pt">40.75000,-77.75000</field>
+    <field name="solr_sw_pt">40.50000,-78.00000</field>
+    <field name="solr_geom">ENVELOPE(-78.00000, -77.75000, 40.75000, 40.50000)</field>
+    <field name="solr_year_i">1938</field>
+  </doc>
+</add>

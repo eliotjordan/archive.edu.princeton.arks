@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/p8418q68d</field>
+    <field name="dc_description_s">Palatinatus Bavariæ</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">p8418q68d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/p8418q68d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fp8%2F41%2F8q%2F68%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">p8418q68d</field>
+    <field name="layer_slug_s">princeton-p8418q68d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:22Z</field>
+    <field name="dc_title_s">Palatinatus Bavariæ</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Bavaria (Germany)</field>
+    <field name="dct_temporal_sm">1634</field>
+    <field name="georss_box_s">48.6666666667 10.9166666667 49.75 12.75</field>
+    <field name="georss_polygon_s">49.75 10.9166666667 49.75 12.75 48.6666666667 12.75 48.6666666667 10.9166666667 49.75 10.9166666667</field>
+    <field name="solr_bbox">10.9166666667 48.6666666667 12.75 49.75</field>
+    <field name="solr_ne_pt">49.75,12.75</field>
+    <field name="solr_sw_pt">48.6666666667,10.9166666667</field>
+    <field name="solr_geom">ENVELOPE(10.9166666667, 12.75, 49.75, 48.6666666667)</field>
+    <field name="solr_year_i">1634</field>
+  </doc>
+</add>

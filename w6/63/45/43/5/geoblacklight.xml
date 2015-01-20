@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/w66345435</field>
+    <field name="dc_description_s">Poland 1:100,000. Konigsberg, sheet J-15. A.M.S. M651 (G.S.G.S. 4416)</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">w66345435</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/w66345435/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fw6%2F63%2F45%2F43%2F5%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">w66345435</field>
+    <field name="layer_slug_s">princeton-w66345435</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:34Z</field>
+    <field name="dc_title_s">Poland 1:100,000. Konigsberg, sheet J-15. A.M.S. M651 (G.S.G.S. 4416)</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Russia</field>
+    <field name="dct_temporal_sm">1944</field>
+    <field name="georss_box_s">54.25000 20.33333 54.75000 21.33333</field>
+    <field name="georss_polygon_s">54.75000 20.33333 54.75000 21.33333 54.25000 21.33333 54.25000 20.33333 54.75000 20.33333</field>
+    <field name="solr_bbox">20.33333 54.25000 21.33333 54.75000</field>
+    <field name="solr_ne_pt">54.75000,21.33333</field>
+    <field name="solr_sw_pt">54.25000,20.33333</field>
+    <field name="solr_geom">ENVELOPE(20.33333, 21.33333, 54.75000, 54.25000)</field>
+    <field name="solr_year_i">1944</field>
+  </doc>
+</add>

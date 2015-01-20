@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8s45qc25k</field>
+    <field name="dc_creator_sm">Markham, John,</field>
+    <field name="dc_creator_sm">Weller, Edward ,</field>
+    <field name="dc_description_s">Sketch map showing the mineral &amp; silk districts of the Province of Shan-tung (China) to accompany the paper by J. Markham Esqre., H. M. Consul at Chefoo /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8s45qc25k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8s45qc25k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F8s%2F45%2Fqc%2F25%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8s45qc25k</field>
+    <field name="layer_slug_s">princeton-8s45qc25k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:25Z</field>
+    <field name="dc_title_s">Sketch map showing the mineral &amp; silk districts of the Province of Shan-tung (China) to accompany the paper by J. Markham Esqre., H. M. Consul at Chefoo /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Shandong Sheng (China)</field>
+    <field name="dct_temporal_sm">1870</field>
+    <field name="georss_box_s">34.33333 115.00000 38.55000 123.00000</field>
+    <field name="georss_polygon_s">38.55000 115.00000 38.55000 123.00000 34.33333 123.00000 34.33333 115.00000 38.55000 115.00000</field>
+    <field name="solr_bbox">115.00000 34.33333 123.00000 38.55000</field>
+    <field name="solr_ne_pt">38.55000,123.00000</field>
+    <field name="solr_sw_pt">34.33333,115.00000</field>
+    <field name="solr_geom">ENVELOPE(115.00000, 123.00000, 38.55000, 34.33333)</field>
+    <field name="solr_year_i">1870</field>
+  </doc>
+</add>

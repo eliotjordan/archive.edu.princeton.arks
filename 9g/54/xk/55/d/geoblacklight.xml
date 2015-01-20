@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9g54xk55d</field>
+    <field name="dc_creator_sm">Sartine, Antoine de,</field>
+    <field name="dc_creator_sm">Petit,</field>
+    <field name="dc_description_s">Carte réduite des côtes orientales de l'Amérique septentrionale : contenant partie du Nouveau Jersey, la Pen-sylvanie, le Mary-land, la Virginie, la Caroline septentrionale, la Caroline méridionale et la Georgie : assujettie aux observations les plus récentes et aux cartes de détail les plus estimées</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9g54xk55d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9g54xk55d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9g%2F54%2Fxk%2F55%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9g54xk55d</field>
+    <field name="layer_slug_s">princeton-9g54xk55d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:55Z</field>
+    <field name="dc_title_s">Carte réduite des côtes orientales de l'Amérique septentrionale : contenant partie du Nouveau Jersey, la Pen-sylvanie, le Mary-land, la Virginie, la Caroline septentrionale, la Caroline méridionale et la Georgie : assujettie aux observations les plus récentes et aux cartes de détail les plus estimées</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Middle Atlantic States</field>
+    <field name="dct_spatial_sm">South Atlantic States</field>
+    <field name="dct_temporal_sm">1778</field>
+    <field name="georss_box_s">30.25 -92.0 40.0 -74.0</field>
+    <field name="georss_polygon_s">40.0 -92.0 40.0 -74.0 30.25 -74.0 30.25 -92.0 40.0 -92.0</field>
+    <field name="solr_bbox">-92.0 30.25 -74.0 40.0</field>
+    <field name="solr_ne_pt">40.0,-74.0</field>
+    <field name="solr_sw_pt">30.25,-92.0</field>
+    <field name="solr_geom">ENVELOPE(-92.0, -74.0, 40.0, 30.25)</field>
+    <field name="solr_year_i">1778</field>
+  </doc>
+</add>

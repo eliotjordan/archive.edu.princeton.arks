@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/zp38wf48c</field>
+    <field name="dc_description_s">International movement of corn in Europe, 1938</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">zp38wf48c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/zp38wf48c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fzp%2F38%2Fwf%2F48%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">zp38wf48c</field>
+    <field name="layer_slug_s">princeton-zp38wf48c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:50Z</field>
+    <field name="dc_title_s">International movement of corn in Europe, 1938</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Europe</field>
+    <field name="dct_temporal_sm">1942</field>
+    <field name="georss_box_s">33.6833333333 -9.36666666667 58.4666666667 43.4</field>
+    <field name="georss_polygon_s">58.4666666667 -9.36666666667 58.4666666667 43.4 33.6833333333 43.4 33.6833333333 -9.36666666667 58.4666666667 -9.36666666667</field>
+    <field name="solr_bbox">-9.36666666667 33.6833333333 43.4 58.4666666667</field>
+    <field name="solr_ne_pt">58.4666666667,43.4</field>
+    <field name="solr_sw_pt">33.6833333333,-9.36666666667</field>
+    <field name="solr_geom">ENVELOPE(-9.36666666667, 43.4, 58.4666666667, 33.6833333333)</field>
+    <field name="solr_year_i">1942</field>
+  </doc>
+</add>

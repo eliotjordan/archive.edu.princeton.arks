@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ks65hf27w</field>
+    <field name="dc_creator_sm">Emory, William H.</field>
+    <field name="dc_creator_sm">Peck, William G.</field>
+    <field name="dc_creator_sm">Kearny, Stephen Watts,</field>
+    <field name="dc_description_s">Map of the Territory of New Mexico, 1846-7</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ks65hf27w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ks65hf27w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fks%2F65%2Fhf%2F27%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ks65hf27w</field>
+    <field name="layer_slug_s">princeton-ks65hf27w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:36:57Z</field>
+    <field name="dc_title_s">Map of the Territory of New Mexico, 1846-7</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Southwest, New</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_spatial_sm">New Mexico</field>
+    <field name="dct_temporal_sm">1850</field>
+    <field name="georss_box_s">33.3833333333 -107.85 37.0 -104.433333333</field>
+    <field name="georss_polygon_s">37.0 -107.85 37.0 -104.433333333 33.3833333333 -104.433333333 33.3833333333 -107.85 37.0 -107.85</field>
+    <field name="solr_bbox">-107.85 33.3833333333 -104.433333333 37.0</field>
+    <field name="solr_ne_pt">37.0,-104.433333333</field>
+    <field name="solr_sw_pt">33.3833333333,-107.85</field>
+    <field name="solr_geom">ENVELOPE(-107.85, -104.433333333, 37.0, 33.3833333333)</field>
+    <field name="solr_year_i">1850</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/rn301389j</field>
+    <field name="dc_creator_sm">Barnett, E.</field>
+    <field name="dc_creator_sm">Blunt, Edmund M.</field>
+    <field name="dc_creator_sm">Blunt, G. W.</field>
+    <field name="dc_creator_sm">Copley, Charles,</field>
+    <field name="dc_creator_sm">Smith, T.</field>
+    <field name="dc_description_s">The Great Bahama Bank, with its islands, cays and channels</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">rn301389j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/rn301389j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Frn%2F30%2F13%2F89%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">rn301389j</field>
+    <field name="layer_slug_s">princeton-rn301389j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:36Z</field>
+    <field name="dc_title_s">The Great Bahama Bank, with its islands, cays and channels</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Great Bahama Bank (Bahamas)</field>
+    <field name="dct_temporal_sm">1845</field>
+    <field name="georss_box_s">23.0 -79.0 26.0 -77.0</field>
+    <field name="georss_polygon_s">26.0 -79.0 26.0 -77.0 23.0 -77.0 23.0 -79.0 26.0 -79.0</field>
+    <field name="solr_bbox">-79.0 23.0 -77.0 26.0</field>
+    <field name="solr_ne_pt">26.0,-77.0</field>
+    <field name="solr_sw_pt">23.0,-79.0</field>
+    <field name="solr_geom">ENVELOPE(-79.0, -77.0, 26.0, 23.0)</field>
+    <field name="solr_year_i">1845</field>
+  </doc>
+</add>

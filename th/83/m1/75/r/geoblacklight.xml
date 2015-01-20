@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/th83m175r</field>
+    <field name="dc_creator_sm">Smith, W. V.</field>
+    <field name="dc_creator_sm">Johnston, Lewis,</field>
+    <field name="dc_description_s">Map of the Franklin &amp; Robinson, Janet DeKay, Henry Eckford, Mary Clarke &amp; Clement C. Moore estates</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">th83m175r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/th83m175r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fth%2F83%2Fm1%2F75%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">th83m175r</field>
+    <field name="layer_slug_s">princeton-th83m175r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:06Z</field>
+    <field name="dc_title_s">Map of the Franklin &amp; Robinson, Janet DeKay, Henry Eckford, Mary Clarke &amp; Clement C. Moore estates</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Chelsea (Manhattan, New York, N.Y.)</field>
+    <field name="dct_spatial_sm">Midtown Manhattan (New York, N.Y.)</field>
+    <field name="dct_spatial_sm">Midtown South (New York, N.Y.)</field>
+    <field name="dct_temporal_sm">1869</field>
+    <field name="georss_box_s">40.7333333333 -74.0 40.7333333333 -73.9833333333</field>
+    <field name="georss_polygon_s">40.7333333333 -74.0 40.7333333333 -73.9833333333 40.7333333333 -73.9833333333 40.7333333333 -74.0 40.7333333333 -74.0</field>
+    <field name="solr_bbox">-74.0 40.7333333333 -73.9833333333 40.7333333333</field>
+    <field name="solr_ne_pt">40.7333333333,-73.9833333333</field>
+    <field name="solr_sw_pt">40.7333333333,-74.0</field>
+    <field name="solr_geom">ENVELOPE(-74.0, -73.9833333333, 40.7333333333, 40.7333333333)</field>
+    <field name="solr_year_i">1869</field>
+  </doc>
+</add>

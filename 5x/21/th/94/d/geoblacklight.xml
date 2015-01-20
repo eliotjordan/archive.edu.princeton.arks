@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/5x21th94d</field>
+    <field name="dc_creator_sm">Bowles, John,</field>
+    <field name="dc_creator_sm">Bowles, Thomas,</field>
+    <field name="dc_creator_sm">Overton, Philip,</field>
+    <field name="dc_creator_sm">King, John.</field>
+    <field name="dc_creator_sm">Cantelli, Giacomo,</field>
+    <field name="dc_description_s">A new map of Italy distinguishing all the sovereignties in it, whether states, kingdoms, dutchies, principalities, republicks &amp;c. With the post roads, and many remarks not extant in any map. According to ye newest and most exact observations /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">5x21th94d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/5x21th94d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F5x%2F21%2Fth%2F94%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">5x21th94d</field>
+    <field name="layer_slug_s">princeton-5x21th94d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:36Z</field>
+    <field name="dc_title_s">A new map of Italy distinguishing all the sovereignties in it, whether states, kingdoms, dutchies, principalities, republicks &amp;c. With the post roads, and many remarks not extant in any map. According to ye newest and most exact observations /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Italy</field>
+    <field name="dct_spatial_sm">Mediterranean Region</field>
+    <field name="dct_temporal_sm">1730</field>
+    <field name="georss_box_s">37.0 3.0 47.0 23.0</field>
+    <field name="georss_polygon_s">47.0 3.0 47.0 23.0 37.0 23.0 37.0 3.0 47.0 3.0</field>
+    <field name="solr_bbox">3.0 37.0 23.0 47.0</field>
+    <field name="solr_ne_pt">47.0,23.0</field>
+    <field name="solr_sw_pt">37.0,3.0</field>
+    <field name="solr_geom">ENVELOPE(3.0, 23.0, 47.0, 37.0)</field>
+    <field name="solr_year_i">1730</field>
+  </doc>
+</add>

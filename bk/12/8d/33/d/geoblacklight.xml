@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/bk128d33d</field>
+    <field name="dc_creator_sm">Hassler, F. R.</field>
+    <field name="dc_creator_sm">Ferguson, James,</field>
+    <field name="dc_creator_sm">Blunt, Edmund,</field>
+    <field name="dc_creator_sm">Gedney, Thomas R.,</field>
+    <field name="dc_creator_sm">Renard, C.</field>
+    <field name="dc_creator_sm">Jenkins, T. A.</field>
+    <field name="dc_creator_sm">Humphreys, A. A.</field>
+    <field name="dc_creator_sm">Eakin, C. M.</field>
+    <field name="dc_description_s">Map of New-York Bay and Harbor and the environs</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">bk128d33d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/bk128d33d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fk%2F12%2F8d%2F33%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">bk128d33d</field>
+    <field name="layer_slug_s">princeton-bk128d33d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:08Z</field>
+    <field name="dc_title_s">Map of New-York Bay and Harbor and the environs</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New York Harbor (N.Y. and N.J.)</field>
+    <field name="dct_temporal_sm">1844</field>
+    <field name="georss_box_s">40.3166666667 -74.3 40.7666666667 -73.7333333333</field>
+    <field name="georss_polygon_s">40.7666666667 -74.3 40.7666666667 -73.7333333333 40.3166666667 -73.7333333333 40.3166666667 -74.3 40.7666666667 -74.3</field>
+    <field name="solr_bbox">-74.3 40.3166666667 -73.7333333333 40.7666666667</field>
+    <field name="solr_ne_pt">40.7666666667,-73.7333333333</field>
+    <field name="solr_sw_pt">40.3166666667,-74.3</field>
+    <field name="solr_geom">ENVELOPE(-74.3, -73.7333333333, 40.7666666667, 40.3166666667)</field>
+    <field name="solr_year_i">1844</field>
+  </doc>
+</add>

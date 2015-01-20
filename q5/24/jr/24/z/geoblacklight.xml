@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/q524jr24z</field>
+    <field name="dc_creator_sm">Findlay, Alexander George,</field>
+    <field name="dc_creator_sm">Livingstone, David,</field>
+    <field name="dc_creator_sm">Baker, Samuel White,</field>
+    <field name="dc_creator_sm">Speke, John Hanning,</field>
+    <field name="dc_creator_sm">Grant, James Augustus,</field>
+    <field name="dc_creator_sm">Burton, Richard Francis,</field>
+    <field name="dc_description_s">The East African lakes, shewing their relation to the source of the Nile</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">q524jr24z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/q524jr24z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fq5%2F24%2Fjr%2F24%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">q524jr24z</field>
+    <field name="layer_slug_s">princeton-q524jr24z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:21Z</field>
+    <field name="dc_title_s">The East African lakes, shewing their relation to the source of the Nile</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Nile River</field>
+    <field name="dct_spatial_sm">Great Lakes (Africa)</field>
+    <field name="dct_temporal_sm">1868</field>
+    <field name="georss_box_s">-19.40000 25.64286 5.66667 43.00000</field>
+    <field name="georss_polygon_s">5.66667 25.64286 5.66667 43.00000 -19.40000 43.00000 -19.40000 25.64286 5.66667 25.64286</field>
+    <field name="solr_bbox">25.64286 -19.40000 43.00000 5.66667</field>
+    <field name="solr_ne_pt">5.66667,43.00000</field>
+    <field name="solr_sw_pt">-19.40000,25.64286</field>
+    <field name="solr_geom">ENVELOPE(25.64286, 43.00000, 5.66667, -19.40000)</field>
+    <field name="solr_year_i">1868</field>
+  </doc>
+</add>

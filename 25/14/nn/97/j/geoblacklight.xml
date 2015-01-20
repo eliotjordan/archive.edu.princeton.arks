@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2514nn97j</field>
+    <field name="dc_creator_sm">Hinton, John,</field>
+    <field name="dc_description_s">An accurate map of England, Scotland, and Ireland, with all the adjacent islands, from the latest improvements</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2514nn97j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2514nn97j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F25%2F14%2Fnn%2F97%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2514nn97j</field>
+    <field name="layer_slug_s">princeton-2514nn97j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-19T22:37:27Z</field>
+    <field name="dc_title_s">An accurate map of England, Scotland, and Ireland, with all the adjacent islands, from the latest improvements</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Great Britain</field>
+    <field name="dct_spatial_sm">Ireland</field>
+    <field name="dct_temporal_sm">1761</field>
+    <field name="georss_box_s">49.0 -11.0 60.0 2.0</field>
+    <field name="georss_polygon_s">60.0 -11.0 60.0 2.0 49.0 2.0 49.0 -11.0 60.0 -11.0</field>
+    <field name="solr_bbox">-11.0 49.0 2.0 60.0</field>
+    <field name="solr_ne_pt">60.0,2.0</field>
+    <field name="solr_sw_pt">49.0,-11.0</field>
+    <field name="solr_geom">ENVELOPE(-11.0, 2.0, 60.0, 49.0)</field>
+    <field name="solr_year_i">1761</field>
+  </doc>
+</add>
