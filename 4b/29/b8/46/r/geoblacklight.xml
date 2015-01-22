@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/4b29b846r</field>
+    <field name="dc_creator_sm">Seller, John,</field>
+    <field name="dc_creator_sm">Penn, William,</field>
+    <field name="dc_creator_sm">Thornton, John,</field>
+    <field name="dc_description_s">A Map of some of the south and east bounds of Pennsylvania in America, being partly inhabited</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">4b29b846r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/4b29b846r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F4b%2F29%2Fb8%2F46%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">4b29b846r</field>
+    <field name="layer_slug_s">princeton-4b29b846r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:16Z</field>
+    <field name="dc_title_s">A Map of some of the south and east bounds of Pennsylvania in America, being partly inhabited</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Pennsylvania</field>
+    <field name="dct_temporal_sm">1943</field>
+    <field name="georss_box_s">39.7197662 -80.5210832 42.5146891 -74.6895019</field>
+    <field name="georss_polygon_s">42.5146891 -80.5210832 42.5146891 -74.6895019 39.7197662 -74.6895019 39.7197662 -80.5210832 42.5146891 -80.5210832</field>
+    <field name="solr_bbox">-80.5210832 39.7197662 -74.6895019 42.5146891</field>
+    <field name="solr_ne_pt">42.5146891,-74.6895019</field>
+    <field name="solr_sw_pt">39.7197662,-80.5210832</field>
+    <field name="solr_geom">ENVELOPE(-80.5210832, -74.6895019, 42.5146891, 39.7197662)</field>
+    <field name="solr_year_i">1943</field>
+  </doc>
+</add>

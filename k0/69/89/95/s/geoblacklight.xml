@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/k0698995s</field>
+    <field name="dc_creator_sm">Blaeu, Willem Janszoon,</field>
+    <field name="dc_description_s">Venezuela, cum parte australi Novae Andalusiae</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">k0698995s</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/k0698995s/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fk0%2F69%2F89%2F95%2Fs%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">k0698995s</field>
+    <field name="layer_slug_s">princeton-k0698995s</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:06Z</field>
+    <field name="dc_title_s">Venezuela, cum parte australi Novae Andalusiae</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Venezuela</field>
+    <field name="dct_temporal_sm">1635</field>
+    <field name="georss_box_s">0.647529 -73.3529631 15.9158431 -59.5427078</field>
+    <field name="georss_polygon_s">15.9158431 -73.3529631 15.9158431 -59.5427078 0.647529 -59.5427078 0.647529 -73.3529631 15.9158431 -73.3529631</field>
+    <field name="solr_bbox">-73.3529631 0.647529 -59.5427078 15.9158431</field>
+    <field name="solr_ne_pt">15.9158431,-59.5427078</field>
+    <field name="solr_sw_pt">0.647529,-73.3529631</field>
+    <field name="solr_geom">ENVELOPE(-73.3529631, -59.5427078, 15.9158431, 0.647529)</field>
+    <field name="solr_year_i">1635</field>
+  </doc>
+</add>

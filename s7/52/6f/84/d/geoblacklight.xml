@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/s7526f84d</field>
+    <field name="dc_creator_sm">Faden, William,</field>
+    <field name="dc_creator_sm">Fox, N. B.,</field>
+    <field name="dc_description_s">A plan of the operations of the King's army under the command of General Sr. William Howe, K.B. in New York and east New Jersey, against the American forces commanded by General Washington, from the 12th of October, to the 28th of November 1776 : wherein is particularly distinguished the engagement on the White Plains, the 28th of October</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">s7526f84d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/s7526f84d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fs7%2F52%2F6f%2F84%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">s7526f84d</field>
+    <field name="layer_slug_s">princeton-s7526f84d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:02Z</field>
+    <field name="dc_title_s">A plan of the operations of the King's army under the command of General Sr. William Howe, K.B. in New York and east New Jersey, against the American forces commanded by General Washington, from the 12th of October, to the 28th of November 1776 : wherein is particularly distinguished the engagement on the White Plains, the 28th of October</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New York (State)</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_temporal_sm">1777</field>
+    <field name="georss_box_s">40.4913686 -79.7621438 45.015865 -71.8562643</field>
+    <field name="georss_polygon_s">45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438</field>
+    <field name="solr_bbox">-79.7621438 40.4913686 -71.8562643 45.015865</field>
+    <field name="solr_ne_pt">45.015865,-71.8562643</field>
+    <field name="solr_sw_pt">40.4913686,-79.7621438</field>
+    <field name="solr_geom">ENVELOPE(-79.7621438, -71.8562643, 45.015865, 40.4913686)</field>
+    <field name="solr_year_i">1777</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8623j1261</field>
+    <field name="dc_description_s">Ludwigshafen a. Rh.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8623j1261</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8623j1261/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F86%2F23%2Fj1%2F26%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8623j1261</field>
+    <field name="layer_slug_s">princeton-8623j1261</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:27Z</field>
+    <field name="dc_title_s">Ludwigshafen a. Rh.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Ludwigshafen (Germany)</field>
+    <field name="dct_spatial_sm">Rhineland-Palatinate (Germany)</field>
+    <field name="dct_temporal_sm">1914</field>
+    <field name="georss_box_s">49.3192355 8.2791173 49.6392355 8.5991173</field>
+    <field name="georss_polygon_s">49.6392355 8.2791173 49.6392355 8.5991173 49.3192355 8.5991173 49.3192355 8.2791173 49.6392355 8.2791173</field>
+    <field name="solr_bbox">8.2791173 49.3192355 8.5991173 49.6392355</field>
+    <field name="solr_ne_pt">49.6392355,8.5991173</field>
+    <field name="solr_sw_pt">49.3192355,8.2791173</field>
+    <field name="solr_geom">ENVELOPE(8.2791173, 8.5991173, 49.6392355, 49.3192355)</field>
+    <field name="solr_year_i">1914</field>
+  </doc>
+</add>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/dr26z0849</field>
+    <field name="dc_description_s">Les merveilles de Pozzoli ou Pouzzol, Cume et Baia ou Bayes, dans le voisinage de Naples</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">dr26z0849</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/dr26z0849/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fdr%2F26%2Fz0%2F84%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">dr26z0849</field>
+    <field name="layer_slug_s">princeton-dr26z0849</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:06Z</field>
+    <field name="dc_title_s">Les merveilles de Pozzoli ou Pouzzol, Cume et Baia ou Bayes, dans le voisinage de Naples</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Cumae (Extinct city)</field>
+    <field name="dct_spatial_sm">Pozzuoli (Italy)</field>
+    <field name="dct_spatial_sm">Pozzuoli Gulf (Italy)</field>
+    <field name="dct_temporal_sm">1705</field>
+    <field name="georss_box_s">40.8441369 14.0438298 40.8541369 14.0538298</field>
+    <field name="georss_polygon_s">40.8541369 14.0438298 40.8541369 14.0538298 40.8441369 14.0538298 40.8441369 14.0438298 40.8541369 14.0438298</field>
+    <field name="solr_bbox">14.0438298 40.8441369 14.0538298 40.8541369</field>
+    <field name="solr_ne_pt">40.8541369,14.0538298</field>
+    <field name="solr_sw_pt">40.8441369,14.0438298</field>
+    <field name="solr_geom">ENVELOPE(14.0438298, 14.0538298, 40.8541369, 40.8441369)</field>
+    <field name="solr_year_i">1705</field>
+  </doc>
+</add>

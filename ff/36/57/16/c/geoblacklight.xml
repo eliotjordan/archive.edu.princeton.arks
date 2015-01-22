@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ff365716c</field>
+    <field name="dc_description_s">A new and exact map of the dominions of the king of Great Britain on ye continent of North America : containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ff365716c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ff365716c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fff%2F36%2F57%2F16%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ff365716c</field>
+    <field name="layer_slug_s">princeton-ff365716c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:50Z</field>
+    <field name="dc_title_s">A new and exact map of the dominions of the king of Great Britain on ye continent of North America : containing Newfoundland, New Scotland, New England, New York, New Jersey, Pensilvania, Maryland, Virginia and Carolina</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Niagara Falls (N.Y. and Ont.)</field>
+    <field name="dct_spatial_sm">North America</field>
+    <field name="dct_temporal_sm">1715</field>
+    <field name="georss_box_s">43.066956 -79.0753888 43.132414 -78.9418519</field>
+    <field name="georss_polygon_s">43.132414 -79.0753888 43.132414 -78.9418519 43.066956 -78.9418519 43.066956 -79.0753888 43.132414 -79.0753888</field>
+    <field name="solr_bbox">-79.0753888 43.066956 -78.9418519 43.132414</field>
+    <field name="solr_ne_pt">43.132414,-78.9418519</field>
+    <field name="solr_sw_pt">43.066956,-79.0753888</field>
+    <field name="solr_geom">ENVELOPE(-79.0753888, -78.9418519, 43.132414, 43.066956)</field>
+    <field name="solr_year_i">1715</field>
+  </doc>
+</add>

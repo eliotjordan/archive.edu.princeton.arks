@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9306t1745</field>
+    <field name="dc_creator_sm">Coquart, A.</field>
+    <field name="dc_description_s">Plan de Pondichery a la côte de Coromandel : occupé par la Compagnie Royale des Indes Orientales</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9306t1745</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9306t1745/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F93%2F06%2Ft1%2F74%2F5%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9306t1745</field>
+    <field name="layer_slug_s">princeton-9306t1745</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:06Z</field>
+    <field name="dc_title_s">Plan de Pondichery a la côte de Coromandel : occupé par la Compagnie Royale des Indes Orientales</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Pondicherry (India)</field>
+    <field name="dct_temporal_sm">1705</field>
+    <field name="georss_box_s">10.8111054 79.5987316 12.0509816 80.2259883</field>
+    <field name="georss_polygon_s">12.0509816 79.5987316 12.0509816 80.2259883 10.8111054 80.2259883 10.8111054 79.5987316 12.0509816 79.5987316</field>
+    <field name="solr_bbox">79.5987316 10.8111054 80.2259883 12.0509816</field>
+    <field name="solr_ne_pt">12.0509816,80.2259883</field>
+    <field name="solr_sw_pt">10.8111054,79.5987316</field>
+    <field name="solr_geom">ENVELOPE(79.5987316, 80.2259883, 12.0509816, 10.8111054)</field>
+    <field name="solr_year_i">1705</field>
+  </doc>
+</add>

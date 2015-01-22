@@ -1,0 +1,44 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/44558g808</field>
+    <field name="dc_creator_sm">Tindal, N.</field>
+    <field name="dc_creator_sm">Rapin de Thoyras,</field>
+    <field name="dc_description_s">Plans of the principal towns, forts and harbours in Ireland</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">44558g808</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/44558g808/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F44%2F55%2F8g%2F80%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">44558g808</field>
+    <field name="layer_slug_s">princeton-44558g808</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:23Z</field>
+    <field name="dc_title_s">Plans of the principal towns, forts and harbours in Ireland</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Athlone (Ireland)</field>
+    <field name="dct_spatial_sm">Belfast (Northern Ireland)</field>
+    <field name="dct_spatial_sm">Carrickfergus (Northern Ireland)</field>
+    <field name="dct_spatial_sm">Charlemont (Northern Ireland)</field>
+    <field name="dct_spatial_sm">Coleraine (Northern Ireland)</field>
+    <field name="dct_spatial_sm">Cork (Ireland)</field>
+    <field name="dct_spatial_sm">Cork Harbour (Ireland)</field>
+    <field name="dct_spatial_sm">Derry (Northern Ireland)</field>
+    <field name="dct_spatial_sm">Drogheda (Ireland)</field>
+    <field name="dct_spatial_sm">Dublin (Ireland)</field>
+    <field name="dct_spatial_sm">Dungannon (Northern Ireland)</field>
+    <field name="dct_spatial_sm">Galway (Ireland)</field>
+    <field name="dct_spatial_sm">Kilkenny (Ireland)</field>
+    <field name="dct_spatial_sm">Kinsale (Ireland)</field>
+    <field name="dct_spatial_sm">Limerick (Limerick, Ireland)</field>
+    <field name="dct_spatial_sm">Waterford (Ireland)</field>
+    <field name="dct_temporal_sm">1636</field>
+    <field name="georss_box_s">53.3846463 -7.9805485 53.4646463 -7.9005485</field>
+    <field name="georss_polygon_s">53.4646463 -7.9805485 53.4646463 -7.9005485 53.3846463 -7.9005485 53.3846463 -7.9805485 53.4646463 -7.9805485</field>
+    <field name="solr_bbox">-7.9805485 53.3846463 -7.9005485 53.4646463</field>
+    <field name="solr_ne_pt">53.4646463,-7.9005485</field>
+    <field name="solr_sw_pt">53.3846463,-7.9805485</field>
+    <field name="solr_geom">ENVELOPE(-7.9805485, -7.9005485, 53.4646463, 53.3846463)</field>
+    <field name="solr_year_i">1636</field>
+  </doc>
+</add>

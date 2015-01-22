@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ns064841m</field>
+    <field name="dc_creator_sm">Bien, Julius,</field>
+    <field name="dc_creator_sm">Kargé,</field>
+    <field name="dc_description_s">Territory of the United States from the Mississippi River to the Pacific Ocean : originally prepared to accompany the reports of the explorations for a Pacific railroad route : made in accordance with the 10th. and 11th. sections of the Army Appropriation, Act of March 3rd. 1853</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ns064841m</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ns064841m/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fns%2F06%2F48%2F41%2Fm%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ns064841m</field>
+    <field name="layer_slug_s">princeton-ns064841m</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:58Z</field>
+    <field name="dc_title_s">Territory of the United States from the Mississippi River to the Pacific Ocean : originally prepared to accompany the reports of the explorations for a Pacific railroad route : made in accordance with the 10th. and 11th. sections of the Army Appropriation, Act of March 3rd. 1853</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">West (U.S.)</field>
+    <field name="dct_temporal_sm">1868</field>
+    <field name="georss_box_s">25.8371638 -125.2784586 50.3243423493 -103.967023275</field>
+    <field name="georss_polygon_s">50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586</field>
+    <field name="solr_bbox">-125.2784586 25.8371638 -103.967023275 50.3243423493</field>
+    <field name="solr_ne_pt">50.3243423493,-103.967023275</field>
+    <field name="solr_sw_pt">25.8371638,-125.2784586</field>
+    <field name="solr_geom">ENVELOPE(-125.2784586, -103.967023275, 50.3243423493, 25.8371638)</field>
+    <field name="solr_year_i">1868</field>
+  </doc>
+</add>

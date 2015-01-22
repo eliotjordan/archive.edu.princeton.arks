@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/cv43p033q</field>
+    <field name="dc_creator_sm">Zipter, J.</field>
+    <field name="dc_description_s">Potsdam</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">cv43p033q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/cv43p033q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fcv%2F43%2Fp0%2F33%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">cv43p033q</field>
+    <field name="layer_slug_s">princeton-cv43p033q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:26Z</field>
+    <field name="dc_title_s">Potsdam</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Potsdam (Germany)</field>
+    <field name="dct_spatial_sm">Potsdam (Germany)</field>
+    <field name="dct_temporal_sm">1860</field>
+    <field name="georss_box_s">52.3420411 12.8867757 52.5146876 13.168194</field>
+    <field name="georss_polygon_s">52.5146876 12.8867757 52.5146876 13.168194 52.3420411 13.168194 52.3420411 12.8867757 52.5146876 12.8867757</field>
+    <field name="solr_bbox">12.8867757 52.3420411 13.168194 52.5146876</field>
+    <field name="solr_ne_pt">52.5146876,13.168194</field>
+    <field name="solr_sw_pt">52.3420411,12.8867757</field>
+    <field name="solr_geom">ENVELOPE(12.8867757, 13.168194, 52.5146876, 52.3420411)</field>
+    <field name="solr_year_i">1860</field>
+  </doc>
+</add>

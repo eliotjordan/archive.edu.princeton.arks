@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qb98mj00b</field>
+    <field name="dc_creator_sm">Rocca, Louis,</field>
+    <field name="dc_description_s">Plan von Leipzig</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qb98mj00b</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qb98mj00b/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqb%2F98%2Fmj%2F00%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qb98mj00b</field>
+    <field name="layer_slug_s">princeton-qb98mj00b</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:27Z</field>
+    <field name="dc_title_s">Plan von Leipzig</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Leipzig (Germany)</field>
+    <field name="dct_temporal_sm">1870</field>
+    <field name="georss_box_s">51.1791827 12.2210549 51.4991827 12.5410549</field>
+    <field name="georss_polygon_s">51.4991827 12.2210549 51.4991827 12.5410549 51.1791827 12.5410549 51.1791827 12.2210549 51.4991827 12.2210549</field>
+    <field name="solr_bbox">12.2210549 51.1791827 12.5410549 51.4991827</field>
+    <field name="solr_ne_pt">51.4991827,12.5410549</field>
+    <field name="solr_sw_pt">51.1791827,12.2210549</field>
+    <field name="solr_geom">ENVELOPE(12.2210549, 12.5410549, 51.4991827, 51.1791827)</field>
+    <field name="solr_year_i">1870</field>
+  </doc>
+</add>

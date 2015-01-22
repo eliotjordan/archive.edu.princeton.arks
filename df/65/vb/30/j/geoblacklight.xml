@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/df65vb30j</field>
+    <field name="dc_creator_sm">Ogilby, John,</field>
+    <field name="dc_description_s">Chili</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">df65vb30j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/df65vb30j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fdf%2F65%2Fvb%2F30%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">df65vb30j</field>
+    <field name="layer_slug_s">princeton-df65vb30j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:07Z</field>
+    <field name="dc_title_s">Chili</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Chile</field>
+    <field name="dct_temporal_sm">1671</field>
+    <field name="georss_box_s">-56.7249999 -109.6795788 -17.4983855 -66.0745052</field>
+    <field name="georss_polygon_s">-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788</field>
+    <field name="solr_bbox">-109.6795788 -56.7249999 -66.0745052 -17.4983855</field>
+    <field name="solr_ne_pt">-17.4983855,-66.0745052</field>
+    <field name="solr_sw_pt">-56.7249999,-109.6795788</field>
+    <field name="solr_geom">ENVELOPE(-109.6795788, -66.0745052, -17.4983855, -56.7249999)</field>
+    <field name="solr_year_i">1671</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2514nn816</field>
+    <field name="dc_description_s">Topographical map showing the locations of the Sutro Tunnel and the Comstock Lode, State of Nevada, United States of America</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2514nn816</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2514nn816/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F25%2F14%2Fnn%2F81%2F6%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2514nn816</field>
+    <field name="layer_slug_s">princeton-2514nn816</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:55Z</field>
+    <field name="dc_title_s">Topographical map showing the locations of the Sutro Tunnel and the Comstock Lode, State of Nevada, United States of America</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Comstock Lode (Nev.)</field>
+    <field name="dct_spatial_sm">Sutro Tunnel (Nev.)</field>
+    <field name="dct_temporal_sm">1866</field>
+    <field name="georss_box_s">39.2935408439 -119.6580749741 39.2999759486 -119.6503776942</field>
+    <field name="georss_polygon_s">39.2999759486 -119.6580749741 39.2999759486 -119.6503776942 39.2935408439 -119.6503776942 39.2935408439 -119.6580749741 39.2999759486 -119.6580749741</field>
+    <field name="solr_bbox">-119.6580749741 39.2935408439 -119.6503776942 39.2999759486</field>
+    <field name="solr_ne_pt">39.2999759486,-119.6503776942</field>
+    <field name="solr_sw_pt">39.2935408439,-119.6580749741</field>
+    <field name="solr_geom">ENVELOPE(-119.6580749741, -119.6503776942, 39.2999759486, 39.2935408439)</field>
+    <field name="solr_year_i">1866</field>
+  </doc>
+</add>

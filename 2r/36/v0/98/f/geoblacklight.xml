@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2r36v098f</field>
+    <field name="dc_creator_sm">Young, J. H.</field>
+    <field name="dc_creator_sm">Brightly, Joseph H.,</field>
+    <field name="dc_description_s">Mitchell's national map of the American republic or United States of North America. Together with maps of the vicinities of thirty-two of the principal cities and towns in the Union</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2r36v098f</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2r36v098f/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2r%2F36%2Fv0%2F98%2Ff%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2r36v098f</field>
+    <field name="layer_slug_s">princeton-2r36v098f</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">Mitchell's national map of the American republic or United States of North America. Together with maps of the vicinities of thirty-two of the principal cities and towns in the Union</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_temporal_sm">1842</field>
+    <field name="georss_box_s">-14.7608357 -179.9999999 71.6048217 180</field>
+    <field name="georss_polygon_s">71.6048217 -179.9999999 71.6048217 180 -14.7608357 180 -14.7608357 -179.9999999 71.6048217 -179.9999999</field>
+    <field name="solr_bbox">-179.9999999 -14.7608357 180 71.6048217</field>
+    <field name="solr_ne_pt">71.6048217,180</field>
+    <field name="solr_sw_pt">-14.7608357,-179.9999999</field>
+    <field name="solr_geom">ENVELOPE(-179.9999999, 180, 71.6048217, -14.7608357)</field>
+    <field name="solr_year_i">1842</field>
+  </doc>
+</add>

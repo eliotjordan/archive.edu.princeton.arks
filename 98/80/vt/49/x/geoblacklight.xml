@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9880vt49x</field>
+    <field name="dc_creator_sm">Cook, George Hammell,</field>
+    <field name="dc_creator_sm">Hopkins, Griffith Morgan,</field>
+    <field name="dc_creator_sm">Smock, John C.</field>
+    <field name="dc_description_s">Map of zinc mines, Sussex County</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9880vt49x</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9880vt49x/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F98%2F80%2Fvt%2F49%2Fx%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9880vt49x</field>
+    <field name="layer_slug_s">princeton-9880vt49x</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:23Z</field>
+    <field name="dc_title_s">Map of zinc mines, Sussex County</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Sussex County (N.J.)</field>
+    <field name="dct_temporal_sm">1867</field>
+    <field name="georss_box_s">40.899055 -74.9917892 41.357423 -74.3658969</field>
+    <field name="georss_polygon_s">41.357423 -74.9917892 41.357423 -74.3658969 40.899055 -74.3658969 40.899055 -74.9917892 41.357423 -74.9917892</field>
+    <field name="solr_bbox">-74.9917892 40.899055 -74.3658969 41.357423</field>
+    <field name="solr_ne_pt">41.357423,-74.3658969</field>
+    <field name="solr_sw_pt">40.899055,-74.9917892</field>
+    <field name="solr_geom">ENVELOPE(-74.9917892, -74.3658969, 41.357423, 40.899055)</field>
+    <field name="solr_year_i">1867</field>
+  </doc>
+</add>

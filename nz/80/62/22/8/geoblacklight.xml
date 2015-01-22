@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/nz8062228</field>
+    <field name="dc_description_s">Guide map of Essex County, New Jersey</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">nz8062228</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/nz8062228/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fnz%2F80%2F62%2F22%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">nz8062228</field>
+    <field name="layer_slug_s">princeton-nz8062228</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:30Z</field>
+    <field name="dc_title_s">Guide map of Essex County, New Jersey</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Essex County (N.J.)</field>
+    <field name="dct_temporal_sm">1877</field>
+    <field name="georss_box_s">40.6740179 -74.377517 40.9088899 -74.1127869</field>
+    <field name="georss_polygon_s">40.9088899 -74.377517 40.9088899 -74.1127869 40.6740179 -74.1127869 40.6740179 -74.377517 40.9088899 -74.377517</field>
+    <field name="solr_bbox">-74.377517 40.6740179 -74.1127869 40.9088899</field>
+    <field name="solr_ne_pt">40.9088899,-74.1127869</field>
+    <field name="solr_sw_pt">40.6740179,-74.377517</field>
+    <field name="solr_geom">ENVELOPE(-74.377517, -74.1127869, 40.9088899, 40.6740179)</field>
+    <field name="solr_year_i">1877</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9019s497w</field>
+    <field name="dc_creator_sm">Lea, Philip,</field>
+    <field name="dc_description_s">Monmouthshire, heretofore part of Wales : but now added to other English shires in ye constant circuite of the judges</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9019s497w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9019s497w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F90%2F19%2Fs4%2F97%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9019s497w</field>
+    <field name="layer_slug_s">princeton-9019s497w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:20Z</field>
+    <field name="dc_title_s">Monmouthshire, heretofore part of Wales : but now added to other English shires in ye constant circuite of the judges</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Monmouthshire (Wales)</field>
+    <field name="dct_temporal_sm">1690</field>
+    <field name="georss_box_s">51.5172084 -3.1573444 51.9831411 -2.6498625</field>
+    <field name="georss_polygon_s">51.9831411 -3.1573444 51.9831411 -2.6498625 51.5172084 -2.6498625 51.5172084 -3.1573444 51.9831411 -3.1573444</field>
+    <field name="solr_bbox">-3.1573444 51.5172084 -2.6498625 51.9831411</field>
+    <field name="solr_ne_pt">51.9831411,-2.6498625</field>
+    <field name="solr_sw_pt">51.5172084,-3.1573444</field>
+    <field name="solr_geom">ENVELOPE(-3.1573444, -2.6498625, 51.9831411, 51.5172084)</field>
+    <field name="solr_year_i">1690</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/zg64tp00r</field>
+    <field name="dc_description_s">Railroad and county map of Dakota</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">zg64tp00r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/zg64tp00r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fzg%2F64%2Ftp%2F00%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">zg64tp00r</field>
+    <field name="layer_slug_s">princeton-zg64tp00r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:54Z</field>
+    <field name="dc_title_s">Railroad and county map of Dakota</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">North Dakota</field>
+    <field name="dct_spatial_sm">South Dakota</field>
+    <field name="dct_temporal_sm">1888</field>
+    <field name="georss_box_s">45.9350359 -104.0492649 49.0004918 -96.5543974</field>
+    <field name="georss_polygon_s">49.0004918 -104.0492649 49.0004918 -96.5543974 45.9350359 -96.5543974 45.9350359 -104.0492649 49.0004918 -104.0492649</field>
+    <field name="solr_bbox">-104.0492649 45.9350359 -96.5543974 49.0004918</field>
+    <field name="solr_ne_pt">49.0004918,-96.5543974</field>
+    <field name="solr_sw_pt">45.9350359,-104.0492649</field>
+    <field name="solr_geom">ENVELOPE(-104.0492649, -96.5543974, 49.0004918, 45.9350359)</field>
+    <field name="solr_year_i">1888</field>
+  </doc>
+</add>

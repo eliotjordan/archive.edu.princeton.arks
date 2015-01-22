@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/x920g0394</field>
+    <field name="dc_description_s">Die Ostseeländer von Lemberg bis zum Nordkap, u. Wilhelmshaven bis St. Petersburg</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">x920g0394</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/x920g0394/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fx9%2F20%2Fg0%2F39%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">x920g0394</field>
+    <field name="layer_slug_s">princeton-x920g0394</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:28Z</field>
+    <field name="dc_title_s">Die Ostseeländer von Lemberg bis zum Nordkap, u. Wilhelmshaven bis St. Petersburg</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Russia, Western</field>
+    <field name="dct_spatial_sm">St. Petersburg (Russia)</field>
+    <field name="dct_spatial_sm">Warsaw (Poland)</field>
+    <field name="dct_temporal_sm">1915</field>
+    <field name="georss_box_s">41.185353 19.6403534 81.8581221 73.70861825</field>
+    <field name="georss_polygon_s">81.8581221 19.6403534 81.8581221 73.70861825 41.185353 73.70861825 41.185353 19.6403534 81.8581221 19.6403534</field>
+    <field name="solr_bbox">19.6403534 41.185353 73.70861825 81.8581221</field>
+    <field name="solr_ne_pt">81.8581221,73.70861825</field>
+    <field name="solr_sw_pt">41.185353,19.6403534</field>
+    <field name="solr_geom">ENVELOPE(19.6403534, 73.70861825, 81.8581221, 41.185353)</field>
+    <field name="solr_year_i">1915</field>
+  </doc>
+</add>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sx61dp772</field>
+    <field name="dc_description_s">Boṣra</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sx61dp772</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sx61dp772/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsx%2F61%2Fdp%2F77%2F2%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sx61dp772</field>
+    <field name="layer_slug_s">princeton-sx61dp772</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:15Z</field>
+    <field name="dc_title_s">Boṣra</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Baṣrah (Iraq : Province)</field>
+    <field name="dct_temporal_sm">1918</field>
+    <field name="georss_box_s">30.4798285 47.7632525 30.5198285 47.8032525</field>
+    <field name="georss_polygon_s">30.5198285 47.7632525 30.5198285 47.8032525 30.4798285 47.8032525 30.4798285 47.7632525 30.5198285 47.7632525</field>
+    <field name="solr_bbox">47.7632525 30.4798285 47.8032525 30.5198285</field>
+    <field name="solr_ne_pt">30.5198285,47.8032525</field>
+    <field name="solr_sw_pt">30.4798285,47.7632525</field>
+    <field name="solr_geom">ENVELOPE(47.7632525, 47.8032525, 30.5198285, 30.4798285)</field>
+    <field name="solr_year_i">1918</field>
+  </doc>
+</add>

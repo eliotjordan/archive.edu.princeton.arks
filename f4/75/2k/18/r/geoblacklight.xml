@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/f4752k18r</field>
+    <field name="dc_creator_sm">Lathrop, J. M.</field>
+    <field name="dc_creator_sm">Cleveland, Grover,</field>
+    <field name="dc_creator_sm">Cleveland, Thomas,</field>
+    <field name="dc_description_s">Part of Princeton</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">f4752k18r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/f4752k18r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ff4%2F75%2F2k%2F18%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">f4752k18r</field>
+    <field name="layer_slug_s">princeton-f4752k18r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:07Z</field>
+    <field name="dc_title_s">Part of Princeton</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Princeton, N.J.</field>
+    <field name="dct_temporal_sm">1905</field>
+    <field name="georss_box_s">40.3092744 -74.6992958 40.3892744 -74.6192958</field>
+    <field name="georss_polygon_s">40.3892744 -74.6992958 40.3892744 -74.6192958 40.3092744 -74.6192958 40.3092744 -74.6992958 40.3892744 -74.6992958</field>
+    <field name="solr_bbox">-74.6992958 40.3092744 -74.6192958 40.3892744</field>
+    <field name="solr_ne_pt">40.3892744,-74.6192958</field>
+    <field name="solr_sw_pt">40.3092744,-74.6992958</field>
+    <field name="solr_geom">ENVELOPE(-74.6992958, -74.6192958, 40.3892744, 40.3092744)</field>
+    <field name="solr_year_i">1905</field>
+  </doc>
+</add>

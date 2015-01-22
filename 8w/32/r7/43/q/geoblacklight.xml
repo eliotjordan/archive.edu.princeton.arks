@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8w32r743q</field>
+    <field name="dc_description_s">Carte physique et politique de l'Afrique</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8w32r743q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8w32r743q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F8w%2F32%2Fr7%2F43%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8w32r743q</field>
+    <field name="layer_slug_s">princeton-8w32r743q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:43Z</field>
+    <field name="dc_title_s">Carte physique et politique de l'Afrique</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Africa</field>
+    <field name="dct_temporal_sm">1826</field>
+    <field name="georss_box_s">1.9999503 15.9999497 2.0000503 16.0000497</field>
+    <field name="georss_polygon_s">2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497</field>
+    <field name="solr_bbox">15.9999497 1.9999503 16.0000497 2.0000503</field>
+    <field name="solr_ne_pt">2.0000503,16.0000497</field>
+    <field name="solr_sw_pt">1.9999503,15.9999497</field>
+    <field name="solr_geom">ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)</field>
+    <field name="solr_year_i">1826</field>
+  </doc>
+</add>

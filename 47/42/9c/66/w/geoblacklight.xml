@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/47429c66w</field>
+    <field name="dc_description_s">Umgebung von München</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">47429c66w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/47429c66w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F47%2F42%2F9c%2F66%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">47429c66w</field>
+    <field name="layer_slug_s">princeton-47429c66w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:30Z</field>
+    <field name="dc_title_s">Umgebung von München</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Alps, Bavarian (Germany)</field>
+    <field name="dct_spatial_sm">Ammer Lake (Germany)</field>
+    <field name="dct_spatial_sm">Feldmoching (Munich, Germany)</field>
+    <field name="dct_spatial_sm">Munich (Germany)</field>
+    <field name="dct_temporal_sm">1898</field>
+    <field name="georss_box_s">47.2701115 9.6794747 47.8562624898 13.8396371</field>
+    <field name="georss_polygon_s">47.8562624898 9.6794747 47.8562624898 13.8396371 47.2701115 13.8396371 47.2701115 9.6794747 47.8562624898 9.6794747</field>
+    <field name="solr_bbox">9.6794747 47.2701115 13.8396371 47.8562624898</field>
+    <field name="solr_ne_pt">47.8562624898,13.8396371</field>
+    <field name="solr_sw_pt">47.2701115,9.6794747</field>
+    <field name="solr_geom">ENVELOPE(9.6794747, 13.8396371, 47.8562624898, 47.2701115)</field>
+    <field name="solr_year_i">1898</field>
+  </doc>
+</add>

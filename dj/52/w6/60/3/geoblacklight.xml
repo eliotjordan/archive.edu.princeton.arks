@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/dj52w6603</field>
+    <field name="dc_creator_sm">Lens, Bernard,</field>
+    <field name="dc_creator_sm">Vertue, George,</field>
+    <field name="dc_creator_sm">Moll, Herman,</field>
+    <field name="dc_description_s">To the right honourable John Lord Sommers, Baron of Evesham in ye county of Worcester, president of her Majesty's most honourable Privy Council &amp;c : this map of North America according to ye newest and most exact observations is most humbly dedicated</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">dj52w6603</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/dj52w6603/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fdj%2F52%2Fw6%2F60%2F3%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">dj52w6603</field>
+    <field name="layer_slug_s">princeton-dj52w6603</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:50Z</field>
+    <field name="dc_title_s">To the right honourable John Lord Sommers, Baron of Evesham in ye county of Worcester, president of her Majesty's most honourable Privy Council &amp;c : this map of North America according to ye newest and most exact observations is most humbly dedicated</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">North America</field>
+    <field name="dct_spatial_sm">St. John's (N.L.)</field>
+    <field name="dct_spatial_sm">Boston Harbor (Mass.)</field>
+    <field name="dct_spatial_sm">New York Harbor (N.Y. and N.J.)</field>
+    <field name="dct_spatial_sm">Charleston (S.C.)</field>
+    <field name="dct_spatial_sm">Port Royal (Jamaica)</field>
+    <field name="dct_spatial_sm">Havana (Cuba)</field>
+    <field name="dct_spatial_sm">Portobelo (Panama)</field>
+    <field name="dct_spatial_sm">Veracruz (Veracruz-Llave, Mexico)</field>
+    <field name="dct_spatial_sm">Cartagena (Colombia)</field>
+    <field name="dct_spatial_sm">Acapulco (Mexico)</field>
+    <field name="dct_temporal_sm">1720</field>
+    <field name="georss_box_s">50.9999502 -109.0000502 51.0000502 -108.9999502</field>
+    <field name="georss_polygon_s">51.0000502 -109.0000502 51.0000502 -108.9999502 50.9999502 -108.9999502 50.9999502 -109.0000502 51.0000502 -109.0000502</field>
+    <field name="solr_bbox">-109.0000502 50.9999502 -108.9999502 51.0000502</field>
+    <field name="solr_ne_pt">51.0000502,-108.9999502</field>
+    <field name="solr_sw_pt">50.9999502,-109.0000502</field>
+    <field name="solr_geom">ENVELOPE(-109.0000502, -108.9999502, 51.0000502, 50.9999502)</field>
+    <field name="solr_year_i">1720</field>
+  </doc>
+</add>

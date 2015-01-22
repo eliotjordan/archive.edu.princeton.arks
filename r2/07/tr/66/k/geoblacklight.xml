@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/r207tr66k</field>
+    <field name="dc_description_s">Yosemite National Park, showing changes in boundaries recommended by commission appointed pursuant to act of Congress : approved April 28, 1904</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">r207tr66k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/r207tr66k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fr2%2F07%2Ftr%2F66%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">r207tr66k</field>
+    <field name="layer_slug_s">princeton-r207tr66k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:55Z</field>
+    <field name="dc_title_s">Yosemite National Park, showing changes in boundaries recommended by commission appointed pursuant to act of Congress : approved April 28, 1904</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Yosemite National Park (Calif.)</field>
+    <field name="dct_spatial_sm">Yosemite National Park (Calif.)</field>
+    <field name="dct_temporal_sm">1904</field>
+    <field name="georss_box_s">37.4948419 -119.8863376 38.1863499 -119.1995074</field>
+    <field name="georss_polygon_s">38.1863499 -119.8863376 38.1863499 -119.1995074 37.4948419 -119.1995074 37.4948419 -119.8863376 38.1863499 -119.8863376</field>
+    <field name="solr_bbox">-119.8863376 37.4948419 -119.1995074 38.1863499</field>
+    <field name="solr_ne_pt">38.1863499,-119.1995074</field>
+    <field name="solr_sw_pt">37.4948419,-119.8863376</field>
+    <field name="solr_geom">ENVELOPE(-119.8863376, -119.1995074, 38.1863499, 37.4948419)</field>
+    <field name="solr_year_i">1904</field>
+  </doc>
+</add>

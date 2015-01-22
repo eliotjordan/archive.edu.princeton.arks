@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/37720f800</field>
+    <field name="dc_description_s">Railroad and county map of Montana</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">37720f800</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/37720f800/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F37%2F72%2F0f%2F80%2F0%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">37720f800</field>
+    <field name="layer_slug_s">princeton-37720f800</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:54Z</field>
+    <field name="dc_title_s">Railroad and county map of Montana</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Montana</field>
+    <field name="dct_temporal_sm">1888</field>
+    <field name="georss_box_s">44.358221 -116.0500029 49.0011094 -104.0395629</field>
+    <field name="georss_polygon_s">49.0011094 -116.0500029 49.0011094 -104.0395629 44.358221 -104.0395629 44.358221 -116.0500029 49.0011094 -116.0500029</field>
+    <field name="solr_bbox">-116.0500029 44.358221 -104.0395629 49.0011094</field>
+    <field name="solr_ne_pt">49.0011094,-104.0395629</field>
+    <field name="solr_sw_pt">44.358221,-116.0500029</field>
+    <field name="solr_geom">ENVELOPE(-116.0500029, -104.0395629, 49.0011094, 44.358221)</field>
+    <field name="solr_year_i">1888</field>
+  </doc>
+</add>

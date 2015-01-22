@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/gf06g508s</field>
+    <field name="dc_description_s">Le canal royal de Languedoc, pour la ionction de l'ocean et de la mer Mediterranée : dedié et presenté à Mgrs. des estats de Languedoc</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">gf06g508s</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/gf06g508s/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fgf%2F06%2Fg5%2F08%2Fs%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">gf06g508s</field>
+    <field name="layer_slug_s">princeton-gf06g508s</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:01Z</field>
+    <field name="dc_title_s">Le canal royal de Languedoc, pour la ionction de l'ocean et de la mer Mediterranée : dedié et presenté à Mgrs. des estats de Languedoc</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Languedoc (France)</field>
+    <field name="dct_spatial_sm">Canal du Midi (France)</field>
+    <field name="dct_temporal_sm">1697</field>
+    <field name="georss_box_s">42.333014 1.688426 44.975761 4.845564</field>
+    <field name="georss_polygon_s">44.975761 1.688426 44.975761 4.845564 42.333014 4.845564 42.333014 1.688426 44.975761 1.688426</field>
+    <field name="solr_bbox">1.688426 42.333014 4.845564 44.975761</field>
+    <field name="solr_ne_pt">44.975761,4.845564</field>
+    <field name="solr_sw_pt">42.333014,1.688426</field>
+    <field name="solr_geom">ENVELOPE(1.688426, 4.845564, 44.975761, 42.333014)</field>
+    <field name="solr_year_i">1697</field>
+  </doc>
+</add>

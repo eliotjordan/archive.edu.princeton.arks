@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/s1784p23d</field>
+    <field name="dc_description_s">Westmoria comitatus : Anglice Westmorland</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">s1784p23d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/s1784p23d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fs1%2F78%2F4p%2F23%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">s1784p23d</field>
+    <field name="layer_slug_s">princeton-s1784p23d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:20Z</field>
+    <field name="dc_title_s">Westmoria comitatus : Anglice Westmorland</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Westmorland (England)</field>
+    <field name="dct_temporal_sm">1645</field>
+    <field name="georss_box_s">33.0301209 -115.6301583 33.048224 -115.6130152</field>
+    <field name="georss_polygon_s">33.048224 -115.6301583 33.048224 -115.6130152 33.0301209 -115.6130152 33.0301209 -115.6301583 33.048224 -115.6301583</field>
+    <field name="solr_bbox">-115.6301583 33.0301209 -115.6130152 33.048224</field>
+    <field name="solr_ne_pt">33.048224,-115.6130152</field>
+    <field name="solr_sw_pt">33.0301209,-115.6301583</field>
+    <field name="solr_geom">ENVELOPE(-115.6301583, -115.6130152, 33.048224, 33.0301209)</field>
+    <field name="solr_year_i">1645</field>
+  </doc>
+</add>

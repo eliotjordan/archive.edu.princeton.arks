@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/v979v490g</field>
+    <field name="dc_creator_sm">Horrebow, Niels,</field>
+    <field name="dc_creator_sm">Prévost,</field>
+    <field name="dc_description_s">Carte de l'Islande : pour servir à la continuation de l'Histoire générale des voyages</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">v979v490g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/v979v490g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fv9%2F79%2Fv4%2F90%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">v979v490g</field>
+    <field name="layer_slug_s">princeton-v979v490g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:45Z</field>
+    <field name="dc_title_s">Carte de l'Islande : pour servir à la continuation de l'Histoire générale des voyages</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Iceland</field>
+    <field name="dct_spatial_sm">Arctic regions</field>
+    <field name="dct_temporal_sm">1768</field>
+    <field name="georss_box_s">63.0859177 -25.0135067 67.353 -12.804616</field>
+    <field name="georss_polygon_s">67.353 -25.0135067 67.353 -12.804616 63.0859177 -12.804616 63.0859177 -25.0135067 67.353 -25.0135067</field>
+    <field name="solr_bbox">-25.0135067 63.0859177 -12.804616 67.353</field>
+    <field name="solr_ne_pt">67.353,-12.804616</field>
+    <field name="solr_sw_pt">63.0859177,-25.0135067</field>
+    <field name="solr_geom">ENVELOPE(-25.0135067, -12.804616, 67.353, 63.0859177)</field>
+    <field name="solr_year_i">1768</field>
+  </doc>
+</add>

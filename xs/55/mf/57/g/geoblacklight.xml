@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/xs55mf57g</field>
+    <field name="dc_creator_sm">Keller, C. L.,</field>
+    <field name="dc_creator_sm">Warren, Howard C.</field>
+    <field name="dc_description_s">Karte vom Thüringer Wald : nach den neuesten und besten Hülfsquellen</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">xs55mf57g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/xs55mf57g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fxs%2F55%2Fmf%2F57%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">xs55mf57g</field>
+    <field name="layer_slug_s">princeton-xs55mf57g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:23Z</field>
+    <field name="dc_title_s">Karte vom Thüringer Wald : nach den neuesten und besten Hülfsquellen</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Thuringian Forest (Germany)</field>
+    <field name="dct_temporal_sm">1889</field>
+    <field name="georss_box_s">50.4816979 10.1757224 51.0127587 11.0559825</field>
+    <field name="georss_polygon_s">51.0127587 10.1757224 51.0127587 11.0559825 50.4816979 11.0559825 50.4816979 10.1757224 51.0127587 10.1757224</field>
+    <field name="solr_bbox">10.1757224 50.4816979 11.0559825 51.0127587</field>
+    <field name="solr_ne_pt">51.0127587,11.0559825</field>
+    <field name="solr_sw_pt">50.4816979,10.1757224</field>
+    <field name="solr_geom">ENVELOPE(10.1757224, 11.0559825, 51.0127587, 50.4816979)</field>
+    <field name="solr_year_i">1889</field>
+  </doc>
+</add>

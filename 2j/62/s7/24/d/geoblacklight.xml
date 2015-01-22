@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2j62s724d</field>
+    <field name="dc_creator_sm">Colton, Charles B.</field>
+    <field name="dc_description_s">Colton's Nebraska : map of the land grant of the Union Pacific Railroad in Nebraska /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2j62s724d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2j62s724d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2j%2F62%2Fs7%2F24%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2j62s724d</field>
+    <field name="layer_slug_s">princeton-2j62s724d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:59Z</field>
+    <field name="dc_title_s">Colton's Nebraska : map of the land grant of the Union Pacific Railroad in Nebraska /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Nebaska</field>
+    <field name="dct_temporal_sm">1877</field>
+    <field name="georss_box_s">39.999932 -104.053514 43.0017069 -95.30829</field>
+    <field name="georss_polygon_s">43.0017069 -104.053514 43.0017069 -95.30829 39.999932 -95.30829 39.999932 -104.053514 43.0017069 -104.053514</field>
+    <field name="solr_bbox">-104.053514 39.999932 -95.30829 43.0017069</field>
+    <field name="solr_ne_pt">43.0017069,-95.30829</field>
+    <field name="solr_sw_pt">39.999932,-104.053514</field>
+    <field name="solr_geom">ENVELOPE(-104.053514, -95.30829, 43.0017069, 39.999932)</field>
+    <field name="solr_year_i">1877</field>
+  </doc>
+</add>

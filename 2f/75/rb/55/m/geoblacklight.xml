@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2f75rb55m</field>
+    <field name="dc_creator_sm">Bache, A. D.</field>
+    <field name="dc_creator_sm">Eakin, C. M.</field>
+    <field name="dc_creator_sm">Whiting, Henry L.</field>
+    <field name="dc_creator_sm">Blake, George S.</field>
+    <field name="dc_creator_sm">Benner, Henry C.</field>
+    <field name="dc_creator_sm">Rodgers, C. R. P.</field>
+    <field name="dc_description_s">The harbor of New Bedford</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2f75rb55m</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2f75rb55m/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2f%2F75%2Frb%2F55%2Fm%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2f75rb55m</field>
+    <field name="layer_slug_s">princeton-2f75rb55m</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:28Z</field>
+    <field name="dc_title_s">The harbor of New Bedford</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Bedford (Mass.)</field>
+    <field name="dct_temporal_sm">1850</field>
+    <field name="georss_box_s">41.5059975 -70.9772404 41.7447894 -70.8385788</field>
+    <field name="georss_polygon_s">41.7447894 -70.9772404 41.7447894 -70.8385788 41.5059975 -70.8385788 41.5059975 -70.9772404 41.7447894 -70.9772404</field>
+    <field name="solr_bbox">-70.9772404 41.5059975 -70.8385788 41.7447894</field>
+    <field name="solr_ne_pt">41.7447894,-70.8385788</field>
+    <field name="solr_sw_pt">41.5059975,-70.9772404</field>
+    <field name="solr_geom">ENVELOPE(-70.9772404, -70.8385788, 41.7447894, 41.5059975)</field>
+    <field name="solr_year_i">1850</field>
+  </doc>
+</add>

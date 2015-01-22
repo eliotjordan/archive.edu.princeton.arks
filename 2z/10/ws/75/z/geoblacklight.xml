@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2z10ws75z</field>
+    <field name="dc_description_s">Bad Reichenhall</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2z10ws75z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2z10ws75z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2z%2F10%2Fws%2F75%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2z10ws75z</field>
+    <field name="layer_slug_s">princeton-2z10ws75z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:28Z</field>
+    <field name="dc_title_s">Bad Reichenhall</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Bad Reichenhall (Germany)</field>
+    <field name="dct_spatial_sm">Bavaria (Germany)</field>
+    <field name="dct_temporal_sm">1898</field>
+    <field name="georss_box_s">47.6809196 12.7972223 47.7722756 12.9446239</field>
+    <field name="georss_polygon_s">47.7722756 12.7972223 47.7722756 12.9446239 47.6809196 12.9446239 47.6809196 12.7972223 47.7722756 12.7972223</field>
+    <field name="solr_bbox">12.7972223 47.6809196 12.9446239 47.7722756</field>
+    <field name="solr_ne_pt">47.7722756,12.9446239</field>
+    <field name="solr_sw_pt">47.6809196,12.7972223</field>
+    <field name="solr_geom">ENVELOPE(12.7972223, 12.9446239, 47.7722756, 47.6809196)</field>
+    <field name="solr_year_i">1898</field>
+  </doc>
+</add>

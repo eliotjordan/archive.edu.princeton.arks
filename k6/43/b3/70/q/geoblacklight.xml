@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/k643b370q</field>
+    <field name="dc_creator_sm">O'Callaghan, E. B.</field>
+    <field name="dc_creator_sm">Pease, Richard H.,</field>
+    <field name="dc_description_s">Map of the head waters of the rivers Susquehanna &amp; Delaware embracing the early patents on the south side of the Mohawk River : from the original, drawn about the year 1790 /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">k643b370q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/k643b370q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fk6%2F43%2Fb3%2F70%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">k643b370q</field>
+    <field name="layer_slug_s">princeton-k643b370q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:30Z</field>
+    <field name="dc_title_s">Map of the head waters of the rivers Susquehanna &amp; Delaware embracing the early patents on the south side of the Mohawk River : from the original, drawn about the year 1790 /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Delaware River Valley (N.Y.-Del. and N.J.)</field>
+    <field name="dct_spatial_sm">Mohawk River Valley (N.Y.)</field>
+    <field name="dct_spatial_sm">New York (State)</field>
+    <field name="dct_spatial_sm">Schoharie Creek Valley (N.Y.)</field>
+    <field name="dct_spatial_sm">Susquehanna River Valley</field>
+    <field name="georss_box_s">39.4281633 -75.6153473 41.9390068 -74.6877586</field>
+    <field name="georss_polygon_s">41.9390068 -75.6153473 41.9390068 -74.6877586 39.4281633 -74.6877586 39.4281633 -75.6153473 41.9390068 -75.6153473</field>
+    <field name="solr_bbox">-75.6153473 39.4281633 -74.6877586 41.9390068</field>
+    <field name="solr_ne_pt">41.9390068,-74.6877586</field>
+    <field name="solr_sw_pt">39.4281633,-75.6153473</field>
+    <field name="solr_geom">ENVELOPE(-75.6153473, -74.6877586, 41.9390068, 39.4281633)</field>
+  </doc>
+</add>

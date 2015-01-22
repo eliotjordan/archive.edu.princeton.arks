@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/12579v616</field>
+    <field name="dc_creator_sm">Bénard, Robert,</field>
+    <field name="dc_creator_sm">Hawkesworth, John,</field>
+    <field name="dc_description_s">Plan de la Baye du Bon Succès dans le Détroit de la Maire : Carte de la partie S.E. de la Terre de Feu comprenant le Détroit de la Maire et une partie de la Terre des Etats</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">12579v616</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/12579v616/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F12%2F57%2F9v%2F61%2F6%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">12579v616</field>
+    <field name="layer_slug_s">princeton-12579v616</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:57Z</field>
+    <field name="dc_title_s">Plan de la Baye du Bon Succès dans le Détroit de la Maire : Carte de la partie S.E. de la Terre de Feu comprenant le Détroit de la Maire et une partie de la Terre des Etats</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Le Maire Strait (Argentina)</field>
+    <field name="dct_spatial_sm">Tierra del Fuego (Argentina and Chile)</field>
+    <field name="dct_spatial_sm">Maps</field>
+    <field name="dct_temporal_sm">1774</field>
+    <field name="georss_box_s">-55.6475755 -66.9656172 -54.002329 -62.8677168</field>
+    <field name="georss_polygon_s">-54.002329 -66.9656172 -54.002329 -62.8677168 -55.6475755 -62.8677168 -55.6475755 -66.9656172 -54.002329 -66.9656172</field>
+    <field name="solr_bbox">-66.9656172 -55.6475755 -62.8677168 -54.002329</field>
+    <field name="solr_ne_pt">-54.002329,-62.8677168</field>
+    <field name="solr_sw_pt">-55.6475755,-66.9656172</field>
+    <field name="solr_geom">ENVELOPE(-66.9656172, -62.8677168, -54.002329, -55.6475755)</field>
+    <field name="solr_year_i">1774</field>
+  </doc>
+</add>

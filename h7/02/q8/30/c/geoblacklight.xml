@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/h702q830c</field>
+    <field name="dc_creator_sm">Laet, Joannes de,</field>
+    <field name="dc_creator_sm">Gerritsz., Hessel,</field>
+    <field name="dc_description_s">Provincien van de Straet van Magallanes, ende vande Straet Le Maire</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">h702q830c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/h702q830c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fh7%2F02%2Fq8%2F30%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">h702q830c</field>
+    <field name="layer_slug_s">princeton-h702q830c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:52Z</field>
+    <field name="dc_title_s">Provincien van de Straet van Magallanes, ende vande Straet Le Maire</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Magallanes (Chile : Province)</field>
+    <field name="dct_spatial_sm">Magellan, Strait of (Chile and Argentina)</field>
+    <field name="dct_spatial_sm">Le Maire Strait (Argentina)</field>
+    <field name="dct_temporal_sm">1630</field>
+    <field name="georss_box_s">-55.979986 -75.7296587 -48.5966006 -66.4178354</field>
+    <field name="georss_polygon_s">-48.5966006 -75.7296587 -48.5966006 -66.4178354 -55.979986 -66.4178354 -55.979986 -75.7296587 -48.5966006 -75.7296587</field>
+    <field name="solr_bbox">-75.7296587 -55.979986 -66.4178354 -48.5966006</field>
+    <field name="solr_ne_pt">-48.5966006,-66.4178354</field>
+    <field name="solr_sw_pt">-55.979986,-75.7296587</field>
+    <field name="solr_geom">ENVELOPE(-75.7296587, -66.4178354, -48.5966006, -55.979986)</field>
+    <field name="solr_year_i">1630</field>
+  </doc>
+</add>

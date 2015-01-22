@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2r36v105c</field>
+    <field name="dc_description_s">Plan von Dresden</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2r36v105c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2r36v105c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2r%2F36%2Fv1%2F05%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2r36v105c</field>
+    <field name="layer_slug_s">princeton-2r36v105c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:27Z</field>
+    <field name="dc_title_s">Plan von Dresden</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Dresden (Germany)</field>
+    <field name="dct_temporal_sm">1892</field>
+    <field name="georss_box_s">50.974937 13.5793237 51.1777202 13.9660626</field>
+    <field name="georss_polygon_s">51.1777202 13.5793237 51.1777202 13.9660626 50.974937 13.9660626 50.974937 13.5793237 51.1777202 13.5793237</field>
+    <field name="solr_bbox">13.5793237 50.974937 13.9660626 51.1777202</field>
+    <field name="solr_ne_pt">51.1777202,13.9660626</field>
+    <field name="solr_sw_pt">50.974937,13.5793237</field>
+    <field name="solr_geom">ENVELOPE(13.5793237, 13.9660626, 51.1777202, 50.974937)</field>
+    <field name="solr_year_i">1892</field>
+  </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2801pj24k</field>
+    <field name="dc_creator_sm">Moll, Herman,</field>
+    <field name="dc_description_s">A chart of the Streights of Magellan</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2801pj24k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2801pj24k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F28%2F01%2Fpj%2F24%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2801pj24k</field>
+    <field name="layer_slug_s">princeton-2801pj24k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:50Z</field>
+    <field name="dc_title_s">A chart of the Streights of Magellan</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Chile</field>
+    <field name="dct_spatial_sm">Argentina</field>
+    <field name="dct_spatial_sm">Magellan, Strait of (Chile and Argentina)</field>
+    <field name="dct_temporal_sm">1745</field>
+    <field name="georss_box_s">-56.7249999 -109.6795788 -17.4983855 -66.0745052</field>
+    <field name="georss_polygon_s">-17.4983855 -109.6795788 -17.4983855 -66.0745052 -56.7249999 -66.0745052 -56.7249999 -109.6795788 -17.4983855 -109.6795788</field>
+    <field name="solr_bbox">-109.6795788 -56.7249999 -66.0745052 -17.4983855</field>
+    <field name="solr_ne_pt">-17.4983855,-66.0745052</field>
+    <field name="solr_sw_pt">-56.7249999,-109.6795788</field>
+    <field name="solr_geom">ENVELOPE(-109.6795788, -66.0745052, -17.4983855, -56.7249999)</field>
+    <field name="solr_year_i">1745</field>
+  </doc>
+</add>

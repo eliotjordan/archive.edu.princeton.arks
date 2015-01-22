@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/z603r0878</field>
+    <field name="dc_creator_sm">Anson, George Anson,</field>
+    <field name="dc_description_s">Plan du palais et citadelle des rois Incas, laquelle subsiste encore en partie près du village de Cañar, jurisdiction du corrégiment de Cuenca, province de Quito, royaume du Perou : Vue du palais et citadelle que les rois Incas avoient près du village de Cañar, et dont on voit encore les murs</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">z603r0878</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/z603r0878/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fz6%2F03%2Fr0%2F87%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">z603r0878</field>
+    <field name="layer_slug_s">princeton-z603r0878</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:06Z</field>
+    <field name="dc_title_s">Plan du palais et citadelle des rois Incas, laquelle subsiste encore en partie près du village de Cañar, jurisdiction du corrégiment de Cuenca, province de Quito, royaume du Perou : Vue du palais et citadelle que les rois Incas avoient près du village de Cañar, et dont on voit encore les murs</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Cañar (Ecuador)</field>
+    <field name="dct_temporal_sm">1749</field>
+    <field name="georss_box_s">-5.134484 -81.5404678 -0.014484 -76.4204678</field>
+    <field name="georss_polygon_s">-0.014484 -81.5404678 -0.014484 -76.4204678 -5.134484 -76.4204678 -5.134484 -81.5404678 -0.014484 -81.5404678</field>
+    <field name="solr_bbox">-81.5404678 -5.134484 -76.4204678 -0.014484</field>
+    <field name="solr_ne_pt">-0.014484,-76.4204678</field>
+    <field name="solr_sw_pt">-5.134484,-81.5404678</field>
+    <field name="solr_geom">ENVELOPE(-81.5404678, -76.4204678, -0.014484, -5.134484)</field>
+    <field name="solr_year_i">1749</field>
+  </doc>
+</add>

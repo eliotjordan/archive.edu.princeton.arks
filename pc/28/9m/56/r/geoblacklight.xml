@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pc289m56r</field>
+    <field name="dc_creator_sm">Jones, Benjamin,</field>
+    <field name="dc_creator_sm">Macpherson, David,</field>
+    <field name="dc_description_s">Germania Magna : quæ nunquam Romanis paruit</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pc289m56r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/pc289m56r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpc%2F28%2F9m%2F56%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">pc289m56r</field>
+    <field name="layer_slug_s">princeton-pc289m56r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:19Z</field>
+    <field name="dc_title_s">Germania Magna : quæ nunquam Romanis paruit</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Germany</field>
+    <field name="dct_temporal_sm">1806</field>
+    <field name="georss_box_s">47.2701114 5.8663153 55.099161 15.0419319</field>
+    <field name="georss_polygon_s">55.099161 5.8663153 55.099161 15.0419319 47.2701114 15.0419319 47.2701114 5.8663153 55.099161 5.8663153</field>
+    <field name="solr_bbox">5.8663153 47.2701114 15.0419319 55.099161</field>
+    <field name="solr_ne_pt">55.099161,15.0419319</field>
+    <field name="solr_sw_pt">47.2701114,5.8663153</field>
+    <field name="solr_geom">ENVELOPE(5.8663153, 15.0419319, 55.099161, 47.2701114)</field>
+    <field name="solr_year_i">1806</field>
+  </doc>
+</add>

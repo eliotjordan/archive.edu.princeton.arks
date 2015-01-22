@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8336h4399</field>
+    <field name="dc_description_s">Lancastria palatinatus, Anglis Lancaster et Lancasshire</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8336h4399</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8336h4399/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F83%2F36%2Fh4%2F39%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8336h4399</field>
+    <field name="layer_slug_s">princeton-8336h4399</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:20Z</field>
+    <field name="dc_title_s">Lancastria palatinatus, Anglis Lancaster et Lancasshire</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Lancashire (England)</field>
+    <field name="dct_temporal_sm">1977</field>
+    <field name="georss_box_s">53.4827602 -3.0845487 54.2395551 -2.0461308</field>
+    <field name="georss_polygon_s">54.2395551 -3.0845487 54.2395551 -2.0461308 53.4827602 -2.0461308 53.4827602 -3.0845487 54.2395551 -3.0845487</field>
+    <field name="solr_bbox">-3.0845487 53.4827602 -2.0461308 54.2395551</field>
+    <field name="solr_ne_pt">54.2395551,-2.0461308</field>
+    <field name="solr_sw_pt">53.4827602,-3.0845487</field>
+    <field name="solr_geom">ENVELOPE(-3.0845487, -2.0461308, 54.2395551, 53.4827602)</field>
+    <field name="solr_year_i">1977</field>
+  </doc>
+</add>

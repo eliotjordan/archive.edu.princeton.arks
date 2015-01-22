@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/z316q408z</field>
+    <field name="dc_description_s">Philips' clear print half inch map of the Lake District</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">z316q408z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/z316q408z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fz3%2F16%2Fq4%2F08%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">z316q408z</field>
+    <field name="layer_slug_s">princeton-z316q408z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:17Z</field>
+    <field name="dc_title_s">Philips' clear print half inch map of the Lake District</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Lake District (England)</field>
+    <field name="dct_temporal_sm">1903</field>
+    <field name="georss_box_s">50.9743731 -3.8869332 50.975017 -3.8859432</field>
+    <field name="georss_polygon_s">50.975017 -3.8869332 50.975017 -3.8859432 50.9743731 -3.8859432 50.9743731 -3.8869332 50.975017 -3.8869332</field>
+    <field name="solr_bbox">-3.8869332 50.9743731 -3.8859432 50.975017</field>
+    <field name="solr_ne_pt">50.975017,-3.8859432</field>
+    <field name="solr_sw_pt">50.9743731,-3.8869332</field>
+    <field name="solr_geom">ENVELOPE(-3.8869332, -3.8859432, 50.975017, 50.9743731)</field>
+    <field name="solr_year_i">1903</field>
+  </doc>
+</add>

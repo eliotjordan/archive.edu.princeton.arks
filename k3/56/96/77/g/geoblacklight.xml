@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/k3569677g</field>
+    <field name="dc_creator_sm">Lynslager, Hendrik,</field>
+    <field name="dc_description_s">Nieuwe zeekaart van de Straat van Gibraltar : benevens een gedeelte van de Spaansche, Portugeesche en Moorsche kust : met naaukeurige aftekeningen der havens, baayen enz. als inzonderheid Lissabon, S. Ubes, Cadix, Gibraltar enz. getrokken uit de nieuwe paskaart van den ... Heere Hendrik Lynslager, thans Vice Admiraal van den Staat</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">k3569677g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/k3569677g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fk3%2F56%2F96%2F77%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">k3569677g</field>
+    <field name="layer_slug_s">princeton-k3569677g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:05Z</field>
+    <field name="dc_title_s">Nieuwe zeekaart van de Straat van Gibraltar : benevens een gedeelte van de Spaansche, Portugeesche en Moorsche kust : met naaukeurige aftekeningen der havens, baayen enz. als inzonderheid Lissabon, S. Ubes, Cadix, Gibraltar enz. getrokken uit de nieuwe paskaart van den ... Heere Hendrik Lynslager, thans Vice Admiraal van den Staat</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Gibraltar, Strait of</field>
+    <field name="dct_spatial_sm">Portugal</field>
+    <field name="dct_spatial_sm">Spain</field>
+    <field name="dct_temporal_sm">1759</field>
+    <field name="georss_box_s">35.7729163 -6.0332889 36.1866023 -5.2280378</field>
+    <field name="georss_polygon_s">36.1866023 -6.0332889 36.1866023 -5.2280378 35.7729163 -5.2280378 35.7729163 -6.0332889 36.1866023 -6.0332889</field>
+    <field name="solr_bbox">-6.0332889 35.7729163 -5.2280378 36.1866023</field>
+    <field name="solr_ne_pt">36.1866023,-5.2280378</field>
+    <field name="solr_sw_pt">35.7729163,-6.0332889</field>
+    <field name="solr_geom">ENVELOPE(-6.0332889, -5.2280378, 36.1866023, 35.7729163)</field>
+    <field name="solr_year_i">1759</field>
+  </doc>
+</add>

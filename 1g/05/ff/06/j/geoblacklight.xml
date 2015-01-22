@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/1g05ff06j</field>
+    <field name="dc_description_s">The Bermudas</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">1g05ff06j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/1g05ff06j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F1g%2F05%2Fff%2F06%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">1g05ff06j</field>
+    <field name="layer_slug_s">princeton-1g05ff06j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:09Z</field>
+    <field name="dc_title_s">The Bermudas</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Bermuda Islands</field>
+    <field name="dct_temporal_sm">1868</field>
+    <field name="georss_box_s">32.2859665 -64.8493807 32.2860665 -64.8492807</field>
+    <field name="georss_polygon_s">32.2860665 -64.8493807 32.2860665 -64.8492807 32.2859665 -64.8492807 32.2859665 -64.8493807 32.2860665 -64.8493807</field>
+    <field name="solr_bbox">-64.8493807 32.2859665 -64.8492807 32.2860665</field>
+    <field name="solr_ne_pt">32.2860665,-64.8492807</field>
+    <field name="solr_sw_pt">32.2859665,-64.8493807</field>
+    <field name="solr_geom">ENVELOPE(-64.8493807, -64.8492807, 32.2860665, 32.2859665)</field>
+    <field name="solr_year_i">1868</field>
+  </doc>
+</add>

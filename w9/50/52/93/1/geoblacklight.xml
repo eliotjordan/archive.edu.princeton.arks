@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/w95052931</field>
+    <field name="dc_creator_sm">Baesjou, C.</field>
+    <field name="dc_creator_sm">Blommers, P.</field>
+    <field name="dc_creator_sm">Hewett-Thayer, Harvey W.</field>
+    <field name="dc_description_s">Nieuwe kaart van de provincie Friesland, verdeeld in 11 stedelijke en 32 landgemeenten : met aanwijzing van de nieuwe wegen, vaarten enz.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">w95052931</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/w95052931/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fw9%2F50%2F52%2F93%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">w95052931</field>
+    <field name="layer_slug_s">princeton-w95052931</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:09Z</field>
+    <field name="dc_title_s">Nieuwe kaart van de provincie Friesland, verdeeld in 11 stedelijke en 32 landgemeenten : met aanwijzing van de nieuwe wegen, vaarten enz.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Friesland (Netherlands)</field>
+    <field name="dct_temporal_sm">1876</field>
+    <field name="georss_box_s">52.7648052 4.8183758 53.5397134 6.4276148</field>
+    <field name="georss_polygon_s">53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758</field>
+    <field name="solr_bbox">4.8183758 52.7648052 6.4276148 53.5397134</field>
+    <field name="solr_ne_pt">53.5397134,6.4276148</field>
+    <field name="solr_sw_pt">52.7648052,4.8183758</field>
+    <field name="solr_geom">ENVELOPE(4.8183758, 6.4276148, 53.5397134, 52.7648052)</field>
+    <field name="solr_year_i">1876</field>
+  </doc>
+</add>

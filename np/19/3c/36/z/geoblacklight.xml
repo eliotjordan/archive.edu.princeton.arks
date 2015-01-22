@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/np193c36z</field>
+    <field name="dc_creator_sm">Loon, H. V.</field>
+    <field name="dc_creator_sm">Nolin, Jean Baptiste,</field>
+    <field name="dc_description_s">L'Afrique selon les relations les plus nouvelles</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">np193c36z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/np193c36z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fnp%2F19%2F3c%2F36%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">np193c36z</field>
+    <field name="layer_slug_s">princeton-np193c36z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:55Z</field>
+    <field name="dc_title_s">L'Afrique selon les relations les plus nouvelles</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Africa</field>
+    <field name="dct_temporal_sm">1689</field>
+    <field name="georss_box_s">1.9999503 15.9999497 2.0000503 16.0000497</field>
+    <field name="georss_polygon_s">2.0000503 15.9999497 2.0000503 16.0000497 1.9999503 16.0000497 1.9999503 15.9999497 2.0000503 15.9999497</field>
+    <field name="solr_bbox">15.9999497 1.9999503 16.0000497 2.0000503</field>
+    <field name="solr_ne_pt">2.0000503,16.0000497</field>
+    <field name="solr_sw_pt">1.9999503,15.9999497</field>
+    <field name="solr_geom">ENVELOPE(15.9999497, 16.0000497, 2.0000503, 1.9999503)</field>
+    <field name="solr_year_i">1689</field>
+  </doc>
+</add>

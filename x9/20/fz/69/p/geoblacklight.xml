@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/x920fz69p</field>
+    <field name="dc_description_s">Ontwikkeling van de nederzetting aan de Tafelbaai</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">x920fz69p</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/x920fz69p/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fx9%2F20%2Ffz%2F69%2Fp%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">x920fz69p</field>
+    <field name="layer_slug_s">princeton-x920fz69p</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:43Z</field>
+    <field name="dc_title_s">Ontwikkeling van de nederzetting aan de Tafelbaai</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Cape Town (South Africa)</field>
+    <field name="dct_temporal_sm">1911</field>
+    <field name="georss_box_s">-34.0889049 18.2572485 -33.7689049 18.5772485</field>
+    <field name="georss_polygon_s">-33.7689049 18.2572485 -33.7689049 18.5772485 -34.0889049 18.5772485 -34.0889049 18.2572485 -33.7689049 18.2572485</field>
+    <field name="solr_bbox">18.2572485 -34.0889049 18.5772485 -33.7689049</field>
+    <field name="solr_ne_pt">-33.7689049,18.5772485</field>
+    <field name="solr_sw_pt">-34.0889049,18.2572485</field>
+    <field name="solr_geom">ENVELOPE(18.2572485, 18.5772485, -33.7689049, -34.0889049)</field>
+    <field name="solr_year_i">1911</field>
+  </doc>
+</add>

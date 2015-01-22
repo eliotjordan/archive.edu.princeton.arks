@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/w3763922k</field>
+    <field name="dc_description_s">Ship Channel, leading from Exuma Sound across the New Providence Bank towards the tongue of the ocean</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">w3763922k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/w3763922k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fw3%2F76%2F39%2F22%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">w3763922k</field>
+    <field name="layer_slug_s">princeton-w3763922k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">Ship Channel, leading from Exuma Sound across the New Providence Bank towards the tongue of the ocean</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Exuma Sound (Bahamas)</field>
+    <field name="dct_temporal_sm">1845</field>
+    <field name="georss_box_s">23.6220226909 -76.7132378805 24.6340041285 -75.0858879133</field>
+    <field name="georss_polygon_s">24.6340041285 -76.7132378805 24.6340041285 -75.0858879133 23.6220226909 -75.0858879133 23.6220226909 -76.7132378805 24.6340041285 -76.7132378805</field>
+    <field name="solr_bbox">-76.7132378805 23.6220226909 -75.0858879133 24.6340041285</field>
+    <field name="solr_ne_pt">24.6340041285,-75.0858879133</field>
+    <field name="solr_sw_pt">23.6220226909,-76.7132378805</field>
+    <field name="solr_geom">ENVELOPE(-76.7132378805, -75.0858879133, 24.6340041285, 23.6220226909)</field>
+    <field name="solr_year_i">1845</field>
+  </doc>
+</add>

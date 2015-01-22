@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/p2676x971</field>
+    <field name="dc_creator_sm">Inselin, C.,</field>
+    <field name="dc_creator_sm">Fer, Nicolas de,</field>
+    <field name="dc_description_s">Hambourg, ville imperiale d'Allemagne, tres fameux port de mer située a l'entrée de la Riviere d'Elbe a 53. degrez 50. minutes de latitude et a 28. degrez 15. minutes de longitude</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">p2676x971</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/p2676x971/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fp2%2F67%2F6x%2F97%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">p2676x971</field>
+    <field name="layer_slug_s">princeton-p2676x971</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:00Z</field>
+    <field name="dc_title_s">Hambourg, ville imperiale d'Allemagne, tres fameux port de mer située a l'entrée de la Riviere d'Elbe a 53. degrez 50. minutes de latitude et a 28. degrez 15. minutes de longitude</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Hamburg (Germany)</field>
+    <field name="dct_temporal_sm">1705</field>
+    <field name="georss_box_s">53.3951118 9.7304736 53.7394377 10.3253403</field>
+    <field name="georss_polygon_s">53.7394377 9.7304736 53.7394377 10.3253403 53.3951118 10.3253403 53.3951118 9.7304736 53.7394377 9.7304736</field>
+    <field name="solr_bbox">9.7304736 53.3951118 10.3253403 53.7394377</field>
+    <field name="solr_ne_pt">53.7394377,10.3253403</field>
+    <field name="solr_sw_pt">53.3951118,9.7304736</field>
+    <field name="solr_geom">ENVELOPE(9.7304736, 10.3253403, 53.7394377, 53.3951118)</field>
+    <field name="solr_year_i">1705</field>
+  </doc>
+</add>

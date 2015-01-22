@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/mw22v7847</field>
+    <field name="dc_description_s">Virginia, Marylandia et Carolina in America Septentrionali, Britannorum industria excultæ</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">mw22v7847</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/mw22v7847/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fmw%2F22%2Fv7%2F84%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">mw22v7847</field>
+    <field name="layer_slug_s">princeton-mw22v7847</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:58Z</field>
+    <field name="dc_title_s">Virginia, Marylandia et Carolina in America Septentrionali, Britannorum industria excultæ</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Maryland</field>
+    <field name="dct_spatial_sm">Middle Atlantic States</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">North Carolina</field>
+    <field name="dct_spatial_sm">Virginia</field>
+    <field name="dct_temporal_sm">1714</field>
+    <field name="georss_box_s">37.8856427 -79.4871911 39.7229331 -74.9851722</field>
+    <field name="georss_polygon_s">39.7229331 -79.4871911 39.7229331 -74.9851722 37.8856427 -74.9851722 37.8856427 -79.4871911 39.7229331 -79.4871911</field>
+    <field name="solr_bbox">-79.4871911 37.8856427 -74.9851722 39.7229331</field>
+    <field name="solr_ne_pt">39.7229331,-74.9851722</field>
+    <field name="solr_sw_pt">37.8856427,-79.4871911</field>
+    <field name="solr_geom">ENVELOPE(-79.4871911, -74.9851722, 39.7229331, 37.8856427)</field>
+    <field name="solr_year_i">1714</field>
+  </doc>
+</add>

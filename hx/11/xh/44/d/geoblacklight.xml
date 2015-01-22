@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/hx11xh44d</field>
+    <field name="dc_creator_sm">Chatelain, Henri Abraham.</field>
+    <field name="dc_description_s">Carte de l'Isle de Madagascar, dite aujourd'hui l'Ile Daufine</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">hx11xh44d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/hx11xh44d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fhx%2F11%2Fxh%2F44%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">hx11xh44d</field>
+    <field name="layer_slug_s">princeton-hx11xh44d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:55Z</field>
+    <field name="dc_title_s">Carte de l'Isle de Madagascar, dite aujourd'hui l'Ile Daufine</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Madagascar</field>
+    <field name="dct_spatial_sm">Madagascar</field>
+    <field name="dct_temporal_sm">1719</field>
+    <field name="georss_box_s">-25.8054593 42.9729705 -11.7490749 50.6983545</field>
+    <field name="georss_polygon_s">-11.7490749 42.9729705 -11.7490749 50.6983545 -25.8054593 50.6983545 -25.8054593 42.9729705 -11.7490749 42.9729705</field>
+    <field name="solr_bbox">42.9729705 -25.8054593 50.6983545 -11.7490749</field>
+    <field name="solr_ne_pt">-11.7490749,50.6983545</field>
+    <field name="solr_sw_pt">-25.8054593,42.9729705</field>
+    <field name="solr_geom">ENVELOPE(42.9729705, 50.6983545, -11.7490749, -25.8054593)</field>
+    <field name="solr_year_i">1719</field>
+  </doc>
+</add>

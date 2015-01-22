@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/h702q891j</field>
+    <field name="dc_creator_sm">Licinius, Fabius,</field>
+    <field name="dc_description_s">Il disegno de geografia moderna del regno di Polonia, e parte del ducado di Moscouia, con parte della Scandia, e parte de Sueuia, con molte regioni, in quelli et la prouincia de Vstiuga e quella di Seuera in sino al mare maggiore</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">h702q891j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/h702q891j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fh7%2F02%2Fq8%2F91%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">h702q891j</field>
+    <field name="layer_slug_s">princeton-h702q891j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:28Z</field>
+    <field name="dc_title_s">Il disegno de geografia moderna del regno di Polonia, e parte del ducado di Moscouia, con parte della Scandia, e parte de Sueuia, con molte regioni, in quelli et la prouincia de Vstiuga e quella di Seuera in sino al mare maggiore</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Baltic States</field>
+    <field name="dct_spatial_sm">Poland</field>
+    <field name="dct_spatial_sm">Russia</field>
+    <field name="dct_spatial_sm">Sweden</field>
+    <field name="dct_spatial_sm">Ukraine</field>
+    <field name="dct_temporal_sm">1562</field>
+    <field name="georss_box_s">53.5977873912 19.6403534 59.7454168077 29.235962</field>
+    <field name="georss_polygon_s">59.7454168077 19.6403534 59.7454168077 29.235962 53.5977873912 29.235962 53.5977873912 19.6403534 59.7454168077 19.6403534</field>
+    <field name="solr_bbox">19.6403534 53.5977873912 29.235962 59.7454168077</field>
+    <field name="solr_ne_pt">59.7454168077,29.235962</field>
+    <field name="solr_sw_pt">53.5977873912,19.6403534</field>
+    <field name="solr_geom">ENVELOPE(19.6403534, 29.235962, 59.7454168077, 53.5977873912)</field>
+    <field name="solr_year_i">1562</field>
+  </doc>
+</add>

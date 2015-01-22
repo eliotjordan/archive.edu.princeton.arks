@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/jd472z96m</field>
+    <field name="dc_description_s">Karte der Umgegend von Giessen : mit Angabe römischer und germanischer Antiquitäten</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">jd472z96m</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/jd472z96m/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fd%2F47%2F2z%2F96%2Fm%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">jd472z96m</field>
+    <field name="layer_slug_s">princeton-jd472z96m</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:23Z</field>
+    <field name="dc_title_s">Karte der Umgegend von Giessen : mit Angabe römischer und germanischer Antiquitäten</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Giessen (Germany)</field>
+    <field name="dct_temporal_sm">1891</field>
+    <field name="georss_box_s">50.5264042 8.5557586 50.6352285 8.7640475</field>
+    <field name="georss_polygon_s">50.6352285 8.5557586 50.6352285 8.7640475 50.5264042 8.7640475 50.5264042 8.5557586 50.6352285 8.5557586</field>
+    <field name="solr_bbox">8.5557586 50.5264042 8.7640475 50.6352285</field>
+    <field name="solr_ne_pt">50.6352285,8.7640475</field>
+    <field name="solr_sw_pt">50.5264042,8.5557586</field>
+    <field name="solr_geom">ENVELOPE(8.5557586, 8.7640475, 50.6352285, 50.5264042)</field>
+    <field name="solr_year_i">1891</field>
+  </doc>
+</add>

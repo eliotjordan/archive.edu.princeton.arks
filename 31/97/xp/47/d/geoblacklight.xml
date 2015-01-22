@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3197xp47d</field>
+    <field name="dc_creator_sm">Kitchin, Thomas,</field>
+    <field name="dc_description_s">A map of the river Gambia from it's [sic] mouth to Eropina</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3197xp47d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3197xp47d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F31%2F97%2Fxp%2F47%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3197xp47d</field>
+    <field name="layer_slug_s">princeton-3197xp47d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:01Z</field>
+    <field name="dc_title_s">A map of the river Gambia from it's [sic] mouth to Eropina</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Gambia</field>
+    <field name="dct_spatial_sm">Gambia River</field>
+    <field name="dct_temporal_sm">1732</field>
+    <field name="georss_box_s">13.061 -17.0288253 13.826389 -13.7977779</field>
+    <field name="georss_polygon_s">13.826389 -17.0288253 13.826389 -13.7977779 13.061 -13.7977779 13.061 -17.0288253 13.826389 -17.0288253</field>
+    <field name="solr_bbox">-17.0288253 13.061 -13.7977779 13.826389</field>
+    <field name="solr_ne_pt">13.826389,-13.7977779</field>
+    <field name="solr_sw_pt">13.061,-17.0288253</field>
+    <field name="solr_geom">ENVELOPE(-17.0288253, -13.7977779, 13.826389, 13.061)</field>
+    <field name="solr_year_i">1732</field>
+  </doc>
+</add>

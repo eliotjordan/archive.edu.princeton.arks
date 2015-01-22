@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/m613n106c</field>
+    <field name="dc_description_s">Island of Guernsey, 1880</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">m613n106c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/m613n106c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fm6%2F13%2Fn1%2F06%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">m613n106c</field>
+    <field name="layer_slug_s">princeton-m613n106c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:16Z</field>
+    <field name="dc_title_s">Island of Guernsey, 1880</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Guernsey (Channel Islands)</field>
+    <field name="dct_temporal_sm">1880</field>
+    <field name="georss_box_s">49.4155331 -2.6751702 49.5090776 -2.5018139</field>
+    <field name="georss_polygon_s">49.5090776 -2.6751702 49.5090776 -2.5018139 49.4155331 -2.5018139 49.4155331 -2.6751702 49.5090776 -2.6751702</field>
+    <field name="solr_bbox">-2.6751702 49.4155331 -2.5018139 49.5090776</field>
+    <field name="solr_ne_pt">49.5090776,-2.5018139</field>
+    <field name="solr_sw_pt">49.4155331,-2.6751702</field>
+    <field name="solr_geom">ENVELOPE(-2.6751702, -2.5018139, 49.5090776, 49.4155331)</field>
+    <field name="solr_year_i">1880</field>
+  </doc>
+</add>

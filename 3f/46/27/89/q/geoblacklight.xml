@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3f462789q</field>
+    <field name="dc_creator_sm">Hurd, Thomas,</field>
+    <field name="dc_creator_sm">Stanley, Owen.</field>
+    <field name="dc_creator_sm">Walker, J.,</field>
+    <field name="dc_description_s">The Bay of Coquimbo from a Spanish m.s. : Port Herradura</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3f462789q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3f462789q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F3f%2F46%2F27%2F89%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3f462789q</field>
+    <field name="layer_slug_s">princeton-3f462789q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">The Bay of Coquimbo from a Spanish m.s. : Port Herradura</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Coquimbo Bay (Chile)</field>
+    <field name="dct_temporal_sm">1864</field>
+    <field name="georss_box_s">-30.325025375 -71.7469009418 -29.743118675 -71.1875008418</field>
+    <field name="georss_polygon_s">-29.743118675 -71.7469009418 -29.743118675 -71.1875008418 -30.325025375 -71.1875008418 -30.325025375 -71.7469009418 -29.743118675 -71.7469009418</field>
+    <field name="solr_bbox">-71.7469009418 -30.325025375 -71.1875008418 -29.743118675</field>
+    <field name="solr_ne_pt">-29.743118675,-71.1875008418</field>
+    <field name="solr_sw_pt">-30.325025375,-71.7469009418</field>
+    <field name="solr_geom">ENVELOPE(-71.7469009418, -71.1875008418, -29.743118675, -30.325025375)</field>
+    <field name="solr_year_i">1864</field>
+  </doc>
+</add>

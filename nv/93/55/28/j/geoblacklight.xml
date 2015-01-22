@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/nv935528j</field>
+    <field name="dc_creator_sm">Jones, Benjamin,</field>
+    <field name="dc_creator_sm">Wayne, Caleb Parry,</field>
+    <field name="dc_creator_sm">Marshall, John,</field>
+    <field name="dc_description_s">A map of part of Rhode Island shewing the positions of the American and British armies at the siege of Newport, and the subsequent action on the 29th of August, 1778</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">nv935528j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/nv935528j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fnv%2F93%2F55%2F28%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">nv935528j</field>
+    <field name="layer_slug_s">princeton-nv935528j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:04Z</field>
+    <field name="dc_title_s">A map of part of Rhode Island shewing the positions of the American and British armies at the siege of Newport, and the subsequent action on the 29th of August, 1778</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Narragansett Bay (R.I.)</field>
+    <field name="dct_spatial_sm">Newport (R.I.)</field>
+    <field name="dct_spatial_sm">Rhode Island</field>
+    <field name="dct_spatial_sm">Rhode Island</field>
+    <field name="dct_temporal_sm">1807</field>
+    <field name="georss_box_s">41.601163 -71.3220458 41.601263 -71.3219458</field>
+    <field name="georss_polygon_s">41.601263 -71.3220458 41.601263 -71.3219458 41.601163 -71.3219458 41.601163 -71.3220458 41.601263 -71.3220458</field>
+    <field name="solr_bbox">-71.3220458 41.601163 -71.3219458 41.601263</field>
+    <field name="solr_ne_pt">41.601263,-71.3219458</field>
+    <field name="solr_sw_pt">41.601163,-71.3220458</field>
+    <field name="solr_geom">ENVELOPE(-71.3220458, -71.3219458, 41.601263, 41.601163)</field>
+    <field name="solr_year_i">1807</field>
+  </doc>
+</add>

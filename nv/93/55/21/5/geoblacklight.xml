@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/nv9355215</field>
+    <field name="dc_creator_sm">Lafréry, Antoine,</field>
+    <field name="dc_description_s">Disegno de porti e forti del' Isola de Malta : con la pianta dela nuoua citta Valetta edifficatta dal' ... Fra Giouan de Valetta &amp; per l'alphabetto qui sotto annottato si conoscera le cose piu notabili apertenenti à sudetti luoghi</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">nv9355215</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/nv9355215/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fnv%2F93%2F55%2F21%2F5%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">nv9355215</field>
+    <field name="layer_slug_s">princeton-nv9355215</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:57Z</field>
+    <field name="dc_title_s">Disegno de porti e forti del' Isola de Malta : con la pianta dela nuoua citta Valetta edifficatta dal' ... Fra Giouan de Valetta &amp; per l'alphabetto qui sotto annottato si conoscera le cose piu notabili apertenenti à sudetti luoghi</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Malta</field>
+    <field name="dct_spatial_sm">Valletta (Malta)</field>
+    <field name="dct_temporal_sm">1566</field>
+    <field name="georss_box_s">35.6029696 13.9324226 36.2852706 14.8267966</field>
+    <field name="georss_polygon_s">36.2852706 13.9324226 36.2852706 14.8267966 35.6029696 14.8267966 35.6029696 13.9324226 36.2852706 13.9324226</field>
+    <field name="solr_bbox">13.9324226 35.6029696 14.8267966 36.2852706</field>
+    <field name="solr_ne_pt">36.2852706,14.8267966</field>
+    <field name="solr_sw_pt">35.6029696,13.9324226</field>
+    <field name="solr_geom">ENVELOPE(13.9324226, 14.8267966, 36.2852706, 35.6029696)</field>
+    <field name="solr_year_i">1566</field>
+  </doc>
+</add>

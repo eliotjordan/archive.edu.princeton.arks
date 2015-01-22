@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/r781wh864</field>
+    <field name="dc_creator_sm">Webb, Philip Barker,</field>
+    <field name="dc_description_s">Carte topographique de l'Ile de Ténériffe /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">r781wh864</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/r781wh864/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fr7%2F81%2Fwh%2F86%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">r781wh864</field>
+    <field name="layer_slug_s">princeton-r781wh864</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:45Z</field>
+    <field name="dc_title_s">Carte topographique de l'Ile de Ténériffe /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Tenerife (Canary Islands)</field>
+    <field name="dct_temporal_sm">1834</field>
+    <field name="georss_box_s">27.9980751 -16.9259265 28.6053951 -16.1193832</field>
+    <field name="georss_polygon_s">28.6053951 -16.9259265 28.6053951 -16.1193832 27.9980751 -16.1193832 27.9980751 -16.9259265 28.6053951 -16.9259265</field>
+    <field name="solr_bbox">-16.9259265 27.9980751 -16.1193832 28.6053951</field>
+    <field name="solr_ne_pt">28.6053951,-16.1193832</field>
+    <field name="solr_sw_pt">27.9980751,-16.9259265</field>
+    <field name="solr_geom">ENVELOPE(-16.9259265, -16.1193832, 28.6053951, 27.9980751)</field>
+    <field name="solr_year_i">1834</field>
+  </doc>
+</add>

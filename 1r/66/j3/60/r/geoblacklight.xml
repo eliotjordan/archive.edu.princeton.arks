@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/1r66j360r</field>
+    <field name="dc_description_s">Suleimānîje</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">1r66j360r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/1r66j360r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F1r%2F66%2Fj3%2F60%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">1r66j360r</field>
+    <field name="layer_slug_s">princeton-1r66j360r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:12Z</field>
+    <field name="dc_title_s">Suleimānîje</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Sulaymānīyah (Iraq : Province)</field>
+    <field name="dct_temporal_sm">1918</field>
+    <field name="georss_box_s">34.6542512 44.5271578 36.486895 45.8735065</field>
+    <field name="georss_polygon_s">36.486895 44.5271578 36.486895 45.8735065 34.6542512 45.8735065 34.6542512 44.5271578 36.486895 44.5271578</field>
+    <field name="solr_bbox">44.5271578 34.6542512 45.8735065 36.486895</field>
+    <field name="solr_ne_pt">36.486895,45.8735065</field>
+    <field name="solr_sw_pt">34.6542512,44.5271578</field>
+    <field name="solr_geom">ENVELOPE(44.5271578, 45.8735065, 36.486895, 34.6542512)</field>
+    <field name="solr_year_i">1918</field>
+  </doc>
+</add>

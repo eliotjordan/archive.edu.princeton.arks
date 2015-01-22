@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/rn301390n</field>
+    <field name="dc_creator_sm">Keller, C. L.,</field>
+    <field name="dc_creator_sm">Philippson, Alfred,</field>
+    <field name="dc_description_s">Karte von Epirus und West-Thessalien</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">rn301390n</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/rn301390n/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Frn%2F30%2F13%2F90%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">rn301390n</field>
+    <field name="layer_slug_s">princeton-rn301390n</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:26Z</field>
+    <field name="dc_title_s">Karte von Epirus und West-Thessalien</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Epirus (Greece and Albania)</field>
+    <field name="dct_spatial_sm">Thessaly (Greece)</field>
+    <field name="dct_temporal_sm">1895</field>
+    <field name="georss_box_s">38.9444953 20.0086771 40.3766028 21.4299492</field>
+    <field name="georss_polygon_s">40.3766028 20.0086771 40.3766028 21.4299492 38.9444953 21.4299492 38.9444953 20.0086771 40.3766028 20.0086771</field>
+    <field name="solr_bbox">20.0086771 38.9444953 21.4299492 40.3766028</field>
+    <field name="solr_ne_pt">40.3766028,21.4299492</field>
+    <field name="solr_sw_pt">38.9444953,20.0086771</field>
+    <field name="solr_geom">ENVELOPE(20.0086771, 21.4299492, 40.3766028, 38.9444953)</field>
+    <field name="solr_year_i">1895</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/h989r5102</field>
+    <field name="dc_creator_sm">Hinton, John,</field>
+    <field name="dc_description_s">An accurate map of all the countries bordering on the eastern parts of the Mediterranean Sea : from the latest improvements</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">h989r5102</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/h989r5102/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fh9%2F89%2Fr5%2F10%2F2%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">h989r5102</field>
+    <field name="layer_slug_s">princeton-h989r5102</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:49Z</field>
+    <field name="dc_title_s">An accurate map of all the countries bordering on the eastern parts of the Mediterranean Sea : from the latest improvements</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Mediterranean Sea</field>
+    <field name="dct_spatial_sm">Italy</field>
+    <field name="dct_spatial_sm">Turkey</field>
+    <field name="dct_spatial_sm">Greece</field>
+    <field name="dct_spatial_sm">Balkan Peninsula</field>
+    <field name="dct_temporal_sm">1760</field>
+    <field name="georss_box_s">34.9999535 19.9999457 35.0000535 20.0000457</field>
+    <field name="georss_polygon_s">35.0000535 19.9999457 35.0000535 20.0000457 34.9999535 20.0000457 34.9999535 19.9999457 35.0000535 19.9999457</field>
+    <field name="solr_bbox">19.9999457 34.9999535 20.0000457 35.0000535</field>
+    <field name="solr_ne_pt">35.0000535,20.0000457</field>
+    <field name="solr_sw_pt">34.9999535,19.9999457</field>
+    <field name="solr_geom">ENVELOPE(19.9999457, 20.0000457, 35.0000535, 34.9999535)</field>
+    <field name="solr_year_i">1760</field>
+  </doc>
+</add>

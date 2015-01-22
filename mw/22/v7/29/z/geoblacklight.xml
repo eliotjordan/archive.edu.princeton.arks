@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/mw22v729z</field>
+    <field name="dc_creator_sm">Ortelius, Abraham,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Carthaginis celeberrimi sinus typus</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">mw22v729z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/mw22v729z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fmw%2F22%2Fv7%2F29%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">mw22v729z</field>
+    <field name="layer_slug_s">princeton-mw22v729z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:43Z</field>
+    <field name="dc_title_s">Carthaginis celeberrimi sinus typus</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Carthage (Extinct city)</field>
+    <field name="dct_temporal_sm">1570</field>
+    <field name="georss_box_s">36.811627 10.2904407 36.891627 10.3704407</field>
+    <field name="georss_polygon_s">36.891627 10.2904407 36.891627 10.3704407 36.811627 10.3704407 36.811627 10.2904407 36.891627 10.2904407</field>
+    <field name="solr_bbox">10.2904407 36.811627 10.3704407 36.891627</field>
+    <field name="solr_ne_pt">36.891627,10.3704407</field>
+    <field name="solr_sw_pt">36.811627,10.2904407</field>
+    <field name="solr_geom">ENVELOPE(10.2904407, 10.3704407, 36.891627, 36.811627)</field>
+    <field name="solr_year_i">1570</field>
+  </doc>
+</add>

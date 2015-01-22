@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/th83m184q</field>
+    <field name="dc_creator_sm">Bache, A. D.</field>
+    <field name="dc_creator_sm">Boyce, W. M.</field>
+    <field name="dc_creator_sm">Neilson, J. C.</field>
+    <field name="dc_creator_sm">McArthur, W. P.</field>
+    <field name="dc_creator_sm">Adams, J. H.</field>
+    <field name="dc_creator_sm">Smith, W.</field>
+    <field name="dc_creator_sm">Pettit, S. T.</field>
+    <field name="dc_creator_sm">Mathiot, G.</field>
+    <field name="dc_creator_sm">Humphreys, A. A.</field>
+    <field name="dc_description_s">Pasquotank River</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">th83m184q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/th83m184q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fth%2F83%2Fm1%2F84%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">th83m184q</field>
+    <field name="layer_slug_s">princeton-th83m184q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:25Z</field>
+    <field name="dc_title_s">Pasquotank River</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Pasquotank River (N.C.)</field>
+    <field name="dct_spatial_sm">Pasquotank River (N.C.)</field>
+    <field name="dct_temporal_sm">1850</field>
+    <field name="georss_box_s">36.422708 -76.3513059 36.428477 -76.3471439</field>
+    <field name="georss_polygon_s">36.428477 -76.3513059 36.428477 -76.3471439 36.422708 -76.3471439 36.422708 -76.3513059 36.428477 -76.3513059</field>
+    <field name="solr_bbox">-76.3513059 36.422708 -76.3471439 36.428477</field>
+    <field name="solr_ne_pt">36.428477,-76.3471439</field>
+    <field name="solr_sw_pt">36.422708,-76.3513059</field>
+    <field name="solr_geom">ENVELOPE(-76.3513059, -76.3471439, 36.428477, 36.422708)</field>
+    <field name="solr_year_i">1850</field>
+  </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/gt54kq47r</field>
+    <field name="dc_creator_sm">Seymour, Stephen</field>
+    <field name="dc_creator_sm">Hurd, Thomas,</field>
+    <field name="dc_creator_sm">Walker, J.,</field>
+    <field name="dc_description_s">Mosquito Cove, on the north side of Jamaica</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">gt54kq47r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/gt54kq47r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fgt%2F54%2Fkq%2F47%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">gt54kq47r</field>
+    <field name="layer_slug_s">princeton-gt54kq47r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">Mosquito Cove, on the north side of Jamaica</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Mosquito Cove (Jamaica)</field>
+    <field name="dct_temporal_sm">1815</field>
+    <field name="georss_box_s">17.7057243 -78.3688461 18.5253104 -76.183159</field>
+    <field name="georss_polygon_s">18.5253104 -78.3688461 18.5253104 -76.183159 17.7057243 -76.183159 17.7057243 -78.3688461 18.5253104 -78.3688461</field>
+    <field name="solr_bbox">-78.3688461 17.7057243 -76.183159 18.5253104</field>
+    <field name="solr_ne_pt">18.5253104,-76.183159</field>
+    <field name="solr_sw_pt">17.7057243,-78.3688461</field>
+    <field name="solr_geom">ENVELOPE(-78.3688461, -76.183159, 18.5253104, 17.7057243)</field>
+    <field name="solr_year_i">1815</field>
+  </doc>
+</add>

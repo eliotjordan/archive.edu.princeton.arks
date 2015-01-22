@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/xw42nb27r</field>
+    <field name="dc_creator_sm">Vandermaelen, Philippe,</field>
+    <field name="dc_description_s">Partie du Mexique</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">xw42nb27r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/xw42nb27r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fxw%2F42%2Fnb%2F27%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">xw42nb27r</field>
+    <field name="layer_slug_s">princeton-xw42nb27r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:58Z</field>
+    <field name="dc_title_s">Partie du Mexique</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Mexico (State)</field>
+    <field name="dct_temporal_sm">1827</field>
+    <field name="georss_box_s">19.2725301 -99.2932102 19.5925301 -98.9732102</field>
+    <field name="georss_polygon_s">19.5925301 -99.2932102 19.5925301 -98.9732102 19.2725301 -98.9732102 19.2725301 -99.2932102 19.5925301 -99.2932102</field>
+    <field name="solr_bbox">-99.2932102 19.2725301 -98.9732102 19.5925301</field>
+    <field name="solr_ne_pt">19.5925301,-98.9732102</field>
+    <field name="solr_sw_pt">19.2725301,-99.2932102</field>
+    <field name="solr_geom">ENVELOPE(-99.2932102, -98.9732102, 19.5925301, 19.2725301)</field>
+    <field name="solr_year_i">1827</field>
+  </doc>
+</add>

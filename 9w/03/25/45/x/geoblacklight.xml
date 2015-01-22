@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9w032545x</field>
+    <field name="dc_creator_sm">Marshall, John,</field>
+    <field name="dc_creator_sm">Seymour, Joseph H.,</field>
+    <field name="dc_description_s">A map of the country from Rariton River in East Jersey to Elk Head in Maryland : shewing the several operations of the American and British armies, in 1776 &amp; 1777</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9w032545x</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9w032545x/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9w%2F03%2F25%2F45%2Fx%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9w032545x</field>
+    <field name="layer_slug_s">princeton-9w032545x</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:00Z</field>
+    <field name="dc_title_s">A map of the country from Rariton River in East Jersey to Elk Head in Maryland : shewing the several operations of the American and British armies, in 1776 &amp; 1777</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Delaware River Valley (N.Y.-Del. and N.J.)</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_temporal_sm">1807</field>
+    <field name="georss_box_s">39.4281633 -75.6153473 41.9390068 -74.6877586</field>
+    <field name="georss_polygon_s">41.9390068 -75.6153473 41.9390068 -74.6877586 39.4281633 -74.6877586 39.4281633 -75.6153473 41.9390068 -75.6153473</field>
+    <field name="solr_bbox">-75.6153473 39.4281633 -74.6877586 41.9390068</field>
+    <field name="solr_ne_pt">41.9390068,-74.6877586</field>
+    <field name="solr_sw_pt">39.4281633,-75.6153473</field>
+    <field name="solr_geom">ENVELOPE(-75.6153473, -74.6877586, 41.9390068, 39.4281633)</field>
+    <field name="solr_year_i">1807</field>
+  </doc>
+</add>
