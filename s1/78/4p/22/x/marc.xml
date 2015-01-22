@@ -1,0 +1,93 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01362cam a2200265 a 4500</marc:leader>
+        <marc:controlfield tag="001">7064410</marc:controlfield>
+        <marc:controlfield tag="005">20121011075930.0</marc:controlfield>
+        <marc:controlfield tag="008">970131s1893    gw            001   ger  </marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Fischer, Hans.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="0">
+            <marc:subfield code="a">Neue Handkarte von Palästina im Massstabe von 1:700 000 :</marc:subfield>
+            <marc:subfield code="b">nebst alphabetischem Namen-Verzeichnis und Quellen-Nachweis /</marc:subfield>
+            <marc:subfield code="c">bearbeitet von Dr. Hans Fischer und Prof. Lic. H. Guthe.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="3" ind2=" ">
+            <marc:subfield code="a">Palästina</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">Leipzig :</marc:subfield>
+            <marc:subfield code="b">Verlag der Geograph. Anstalt von H. Wagner &amp; E. Debes,</marc:subfield>
+            <marc:subfield code="c">1893.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">8 p. ;</marc:subfield>
+            <marc:subfield code="c">46 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Accompanies map: Palästina / Bearbeitet von Dr. Hans Fischer &amp; Prof. Lic. H. Guthe. Leipzig : Verlag der Geograph. Anstalt von H. Wagner &amp; E. Debes, 1893 (HMC01.2668A).</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Palestine</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Guthe, Hermann.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the pages (title page)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27244</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the pages (index 1-2</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27245</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the pages (index 3)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27246</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the pages (essay 5</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27247</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the pages (essay 6-7)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27248</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the pages (essay 8)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/27249</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20120501</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">a</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20120501</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00173nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">6943631</marc:controlfield>
+        <marc:controlfield tag="004">7064410</marc:controlfield>
+        <marc:controlfield tag="005">20120501140749.0</marc:controlfield>
+        <marc:controlfield tag="008">1205014u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.2668B</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>

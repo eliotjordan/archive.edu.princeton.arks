@@ -1,0 +1,106 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01326cem a2200265 a 4500</marc:leader>
+        <marc:controlfield tag="001">8558797</marc:controlfield>
+        <marc:controlfield tag="005">20140807091157.0</marc:controlfield>
+        <marc:controlfield tag="007">aj canzn</marc:controlfield>
+        <marc:controlfield tag="008">950502s1747    fr i      a     0   fre d</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="1" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+            <marc:subfield code="b">280000</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">e-it---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="100" ind1="1" ind2=" ">
+            <marc:subfield code="a">Le Rouge, Georges-Louis.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="1" ind2="2">
+            <marc:subfield code="a">L'etat de la République de Genes</marc:subfield>
+            <marc:subfield code="h">[map] :</marc:subfield>
+            <marc:subfield code="b">tiré des meillieurs cartes d'Italie corrigé sur les lieux = Stato di Genova con altri adiacenti : dedicato all' impareggiabile merito di S.A.S. il signor conte di Sassonia, maresciallo generale delle armate di S.M. Christianissima /</marc:subfield>
+            <marc:subfield code="c">dal suo hummo. divotmo. et obligatmo. servitore Le Rouge.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="246" ind1="1" ind2=" ">
+            <marc:subfield code="a">Stato di Genoa con altri adiacenti</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale [ca. 1:280,000]</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">À Paris :</marc:subfield>
+            <marc:subfield code="b">chez le Sr. Le Rouge ingenr. géographe du roy, rue des Augustins coin de la rue St. André,</marc:subfield>
+            <marc:subfield code="c">1747.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map on 2 sheets :</marc:subfield>
+            <marc:subfield code="b">hand col. ;</marc:subfield>
+            <marc:subfield code="c">42 x 108 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Map of the Republic of Genoa. Relief shown pictorially.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Genoa (Italy)</marc:subfield>
+            <marc:subfield code="v">Maps</marc:subfield>
+            <marc:subfield code="v">Early works to 1800.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Italy</marc:subfield>
+            <marc:subfield code="z">Genoa</marc:subfield>
+            <marc:subfield code="y">1747.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map (sheet 1)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/28964</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map (sheet 2)</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/28965</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20140723</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">2</marc:subfield>
+            <marc:subfield code="e">20140728</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">8299703</marc:controlfield>
+        <marc:controlfield tag="004">8558797</marc:controlfield>
+        <marc:controlfield tag="005">20140723142431.0</marc:controlfield>
+        <marc:controlfield tag="008">1407234u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.2549</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">8303079</marc:controlfield>
+        <marc:controlfield tag="004">8558797</marc:controlfield>
+        <marc:controlfield tag="005">20140728140010.0</marc:controlfield>
+        <marc:controlfield tag="008">1407284u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.2550</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
