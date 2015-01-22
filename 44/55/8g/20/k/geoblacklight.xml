@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/44558g20k</field>
+    <field name="dc_creator_sm">Sayer, Robert,</field>
+    <field name="dc_creator_sm">Dunn, Samuel,</field>
+    <field name="dc_description_s">First part of Turkey in Europe : containing Moldavia and Little Tartary with Krimea : to which is added the whole of the Black Sea</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">44558g20k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/44558g20k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F44%2F55%2F8g%2F20%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">44558g20k</field>
+    <field name="layer_slug_s">princeton-44558g20k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:49Z</field>
+    <field name="dc_title_s">First part of Turkey in Europe : containing Moldavia and Little Tartary with Krimea : to which is added the whole of the Black Sea</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Turkey</field>
+    <field name="dct_spatial_sm">Balkan Peninsula</field>
+    <field name="dct_temporal_sm">1774</field>
+    <field name="georss_box_s">35.8076804 25.6212891 42.297 44.8176638</field>
+    <field name="georss_polygon_s">42.297 25.6212891 42.297 44.8176638 35.8076804 44.8176638 35.8076804 25.6212891 42.297 25.6212891</field>
+    <field name="solr_bbox">25.6212891 35.8076804 44.8176638 42.297</field>
+    <field name="solr_ne_pt">42.297,44.8176638</field>
+    <field name="solr_sw_pt">35.8076804,25.6212891</field>
+    <field name="solr_geom">ENVELOPE(25.6212891, 44.8176638, 42.297, 35.8076804)</field>
+    <field name="solr_year_i">1774</field>
+  </doc>
+</add>

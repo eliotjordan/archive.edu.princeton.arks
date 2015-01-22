@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/4j03d2117</field>
+    <field name="dc_description_s">Nieuwe plattegrond van 's Gravenhage</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">4j03d2117</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/4j03d2117/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F4j%2F03%2Fd2%2F11%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">4j03d2117</field>
+    <field name="layer_slug_s">princeton-4j03d2117</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:10Z</field>
+    <field name="dc_title_s">Nieuwe plattegrond van 's Gravenhage</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Hague (Netherlands)</field>
+    <field name="dct_temporal_sm">1879</field>
+    <field name="georss_box_s">52.0148484 4.1849985 52.1350362 4.4224897</field>
+    <field name="georss_polygon_s">52.1350362 4.1849985 52.1350362 4.4224897 52.0148484 4.4224897 52.0148484 4.1849985 52.1350362 4.1849985</field>
+    <field name="solr_bbox">4.1849985 52.0148484 4.4224897 52.1350362</field>
+    <field name="solr_ne_pt">52.1350362,4.4224897</field>
+    <field name="solr_sw_pt">52.0148484,4.1849985</field>
+    <field name="solr_geom">ENVELOPE(4.1849985, 4.4224897, 52.1350362, 52.0148484)</field>
+    <field name="solr_year_i">1879</field>
+  </doc>
+</add>

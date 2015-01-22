@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sq87bw69b</field>
+    <field name="dc_creator_sm">Stanford, Edward,</field>
+    <field name="dc_description_s">Davies's new map of the British metropolis : the boundaries of the boroughs, county court districts, railways, and modern improvements</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sq87bw69b</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sq87bw69b/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsq%2F87%2Fbw%2F69%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sq87bw69b</field>
+    <field name="layer_slug_s">princeton-sq87bw69b</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:54Z</field>
+    <field name="dc_title_s">Davies's new map of the British metropolis : the boundaries of the boroughs, county court districts, railways, and modern improvements</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">London (England)</field>
+    <field name="dct_temporal_sm">1888</field>
+    <field name="georss_box_s">51.2867602 -0.510375 51.6918741 0.3340155</field>
+    <field name="georss_polygon_s">51.6918741 -0.510375 51.6918741 0.3340155 51.2867602 0.3340155 51.2867602 -0.510375 51.6918741 -0.510375</field>
+    <field name="solr_bbox">-0.510375 51.2867602 0.3340155 51.6918741</field>
+    <field name="solr_ne_pt">51.6918741,0.3340155</field>
+    <field name="solr_sw_pt">51.2867602,-0.510375</field>
+    <field name="solr_geom">ENVELOPE(-0.510375, 0.3340155, 51.6918741, 51.2867602)</field>
+    <field name="solr_year_i">1888</field>
+  </doc>
+</add>

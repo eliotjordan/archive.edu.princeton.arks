@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/c821gn25t</field>
+    <field name="dc_creator_sm">Tramezzino, Michele,</field>
+    <field name="dc_creator_sm">Bos, Jacob,</field>
+    <field name="dc_description_s">Brabantiae Belgarum provinciae recens exactaque descriptio</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">c821gn25t</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/c821gn25t/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fc8%2F21%2Fgn%2F25%2Ft%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">c821gn25t</field>
+    <field name="layer_slug_s">princeton-c821gn25t</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:12Z</field>
+    <field name="dc_title_s">Brabantiae Belgarum provinciae recens exactaque descriptio</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Brabant (Belgium)</field>
+    <field name="dct_spatial_sm">North Brabant (Netherlands)</field>
+    <field name="dct_spatial_sm">Maps</field>
+    <field name="dct_temporal_sm">1558</field>
+    <field name="georss_box_s">51.2209373 4.190081 51.8307142 6.047724</field>
+    <field name="georss_polygon_s">51.8307142 4.190081 51.8307142 6.047724 51.2209373 6.047724 51.2209373 4.190081 51.8307142 4.190081</field>
+    <field name="solr_bbox">4.190081 51.2209373 6.047724 51.8307142</field>
+    <field name="solr_ne_pt">51.8307142,6.047724</field>
+    <field name="solr_sw_pt">51.2209373,4.190081</field>
+    <field name="solr_geom">ENVELOPE(4.190081, 6.047724, 51.8307142, 51.2209373)</field>
+    <field name="solr_year_i">1558</field>
+  </doc>
+</add>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/hq37vq426</field>
+    <field name="dc_description_s">Algeria, Tunis and Morocco</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">hq37vq426</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/hq37vq426/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fhq%2F37%2Fvq%2F42%2F6%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">hq37vq426</field>
+    <field name="layer_slug_s">princeton-hq37vq426</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:45Z</field>
+    <field name="dc_title_s">Algeria, Tunis and Morocco</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Algeria</field>
+    <field name="dct_spatial_sm">Tunisia</field>
+    <field name="dct_spatial_sm">Morocco</field>
+    <field name="dct_temporal_sm">1902</field>
+    <field name="georss_box_s">18.968147 -8.6689089 37.2962055 11.997337</field>
+    <field name="georss_polygon_s">37.2962055 -8.6689089 37.2962055 11.997337 18.968147 11.997337 18.968147 -8.6689089 37.2962055 -8.6689089</field>
+    <field name="solr_bbox">-8.6689089 18.968147 11.997337 37.2962055</field>
+    <field name="solr_ne_pt">37.2962055,11.997337</field>
+    <field name="solr_sw_pt">18.968147,-8.6689089</field>
+    <field name="solr_geom">ENVELOPE(-8.6689089, 11.997337, 37.2962055, 18.968147)</field>
+    <field name="solr_year_i">1902</field>
+  </doc>
+</add>

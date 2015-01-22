@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ks65hf67p</field>
+    <field name="dc_description_s">Ṭarâbulus</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ks65hf67p</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ks65hf67p/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fks%2F65%2Fhf%2F67%2Fp%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ks65hf67p</field>
+    <field name="layer_slug_s">princeton-ks65hf67p</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:12Z</field>
+    <field name="dc_title_s">Ṭarâbulus</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Ṭarābulus (Libya : Province)</field>
+    <field name="dct_temporal_sm">1918</field>
+    <field name="georss_box_s">32.736672 13.0177923 33.056672 13.3377923</field>
+    <field name="georss_polygon_s">33.056672 13.0177923 33.056672 13.3377923 32.736672 13.3377923 32.736672 13.0177923 33.056672 13.0177923</field>
+    <field name="solr_bbox">13.0177923 32.736672 13.3377923 33.056672</field>
+    <field name="solr_ne_pt">33.056672,13.3377923</field>
+    <field name="solr_sw_pt">32.736672,13.0177923</field>
+    <field name="solr_geom">ENVELOPE(13.0177923, 13.3377923, 33.056672, 32.736672)</field>
+    <field name="solr_year_i">1918</field>
+  </doc>
+</add>

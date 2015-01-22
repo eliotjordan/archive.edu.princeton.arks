@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2227mr50r</field>
+    <field name="dc_creator_sm">Wharton, W. J. L.</field>
+    <field name="dc_creator_sm">Graves, Thomas.</field>
+    <field name="dc_description_s">Gulf of Volos with Oreos and Atalanté Channels : south of C. Stavros with the coasts of Negropont from surveys by Captain T. Graves and the officers of H.M.S. Volage, 1846-7 : north of C. Stavros from a survey by Commander LS. Dawson, R.N., assisted by Lieuts. G.C. Frederick, H.H. Douglas, H. Thompson, S.T. Dean Pitt, P.N. Richards, P.C. Musgrave, and E.A. Day, H.M. Surveying Ship Sylvia 1887-8 ...</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2227mr50r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2227mr50r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F22%2F27%2Fmr%2F50%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2227mr50r</field>
+    <field name="layer_slug_s">princeton-2227mr50r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:46Z</field>
+    <field name="dc_title_s">Gulf of Volos with Oreos and Atalanté Channels : south of C. Stavros with the coasts of Negropont from surveys by Captain T. Graves and the officers of H.M.S. Volage, 1846-7 : north of C. Stavros from a survey by Commander LS. Dawson, R.N., assisted by Lieuts. G.C. Frederick, H.H. Douglas, H. Thompson, S.T. Dean Pitt, P.N. Richards, P.C. Musgrave, and E.A. Day, H.M. Surveying Ship Sylvia 1887-8 ...</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Greece</field>
+    <field name="dct_spatial_sm">Volos, Gulf of (Greece)</field>
+    <field name="dct_spatial_sm">Mediterranean Sea</field>
+    <field name="dct_temporal_sm">1908</field>
+    <field name="georss_box_s">34.7006096 19.2477876 41.7488862 29.7296986</field>
+    <field name="georss_polygon_s">41.7488862 19.2477876 41.7488862 29.7296986 34.7006096 29.7296986 34.7006096 19.2477876 41.7488862 19.2477876</field>
+    <field name="solr_bbox">19.2477876 34.7006096 29.7296986 41.7488862</field>
+    <field name="solr_ne_pt">41.7488862,29.7296986</field>
+    <field name="solr_sw_pt">34.7006096,19.2477876</field>
+    <field name="solr_geom">ENVELOPE(19.2477876, 29.7296986, 41.7488862, 34.7006096)</field>
+    <field name="solr_year_i">1908</field>
+  </doc>
+</add>

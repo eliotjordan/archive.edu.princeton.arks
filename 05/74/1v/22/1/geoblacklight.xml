@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/05741v221</field>
+    <field name="dc_description_s">Venetianische Kriegs-Begebenheiten</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">05741v221</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/05741v221/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F05%2F74%2F1v%2F22%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">05741v221</field>
+    <field name="layer_slug_s">princeton-05741v221</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:26Z</field>
+    <field name="dc_title_s">Venetianische Kriegs-Begebenheiten</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Messēnia (Greece)</field>
+    <field name="dct_spatial_sm">Messenia, Gulf of (Greece)</field>
+    <field name="dct_spatial_sm">Venice (Italy)</field>
+    <field name="dct_temporal_sm">1690</field>
+    <field name="georss_box_s">36.6891901 21.5387129 37.485153 22.4019497</field>
+    <field name="georss_polygon_s">37.485153 21.5387129 37.485153 22.4019497 36.6891901 22.4019497 36.6891901 21.5387129 37.485153 21.5387129</field>
+    <field name="solr_bbox">21.5387129 36.6891901 22.4019497 37.485153</field>
+    <field name="solr_ne_pt">37.485153,22.4019497</field>
+    <field name="solr_sw_pt">36.6891901,21.5387129</field>
+    <field name="solr_geom">ENVELOPE(21.5387129, 22.4019497, 37.485153, 36.6891901)</field>
+    <field name="solr_year_i">1690</field>
+  </doc>
+</add>

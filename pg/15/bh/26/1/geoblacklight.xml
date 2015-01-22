@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pg15bh261</field>
+    <field name="dc_creator_sm">Vandermaelen, Philippe,</field>
+    <field name="dc_description_s">Ile de Cuba</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pg15bh261</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/pg15bh261/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpg%2F15%2Fbh%2F26%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">pg15bh261</field>
+    <field name="layer_slug_s">princeton-pg15bh261</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:58Z</field>
+    <field name="dc_title_s">Ile de Cuba</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Bahamas</field>
+    <field name="dct_spatial_sm">Cuba</field>
+    <field name="dct_spatial_sm">Jamaica</field>
+    <field name="dct_temporal_sm">1827</field>
+    <field name="georss_box_s">20.7059846 -80.700194 27.4734551 -72.447752</field>
+    <field name="georss_polygon_s">27.4734551 -80.700194 27.4734551 -72.447752 20.7059846 -72.447752 20.7059846 -80.700194 27.4734551 -80.700194</field>
+    <field name="solr_bbox">-80.700194 20.7059846 -72.447752 27.4734551</field>
+    <field name="solr_ne_pt">27.4734551,-72.447752</field>
+    <field name="solr_sw_pt">20.7059846,-80.700194</field>
+    <field name="solr_geom">ENVELOPE(-80.700194, -72.447752, 27.4734551, 20.7059846)</field>
+    <field name="solr_year_i">1827</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pk02cd109</field>
+    <field name="dc_description_s">Carte des environs de Paris : comprenant partie des gouvernemens généraux de l'Isle de France, de Normandie, d'Orléanois et de Champagne</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pk02cd109</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/pk02cd109/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpk%2F02%2Fcd%2F10%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">pk02cd109</field>
+    <field name="layer_slug_s">princeton-pk02cd109</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:58Z</field>
+    <field name="dc_title_s">Carte des environs de Paris : comprenant partie des gouvernemens généraux de l'Isle de France, de Normandie, d'Orléanois et de Champagne</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Paris Region (France)</field>
+    <field name="dct_spatial_sm">Paris (France)</field>
+    <field name="dct_temporal_sm">1783</field>
+    <field name="georss_box_s">48.1200811 1.44617 49.241504 3.5590069</field>
+    <field name="georss_polygon_s">49.241504 1.44617 49.241504 3.5590069 48.1200811 3.5590069 48.1200811 1.44617 49.241504 1.44617</field>
+    <field name="solr_bbox">1.44617 48.1200811 3.5590069 49.241504</field>
+    <field name="solr_ne_pt">49.241504,3.5590069</field>
+    <field name="solr_sw_pt">48.1200811,1.44617</field>
+    <field name="solr_geom">ENVELOPE(1.44617, 3.5590069, 49.241504, 48.1200811)</field>
+    <field name="solr_year_i">1783</field>
+  </doc>
+</add>

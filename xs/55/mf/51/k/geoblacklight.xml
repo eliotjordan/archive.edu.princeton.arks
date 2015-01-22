@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/xs55mf51k</field>
+    <field name="dc_creator_sm">Acland, Henry W.</field>
+    <field name="dc_description_s">Map of Oxford, to illustrate Dr. Acland's Memoir on cholera in Oxford in 1854, : showing the localities in which cholera &amp; choleraic diarrhœa occurred in 1854, and cholera in 1832 &amp; 1849; together with the parts of the town described as unhealthy, by Omerod, Greenhill &amp; Allen, and a writer in the Oxford Herald; the parts remedied since the date of their descriptions; the districts still undrained; the parts of the river still contaminated by sewers, in 1855; and the contour levels</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">xs55mf51k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/xs55mf51k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fxs%2F55%2Fmf%2F51%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">xs55mf51k</field>
+    <field name="layer_slug_s">princeton-xs55mf51k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:06Z</field>
+    <field name="dc_title_s">Map of Oxford, to illustrate Dr. Acland's Memoir on cholera in Oxford in 1854, : showing the localities in which cholera &amp; choleraic diarrhœa occurred in 1854, and cholera in 1832 &amp; 1849; together with the parts of the town described as unhealthy, by Omerod, Greenhill &amp; Allen, and a writer in the Oxford Herald; the parts remedied since the date of their descriptions; the districts still undrained; the parts of the river still contaminated by sewers, in 1855; and the contour levels</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Oxford (England)</field>
+    <field name="dct_temporal_sm">1855</field>
+    <field name="georss_box_s">51.7109788 -1.3042471 51.7962658 -1.1758133</field>
+    <field name="georss_polygon_s">51.7962658 -1.3042471 51.7962658 -1.1758133 51.7109788 -1.1758133 51.7109788 -1.3042471 51.7962658 -1.3042471</field>
+    <field name="solr_bbox">-1.3042471 51.7109788 -1.1758133 51.7962658</field>
+    <field name="solr_ne_pt">51.7962658,-1.1758133</field>
+    <field name="solr_sw_pt">51.7109788,-1.3042471</field>
+    <field name="solr_geom">ENVELOPE(-1.3042471, -1.1758133, 51.7962658, 51.7109788)</field>
+    <field name="solr_year_i">1855</field>
+  </doc>
+</add>

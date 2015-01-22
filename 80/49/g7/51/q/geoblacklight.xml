@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8049g751q</field>
+    <field name="dc_description_s">Planta da cidade do Recife</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8049g751q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8049g751q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F80%2F49%2Fg7%2F51%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8049g751q</field>
+    <field name="layer_slug_s">princeton-8049g751q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:09Z</field>
+    <field name="dc_title_s">Planta da cidade do Recife</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Recife (Brazil)</field>
+    <field name="dct_temporal_sm">1900</field>
+    <field name="georss_box_s">-8.1551482 -35.0186477 -7.9263583 -34.8585524</field>
+    <field name="georss_polygon_s">-7.9263583 -35.0186477 -7.9263583 -34.8585524 -8.1551482 -34.8585524 -8.1551482 -35.0186477 -7.9263583 -35.0186477</field>
+    <field name="solr_bbox">-35.0186477 -8.1551482 -34.8585524 -7.9263583</field>
+    <field name="solr_ne_pt">-7.9263583,-34.8585524</field>
+    <field name="solr_sw_pt">-8.1551482,-35.0186477</field>
+    <field name="solr_geom">ENVELOPE(-35.0186477, -34.8585524, -7.9263583, -8.1551482)</field>
+    <field name="solr_year_i">1900</field>
+  </doc>
+</add>

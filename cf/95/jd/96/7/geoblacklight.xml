@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/cf95jd967</field>
+    <field name="dc_creator_sm">Woerl, Leo,</field>
+    <field name="dc_description_s">Karte der Fahrwege im Siebengebirge</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">cf95jd967</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/cf95jd967/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fcf%2F95%2Fjd%2F96%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">cf95jd967</field>
+    <field name="layer_slug_s">princeton-cf95jd967</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:20Z</field>
+    <field name="dc_title_s">Karte der Fahrwege im Siebengebirge</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">North Rhine-Westphalia (Germany)</field>
+    <field name="dct_spatial_sm">Siebengebirge (Germany)</field>
+    <field name="georss_box_s">50.322567 5.8663153 52.5314932 9.4615941</field>
+    <field name="georss_polygon_s">52.5314932 5.8663153 52.5314932 9.4615941 50.322567 9.4615941 50.322567 5.8663153 52.5314932 5.8663153</field>
+    <field name="solr_bbox">5.8663153 50.322567 9.4615941 52.5314932</field>
+    <field name="solr_ne_pt">52.5314932,9.4615941</field>
+    <field name="solr_sw_pt">50.322567,5.8663153</field>
+    <field name="solr_geom">ENVELOPE(5.8663153, 9.4615941, 52.5314932, 50.322567)</field>
+  </doc>
+</add>

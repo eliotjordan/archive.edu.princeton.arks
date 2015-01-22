@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/fx719p93s</field>
+    <field name="dc_creator_sm">Ortelius, Abraham,</field>
+    <field name="dc_description_s">Açores Insulae</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">fx719p93s</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/fx719p93s/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ffx%2F71%2F9p%2F93%2Fs%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">fx719p93s</field>
+    <field name="layer_slug_s">princeton-fx719p93s</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:10Z</field>
+    <field name="dc_title_s">Açores Insulae</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Azores</field>
+    <field name="dct_temporal_sm">1584</field>
+    <field name="georss_box_s">35.7248176 -31.5575302 39.9267353 -24.5325184</field>
+    <field name="georss_polygon_s">39.9267353 -31.5575302 39.9267353 -24.5325184 35.7248176 -24.5325184 35.7248176 -31.5575302 39.9267353 -31.5575302</field>
+    <field name="solr_bbox">-31.5575302 35.7248176 -24.5325184 39.9267353</field>
+    <field name="solr_ne_pt">39.9267353,-24.5325184</field>
+    <field name="solr_sw_pt">35.7248176,-31.5575302</field>
+    <field name="solr_geom">ENVELOPE(-31.5575302, -24.5325184, 39.9267353, 35.7248176)</field>
+    <field name="solr_year_i">1584</field>
+  </doc>
+</add>

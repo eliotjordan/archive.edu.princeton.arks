@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/bv73c2743</field>
+    <field name="dc_creator_sm">Mercator, Gerhard,</field>
+    <field name="dc_creator_sm">Fox, N. B.,</field>
+    <field name="dc_description_s">Nova Anglia, Novum Belgium, et Virginia</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">bv73c2743</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/bv73c2743/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fv%2F73%2Fc2%2F74%2F3%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">bv73c2743</field>
+    <field name="layer_slug_s">princeton-bv73c2743</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:55Z</field>
+    <field name="dc_title_s">Nova Anglia, Novum Belgium, et Virginia</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Canada</field>
+    <field name="dct_spatial_sm">New England</field>
+    <field name="dct_spatial_sm">New York (State)</field>
+    <field name="dct_spatial_sm">Virginia</field>
+    <field name="dct_temporal_sm">1636</field>
+    <field name="georss_box_s">41.6765556 -141.0027499 83.3362128 -52.323198</field>
+    <field name="georss_polygon_s">83.3362128 -141.0027499 83.3362128 -52.323198 41.6765556 -52.323198 41.6765556 -141.0027499 83.3362128 -141.0027499</field>
+    <field name="solr_bbox">-141.0027499 41.6765556 -52.323198 83.3362128</field>
+    <field name="solr_ne_pt">83.3362128,-52.323198</field>
+    <field name="solr_sw_pt">41.6765556,-141.0027499</field>
+    <field name="solr_geom">ENVELOPE(-141.0027499, -52.323198, 83.3362128, 41.6765556)</field>
+    <field name="solr_year_i">1636</field>
+  </doc>
+</add>

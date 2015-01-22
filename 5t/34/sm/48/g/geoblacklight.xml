@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/5t34sm48g</field>
+    <field name="dc_creator_sm">Mann, T. A.</field>
+    <field name="dc_creator_sm">Lotter, Tobias Conrad,</field>
+    <field name="dc_description_s">Carte de l'Océan Pacifique au nord de l'equateur, et des côtes qui le bornent des deux côtés : d'après les dernieres découvertes faites par les Espagnols, les Russes et les Anglois, jusqu'en 1780 = Charte des Stillen Weltmeers im Nördlichen Aequator und der Küsten die es auf beiden Seiten einschrænken : nach den neuesten, von den Spaniern, Russen und Engellændern bis 1780 gemachten Entdeckungen</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">5t34sm48g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/5t34sm48g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F5t%2F34%2Fsm%2F48%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">5t34sm48g</field>
+    <field name="layer_slug_s">princeton-5t34sm48g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:51Z</field>
+    <field name="dc_title_s">Carte de l'Océan Pacifique au nord de l'equateur, et des côtes qui le bornent des deux côtés : d'après les dernieres découvertes faites par les Espagnols, les Russes et les Anglois, jusqu'en 1780 = Charte des Stillen Weltmeers im Nördlichen Aequator und der Küsten die es auf beiden Seiten einschrænken : nach den neuesten, von den Spaniern, Russen und Engellændern bis 1780 gemachten Entdeckungen</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Pacific Ocean</field>
+    <field name="dct_temporal_sm">1781</field>
+    <field name="georss_box_s">-10.3757076 -151.2761694 -10.3756076 -151.2760694</field>
+    <field name="georss_polygon_s">-10.3756076 -151.2761694 -10.3756076 -151.2760694 -10.3757076 -151.2760694 -10.3757076 -151.2761694 -10.3756076 -151.2761694</field>
+    <field name="solr_bbox">-151.2761694 -10.3757076 -151.2760694 -10.3756076</field>
+    <field name="solr_ne_pt">-10.3756076,-151.2760694</field>
+    <field name="solr_sw_pt">-10.3757076,-151.2761694</field>
+    <field name="solr_geom">ENVELOPE(-151.2761694, -151.2760694, -10.3756076, -10.3757076)</field>
+    <field name="solr_year_i">1781</field>
+  </doc>
+</add>

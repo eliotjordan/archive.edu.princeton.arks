@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/f7623g07f</field>
+    <field name="dc_creator_sm">Braun, Georg,</field>
+    <field name="dc_creator_sm">Hogenberg, Frans,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Nordovicum, Angliae civitas</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">f7623g07f</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/f7623g07f/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ff7%2F62%2F3g%2F07%2Ff%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">f7623g07f</field>
+    <field name="layer_slug_s">princeton-f7623g07f</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:16Z</field>
+    <field name="dc_title_s">Nordovicum, Angliae civitas</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Norwich (England)</field>
+    <field name="dct_temporal_sm">1581</field>
+    <field name="georss_box_s">52.468606 1.13227 52.788606 1.45227</field>
+    <field name="georss_polygon_s">52.788606 1.13227 52.788606 1.45227 52.468606 1.45227 52.468606 1.13227 52.788606 1.13227</field>
+    <field name="solr_bbox">1.13227 52.468606 1.45227 52.788606</field>
+    <field name="solr_ne_pt">52.788606,1.45227</field>
+    <field name="solr_sw_pt">52.468606,1.13227</field>
+    <field name="solr_geom">ENVELOPE(1.13227, 1.45227, 52.788606, 52.468606)</field>
+    <field name="solr_year_i">1581</field>
+  </doc>
+</add>

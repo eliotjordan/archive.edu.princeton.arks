@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/76537372f</field>
+    <field name="dc_description_s">L'Empire d'Allemagne divisé par cercles et en ses différens etats, avec les pays limitrophes : où l'on a distingué les places fortes et les ports, avec les routes des postes</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">76537372f</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/76537372f/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F76%2F53%2F73%2F72%2Ff%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">76537372f</field>
+    <field name="layer_slug_s">princeton-76537372f</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:58Z</field>
+    <field name="dc_title_s">L'Empire d'Allemagne divisé par cercles et en ses différens etats, avec les pays limitrophes : où l'on a distingué les places fortes et les ports, avec les routes des postes</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Holy Roman Empire</field>
+    <field name="dct_spatial_sm">Germany</field>
+    <field name="dct_temporal_sm">1758</field>
+    <field name="georss_box_s">43.1232537253 3.844858125 55.058347 20.13955245</field>
+    <field name="georss_polygon_s">55.058347 3.844858125 55.058347 20.13955245 43.1232537253 20.13955245 43.1232537253 3.844858125 55.058347 3.844858125</field>
+    <field name="solr_bbox">3.844858125 43.1232537253 20.13955245 55.058347</field>
+    <field name="solr_ne_pt">55.058347,20.13955245</field>
+    <field name="solr_sw_pt">43.1232537253,3.844858125</field>
+    <field name="solr_geom">ENVELOPE(3.844858125, 20.13955245, 55.058347, 43.1232537253)</field>
+    <field name="solr_year_i">1758</field>
+  </doc>
+</add>

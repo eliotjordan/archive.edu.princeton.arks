@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/tt44pq35k</field>
+    <field name="dc_creator_sm">Braun, Georg,</field>
+    <field name="dc_creator_sm">Hogenberg, Frans,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Goa, fortissima Indiæ vrbs in Christianorum potestatem, anno salutis 1509 deuenit</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">tt44pq35k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/tt44pq35k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ftt%2F44%2Fpq%2F35%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">tt44pq35k</field>
+    <field name="layer_slug_s">princeton-tt44pq35k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:20Z</field>
+    <field name="dc_title_s">Goa, fortissima Indiæ vrbs in Christianorum potestatem, anno salutis 1509 deuenit</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Velha Goa (India)</field>
+    <field name="dct_temporal_sm">1574</field>
+    <field name="georss_box_s">15.4818216 73.8932043 15.5218216 73.9332043</field>
+    <field name="georss_polygon_s">15.5218216 73.8932043 15.5218216 73.9332043 15.4818216 73.9332043 15.4818216 73.8932043 15.5218216 73.8932043</field>
+    <field name="solr_bbox">73.8932043 15.4818216 73.9332043 15.5218216</field>
+    <field name="solr_ne_pt">15.5218216,73.9332043</field>
+    <field name="solr_sw_pt">15.4818216,73.8932043</field>
+    <field name="solr_geom">ENVELOPE(73.8932043, 73.9332043, 15.5218216, 15.4818216)</field>
+    <field name="solr_year_i">1574</field>
+  </doc>
+</add>

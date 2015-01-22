@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/1c18dj19t</field>
+    <field name="dc_description_s">Plan of St. Petersburg : with it's [sic] fortifications, built by Peter the Great in 1703</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">1c18dj19t</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/1c18dj19t/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F1c%2F18%2Fdj%2F19%2Ft%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">1c18dj19t</field>
+    <field name="layer_slug_s">princeton-1c18dj19t</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:00Z</field>
+    <field name="dc_title_s">Plan of St. Petersburg : with it's [sic] fortifications, built by Peter the Great in 1703</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Saint Petersburg (Russia)</field>
+    <field name="dct_spatial_sm">Neva River (Russia)</field>
+    <field name="dct_temporal_sm">1749</field>
+    <field name="georss_box_s">59.7441481 30.0433427 60.0907368 30.5673028</field>
+    <field name="georss_polygon_s">60.0907368 30.0433427 60.0907368 30.5673028 59.7441481 30.5673028 59.7441481 30.0433427 60.0907368 30.0433427</field>
+    <field name="solr_bbox">30.0433427 59.7441481 30.5673028 60.0907368</field>
+    <field name="solr_ne_pt">60.0907368,30.5673028</field>
+    <field name="solr_sw_pt">59.7441481,30.0433427</field>
+    <field name="solr_geom">ENVELOPE(30.0433427, 30.5673028, 60.0907368, 59.7441481)</field>
+    <field name="solr_year_i">1749</field>
+  </doc>
+</add>

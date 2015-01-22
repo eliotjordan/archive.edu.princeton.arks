@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9k41zg41n</field>
+    <field name="dc_creator_sm">Tasman, Abel Janszoon,</field>
+    <field name="dc_creator_sm">Harris, John,</field>
+    <field name="dc_creator_sm">Thévenot, Melchisédec,</field>
+    <field name="dc_description_s">A complete map of the southern continent : survey'd by Capt. Abel Tasman &amp; depicted by order of the East India Company in Halland [sic] in the Stadt House at Amsterdam</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9k41zg41n</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9k41zg41n/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9k%2F41%2Fzg%2F41%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9k41zg41n</field>
+    <field name="layer_slug_s">princeton-9k41zg41n</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:51Z</field>
+    <field name="dc_title_s">A complete map of the southern continent : survey'd by Capt. Abel Tasman &amp; depicted by order of the East India Company in Halland [sic] in the Stadt House at Amsterdam</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Australasia</field>
+    <field name="dct_spatial_sm">Australia</field>
+    <field name="dct_spatial_sm">Australia</field>
+    <field name="dct_spatial_sm">New Zealand</field>
+    <field name="dct_spatial_sm">New Guinea</field>
+    <field name="dct_temporal_sm">1744</field>
+    <field name="georss_box_s">-49.8946 110.3247 4.872 -173.0645</field>
+    <field name="georss_polygon_s">4.872 110.3247 4.872 -173.0645 -49.8946 -173.0645 -49.8946 110.3247 4.872 110.3247</field>
+    <field name="solr_bbox">110.3247 -49.8946 -173.0645 4.872</field>
+    <field name="solr_ne_pt">4.872,-173.0645</field>
+    <field name="solr_sw_pt">-49.8946,110.3247</field>
+    <field name="solr_geom">ENVELOPE(110.3247, -173.0645, 4.872, -49.8946)</field>
+    <field name="solr_year_i">1744</field>
+  </doc>
+</add>

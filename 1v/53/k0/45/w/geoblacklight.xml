@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/1v53k045w</field>
+    <field name="dc_creator_sm">Bryant, T.</field>
+    <field name="dc_creator_sm">Rodriguez, M.</field>
+    <field name="dc_creator_sm">Bregante, F.</field>
+    <field name="dc_creator_sm">Cooper, John C.,</field>
+    <field name="dc_description_s">Carta de la costa occidental de la Florida y parte de la Isla de Cuba : segun los trabajos mas modernos nacionales y estrangeros</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">1v53k045w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/1v53k045w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F1v%2F53%2Fk0%2F45%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">1v53k045w</field>
+    <field name="layer_slug_s">princeton-1v53k045w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:16Z</field>
+    <field name="dc_title_s">Carta de la costa occidental de la Florida y parte de la Isla de Cuba : segun los trabajos mas modernos nacionales y estrangeros</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Florida</field>
+    <field name="dct_spatial_sm">Cuba</field>
+    <field name="dct_temporal_sm">1914</field>
+    <field name="georss_box_s">24.396308 -87.6348959 31.000968 -79.9743059</field>
+    <field name="georss_polygon_s">31.000968 -87.6348959 31.000968 -79.9743059 24.396308 -79.9743059 24.396308 -87.6348959 31.000968 -87.6348959</field>
+    <field name="solr_bbox">-87.6348959 24.396308 -79.9743059 31.000968</field>
+    <field name="solr_ne_pt">31.000968,-79.9743059</field>
+    <field name="solr_sw_pt">24.396308,-87.6348959</field>
+    <field name="solr_geom">ENVELOPE(-87.6348959, -79.9743059, 31.000968, 24.396308)</field>
+    <field name="solr_year_i">1914</field>
+  </doc>
+</add>

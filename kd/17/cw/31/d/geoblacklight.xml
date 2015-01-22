@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/kd17cw31d</field>
+    <field name="dc_creator_sm">Boxhorn, Marcus Zuerius,</field>
+    <field name="dc_description_s">Naerden</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">kd17cw31d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/kd17cw31d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fkd%2F17%2Fcw%2F31%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">kd17cw31d</field>
+    <field name="layer_slug_s">princeton-kd17cw31d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">Naerden</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Naarden (Netherlands)</field>
+    <field name="dct_temporal_sm">1632</field>
+    <field name="georss_box_s">52.2778164 5.0957711 52.3287089 5.2303567</field>
+    <field name="georss_polygon_s">52.3287089 5.0957711 52.3287089 5.2303567 52.2778164 5.2303567 52.2778164 5.0957711 52.3287089 5.0957711</field>
+    <field name="solr_bbox">5.0957711 52.2778164 5.2303567 52.3287089</field>
+    <field name="solr_ne_pt">52.3287089,5.2303567</field>
+    <field name="solr_sw_pt">52.2778164,5.0957711</field>
+    <field name="solr_geom">ENVELOPE(5.0957711, 5.2303567, 52.3287089, 52.2778164)</field>
+    <field name="solr_year_i">1632</field>
+  </doc>
+</add>

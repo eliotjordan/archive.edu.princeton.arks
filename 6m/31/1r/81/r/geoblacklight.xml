@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/6m311r81r</field>
+    <field name="dc_description_s">Nuevo mapa geographico de la America septentrional, perteneciente al Virreynato de Mexico dedicado à los sabios miembros de la Academia Real de las Ciencias de Paris /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">6m311r81r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/6m311r81r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F6m%2F31%2F1r%2F81%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">6m311r81r</field>
+    <field name="layer_slug_s">princeton-6m311r81r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:24Z</field>
+    <field name="dc_title_s">Nuevo mapa geographico de la America septentrional, perteneciente al Virreynato de Mexico dedicado à los sabios miembros de la Academia Real de las Ciencias de Paris /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Spain</field>
+    <field name="dct_spatial_sm">Mexico</field>
+    <field name="dct_temporal_sm">1772</field>
+    <field name="georss_box_s">14.5333037 -124.3409925 40.1334050884 -90.8853757875</field>
+    <field name="georss_polygon_s">40.1334050884 -124.3409925 40.1334050884 -90.8853757875 14.5333037 -90.8853757875 14.5333037 -124.3409925 40.1334050884 -124.3409925</field>
+    <field name="solr_bbox">-124.3409925 14.5333037 -90.8853757875 40.1334050884</field>
+    <field name="solr_ne_pt">40.1334050884,-90.8853757875</field>
+    <field name="solr_sw_pt">14.5333037,-124.3409925</field>
+    <field name="solr_geom">ENVELOPE(-124.3409925, -90.8853757875, 40.1334050884, 14.5333037)</field>
+    <field name="solr_year_i">1772</field>
+  </doc>
+</add>

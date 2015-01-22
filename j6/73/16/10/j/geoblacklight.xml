@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/j6731610j</field>
+    <field name="dc_creator_sm">Mitchell, S. Augustus</field>
+    <field name="dc_description_s">New Jersey</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">j6731610j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/j6731610j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F6%2F73%2F16%2F10%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">j6731610j</field>
+    <field name="layer_slug_s">princeton-j6731610j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:56Z</field>
+    <field name="dc_title_s">New Jersey</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_temporal_sm">1884</field>
+    <field name="georss_box_s">38.7911303 -75.5633859 41.357423 -73.8939789</field>
+    <field name="georss_polygon_s">41.357423 -75.5633859 41.357423 -73.8939789 38.7911303 -73.8939789 38.7911303 -75.5633859 41.357423 -75.5633859</field>
+    <field name="solr_bbox">-75.5633859 38.7911303 -73.8939789 41.357423</field>
+    <field name="solr_ne_pt">41.357423,-73.8939789</field>
+    <field name="solr_sw_pt">38.7911303,-75.5633859</field>
+    <field name="solr_geom">ENVELOPE(-75.5633859, -73.8939789, 41.357423, 38.7911303)</field>
+    <field name="solr_year_i">1884</field>
+  </doc>
+</add>

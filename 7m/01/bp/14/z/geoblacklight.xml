@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/7m01bp14z</field>
+    <field name="dc_creator_sm">Magini, Fabio,</field>
+    <field name="dc_creator_sm">Magini, Giovanni Antonio,</field>
+    <field name="dc_creator_sm">Sjöqvist, Erik,</field>
+    <field name="dc_description_s">Campagna di Roma, olim Latium : all' Illmo. et reumo. ... Sig. Luigi Care. Capponi</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">7m01bp14z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/7m01bp14z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F7m%2F01%2Fbp%2F14%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">7m01bp14z</field>
+    <field name="layer_slug_s">princeton-7m01bp14z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:07Z</field>
+    <field name="dc_title_s">Campagna di Roma, olim Latium : all' Illmo. et reumo. ... Sig. Luigi Care. Capponi</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Abruzzo (Italy)</field>
+    <field name="dct_spatial_sm">Lazio (Italy)</field>
+    <field name="dct_spatial_sm">Rome (Italy)</field>
+    <field name="dct_temporal_sm">1620</field>
+    <field name="georss_box_s">41.6830806 13.0194056 42.8950814 14.7838895</field>
+    <field name="georss_polygon_s">42.8950814 13.0194056 42.8950814 14.7838895 41.6830806 14.7838895 41.6830806 13.0194056 42.8950814 13.0194056</field>
+    <field name="solr_bbox">13.0194056 41.6830806 14.7838895 42.8950814</field>
+    <field name="solr_ne_pt">42.8950814,14.7838895</field>
+    <field name="solr_sw_pt">41.6830806,13.0194056</field>
+    <field name="solr_geom">ENVELOPE(13.0194056, 14.7838895, 42.8950814, 41.6830806)</field>
+    <field name="solr_year_i">1620</field>
+  </doc>
+</add>

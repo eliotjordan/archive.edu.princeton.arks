@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ff365708w</field>
+    <field name="dc_description_s">Carte du Sénégal, de la Falémé et de la Gambie : jusqu'aux limites ou ces rivières ont été explorées : comprenant les détails connus sur les pays qui les avoisinent et les routes suivies par les principaux voyageurs qui les ont parcourus : dressée sous la direction du Colonel du Génie L. Faidherbe ... /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ff365708w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ff365708w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fff%2F36%2F57%2F08%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ff365708w</field>
+    <field name="layer_slug_s">princeton-ff365708w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:43Z</field>
+    <field name="dc_title_s">Carte du Sénégal, de la Falémé et de la Gambie : jusqu'aux limites ou ces rivières ont été explorées : comprenant les détails connus sur les pays qui les avoisinent et les routes suivies par les principaux voyageurs qui les ont parcourus : dressée sous la direction du Colonel du Génie L. Faidherbe ... /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Senegal</field>
+    <field name="dct_spatial_sm">Gambia</field>
+    <field name="dct_temporal_sm">1861</field>
+    <field name="georss_box_s">12.167 -17.7862418 16.6919959 -11.3458995</field>
+    <field name="georss_polygon_s">16.6919959 -17.7862418 16.6919959 -11.3458995 12.167 -11.3458995 12.167 -17.7862418 16.6919959 -17.7862418</field>
+    <field name="solr_bbox">-17.7862418 12.167 -11.3458995 16.6919959</field>
+    <field name="solr_ne_pt">16.6919959,-11.3458995</field>
+    <field name="solr_sw_pt">12.167,-17.7862418</field>
+    <field name="solr_geom">ENVELOPE(-17.7862418, -11.3458995, 16.6919959, 12.167)</field>
+    <field name="solr_year_i">1861</field>
+  </doc>
+</add>

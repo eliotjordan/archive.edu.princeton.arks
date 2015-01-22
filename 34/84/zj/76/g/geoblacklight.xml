@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3484zj76g</field>
+    <field name="dc_creator_sm">Harris, John,</field>
+    <field name="dc_description_s">This draught of the North Pole is to shew all the countries near and adjacent to it, as also the most remarkable tracks of the bold discoverers of them, and particularly the attempts of our own countrymen to find out the N. East and N. West passages</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3484zj76g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3484zj76g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F34%2F84%2Fzj%2F76%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3484zj76g</field>
+    <field name="layer_slug_s">princeton-3484zj76g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:44Z</field>
+    <field name="dc_title_s">This draught of the North Pole is to shew all the countries near and adjacent to it, as also the most remarkable tracks of the bold discoverers of them, and particularly the attempts of our own countrymen to find out the N. East and N. West passages</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Northwest Passage</field>
+    <field name="dct_spatial_sm">Northeast Passage</field>
+    <field name="dct_spatial_sm">North Pole</field>
+    <field name="dct_spatial_sm">Arctic regions</field>
+    <field name="dct_temporal_sm">1705</field>
+    <field name="georss_box_s">61.8620577 -136.8686548 75.1744843087 -61.2616874</field>
+    <field name="georss_polygon_s">75.1744843087 -136.8686548 75.1744843087 -61.2616874 61.8620577 -61.2616874 61.8620577 -136.8686548 75.1744843087 -136.8686548</field>
+    <field name="solr_bbox">-136.8686548 61.8620577 -61.2616874 75.1744843087</field>
+    <field name="solr_ne_pt">75.1744843087,-61.2616874</field>
+    <field name="solr_sw_pt">61.8620577,-136.8686548</field>
+    <field name="solr_geom">ENVELOPE(-136.8686548, -61.2616874, 75.1744843087, 61.8620577)</field>
+    <field name="solr_year_i">1705</field>
+  </doc>
+</add>

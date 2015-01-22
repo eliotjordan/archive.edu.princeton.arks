@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/7w62fb691</field>
+    <field name="dc_creator_sm">Mol, P.</field>
+    <field name="dc_creator_sm">Wheler, George,</field>
+    <field name="dc_creator_sm">Tournefort, Joseph Pitton de,</field>
+    <field name="dc_creator_sm">Ottens, J.</field>
+    <field name="dc_creator_sm">Ottens, R.</field>
+    <field name="dc_description_s">Carte de la Grece</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">7w62fb691</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/7w62fb691/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F7w%2F62%2Ffb%2F69%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">7w62fb691</field>
+    <field name="layer_slug_s">princeton-7w62fb691</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:12Z</field>
+    <field name="dc_title_s">Carte de la Grece</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Aegean Sea</field>
+    <field name="dct_spatial_sm">Greece</field>
+    <field name="dct_spatial_sm">Turkey</field>
+    <field name="dct_temporal_sm">1725</field>
+    <field name="georss_box_s">35.59933 22.4993729 40.901786 28.3309422</field>
+    <field name="georss_polygon_s">40.901786 22.4993729 40.901786 28.3309422 35.59933 28.3309422 35.59933 22.4993729 40.901786 22.4993729</field>
+    <field name="solr_bbox">22.4993729 35.59933 28.3309422 40.901786</field>
+    <field name="solr_ne_pt">40.901786,28.3309422</field>
+    <field name="solr_sw_pt">35.59933,22.4993729</field>
+    <field name="solr_geom">ENVELOPE(22.4993729, 28.3309422, 40.901786, 35.59933)</field>
+    <field name="solr_year_i">1725</field>
+  </doc>
+</add>

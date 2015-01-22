@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2z10ws730</field>
+    <field name="dc_creator_sm">Bache, A. D.</field>
+    <field name="dc_creator_sm">Ferguson, James,</field>
+    <field name="dc_creator_sm">Gerdes, F. H.</field>
+    <field name="dc_creator_sm">Cutts, R. D.</field>
+    <field name="dc_creator_sm">Bache, G. M.</field>
+    <field name="dc_creator_sm">Glück, Jno. B.</field>
+    <field name="dc_creator_sm">Wainwright, Richard,</field>
+    <field name="dc_creator_sm">Wise, G. D.</field>
+    <field name="dc_description_s">Patapsco River and the approaches</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2z10ws730</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2z10ws730/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2z%2F10%2Fws%2F73%2F0%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2z10ws730</field>
+    <field name="layer_slug_s">princeton-2z10ws730</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:25Z</field>
+    <field name="dc_title_s">Patapsco River and the approaches</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Patapsco River (Md.)</field>
+    <field name="dct_temporal_sm">1849</field>
+    <field name="georss_box_s">39.2139612 -76.6970355 39.2190368 -76.6939205</field>
+    <field name="georss_polygon_s">39.2190368 -76.6970355 39.2190368 -76.6939205 39.2139612 -76.6939205 39.2139612 -76.6970355 39.2190368 -76.6970355</field>
+    <field name="solr_bbox">-76.6970355 39.2139612 -76.6939205 39.2190368</field>
+    <field name="solr_ne_pt">39.2190368,-76.6939205</field>
+    <field name="solr_sw_pt">39.2139612,-76.6970355</field>
+    <field name="solr_geom">ENVELOPE(-76.6970355, -76.6939205, 39.2190368, 39.2139612)</field>
+    <field name="solr_year_i">1849</field>
+  </doc>
+</add>

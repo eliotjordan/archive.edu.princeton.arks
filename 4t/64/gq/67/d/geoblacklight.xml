@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/4t64gq67d</field>
+    <field name="dc_creator_sm">Moll, Herman,</field>
+    <field name="dc_description_s">Germany</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">4t64gq67d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/4t64gq67d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F4t%2F64%2Fgq%2F67%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">4t64gq67d</field>
+    <field name="layer_slug_s">princeton-4t64gq67d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:21Z</field>
+    <field name="dc_title_s">Germany</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Austria</field>
+    <field name="dct_spatial_sm">Germany</field>
+    <field name="dct_spatial_sm">Poland</field>
+    <field name="dct_temporal_sm">1701</field>
+    <field name="georss_box_s">46.3722761 9.5307265 49.0205304 17.160776</field>
+    <field name="georss_polygon_s">49.0205304 9.5307265 49.0205304 17.160776 46.3722761 17.160776 46.3722761 9.5307265 49.0205304 9.5307265</field>
+    <field name="solr_bbox">9.5307265 46.3722761 17.160776 49.0205304</field>
+    <field name="solr_ne_pt">49.0205304,17.160776</field>
+    <field name="solr_sw_pt">46.3722761,9.5307265</field>
+    <field name="solr_geom">ENVELOPE(9.5307265, 17.160776, 49.0205304, 46.3722761)</field>
+    <field name="solr_year_i">1701</field>
+  </doc>
+</add>

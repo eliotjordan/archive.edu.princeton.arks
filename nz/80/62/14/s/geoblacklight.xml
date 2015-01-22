@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/nz806214s</field>
+    <field name="dc_description_s">A new &amp; accurate map of Persia : with the adjacent countries. Drawn from the most approved modern maps &amp;c. The whole being regulated by astronl. observations</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">nz806214s</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/nz806214s/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fnz%2F80%2F62%2F14%2Fs%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">nz806214s</field>
+    <field name="layer_slug_s">princeton-nz806214s</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:11Z</field>
+    <field name="dc_title_s">A new &amp; accurate map of Persia : with the adjacent countries. Drawn from the most approved modern maps &amp;c. The whole being regulated by astronl. observations</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Iran</field>
+    <field name="dct_temporal_sm">1750</field>
+    <field name="georss_box_s">24.8465103 44.0318908 39.7816502 63.3332704</field>
+    <field name="georss_polygon_s">39.7816502 44.0318908 39.7816502 63.3332704 24.8465103 63.3332704 24.8465103 44.0318908 39.7816502 44.0318908</field>
+    <field name="solr_bbox">44.0318908 24.8465103 63.3332704 39.7816502</field>
+    <field name="solr_ne_pt">39.7816502,63.3332704</field>
+    <field name="solr_sw_pt">24.8465103,44.0318908</field>
+    <field name="solr_geom">ENVELOPE(44.0318908, 63.3332704, 39.7816502, 24.8465103)</field>
+    <field name="solr_year_i">1750</field>
+  </doc>
+</add>

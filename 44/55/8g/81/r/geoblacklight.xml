@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/44558g81r</field>
+    <field name="dc_creator_sm">Hacq, J. M.,</field>
+    <field name="dc_creator_sm">Howell, Benjamin F.</field>
+    <field name="dc_description_s">Carte routière, physique et politique de l'Italie, de la Suisse et de parties des états voisins</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">44558g81r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/44558g81r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F44%2F55%2F8g%2F81%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">44558g81r</field>
+    <field name="layer_slug_s">princeton-44558g81r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:25Z</field>
+    <field name="dc_title_s">Carte routière, physique et politique de l'Italie, de la Suisse et de parties des états voisins</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Italy</field>
+    <field name="dct_spatial_sm">Switzerland</field>
+    <field name="dct_temporal_sm">1834</field>
+    <field name="georss_box_s">35.2889616 6.6272658 47.0921462 18.7844746</field>
+    <field name="georss_polygon_s">47.0921462 6.6272658 47.0921462 18.7844746 35.2889616 18.7844746 35.2889616 6.6272658 47.0921462 6.6272658</field>
+    <field name="solr_bbox">6.6272658 35.2889616 18.7844746 47.0921462</field>
+    <field name="solr_ne_pt">47.0921462,18.7844746</field>
+    <field name="solr_sw_pt">35.2889616,6.6272658</field>
+    <field name="solr_geom">ENVELOPE(6.6272658, 18.7844746, 47.0921462, 35.2889616)</field>
+    <field name="solr_year_i">1834</field>
+  </doc>
+</add>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8s45qc313</field>
+    <field name="dc_description_s">Die Insel St. Helena</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8s45qc313</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8s45qc313/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F8s%2F45%2Fqc%2F31%2F3%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8s45qc313</field>
+    <field name="layer_slug_s">princeton-8s45qc313</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:28Z</field>
+    <field name="dc_title_s">Die Insel St. Helena</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Saint Helena</field>
+    <field name="dct_temporal_sm">1822</field>
+    <field name="georss_box_s">-16.0306548 -5.7899603 -15.9038562 -5.631452</field>
+    <field name="georss_polygon_s">-15.9038562 -5.7899603 -15.9038562 -5.631452 -16.0306548 -5.631452 -16.0306548 -5.7899603 -15.9038562 -5.7899603</field>
+    <field name="solr_bbox">-5.7899603 -16.0306548 -5.631452 -15.9038562</field>
+    <field name="solr_ne_pt">-15.9038562,-5.631452</field>
+    <field name="solr_sw_pt">-16.0306548,-5.7899603</field>
+    <field name="solr_geom">ENVELOPE(-5.7899603, -5.631452, -15.9038562, -16.0306548)</field>
+    <field name="solr_year_i">1822</field>
+  </doc>
+</add>

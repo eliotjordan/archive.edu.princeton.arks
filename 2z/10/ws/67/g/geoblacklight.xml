@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2z10ws67g</field>
+    <field name="dc_creator_sm">Valentijn, François,</field>
+    <field name="dc_description_s">De stad Bantam</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2z10ws67g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2z10ws67g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F2z%2F10%2Fws%2F67%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2z10ws67g</field>
+    <field name="layer_slug_s">princeton-2z10ws67g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:07Z</field>
+    <field name="dc_title_s">De stad Bantam</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Banten (Jawa Barat, Indonesia)</field>
+    <field name="dct_temporal_sm">1726</field>
+    <field name="georss_box_s">-7.4565893 104.6513179 -4.9993634 106.8466516</field>
+    <field name="georss_polygon_s">-4.9993634 104.6513179 -4.9993634 106.8466516 -7.4565893 106.8466516 -7.4565893 104.6513179 -4.9993634 104.6513179</field>
+    <field name="solr_bbox">104.6513179 -7.4565893 106.8466516 -4.9993634</field>
+    <field name="solr_ne_pt">-4.9993634,106.8466516</field>
+    <field name="solr_sw_pt">-7.4565893,104.6513179</field>
+    <field name="solr_geom">ENVELOPE(104.6513179, 106.8466516, -4.9993634, -7.4565893)</field>
+    <field name="solr_year_i">1726</field>
+  </doc>
+</add>

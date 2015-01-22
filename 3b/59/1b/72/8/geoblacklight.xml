@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3b591b728</field>
+    <field name="dc_description_s">Bæticæ partis Iberion descriptio</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3b591b728</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3b591b728/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F3b%2F59%2F1b%2F72%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3b591b728</field>
+    <field name="layer_slug_s">princeton-3b591b728</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:54Z</field>
+    <field name="dc_title_s">Bæticæ partis Iberion descriptio</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Andalusia (Spain)</field>
+    <field name="dct_temporal_sm">1712</field>
+    <field name="georss_box_s">35.9373253 -7.5226847 38.7290874 -1.6297999</field>
+    <field name="georss_polygon_s">38.7290874 -7.5226847 38.7290874 -1.6297999 35.9373253 -1.6297999 35.9373253 -7.5226847 38.7290874 -7.5226847</field>
+    <field name="solr_bbox">-7.5226847 35.9373253 -1.6297999 38.7290874</field>
+    <field name="solr_ne_pt">38.7290874,-1.6297999</field>
+    <field name="solr_sw_pt">35.9373253,-7.5226847</field>
+    <field name="solr_geom">ENVELOPE(-7.5226847, -1.6297999, 38.7290874, 35.9373253)</field>
+    <field name="solr_year_i">1712</field>
+  </doc>
+</add>

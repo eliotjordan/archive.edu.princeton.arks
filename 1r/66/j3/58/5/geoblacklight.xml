@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/1r66j3585</field>
+    <field name="dc_description_s">Annatto Bay</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">1r66j3585</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/1r66j3585/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F1r%2F66%2Fj3%2F58%2F5%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">1r66j3585</field>
+    <field name="layer_slug_s">princeton-1r66j3585</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">Annatto Bay</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Annatto Bay (Jamaica)</field>
+    <field name="dct_temporal_sm">1841</field>
+    <field name="georss_box_s">18.2584526519 -76.7963217536 18.3007509623 -76.7394161935</field>
+    <field name="georss_polygon_s">18.3007509623 -76.7963217536 18.3007509623 -76.7394161935 18.2584526519 -76.7394161935 18.2584526519 -76.7963217536 18.3007509623 -76.7963217536</field>
+    <field name="solr_bbox">-76.7963217536 18.2584526519 -76.7394161935 18.3007509623</field>
+    <field name="solr_ne_pt">18.3007509623,-76.7394161935</field>
+    <field name="solr_sw_pt">18.2584526519,-76.7963217536</field>
+    <field name="solr_geom">ENVELOPE(-76.7963217536, -76.7394161935, 18.3007509623, 18.2584526519)</field>
+    <field name="solr_year_i">1841</field>
+  </doc>
+</add>

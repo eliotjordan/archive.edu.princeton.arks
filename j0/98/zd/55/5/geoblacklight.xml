@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/j098zd555</field>
+    <field name="dc_creator_sm">Ottens, J.</field>
+    <field name="dc_creator_sm">Wit, Frederik de.</field>
+    <field name="dc_creator_sm">Renard, Louis,</field>
+    <field name="dc_description_s">Tractus australior Americæ Meridionalis, a Rio de la Plata per Fretum Magellanicum ad Toraltum = Nieuwe perfecte pascaert van 't suyderlykste deel van Suyt America, van Rio de la Plata door de straet Magellaen tot Toral</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">j098zd555</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/j098zd555/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F0%2F98%2Fzd%2F55%2F5%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">j098zd555</field>
+    <field name="layer_slug_s">princeton-j098zd555</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:06Z</field>
+    <field name="dc_title_s">Tractus australior Americæ Meridionalis, a Rio de la Plata per Fretum Magellanicum ad Toraltum = Nieuwe perfecte pascaert van 't suyderlykste deel van Suyt America, van Rio de la Plata door de straet Magellaen tot Toral</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Magellan, Strait of (Chile and Argentina)</field>
+    <field name="dct_spatial_sm">Patagonia (Argentina and Chile</field>
+    <field name="dct_temporal_sm">1745</field>
+    <field name="georss_box_s">-53.8921832366 -71.1141873125 -52.4567060817 -70.0247137781</field>
+    <field name="georss_polygon_s">-52.4567060817 -71.1141873125 -52.4567060817 -70.0247137781 -53.8921832366 -70.0247137781 -53.8921832366 -71.1141873125 -52.4567060817 -71.1141873125</field>
+    <field name="solr_bbox">-71.1141873125 -53.8921832366 -70.0247137781 -52.4567060817</field>
+    <field name="solr_ne_pt">-52.4567060817,-70.0247137781</field>
+    <field name="solr_sw_pt">-53.8921832366,-71.1141873125</field>
+    <field name="solr_geom">ENVELOPE(-71.1141873125, -70.0247137781, -52.4567060817, -53.8921832366)</field>
+    <field name="solr_year_i">1745</field>
+  </doc>
+</add>

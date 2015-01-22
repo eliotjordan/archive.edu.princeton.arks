@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sf268694t</field>
+    <field name="dc_creator_sm">Wharton, W. J. L.</field>
+    <field name="dc_creator_sm">Weller, Edward,</field>
+    <field name="dc_creator_sm">Dodge, Bayard,</field>
+    <field name="dc_description_s">Candia to Alexandretta</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sf268694t</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sf268694t/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsf%2F26%2F86%2F94%2Ft%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sf268694t</field>
+    <field name="layer_slug_s">princeton-sf268694t</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:46Z</field>
+    <field name="dc_title_s">Candia to Alexandretta</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Mediterranean Region</field>
+    <field name="dct_spatial_sm">Crete (Greece)</field>
+    <field name="dct_spatial_sm">İskenderun (Turkey)</field>
+    <field name="dct_spatial_sm">Turkey</field>
+    <field name="dct_temporal_sm">1904</field>
+    <field name="georss_box_s">35.8076804 29.0876878 38.5861136 37.7518928</field>
+    <field name="georss_polygon_s">38.5861136 29.0876878 38.5861136 37.7518928 35.8076804 37.7518928 35.8076804 29.0876878 38.5861136 29.0876878</field>
+    <field name="solr_bbox">29.0876878 35.8076804 37.7518928 38.5861136</field>
+    <field name="solr_ne_pt">38.5861136,37.7518928</field>
+    <field name="solr_sw_pt">35.8076804,29.0876878</field>
+    <field name="solr_geom">ENVELOPE(29.0876878, 37.7518928, 38.5861136, 35.8076804)</field>
+    <field name="solr_year_i">1904</field>
+  </doc>
+</add>

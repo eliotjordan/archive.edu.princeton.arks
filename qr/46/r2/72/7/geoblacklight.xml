@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qr46r2727</field>
+    <field name="dc_creator_sm">Jansson, Jan,</field>
+    <field name="dc_description_s">America Septentrionalis</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qr46r2727</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qr46r2727/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqr%2F46%2Fr2%2F72%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qr46r2727</field>
+    <field name="layer_slug_s">princeton-qr46r2727</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:50Z</field>
+    <field name="dc_title_s">America Septentrionalis</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Caribbean Area</field>
+    <field name="dct_spatial_sm">Central America</field>
+    <field name="dct_spatial_sm">North America</field>
+    <field name="dct_temporal_sm">1636</field>
+    <field name="georss_box_s">9.9930001 -85.1715 27.263412 -59.4174957</field>
+    <field name="georss_polygon_s">27.263412 -85.1715 27.263412 -59.4174957 9.9930001 -59.4174957 9.9930001 -85.1715 27.263412 -85.1715</field>
+    <field name="solr_bbox">-85.1715 9.9930001 -59.4174957 27.263412</field>
+    <field name="solr_ne_pt">27.263412,-59.4174957</field>
+    <field name="solr_sw_pt">9.9930001,-85.1715</field>
+    <field name="solr_geom">ENVELOPE(-85.1715, -59.4174957, 27.263412, 9.9930001)</field>
+    <field name="solr_year_i">1636</field>
+  </doc>
+</add>

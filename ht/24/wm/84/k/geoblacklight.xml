@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ht24wm84k</field>
+    <field name="dc_creator_sm">Porro, Girolamo,</field>
+    <field name="dc_description_s">Zante</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ht24wm84k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ht24wm84k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fht%2F24%2Fwm%2F84%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ht24wm84k</field>
+    <field name="layer_slug_s">princeton-ht24wm84k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:59Z</field>
+    <field name="dc_title_s">Zante</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Zakynthos Island (Greece)</field>
+    <field name="dct_temporal_sm">1576</field>
+    <field name="georss_box_s">37.6443725 20.618519 37.9338691 20.9946518</field>
+    <field name="georss_polygon_s">37.9338691 20.618519 37.9338691 20.9946518 37.6443725 20.9946518 37.6443725 20.618519 37.9338691 20.618519</field>
+    <field name="solr_bbox">20.618519 37.6443725 20.9946518 37.9338691</field>
+    <field name="solr_ne_pt">37.9338691,20.9946518</field>
+    <field name="solr_sw_pt">37.6443725,20.618519</field>
+    <field name="solr_geom">ENVELOPE(20.618519, 20.9946518, 37.9338691, 37.6443725)</field>
+    <field name="solr_year_i">1576</field>
+  </doc>
+</add>

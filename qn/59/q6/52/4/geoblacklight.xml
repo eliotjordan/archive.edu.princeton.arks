@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qn59q6524</field>
+    <field name="dc_creator_sm">Bellin, Jacques Nicolas,</field>
+    <field name="dc_description_s">Plan de la rade d'Argostoli dans l'Isle de Cephalonie</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qn59q6524</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qn59q6524/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqn%2F59%2Fq6%2F52%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qn59q6524</field>
+    <field name="layer_slug_s">princeton-qn59q6524</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:26Z</field>
+    <field name="dc_title_s">Plan de la rade d'Argostoli dans l'Isle de Cephalonie</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Argostoli (Cephalonia Island, Greece)</field>
+    <field name="dct_spatial_sm">Cephalonia (Greece : Municipality)</field>
+    <field name="dct_temporal_sm">1771</field>
+    <field name="georss_box_s">38.1335424 20.4478219 38.2135424 20.5278219</field>
+    <field name="georss_polygon_s">38.2135424 20.4478219 38.2135424 20.5278219 38.1335424 20.5278219 38.1335424 20.4478219 38.2135424 20.4478219</field>
+    <field name="solr_bbox">20.4478219 38.1335424 20.5278219 38.2135424</field>
+    <field name="solr_ne_pt">38.2135424,20.5278219</field>
+    <field name="solr_sw_pt">38.1335424,20.4478219</field>
+    <field name="solr_geom">ENVELOPE(20.4478219, 20.5278219, 38.2135424, 38.1335424)</field>
+    <field name="solr_year_i">1771</field>
+  </doc>
+</add>

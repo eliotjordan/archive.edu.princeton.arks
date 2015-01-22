@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2227ms17r</field>
+    <field name="dc_creator_sm">Dyonnet, Ch.,</field>
+    <field name="dc_creator_sm">Hacq, J. M.,</field>
+    <field name="dc_description_s">Rade de Port-au-Prince (Ile Haïti ou St. Domingue)</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2227ms17r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2227ms17r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F22%2F27%2Fms%2F17%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2227ms17r</field>
+    <field name="layer_slug_s">princeton-2227ms17r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:26Z</field>
+    <field name="dc_title_s">Rade de Port-au-Prince (Ile Haïti ou St. Domingue)</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Port-au-Prince (Haiti)</field>
+    <field name="dct_temporal_sm">1849</field>
+    <field name="georss_box_s">18.387327 -72.4995928 18.707327 -72.1795928</field>
+    <field name="georss_polygon_s">18.707327 -72.4995928 18.707327 -72.1795928 18.387327 -72.1795928 18.387327 -72.4995928 18.707327 -72.4995928</field>
+    <field name="solr_bbox">-72.4995928 18.387327 -72.1795928 18.707327</field>
+    <field name="solr_ne_pt">18.707327,-72.1795928</field>
+    <field name="solr_sw_pt">18.387327,-72.4995928</field>
+    <field name="solr_geom">ENVELOPE(-72.4995928, -72.1795928, 18.707327, 18.387327)</field>
+    <field name="solr_year_i">1849</field>
+  </doc>
+</add>

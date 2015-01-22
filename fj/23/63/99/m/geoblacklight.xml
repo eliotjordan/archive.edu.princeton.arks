@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/fj236399m</field>
+    <field name="dc_creator_sm">Lemaitre, Augustin François,</field>
+    <field name="dc_creator_sm">Vyzantios, Skarlatos D.,</field>
+    <field name="dc_description_s">Chartēs topographikos tēs Kōnstantinoupoleōs kai tōn peri autēn</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">fj236399m</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/fj236399m/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ffj%2F23%2F63%2F99%2Fm%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">fj236399m</field>
+    <field name="layer_slug_s">princeton-fj236399m</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:49Z</field>
+    <field name="dc_title_s">Chartēs topographikos tēs Kōnstantinoupoleōs kai tōn peri autēn</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Bosporus (Turkey)</field>
+    <field name="dct_spatial_sm">Istanbul (Turkey)</field>
+    <field name="dct_temporal_sm">1850</field>
+    <field name="georss_box_s">40.9983151 28.9936348 41.248255 29.1570334</field>
+    <field name="georss_polygon_s">41.248255 28.9936348 41.248255 29.1570334 40.9983151 29.1570334 40.9983151 28.9936348 41.248255 28.9936348</field>
+    <field name="solr_bbox">28.9936348 40.9983151 29.1570334 41.248255</field>
+    <field name="solr_ne_pt">41.248255,29.1570334</field>
+    <field name="solr_sw_pt">40.9983151,28.9936348</field>
+    <field name="solr_geom">ENVELOPE(28.9936348, 29.1570334, 41.248255, 40.9983151)</field>
+    <field name="solr_year_i">1850</field>
+  </doc>
+</add>

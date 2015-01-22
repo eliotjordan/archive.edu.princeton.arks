@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qv33rz54j</field>
+    <field name="dc_description_s">Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire, ou, Guide de voyage à Constantinople sur le Danube : avec indication de tout ce qui a rapport à la navigation des pyroscaphes sur cette route</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qv33rz54j</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qv33rz54j/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqv%2F33%2Frz%2F54%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qv33rz54j</field>
+    <field name="layer_slug_s">princeton-qv33rz54j</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:49Z</field>
+    <field name="dc_title_s">Carte du cours du Danube depuis Ulm jusquá son embouchure dans la Mer noire, ou, Guide de voyage à Constantinople sur le Danube : avec indication de tout ce qui a rapport à la navigation des pyroscaphes sur cette route</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Danube River</field>
+    <field name="dct_spatial_sm">Danube River Valley</field>
+    <field name="dct_spatial_sm">Balkan Peninsula</field>
+    <field name="dct_spatial_sm">Istanbul (Turkey)</field>
+    <field name="dct_temporal_sm">1859</field>
+    <field name="georss_box_s">43.6124727 8.5203578 49.0322099 29.7403016</field>
+    <field name="georss_polygon_s">49.0322099 8.5203578 49.0322099 29.7403016 43.6124727 29.7403016 43.6124727 8.5203578 49.0322099 8.5203578</field>
+    <field name="solr_bbox">8.5203578 43.6124727 29.7403016 49.0322099</field>
+    <field name="solr_ne_pt">49.0322099,29.7403016</field>
+    <field name="solr_sw_pt">43.6124727,8.5203578</field>
+    <field name="solr_geom">ENVELOPE(8.5203578, 29.7403016, 49.0322099, 43.6124727)</field>
+    <field name="solr_year_i">1859</field>
+  </doc>
+</add>

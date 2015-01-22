@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/m326m3661</field>
+    <field name="dc_description_s">Oahu, Hawaiian Islands</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">m326m3661</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/m326m3661/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fm3%2F26%2Fm3%2F66%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">m326m3661</field>
+    <field name="layer_slug_s">princeton-m326m3661</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:52Z</field>
+    <field name="dc_title_s">Oahu, Hawaiian Islands</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Oahu (Hawaii)</field>
+    <field name="dct_temporal_sm">1906</field>
+    <field name="georss_box_s">21.2548159 -158.2805761 21.7120844 -157.6486276</field>
+    <field name="georss_polygon_s">21.7120844 -158.2805761 21.7120844 -157.6486276 21.2548159 -157.6486276 21.2548159 -158.2805761 21.7120844 -158.2805761</field>
+    <field name="solr_bbox">-158.2805761 21.2548159 -157.6486276 21.7120844</field>
+    <field name="solr_ne_pt">21.7120844,-157.6486276</field>
+    <field name="solr_sw_pt">21.2548159,-158.2805761</field>
+    <field name="solr_geom">ENVELOPE(-158.2805761, -157.6486276, 21.7120844, 21.2548159)</field>
+    <field name="solr_year_i">1906</field>
+  </doc>
+</add>

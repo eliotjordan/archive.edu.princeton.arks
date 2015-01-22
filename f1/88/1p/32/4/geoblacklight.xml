@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/f1881p324</field>
+    <field name="dc_creator_sm">Bridges, Joseph F.</field>
+    <field name="dc_creator_sm">Morgan, A. R.</field>
+    <field name="dc_creator_sm">Clinton, Charles.</field>
+    <field name="dc_description_s">Map of that part of the Harlem Commons east of the 5th Ave. &amp; Central Park : copied from the original map made by Joseph F. Bridges, City Surveyor, January 1826, now in possession of a gentleman who purchased it through A.R. Morgan, Esq., from Mr. Bridges : showing also the boundaries given by Charles Clinton, Surveyor, Dec. 1825, and the inaccuracies of both the above-named maps, with other important information</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">f1881p324</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/f1881p324/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ff1%2F88%2F1p%2F32%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">f1881p324</field>
+    <field name="layer_slug_s">princeton-f1881p324</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:02Z</field>
+    <field name="dc_title_s">Map of that part of the Harlem Commons east of the 5th Ave. &amp; Central Park : copied from the original map made by Joseph F. Bridges, City Surveyor, January 1826, now in possession of a gentleman who purchased it through A.R. Morgan, Esq., from Mr. Bridges : showing also the boundaries given by Charles Clinton, Surveyor, Dec. 1825, and the inaccuracies of both the above-named maps, with other important information</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Harlem (New York, N.Y.)</field>
+    <field name="dct_spatial_sm">New York (N.Y.)</field>
+    <field name="dct_temporal_sm">1825</field>
+    <field name="georss_box_s">40.8078286 -73.9454654 40.8079286 -73.9453654</field>
+    <field name="georss_polygon_s">40.8079286 -73.9454654 40.8079286 -73.9453654 40.8078286 -73.9453654 40.8078286 -73.9454654 40.8079286 -73.9454654</field>
+    <field name="solr_bbox">-73.9454654 40.8078286 -73.9453654 40.8079286</field>
+    <field name="solr_ne_pt">40.8079286,-73.9453654</field>
+    <field name="solr_sw_pt">40.8078286,-73.9454654</field>
+    <field name="solr_geom">ENVELOPE(-73.9454654, -73.9453654, 40.8079286, 40.8078286)</field>
+    <field name="solr_year_i">1825</field>
+  </doc>
+</add>

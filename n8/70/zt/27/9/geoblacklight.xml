@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/n870zt279</field>
+    <field name="dc_description_s">Brüssel = (Bruxelles).</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">n870zt279</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/n870zt279/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fn8%2F70%2Fzt%2F27%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">n870zt279</field>
+    <field name="layer_slug_s">princeton-n870zt279</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:09Z</field>
+    <field name="dc_title_s">Brüssel = (Bruxelles).</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Brussels (Belgium)</field>
+    <field name="dct_temporal_sm">1860</field>
+    <field name="georss_box_s">38.92822 -75.55911 41.35744 -73.90233</field>
+    <field name="georss_polygon_s">41.35744 -75.55911 41.35744 -73.90233 38.92822 -73.90233 38.92822 -75.55911 41.35744 -75.55911</field>
+    <field name="solr_bbox">-75.55911 38.92822 -73.90233 41.35744</field>
+    <field name="solr_ne_pt">41.35744,-73.90233</field>
+    <field name="solr_sw_pt">38.92822,-75.55911</field>
+    <field name="solr_geom">ENVELOPE(-75.55911, -73.90233, 41.35744, 38.92822)</field>
+    <field name="solr_year_i">1860</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/z890rw74f</field>
+    <field name="dc_creator_sm">Rennell, James,</field>
+    <field name="dc_description_s">A view of the course of the Ganges, through the country in the dry season ; Inland navigation of the River Ganges</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">z890rw74f</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/z890rw74f/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fz8%2F90%2Frw%2F74%2Ff%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">z890rw74f</field>
+    <field name="layer_slug_s">princeton-z890rw74f</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:21Z</field>
+    <field name="dc_title_s">A view of the course of the Ganges, through the country in the dry season ; Inland navigation of the River Ganges</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Ganges River (India and Bangladesh)</field>
+    <field name="dct_temporal_sm">1812</field>
+    <field name="georss_box_s">22.3575259 77.999674 30.1450933 91.2570587</field>
+    <field name="georss_polygon_s">30.1450933 77.999674 30.1450933 91.2570587 22.3575259 91.2570587 22.3575259 77.999674 30.1450933 77.999674</field>
+    <field name="solr_bbox">77.999674 22.3575259 91.2570587 30.1450933</field>
+    <field name="solr_ne_pt">30.1450933,91.2570587</field>
+    <field name="solr_sw_pt">22.3575259,77.999674</field>
+    <field name="solr_geom">ENVELOPE(77.999674, 91.2570587, 30.1450933, 22.3575259)</field>
+    <field name="solr_year_i">1812</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/ff3657781</field>
+    <field name="dc_creator_sm">Schenk, Pieter,</field>
+    <field name="dc_description_s">Nouvelle carte géographique du grand royaume de Moscovie representant la partie meridionale &amp;c.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">ff3657781</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/ff3657781/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fff%2F36%2F57%2F78%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">ff3657781</field>
+    <field name="layer_slug_s">princeton-ff3657781</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:28Z</field>
+    <field name="dc_title_s">Nouvelle carte géographique du grand royaume de Moscovie representant la partie meridionale &amp;c.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Russia</field>
+    <field name="dct_temporal_sm">1750</field>
+    <field name="georss_box_s">41.1858711 -179.9999999 82.0586232 180</field>
+    <field name="georss_polygon_s">82.0586232 -179.9999999 82.0586232 180 41.1858711 180 41.1858711 -179.9999999 82.0586232 -179.9999999</field>
+    <field name="solr_bbox">-179.9999999 41.1858711 180 82.0586232</field>
+    <field name="solr_ne_pt">82.0586232,180</field>
+    <field name="solr_sw_pt">41.1858711,-179.9999999</field>
+    <field name="solr_geom">ENVELOPE(-179.9999999, 180, 82.0586232, 41.1858711)</field>
+    <field name="solr_year_i">1750</field>
+  </doc>
+</add>

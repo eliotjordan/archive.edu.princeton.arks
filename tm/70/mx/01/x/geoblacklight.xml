@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/tm70mx01x</field>
+    <field name="dc_creator_sm">Prévost,</field>
+    <field name="dc_description_s">Carte réduite des parties septentrionales du globe, situées entre l'Asie et l'Amerique : pour servir à l'Histoire generale des voyages</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">tm70mx01x</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/tm70mx01x/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ftm%2F70%2Fmx%2F01%2Fx%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">tm70mx01x</field>
+    <field name="layer_slug_s">princeton-tm70mx01x</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:44Z</field>
+    <field name="dc_title_s">Carte réduite des parties septentrionales du globe, situées entre l'Asie et l'Amerique : pour servir à l'Histoire generale des voyages</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Arctic regions</field>
+    <field name="dct_spatial_sm">Northern Hemisphere</field>
+    <field name="dct_temporal_sm">1758</field>
+    <field name="georss_box_s">51.175092 157.732108 83.9999979 65.6777839</field>
+    <field name="georss_polygon_s">83.9999979 157.732108 83.9999979 65.6777839 51.175092 65.6777839 51.175092 157.732108 83.9999979 157.732108</field>
+    <field name="solr_bbox">157.732108 51.175092 65.6777839 83.9999979</field>
+    <field name="solr_ne_pt">83.9999979,65.6777839</field>
+    <field name="solr_sw_pt">51.175092,157.732108</field>
+    <field name="solr_geom">ENVELOPE(157.732108, 65.6777839, 83.9999979, 51.175092)</field>
+    <field name="solr_year_i">1758</field>
+  </doc>
+</add>

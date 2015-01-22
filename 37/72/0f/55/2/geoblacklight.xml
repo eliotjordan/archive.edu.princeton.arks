@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/37720f552</field>
+    <field name="dc_description_s">Juba or Dundas Islands on the east coast of Africa</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">37720f552</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/37720f552/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F37%2F72%2F0f%2F55%2F2%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">37720f552</field>
+    <field name="layer_slug_s">princeton-37720f552</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:43Z</field>
+    <field name="dc_title_s">Juba or Dundas Islands on the east coast of Africa</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Africa, East</field>
+    <field name="dct_spatial_sm">Somalia</field>
+    <field name="dct_temporal_sm">1828</field>
+    <field name="georss_box_s">-26.9612 21.9963878 18.0212099 63.8085939</field>
+    <field name="georss_polygon_s">18.0212099 21.9963878 18.0212099 63.8085939 -26.9612 63.8085939 -26.9612 21.9963878 18.0212099 21.9963878</field>
+    <field name="solr_bbox">21.9963878 -26.9612 63.8085939 18.0212099</field>
+    <field name="solr_ne_pt">18.0212099,63.8085939</field>
+    <field name="solr_sw_pt">-26.9612,21.9963878</field>
+    <field name="solr_geom">ENVELOPE(21.9963878, 63.8085939, 18.0212099, -26.9612)</field>
+    <field name="solr_year_i">1828</field>
+  </doc>
+</add>

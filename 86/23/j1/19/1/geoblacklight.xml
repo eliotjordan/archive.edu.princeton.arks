@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8623j1191</field>
+    <field name="dc_creator_sm">Charlevoix, Pierre-François-Xavier de,</field>
+    <field name="dc_creator_sm">Cooper, John C.,</field>
+    <field name="dc_description_s">Karte von Luisiana : dem Laufe des Mississipi und den benachbarten Laendern</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8623j1191</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8623j1191/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F86%2F23%2Fj1%2F19%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8623j1191</field>
+    <field name="layer_slug_s">princeton-8623j1191</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">Karte von Luisiana : dem Laufe des Mississipi und den benachbarten Laendern</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Louisiana</field>
+    <field name="dct_spatial_sm">United States</field>
+    <field name="dct_temporal_sm">1756</field>
+    <field name="georss_box_s">28.855127 -94.0431469 33.0194557 -88.7583879</field>
+    <field name="georss_polygon_s">33.0194557 -94.0431469 33.0194557 -88.7583879 28.855127 -88.7583879 28.855127 -94.0431469 33.0194557 -94.0431469</field>
+    <field name="solr_bbox">-94.0431469 28.855127 -88.7583879 33.0194557</field>
+    <field name="solr_ne_pt">33.0194557,-88.7583879</field>
+    <field name="solr_sw_pt">28.855127,-94.0431469</field>
+    <field name="solr_geom">ENVELOPE(-94.0431469, -88.7583879, 33.0194557, 28.855127)</field>
+    <field name="solr_year_i">1756</field>
+  </doc>
+</add>

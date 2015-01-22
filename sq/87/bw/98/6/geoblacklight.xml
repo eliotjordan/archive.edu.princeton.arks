@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sq87bw986</field>
+    <field name="dc_creator_sm">Moll, Herman,</field>
+    <field name="dc_description_s">Dominia Anglorum in America Septentrionali.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sq87bw986</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sq87bw986/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsq%2F87%2Fbw%2F98%2F6%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sq87bw986</field>
+    <field name="layer_slug_s">princeton-sq87bw986</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:56Z</field>
+    <field name="dc_title_s">Dominia Anglorum in America Septentrionali.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New England</field>
+    <field name="dct_spatial_sm">New York (State)</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_temporal_sm">1737</field>
+    <field name="georss_box_s">40.950943 -73.727775 47.459686 -66.8850751</field>
+    <field name="georss_polygon_s">47.459686 -73.727775 47.459686 -66.8850751 40.950943 -66.8850751 40.950943 -73.727775 47.459686 -73.727775</field>
+    <field name="solr_bbox">-73.727775 40.950943 -66.8850751 47.459686</field>
+    <field name="solr_ne_pt">47.459686,-66.8850751</field>
+    <field name="solr_sw_pt">40.950943,-73.727775</field>
+    <field name="solr_geom">ENVELOPE(-73.727775, -66.8850751, 47.459686, 40.950943)</field>
+    <field name="solr_year_i">1737</field>
+  </doc>
+</add>

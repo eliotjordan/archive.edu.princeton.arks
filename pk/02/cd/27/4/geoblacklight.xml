@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pk02cd274</field>
+    <field name="dc_description_s">Le Piemont et le Monferrat dressé sur les dernieres observations limité suivant l'art. 4. du traité d'Utrecht : dedie à Mgr. le comte de Maurepas /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pk02cd274</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/pk02cd274/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpk%2F02%2Fcd%2F27%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">pk02cd274</field>
+    <field name="layer_slug_s">princeton-pk02cd274</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:29Z</field>
+    <field name="dc_title_s">Le Piemont et le Monferrat dressé sur les dernieres observations limité suivant l'art. 4. du traité d'Utrecht : dedie à Mgr. le comte de Maurepas /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Monferrato (Italy)</field>
+    <field name="dct_spatial_sm">Piedmont (Italy)</field>
+    <field name="dct_temporal_sm">1744</field>
+    <field name="georss_box_s">45.0410161 8.3594495 45.1756583 8.5570443</field>
+    <field name="georss_polygon_s">45.1756583 8.3594495 45.1756583 8.5570443 45.0410161 8.5570443 45.0410161 8.3594495 45.1756583 8.3594495</field>
+    <field name="solr_bbox">8.3594495 45.0410161 8.5570443 45.1756583</field>
+    <field name="solr_ne_pt">45.1756583,8.5570443</field>
+    <field name="solr_sw_pt">45.0410161,8.3594495</field>
+    <field name="solr_geom">ENVELOPE(8.3594495, 8.5570443, 45.1756583, 45.0410161)</field>
+    <field name="solr_year_i">1744</field>
+  </doc>
+</add>

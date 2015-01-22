@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qz20sv99c</field>
+    <field name="dc_description_s">Karte von Nassau und Theilen der angränzenden Staaten bis Hanau, Giessen, Olpe, Bonn und Creuznach : unter Berücksichtigung der Grossh. Darmst. trigonometrischen Vermessung und mit Benutzung der bei den betreffenden königl. Preuss. grossh. Hess. u. herz. Nass. Hohen Regierungen vorliegenden Materialien</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qz20sv99c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qz20sv99c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqz%2F20%2Fsv%2F99%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qz20sv99c</field>
+    <field name="layer_slug_s">princeton-qz20sv99c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:20Z</field>
+    <field name="dc_title_s">Karte von Nassau und Theilen der angränzenden Staaten bis Hanau, Giessen, Olpe, Bonn und Creuznach : unter Berücksichtigung der Grossh. Darmst. trigonometrischen Vermessung und mit Benutzung der bei den betreffenden königl. Preuss. grossh. Hess. u. herz. Nass. Hohen Regierungen vorliegenden Materialien</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Hesse-Nassau (Germany)</field>
+    <field name="dct_spatial_sm">Rhine River</field>
+    <field name="dct_temporal_sm">1843</field>
+    <field name="georss_box_s">50.0075511245 8.2695710086 50.8788476129 9.8175573039</field>
+    <field name="georss_polygon_s">50.8788476129 8.2695710086 50.8788476129 9.8175573039 50.0075511245 9.8175573039 50.0075511245 8.2695710086 50.8788476129 8.2695710086</field>
+    <field name="solr_bbox">8.2695710086 50.0075511245 9.8175573039 50.8788476129</field>
+    <field name="solr_ne_pt">50.8788476129,9.8175573039</field>
+    <field name="solr_sw_pt">50.0075511245,8.2695710086</field>
+    <field name="solr_geom">ENVELOPE(8.2695710086, 9.8175573039, 50.8788476129, 50.0075511245)</field>
+    <field name="solr_year_i">1843</field>
+  </doc>
+</add>

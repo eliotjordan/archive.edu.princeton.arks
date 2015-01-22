@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3t945t26n</field>
+    <field name="dc_creator_sm">Braun, Georg,</field>
+    <field name="dc_creator_sm">Hogenberg, Frans,</field>
+    <field name="dc_description_s">Cantebrigia, opulentissimi Angli[a]e Regni, urbs celeberrimi nominis, ab Academi[a]e conditore Cantabro, cognomita : a Granta, fluuio vicino, Cairgrant, saxonib. Grauntecestre, et Grantebrige, iam olim nuncupata</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3t945t26n</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3t945t26n/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F3t%2F94%2F5t%2F26%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3t945t26n</field>
+    <field name="layer_slug_s">princeton-3t945t26n</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:16Z</field>
+    <field name="dc_title_s">Cantebrigia, opulentissimi Angli[a]e Regni, urbs celeberrimi nominis, ab Academi[a]e conditore Cantabro, cognomita : a Granta, fluuio vicino, Cairgrant, saxonib. Grauntecestre, et Grantebrige, iam olim nuncupata</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Cambridge (England)</field>
+    <field name="dct_temporal_sm">1575</field>
+    <field name="georss_box_s">52.1579417 0.0686389 52.2372296 0.184552</field>
+    <field name="georss_polygon_s">52.2372296 0.0686389 52.2372296 0.184552 52.1579417 0.184552 52.1579417 0.0686389 52.2372296 0.0686389</field>
+    <field name="solr_bbox">0.0686389 52.1579417 0.184552 52.2372296</field>
+    <field name="solr_ne_pt">52.2372296,0.184552</field>
+    <field name="solr_sw_pt">52.1579417,0.0686389</field>
+    <field name="solr_geom">ENVELOPE(0.0686389, 0.184552, 52.2372296, 52.1579417)</field>
+    <field name="solr_year_i">1575</field>
+  </doc>
+</add>

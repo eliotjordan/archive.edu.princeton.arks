@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/r781wj48q</field>
+    <field name="dc_creator_sm">Braun, Georg,</field>
+    <field name="dc_creator_sm">Hogenberg, Frans,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Alhama</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">r781wj48q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/r781wj48q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fr7%2F81%2Fwj%2F48%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">r781wj48q</field>
+    <field name="layer_slug_s">princeton-r781wj48q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:10Z</field>
+    <field name="dc_title_s">Alhama</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Alhama de Granada (Spain)</field>
+    <field name="dct_temporal_sm">1575</field>
+    <field name="georss_box_s">36.8468486 -4.1844233 37.1545989 -3.7799585</field>
+    <field name="georss_polygon_s">37.1545989 -4.1844233 37.1545989 -3.7799585 36.8468486 -3.7799585 36.8468486 -4.1844233 37.1545989 -4.1844233</field>
+    <field name="solr_bbox">-4.1844233 36.8468486 -3.7799585 37.1545989</field>
+    <field name="solr_ne_pt">37.1545989,-3.7799585</field>
+    <field name="solr_sw_pt">36.8468486,-4.1844233</field>
+    <field name="solr_geom">ENVELOPE(-4.1844233, -3.7799585, 37.1545989, 36.8468486)</field>
+    <field name="solr_year_i">1575</field>
+  </doc>
+</add>

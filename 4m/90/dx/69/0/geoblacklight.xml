@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/4m90dx690</field>
+    <field name="dc_creator_sm">Lattré, Jean,</field>
+    <field name="dc_description_s">Plan du promontoire de la ville et du port de Gibraltar avec les ouvrages faits depuis le dernier siège et les lignes construites par ordre de sa Majesté très catholique, pour empescher la communication de Gibraltar avec l'Espagne : levé nouvellement sur les lieux par l'ingenieur de la place</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">4m90dx690</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/4m90dx690/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F4m%2F90%2Fdx%2F69%2F0%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">4m90dx690</field>
+    <field name="layer_slug_s">princeton-4m90dx690</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:55Z</field>
+    <field name="dc_title_s">Plan du promontoire de la ville et du port de Gibraltar avec les ouvrages faits depuis le dernier siège et les lignes construites par ordre de sa Majesté très catholique, pour empescher la communication de Gibraltar avec l'Espagne : levé nouvellement sur les lieux par l'ingenieur de la place</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Gibraltar</field>
+    <field name="dct_spatial_sm">Gibraltar, Strait of</field>
+    <field name="dct_temporal_sm">1756</field>
+    <field name="georss_box_s">36.1088972 -5.367415 36.1550376 -5.3376641</field>
+    <field name="georss_polygon_s">36.1550376 -5.367415 36.1550376 -5.3376641 36.1088972 -5.3376641 36.1088972 -5.367415 36.1550376 -5.367415</field>
+    <field name="solr_bbox">-5.367415 36.1088972 -5.3376641 36.1550376</field>
+    <field name="solr_ne_pt">36.1550376,-5.3376641</field>
+    <field name="solr_sw_pt">36.1088972,-5.367415</field>
+    <field name="solr_geom">ENVELOPE(-5.367415, -5.3376641, 36.1550376, 36.1088972)</field>
+    <field name="solr_year_i">1756</field>
+  </doc>
+</add>

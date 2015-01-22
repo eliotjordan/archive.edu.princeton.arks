@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/bn999857d</field>
+    <field name="dc_description_s">Côte occidentale d'Afrique : croquis du fleuve Ogôoué : levé en Mai 1867 d'après les ordres de Mr. le contre-amiral, vicomte Fleuriot de Langlé ...</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">bn999857d</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/bn999857d/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fn%2F99%2F98%2F57%2Fd%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">bn999857d</field>
+    <field name="layer_slug_s">princeton-bn999857d</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:43Z</field>
+    <field name="dc_title_s">Côte occidentale d'Afrique : croquis du fleuve Ogôoué : levé en Mai 1867 d'après les ordres de Mr. le contre-amiral, vicomte Fleuriot de Langlé ...</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Africa, West</field>
+    <field name="dct_spatial_sm">Gabon</field>
+    <field name="dct_temporal_sm">1869</field>
+    <field name="georss_box_s">4.1821 -17.688 25.000012 15.999034</field>
+    <field name="georss_polygon_s">25.000012 -17.688 25.000012 15.999034 4.1821 15.999034 4.1821 -17.688 25.000012 -17.688</field>
+    <field name="solr_bbox">-17.688 4.1821 15.999034 25.000012</field>
+    <field name="solr_ne_pt">25.000012,15.999034</field>
+    <field name="solr_sw_pt">4.1821,-17.688</field>
+    <field name="solr_geom">ENVELOPE(-17.688, 15.999034, 25.000012, 4.1821)</field>
+    <field name="solr_year_i">1869</field>
+  </doc>
+</add>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/fq977w60r</field>
+    <field name="dc_creator_sm">Hondius, Hendrik,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Fessæ et Marocchi regna</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">fq977w60r</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/fq977w60r/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ffq%2F97%2F7w%2F60%2Fr%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">fq977w60r</field>
+    <field name="layer_slug_s">princeton-fq977w60r</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:42Z</field>
+    <field name="dc_title_s">Fessæ et Marocchi regna</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Morocco</field>
+    <field name="dct_spatial_sm">Peñón de Vélez de la Gomera (Spain)</field>
+    <field name="dct_temporal_sm">1623</field>
+    <field name="georss_box_s">21.3365321 -17.2122302 36.0027875 -0.9984289</field>
+    <field name="georss_polygon_s">36.0027875 -17.2122302 36.0027875 -0.9984289 21.3365321 -0.9984289 21.3365321 -17.2122302 36.0027875 -17.2122302</field>
+    <field name="solr_bbox">-17.2122302 21.3365321 -0.9984289 36.0027875</field>
+    <field name="solr_ne_pt">36.0027875,-0.9984289</field>
+    <field name="solr_sw_pt">21.3365321,-17.2122302</field>
+    <field name="solr_geom">ENVELOPE(-17.2122302, -0.9984289, 36.0027875, 21.3365321)</field>
+    <field name="solr_year_i">1623</field>
+  </doc>
+</add>

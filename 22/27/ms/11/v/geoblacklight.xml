@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/2227ms11v</field>
+    <field name="dc_description_s">L'ocean pres d'Europe, auec les costes de France, d'Espagne, de Portugal, d'Angleterre, de Holande, de Danemarc, &amp;c. : suivant les cartes marines, les plus nouvelles</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">2227ms11v</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/2227ms11v/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F22%2F27%2Fms%2F11%2Fv%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">2227ms11v</field>
+    <field name="layer_slug_s">princeton-2227ms11v</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:09Z</field>
+    <field name="dc_title_s">L'ocean pres d'Europe, auec les costes de France, d'Espagne, de Portugal, d'Angleterre, de Holande, de Danemarc, &amp;c. : suivant les cartes marines, les plus nouvelles</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Atlantic Coast (Europe)</field>
+    <field name="dct_spatial_sm">Atlantic Coast (France)</field>
+    <field name="dct_spatial_sm">Atlantic Coast (Great Britain)</field>
+    <field name="dct_spatial_sm">Atlantic Coast (Portugal)</field>
+    <field name="dct_spatial_sm">Mediterranean Coast (Algeria)</field>
+    <field name="dct_spatial_sm">Mediterranean Coast (Morocco)</field>
+    <field name="dct_spatial_sm">Mediterranean Coast (Spain)</field>
+    <field name="dct_spatial_sm">North Africa</field>
+    <field name="dct_temporal_sm">1666</field>
+    <field name="georss_box_s">35.9157698475 -12.04100625 71.1399224957 27.55366875</field>
+    <field name="georss_polygon_s">71.1399224957 -12.04100625 71.1399224957 27.55366875 35.9157698475 27.55366875 35.9157698475 -12.04100625 71.1399224957 -12.04100625</field>
+    <field name="solr_bbox">-12.04100625 35.9157698475 27.55366875 71.1399224957</field>
+    <field name="solr_ne_pt">71.1399224957,27.55366875</field>
+    <field name="solr_sw_pt">35.9157698475,-12.04100625</field>
+    <field name="solr_geom">ENVELOPE(-12.04100625, 27.55366875, 71.1399224957, 35.9157698475)</field>
+    <field name="solr_year_i">1666</field>
+  </doc>
+</add>

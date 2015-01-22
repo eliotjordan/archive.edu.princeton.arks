@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/f4752k16s</field>
+    <field name="dc_creator_sm">Faden, William,</field>
+    <field name="dc_creator_sm">Fox, N. B.,</field>
+    <field name="dc_description_s">A topographical map of Hudsons River : with the channels depth of water, rocks, shoals &amp;c. and the country adjacent, from Sandy-Hook, New York and bay to Fort Edward, also the communication with Canada by Lake George and Lake Champlain, as high as Fort Chambly on Sorel River</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">f4752k16s</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/f4752k16s/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ff4%2F75%2F2k%2F16%2Fs%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">f4752k16s</field>
+    <field name="layer_slug_s">princeton-f4752k16s</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:02Z</field>
+    <field name="dc_title_s">A topographical map of Hudsons River : with the channels depth of water, rocks, shoals &amp;c. and the country adjacent, from Sandy-Hook, New York and bay to Fort Edward, also the communication with Canada by Lake George and Lake Champlain, as high as Fort Chambly on Sorel River</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Champlain, Lake</field>
+    <field name="dct_spatial_sm">George, Lake (N.Y. : Lake)</field>
+    <field name="dct_spatial_sm">Hudson River (N.Y. and N.J.)</field>
+    <field name="dct_spatial_sm">Richelieu River (N.Y. and Vt.-Québec)</field>
+    <field name="dct_temporal_sm">1776</field>
+    <field name="georss_box_s">43.5825015 -73.4609047 45.1605857 -73.0760801</field>
+    <field name="georss_polygon_s">45.1605857 -73.4609047 45.1605857 -73.0760801 43.5825015 -73.0760801 43.5825015 -73.4609047 45.1605857 -73.4609047</field>
+    <field name="solr_bbox">-73.4609047 43.5825015 -73.0760801 45.1605857</field>
+    <field name="solr_ne_pt">45.1605857,-73.0760801</field>
+    <field name="solr_sw_pt">43.5825015,-73.4609047</field>
+    <field name="solr_geom">ENVELOPE(-73.4609047, -73.0760801, 45.1605857, 43.5825015)</field>
+    <field name="solr_year_i">1776</field>
+  </doc>
+</add>

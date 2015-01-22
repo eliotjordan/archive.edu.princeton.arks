@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/df65vb21k</field>
+    <field name="dc_creator_sm">Fox, N. B.,</field>
+    <field name="dc_description_s">Novi Belgii, Novæque Angliæ nec non partis Virginiæ tabula</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">df65vb21k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/df65vb21k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fdf%2F65%2Fvb%2F21%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">df65vb21k</field>
+    <field name="layer_slug_s">princeton-df65vb21k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:23:56Z</field>
+    <field name="dc_title_s">Novi Belgii, Novæque Angliæ nec non partis Virginiæ tabula</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Indians of North America</field>
+    <field name="dct_spatial_sm">New England</field>
+    <field name="dct_spatial_sm">New York (N.Y.)</field>
+    <field name="dct_spatial_sm">Middle Atlantic States</field>
+    <field name="dct_temporal_sm">1673</field>
+    <field name="georss_box_s">36.8303008344 -77.3725362406 46.6015166064 -66.6294898813</field>
+    <field name="georss_polygon_s">46.6015166064 -77.3725362406 46.6015166064 -66.6294898813 36.8303008344 -66.6294898813 36.8303008344 -77.3725362406 46.6015166064 -77.3725362406</field>
+    <field name="solr_bbox">-77.3725362406 36.8303008344 -66.6294898813 46.6015166064</field>
+    <field name="solr_ne_pt">46.6015166064,-66.6294898813</field>
+    <field name="solr_sw_pt">36.8303008344,-77.3725362406</field>
+    <field name="solr_geom">ENVELOPE(-77.3725362406, -66.6294898813, 46.6015166064, 36.8303008344)</field>
+    <field name="solr_year_i">1673</field>
+  </doc>
+</add>

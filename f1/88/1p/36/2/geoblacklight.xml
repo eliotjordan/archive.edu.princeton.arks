@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/f1881p362</field>
+    <field name="dc_creator_sm">Hurd, Thomas,</field>
+    <field name="dc_creator_sm">Walker, J.,</field>
+    <field name="dc_description_s">Morant Bay, Jamaica, and the coast from Belvidere Point to Fisherman's Bay</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">f1881p362</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/f1881p362/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ff1%2F88%2F1p%2F36%2F2%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">f1881p362</field>
+    <field name="layer_slug_s">princeton-f1881p362</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:08Z</field>
+    <field name="dc_title_s">Morant Bay, Jamaica, and the coast from Belvidere Point to Fisherman's Bay</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Morant Bay (Jamaica)</field>
+    <field name="dct_temporal_sm">1815</field>
+    <field name="georss_box_s">17.8440339 -76.4544634 17.9240339 -76.3744634</field>
+    <field name="georss_polygon_s">17.9240339 -76.4544634 17.9240339 -76.3744634 17.8440339 -76.3744634 17.8440339 -76.4544634 17.9240339 -76.4544634</field>
+    <field name="solr_bbox">-76.4544634 17.8440339 -76.3744634 17.9240339</field>
+    <field name="solr_ne_pt">17.9240339,-76.3744634</field>
+    <field name="solr_sw_pt">17.8440339,-76.4544634</field>
+    <field name="solr_geom">ENVELOPE(-76.4544634, -76.3744634, 17.9240339, 17.8440339)</field>
+    <field name="solr_year_i">1815</field>
+  </doc>
+</add>

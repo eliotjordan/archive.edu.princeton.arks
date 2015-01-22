@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3f4627887</field>
+    <field name="dc_creator_sm">Mangin, Joseph Fr.</field>
+    <field name="dc_creator_sm">Valentine, D. T.</field>
+    <field name="dc_creator_sm">Hayward, George,</field>
+    <field name="dc_creator_sm">Fox, N. B.,</field>
+    <field name="dc_description_s">Plan of the city of New York</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3f4627887</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3f4627887/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F3f%2F46%2F27%2F88%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3f4627887</field>
+    <field name="layer_slug_s">princeton-3f4627887</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-21T22:24:05Z</field>
+    <field name="dc_title_s">Plan of the city of New York</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New York (N.Y.)</field>
+    <field name="dct_spatial_sm">New York (N.Y.)</field>
+    <field name="dct_temporal_sm">1856</field>
+    <field name="georss_box_s">40.477399 -74.2590899 40.917577 -73.7001714</field>
+    <field name="georss_polygon_s">40.917577 -74.2590899 40.917577 -73.7001714 40.477399 -73.7001714 40.477399 -74.2590899 40.917577 -74.2590899</field>
+    <field name="solr_bbox">-74.2590899 40.477399 -73.7001714 40.917577</field>
+    <field name="solr_ne_pt">40.917577,-73.7001714</field>
+    <field name="solr_sw_pt">40.477399,-74.2590899</field>
+    <field name="solr_geom">ENVELOPE(-74.2590899, -73.7001714, 40.917577, 40.477399)</field>
+    <field name="solr_year_i">1856</field>
+  </doc>
+</add>
