@@ -1,0 +1,126 @@
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+    <marc:record type="Bibliographic">
+        <marc:leader>01496cem a2200337 a 4500</marc:leader>
+        <marc:controlfield tag="001">8744079</marc:controlfield>
+        <marc:controlfield tag="005">20140918111959.0</marc:controlfield>
+        <marc:controlfield tag="007">aj aanzn</marc:controlfield>
+        <marc:controlfield tag="008">140829s1870    gw d      a     0   ita d</marc:controlfield>
+        <marc:datafield tag="040" ind1=" " ind2=" ">
+            <marc:subfield code="a">NjP</marc:subfield>
+            <marc:subfield code="c">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="034" ind1="0" ind2=" ">
+            <marc:subfield code="a">a</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="043" ind1=" " ind2=" ">
+            <marc:subfield code="a">e-it---</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="245" ind1="0" ind2="0">
+            <marc:subfield code="a">Campagna di Roma</marc:subfield>
+            <marc:subfield code="h">[map].</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="255" ind1=" " ind2=" ">
+            <marc:subfield code="a">Scale not given.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="260" ind1=" " ind2=" ">
+            <marc:subfield code="a">[Berlin :</marc:subfield>
+            <marc:subfield code="b">Verlag der königlichen geheimen Ober-Hofbuchdrucerei, R.v. Decker,</marc:subfield>
+            <marc:subfield code="c">1870]</marc:subfield>
+            <marc:subfield code="e">(Berlin :  Lith. Anst. v. W. Loeillot)</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="300" ind1=" " ind2=" ">
+            <marc:subfield code="a">1 map :</marc:subfield>
+            <marc:subfield code="b">dissected in 8 pieces, mounted on cloth ;</marc:subfield>
+            <marc:subfield code="c">41 x 55 cm.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">Relief shown by hachures.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">in lower margin: A. v. Reumont, Geschichte d. Stadt Rom. Bd. III.2.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="500" ind1=" " ind2=" ">
+            <marc:subfield code="a">From: Geschichte der Stadt Rom / von Alfred von Reumont. Berlin : Verlag der königlichen geheimen Ober-Hofbuchdruckerei, R.v. Decker, 1867-1870.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="561" ind1=" " ind2=" ">
+            <marc:subfield code="a">Historic Maps copy has ms. label on verso: Reumont, Rom, III.2. Campagna di Roma.</marc:subfield>
+            <marc:subfield code="5">NjP</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Campagna di Roma (Italy)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="651" ind1=" " ind2="0">
+            <marc:subfield code="a">Rome (Italy)</marc:subfield>
+            <marc:subfield code="v">Maps.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Italy</marc:subfield>
+            <marc:subfield code="z">Campagna di Roma</marc:subfield>
+            <marc:subfield code="y">1870.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Maps</marc:subfield>
+            <marc:subfield code="z">Italy</marc:subfield>
+            <marc:subfield code="z">Rome</marc:subfield>
+            <marc:subfield code="y">1870.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Topographic maps</marc:subfield>
+            <marc:subfield code="z">Italy</marc:subfield>
+            <marc:subfield code="z">Campagna di Roma</marc:subfield>
+            <marc:subfield code="y">1870.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="655" ind1=" " ind2="7">
+            <marc:subfield code="a">Topographic maps</marc:subfield>
+            <marc:subfield code="z">Italy</marc:subfield>
+            <marc:subfield code="z">Rome</marc:subfield>
+            <marc:subfield code="y">1870.</marc:subfield>
+            <marc:subfield code="2">aat</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Loeillot, W.,</marc:subfield>
+            <marc:subfield code="e">lithographer.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="700" ind1="1" ind2=" ">
+            <marc:subfield code="a">Reumont, Alfred von,</marc:subfield>
+            <marc:subfield code="d">1808-1887.</marc:subfield>
+            <marc:subfield code="t">Geschichte der Stadt Rom.</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="856" ind1="4" ind2="1">
+            <marc:subfield code="z">See the map</marc:subfield>
+            <marc:subfield code="u">http://gisserver.princeton.edu/map/29043</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="904" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">g</marc:subfield>
+            <marc:subfield code="h">n</marc:subfield>
+            <marc:subfield code="c">p</marc:subfield>
+            <marc:subfield code="e">20140829</marc:subfield>
+        </marc:datafield>
+        <marc:datafield tag="902" ind1=" " ind2=" ">
+            <marc:subfield code="a">gls</marc:subfield>
+            <marc:subfield code="b">o</marc:subfield>
+            <marc:subfield code="6">e</marc:subfield>
+            <marc:subfield code="7">m</marc:subfield>
+            <marc:subfield code="d">v</marc:subfield>
+            <marc:subfield code="f">1</marc:subfield>
+            <marc:subfield code="e">20140829</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+    <marc:record type="Holdings">
+        <marc:leader>00172nx  a22000851  4500</marc:leader>
+        <marc:controlfield tag="001">8477452</marc:controlfield>
+        <marc:controlfield tag="004">8744079</marc:controlfield>
+        <marc:controlfield tag="005">20140829105352.0</marc:controlfield>
+        <marc:controlfield tag="008">1408294u    8   1001uu   0901128</marc:controlfield>
+        <marc:datafield tag="852" ind1="0" ind2=" ">
+            <marc:subfield code="b">map</marc:subfield>
+            <marc:subfield code="h">HMC01.5281</marc:subfield>
+        </marc:datafield>
+    </marc:record>
+</marc:collection>
