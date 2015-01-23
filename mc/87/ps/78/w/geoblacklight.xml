@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/mc87ps78w</field>
+    <field name="dc_creator_sm">Berey, Charles Amadeus de.</field>
+    <field name="dc_description_s">Le cours du Po</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">mc87ps78w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/mc87ps78w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fmc%2F87%2Fps%2F78%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">mc87ps78w</field>
+    <field name="layer_slug_s">princeton-mc87ps78w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-23T17:48:39Z</field>
+    <field name="dc_title_s">Le cours du Po</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Dauphiné (France)</field>
+    <field name="dct_spatial_sm">Emilia-Romagna (Italy)</field>
+    <field name="dct_spatial_sm">Italy, Northern</field>
+    <field name="dct_spatial_sm">Lombardy (Italy)</field>
+    <field name="dct_spatial_sm">Monferrato (Italy)</field>
+    <field name="dct_spatial_sm">Piedmont (Italy)</field>
+    <field name="dct_spatial_sm">Po River Valley (Italy)</field>
+    <field name="dct_spatial_sm">Veneto (Italy)</field>
+    <field name="dct_temporal_sm">1703</field>
+    <field name="georss_box_s">44.4666666667 6.23333333333 45.5 12.4666666667</field>
+    <field name="georss_polygon_s">45.5 6.23333333333 45.5 12.4666666667 44.4666666667 12.4666666667 44.4666666667 6.23333333333 45.5 6.23333333333</field>
+    <field name="solr_bbox">6.23333333333 44.4666666667 12.4666666667 45.5</field>
+    <field name="solr_ne_pt">45.5,12.4666666667</field>
+    <field name="solr_sw_pt">44.4666666667,6.23333333333</field>
+    <field name="solr_geom">ENVELOPE(6.23333333333, 12.4666666667, 45.5, 44.4666666667)</field>
+    <field name="solr_year_i">1703</field>
+  </doc>
+</add>
