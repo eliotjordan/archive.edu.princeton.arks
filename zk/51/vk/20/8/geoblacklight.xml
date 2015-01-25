@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/zk51vk208</field>
+    <field name="dc_creator_sm">Bien, Julius,</field>
+    <field name="dc_creator_sm">Quackenbush, Eugene,</field>
+    <field name="dc_description_s">Topographical atlas of the City of New York including the annexed territory, showing original water courses and made land</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">zk51vk208</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/zk51vk208/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fzk%2F51%2Fvk%2F20%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">zk51vk208</field>
+    <field name="layer_slug_s">princeton-zk51vk208</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-23T17:48:35Z</field>
+    <field name="dc_title_s">Topographical atlas of the City of New York including the annexed territory, showing original water courses and made land</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Manhattan (New York, N.Y.)</field>
+    <field name="dct_spatial_sm">Bronx (New York, N.Y.)</field>
+    <field name="dct_spatial_sm">Ward's Island (N.Y.)</field>
+    <field name="dct_spatial_sm">Randalls Island (N.Y.)</field>
+    <field name="dct_spatial_sm">Roosevelt Island (New York, N.Y.)</field>
+    <field name="dct_temporal_sm">1874</field>
+    <field name="georss_box_s">40.7 -74.0166666667 40.8666666667 -73.9</field>
+    <field name="georss_polygon_s">40.8666666667 -74.0166666667 40.8666666667 -73.9 40.7 -73.9 40.7 -74.0166666667 40.8666666667 -74.0166666667</field>
+    <field name="solr_bbox">-74.0166666667 40.7 -73.9 40.8666666667</field>
+    <field name="solr_ne_pt">40.8666666667,-73.9</field>
+    <field name="solr_sw_pt">40.7,-74.0166666667</field>
+    <field name="solr_geom">ENVELOPE(-74.0166666667, -73.9, 40.8666666667, 40.7)</field>
+    <field name="solr_year_i">1874</field>
+  </doc>
+</add>

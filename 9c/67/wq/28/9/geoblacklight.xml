@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9c67wq289</field>
+    <field name="dc_creator_sm">Arrowsmith, Aaron,</field>
+    <field name="dc_description_s">Holland, from the map executed at the Dutch Military Dépôt</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9c67wq289</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9c67wq289/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9c%2F67%2Fwq%2F28%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9c67wq289</field>
+    <field name="layer_slug_s">princeton-9c67wq289</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:13Z</field>
+    <field name="dc_title_s">Holland, from the map executed at the Dutch Military Dépôt</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Netherlands</field>
+    <field name="dct_temporal_sm">1815</field>
+    <field name="georss_box_s">11.825 -68.6255318 53.7253321 7.2274985</field>
+    <field name="georss_polygon_s">53.7253321 -68.6255318 53.7253321 7.2274985 11.825 7.2274985 11.825 -68.6255318 53.7253321 -68.6255318</field>
+    <field name="solr_bbox">-68.6255318 11.825 7.2274985 53.7253321</field>
+    <field name="solr_ne_pt">53.7253321,7.2274985</field>
+    <field name="solr_sw_pt">11.825,-68.6255318</field>
+    <field name="solr_geom">ENVELOPE(-68.6255318, 7.2274985, 53.7253321, 11.825)</field>
+    <field name="solr_year_i">1815</field>
+  </doc>
+</add>

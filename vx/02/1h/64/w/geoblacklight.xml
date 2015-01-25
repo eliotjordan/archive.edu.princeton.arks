@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/vx021h64w</field>
+    <field name="dc_description_s">La Marca d'Ancona</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">vx021h64w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/vx021h64w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fvx%2F02%2F1h%2F64%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">vx021h64w</field>
+    <field name="layer_slug_s">princeton-vx021h64w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:21Z</field>
+    <field name="dc_title_s">La Marca d'Ancona</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Ancona (Italy : Province)</field>
+    <field name="dct_temporal_sm">1564</field>
+    <field name="georss_box_s">43.532833 13.4208746 43.6314669 13.5498571</field>
+    <field name="georss_polygon_s">43.6314669 13.4208746 43.6314669 13.5498571 43.532833 13.5498571 43.532833 13.4208746 43.6314669 13.4208746</field>
+    <field name="solr_bbox">13.4208746 43.532833 13.5498571 43.6314669</field>
+    <field name="solr_ne_pt">43.6314669,13.5498571</field>
+    <field name="solr_sw_pt">43.532833,13.4208746</field>
+    <field name="solr_geom">ENVELOPE(13.4208746, 13.5498571, 43.6314669, 43.532833)</field>
+    <field name="solr_year_i">1564</field>
+  </doc>
+</add>

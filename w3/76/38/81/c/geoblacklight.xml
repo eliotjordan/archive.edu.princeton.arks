@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/w3763881c</field>
+    <field name="dc_creator_sm">Zatta, Antonio,</field>
+    <field name="dc_creator_sm">Zuliani, Giuliano,</field>
+    <field name="dc_creator_sm">Pasquali, G. V.</field>
+    <field name="dc_description_s">Nuove scoperte fatte nel 1765, 67, e 69 nel Mare del Sud</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">w3763881c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/w3763881c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fw3%2F76%2F38%2F81%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">w3763881c</field>
+    <field name="layer_slug_s">princeton-w3763881c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:10Z</field>
+    <field name="dc_title_s">Nuove scoperte fatte nel 1765, 67, e 69 nel Mare del Sud</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Oceania</field>
+    <field name="dct_temporal_sm">1776</field>
+    <field name="georss_box_s">-54.8337658 110.9510339 20.6584862 -124.5410156</field>
+    <field name="georss_polygon_s">20.6584862 110.9510339 20.6584862 -124.5410156 -54.8337658 -124.5410156 -54.8337658 110.9510339 20.6584862 110.9510339</field>
+    <field name="solr_bbox">110.9510339 -54.8337658 -124.5410156 20.6584862</field>
+    <field name="solr_ne_pt">20.6584862,-124.5410156</field>
+    <field name="solr_sw_pt">-54.8337658,110.9510339</field>
+    <field name="solr_geom">ENVELOPE(110.9510339, -124.5410156, 20.6584862, -54.8337658)</field>
+    <field name="solr_year_i">1776</field>
+  </doc>
+</add>

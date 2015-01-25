@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/f7623g12g</field>
+    <field name="dc_creator_sm">Smock, John C.</field>
+    <field name="dc_creator_sm">Vermeule, C. C.</field>
+    <field name="dc_description_s">A topographical map of the counties of Bergen, Hudson and Essex with parts of Passaic and Union : from original surveys and levelings, supplemented by various local surveys based on the triangulation of the U.S. Coast and Geodetic Survey /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">f7623g12g</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/f7623g12g/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ff7%2F62%2F3g%2F12%2Fg%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">f7623g12g</field>
+    <field name="layer_slug_s">princeton-f7623g12g</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-23T17:48:40Z</field>
+    <field name="dc_title_s">A topographical map of the counties of Bergen, Hudson and Essex with parts of Passaic and Union : from original surveys and levelings, supplemented by various local surveys based on the triangulation of the U.S. Coast and Geodetic Survey /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Bergen County (N.J.)</field>
+    <field name="dct_spatial_sm">Hudson County (N.J.)</field>
+    <field name="dct_spatial_sm">Essex County (N.J.)</field>
+    <field name="dct_temporal_sm">1896</field>
+    <field name="georss_box_s">40.6333333333 -74.35 41.1333333333 -73.8833333333</field>
+    <field name="georss_polygon_s">41.1333333333 -74.35 41.1333333333 -73.8833333333 40.6333333333 -73.8833333333 40.6333333333 -74.35 41.1333333333 -74.35</field>
+    <field name="solr_bbox">-74.35 40.6333333333 -73.8833333333 41.1333333333</field>
+    <field name="solr_ne_pt">41.1333333333,-73.8833333333</field>
+    <field name="solr_sw_pt">40.6333333333,-74.35</field>
+    <field name="solr_geom">ENVELOPE(-74.35, -73.8833333333, 41.1333333333, 40.6333333333)</field>
+    <field name="solr_year_i">1896</field>
+  </doc>
+</add>

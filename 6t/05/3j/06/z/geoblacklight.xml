@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/6t053j06z</field>
+    <field name="dc_description_s">Neueste Karte von New Jersey : mit seinen Strassen, Entfernung, der Hauptpunkte u. Routen für Dampfschiffe, nach den bessten Quellen verbessert, 1846</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">6t053j06z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/6t053j06z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F6t%2F05%2F3j%2F06%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">6t053j06z</field>
+    <field name="layer_slug_s">princeton-6t053j06z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-23T17:48:34Z</field>
+    <field name="dc_title_s">Neueste Karte von New Jersey : mit seinen Strassen, Entfernung, der Hauptpunkte u. Routen für Dampfschiffe, nach den bessten Quellen verbessert, 1846</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_temporal_sm">1860</field>
+    <field name="georss_box_s">38.9166666667 -75.55 41.3666666667 -73.8666666667</field>
+    <field name="georss_polygon_s">41.3666666667 -75.55 41.3666666667 -73.8666666667 38.9166666667 -73.8666666667 38.9166666667 -75.55 41.3666666667 -75.55</field>
+    <field name="solr_bbox">-75.55 38.9166666667 -73.8666666667 41.3666666667</field>
+    <field name="solr_ne_pt">41.3666666667,-73.8666666667</field>
+    <field name="solr_sw_pt">38.9166666667,-75.55</field>
+    <field name="solr_geom">ENVELOPE(-75.55, -73.8666666667, 41.3666666667, 38.9166666667)</field>
+    <field name="solr_year_i">1860</field>
+  </doc>
+</add>

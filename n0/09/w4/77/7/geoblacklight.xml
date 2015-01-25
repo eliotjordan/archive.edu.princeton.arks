@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/n009w4777</field>
+    <field name="dc_creator_sm">Jansson, Jan,</field>
+    <field name="dc_creator_sm">Mercator, Gerhard,</field>
+    <field name="dc_description_s">Virginiae item et Floridae Americae provinciarum, nova descriptio</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">n009w4777</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/n009w4777/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fn0%2F09%2Fw4%2F77%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">n009w4777</field>
+    <field name="layer_slug_s">princeton-n009w4777</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-23T17:48:36Z</field>
+    <field name="dc_title_s">Virginiae item et Floridae Americae provinciarum, nova descriptio</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Florida</field>
+    <field name="dct_spatial_sm">South Atlantic States</field>
+    <field name="dct_spatial_sm">Virginia</field>
+    <field name="dct_temporal_sm">1634</field>
+    <field name="georss_box_s">30.0 -82.0 38.0 -75.0</field>
+    <field name="georss_polygon_s">38.0 -82.0 38.0 -75.0 30.0 -75.0 30.0 -82.0 38.0 -82.0</field>
+    <field name="solr_bbox">-82.0 30.0 -75.0 38.0</field>
+    <field name="solr_ne_pt">38.0,-75.0</field>
+    <field name="solr_sw_pt">30.0,-82.0</field>
+    <field name="solr_geom">ENVELOPE(-82.0, -75.0, 38.0, 30.0)</field>
+    <field name="solr_year_i">1634</field>
+  </doc>
+</add>

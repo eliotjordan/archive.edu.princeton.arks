@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8w32r8129</field>
+    <field name="dc_description_s">Map of the lower Mississippi River from the mouth of the Ohio River to the head of the passes in thirty three sheets.</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8w32r8129</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8w32r8129/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F8w%2F32%2Fr8%2F12%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8w32r8129</field>
+    <field name="layer_slug_s">princeton-8w32r8129</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-23T17:48:38Z</field>
+    <field name="dc_title_s">Map of the lower Mississippi River from the mouth of the Ohio River to the head of the passes in thirty three sheets.</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Mississippi River</field>
+    <field name="dct_temporal_sm">1916</field>
+    <field name="georss_box_s">29.0 -92.0 37.0 -89.0</field>
+    <field name="georss_polygon_s">37.0 -92.0 37.0 -89.0 29.0 -89.0 29.0 -92.0 37.0 -92.0</field>
+    <field name="solr_bbox">-92.0 29.0 -89.0 37.0</field>
+    <field name="solr_ne_pt">37.0,-89.0</field>
+    <field name="solr_sw_pt">29.0,-92.0</field>
+    <field name="solr_geom">ENVELOPE(-92.0, -89.0, 37.0, 29.0)</field>
+    <field name="solr_year_i">1916</field>
+  </doc>
+</add>

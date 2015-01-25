@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pv63g271w</field>
+    <field name="dc_creator_sm">Reimer, Dietrich,</field>
+    <field name="dc_description_s">Imperia Persarum et Macedonum in usum scholarum descripta</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pv63g271w</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/pv63g271w/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpv%2F63%2Fg2%2F71%2Fw%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">pv63g271w</field>
+    <field name="layer_slug_s">princeton-pv63g271w</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:14Z</field>
+    <field name="dc_title_s">Imperia Persarum et Macedonum in usum scholarum descripta</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Asia, Central</field>
+    <field name="dct_spatial_sm">Iran</field>
+    <field name="dct_spatial_sm">Turkey</field>
+    <field name="dct_temporal_sm">1889</field>
+    <field name="georss_box_s">35.12876 46.493672 55.441984 87.315415</field>
+    <field name="georss_polygon_s">55.441984 46.493672 55.441984 87.315415 35.12876 87.315415 35.12876 46.493672 55.441984 46.493672</field>
+    <field name="solr_bbox">46.493672 35.12876 87.315415 55.441984</field>
+    <field name="solr_ne_pt">55.441984,87.315415</field>
+    <field name="solr_sw_pt">35.12876,46.493672</field>
+    <field name="solr_geom">ENVELOPE(46.493672, 87.315415, 55.441984, 35.12876)</field>
+    <field name="solr_year_i">1889</field>
+  </doc>
+</add>

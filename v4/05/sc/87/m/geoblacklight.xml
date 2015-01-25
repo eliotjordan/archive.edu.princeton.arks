@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/v405sc87m</field>
+    <field name="dc_description_s">Breknoke, both shyre and towne described</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">v405sc87m</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/v405sc87m/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fv4%2F05%2Fsc%2F87%2Fm%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">v405sc87m</field>
+    <field name="layer_slug_s">princeton-v405sc87m</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:16Z</field>
+    <field name="dc_title_s">Breknoke, both shyre and towne described</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Breconshire (Wales)</field>
+    <field name="dct_temporal_sm">1610</field>
+    <field name="georss_box_s">51.6817371591 -4.0139965584 52.1526852893 -2.8694119082</field>
+    <field name="georss_polygon_s">52.1526852893 -4.0139965584 52.1526852893 -2.8694119082 51.6817371591 -2.8694119082 51.6817371591 -4.0139965584 52.1526852893 -4.0139965584</field>
+    <field name="solr_bbox">-4.0139965584 51.6817371591 -2.8694119082 52.1526852893</field>
+    <field name="solr_ne_pt">52.1526852893,-2.8694119082</field>
+    <field name="solr_sw_pt">51.6817371591,-4.0139965584</field>
+    <field name="solr_geom">ENVELOPE(-4.0139965584, -2.8694119082, 52.1526852893, 51.6817371591)</field>
+    <field name="solr_year_i">1610</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qj72p9677</field>
+    <field name="dc_description_s">Il Vero disegno del sito di Hostia e di porto con li forti fatti dal campo di Sua Santita et delli Imperiali quali si resero adi XXIIII gennaro MDLVII</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qj72p9677</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qj72p9677/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqj%2F72%2Fp9%2F67%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qj72p9677</field>
+    <field name="layer_slug_s">princeton-qj72p9677</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:20Z</field>
+    <field name="dc_title_s">Il Vero disegno del sito di Hostia e di porto con li forti fatti dal campo di Sua Santita et delli Imperiali quali si resero adi XXIIII gennaro MDLVII</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Lido di Roma (Italy)</field>
+    <field name="dct_spatial_sm">Ostia (Italy)</field>
+    <field name="dct_temporal_sm">1902</field>
+    <field name="georss_box_s">41.6999451 12.2344325 41.7448403 12.3475952</field>
+    <field name="georss_polygon_s">41.7448403 12.2344325 41.7448403 12.3475952 41.6999451 12.3475952 41.6999451 12.2344325 41.7448403 12.2344325</field>
+    <field name="solr_bbox">12.2344325 41.6999451 12.3475952 41.7448403</field>
+    <field name="solr_ne_pt">41.7448403,12.3475952</field>
+    <field name="solr_sw_pt">41.6999451,12.2344325</field>
+    <field name="solr_geom">ENVELOPE(12.2344325, 12.3475952, 41.7448403, 41.6999451)</field>
+    <field name="solr_year_i">1902</field>
+  </doc>
+</add>

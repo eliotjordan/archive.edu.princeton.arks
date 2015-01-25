@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/rv042w58q</field>
+    <field name="dc_creator_sm">Braun, Georg,</field>
+    <field name="dc_creator_sm">Graminaeus, Theodor,</field>
+    <field name="dc_creator_sm">Galle, Philippe,</field>
+    <field name="dc_creator_sm">Hogenberg, Frans,</field>
+    <field name="dc_description_s">Mexico, regia et celebris Hispaniae novae civitas ; Cusco, regni Peru in novo orbe caput</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">rv042w58q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/rv042w58q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Frv%2F04%2F2w%2F58%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">rv042w58q</field>
+    <field name="layer_slug_s">princeton-rv042w58q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:18Z</field>
+    <field name="dc_title_s">Mexico, regia et celebris Hispaniae novae civitas ; Cusco, regni Peru in novo orbe caput</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Cuzco (Peru)</field>
+    <field name="dct_spatial_sm">Mexico City (Mexico)</field>
+    <field name="dct_temporal_sm">1572</field>
+    <field name="georss_box_s">-13.6812349 -72.1311244 -13.3612349 -71.8111244</field>
+    <field name="georss_polygon_s">-13.3612349 -72.1311244 -13.3612349 -71.8111244 -13.6812349 -71.8111244 -13.6812349 -72.1311244 -13.3612349 -72.1311244</field>
+    <field name="solr_bbox">-72.1311244 -13.6812349 -71.8111244 -13.3612349</field>
+    <field name="solr_ne_pt">-13.3612349,-71.8111244</field>
+    <field name="solr_sw_pt">-13.6812349,-72.1311244</field>
+    <field name="solr_geom">ENVELOPE(-72.1311244, -71.8111244, -13.3612349, -13.6812349)</field>
+    <field name="solr_year_i">1572</field>
+  </doc>
+</add>

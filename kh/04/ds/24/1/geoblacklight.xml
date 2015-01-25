@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/kh04ds241</field>
+    <field name="dc_description_s">Topographikos pinax tēs nēsou Chiou</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">kh04ds241</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/kh04ds241/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fkh%2F04%2Fds%2F24%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">kh04ds241</field>
+    <field name="layer_slug_s">princeton-kh04ds241</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:23Z</field>
+    <field name="dc_title_s">Topographikos pinax tēs nēsou Chiou</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Chios Island (Greece)</field>
+    <field name="dct_temporal_sm">1903</field>
+    <field name="georss_box_s">38.147265 25.8311257 38.6049808 26.1629165</field>
+    <field name="georss_polygon_s">38.6049808 25.8311257 38.6049808 26.1629165 38.147265 26.1629165 38.147265 25.8311257 38.6049808 25.8311257</field>
+    <field name="solr_bbox">25.8311257 38.147265 26.1629165 38.6049808</field>
+    <field name="solr_ne_pt">38.6049808,26.1629165</field>
+    <field name="solr_sw_pt">38.147265,25.8311257</field>
+    <field name="solr_geom">ENVELOPE(25.8311257, 26.1629165, 38.6049808, 38.147265)</field>
+    <field name="solr_year_i">1903</field>
+  </doc>
+</add>
