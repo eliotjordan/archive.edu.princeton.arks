@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9g54xm10m</field>
+    <field name="dc_creator_sm">Wallis, John,</field>
+    <field name="dc_creator_sm">Hooper, Robert Lettis,</field>
+    <field name="dc_description_s">A map exhibiting a general view of the roads and inland navigation of Pennsylvania, and part of the adjacent states : respectfully inscribed to Thomas Mifflin, governor, and the General Assembly of the commonwealth of Pennsylvania</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9g54xm10m</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9g54xm10m/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F9g%2F54%2Fxm%2F10%2Fm%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9g54xm10m</field>
+    <field name="layer_slug_s">princeton-9g54xm10m</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:11Z</field>
+    <field name="dc_title_s">A map exhibiting a general view of the roads and inland navigation of Pennsylvania, and part of the adjacent states : respectfully inscribed to Thomas Mifflin, governor, and the General Assembly of the commonwealth of Pennsylvania</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Delaware</field>
+    <field name="dct_spatial_sm">New Jersey</field>
+    <field name="dct_spatial_sm">New York (State)</field>
+    <field name="dct_spatial_sm">Pennsylvania</field>
+    <field name="dct_temporal_sm">1791</field>
+    <field name="georss_box_s">38.4511276 -75.7890402 39.839433 -74.9849354</field>
+    <field name="georss_polygon_s">39.839433 -75.7890402 39.839433 -74.9849354 38.4511276 -74.9849354 38.4511276 -75.7890402 39.839433 -75.7890402</field>
+    <field name="solr_bbox">-75.7890402 38.4511276 -74.9849354 39.839433</field>
+    <field name="solr_ne_pt">39.839433,-74.9849354</field>
+    <field name="solr_sw_pt">38.4511276,-75.7890402</field>
+    <field name="solr_geom">ENVELOPE(-75.7890402, -74.9849354, 39.839433, 38.4511276)</field>
+    <field name="solr_year_i">1791</field>
+  </doc>
+</add>

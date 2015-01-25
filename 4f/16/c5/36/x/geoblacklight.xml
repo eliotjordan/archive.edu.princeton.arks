@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/4f16c536x</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_creator_sm">Münster, Sebastian,</field>
+    <field name="dc_creator_sm">Petri, Heinrich,</field>
+    <field name="dc_description_s">Italia mit dreyen fürnemesten Inseln, Corsica, Sardinia, vnd Sicilia</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">4f16c536x</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/4f16c536x/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F4f%2F16%2Fc5%2F36%2Fx%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">4f16c536x</field>
+    <field name="layer_slug_s">princeton-4f16c536x</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:21Z</field>
+    <field name="dc_title_s">Italia mit dreyen fürnemesten Inseln, Corsica, Sardinia, vnd Sicilia</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Corsica (France)</field>
+    <field name="dct_spatial_sm">Italy</field>
+    <field name="dct_spatial_sm">Sardinia (Italy)</field>
+    <field name="dct_spatial_sm">Sicily (Italy)</field>
+    <field name="dct_temporal_sm">1550</field>
+    <field name="georss_box_s">39.6040662 6.5382074 44.7240662 11.6582074</field>
+    <field name="georss_polygon_s">44.7240662 6.5382074 44.7240662 11.6582074 39.6040662 11.6582074 39.6040662 6.5382074 44.7240662 6.5382074</field>
+    <field name="solr_bbox">6.5382074 39.6040662 11.6582074 44.7240662</field>
+    <field name="solr_ne_pt">44.7240662,11.6582074</field>
+    <field name="solr_sw_pt">39.6040662,6.5382074</field>
+    <field name="solr_geom">ENVELOPE(6.5382074, 11.6582074, 44.7240662, 39.6040662)</field>
+    <field name="solr_year_i">1550</field>
+  </doc>
+</add>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/k930c057t</field>
+    <field name="dc_creator_sm">Fornari, Augusto.</field>
+    <field name="dc_creator_sm">Feltrini, Domenico.</field>
+    <field name="dc_creator_sm">Piale, Luigi.</field>
+    <field name="dc_creator_sm">Victoria,</field>
+    <field name="dc_creator_sm">McClellan, George B.</field>
+    <field name="dc_description_s">Pianta di Roma</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">k930c057t</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/k930c057t/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fk9%2F30%2Fc0%2F57%2Ft%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">k930c057t</field>
+    <field name="layer_slug_s">princeton-k930c057t</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:22Z</field>
+    <field name="dc_title_s">Pianta di Roma</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Rome (Italy)</field>
+    <field name="dct_temporal_sm">1862</field>
+    <field name="georss_box_s">41.6556417 12.2344985 42.1410285 12.8557603</field>
+    <field name="georss_polygon_s">42.1410285 12.2344985 42.1410285 12.8557603 41.6556417 12.8557603 41.6556417 12.2344985 42.1410285 12.2344985</field>
+    <field name="solr_bbox">12.2344985 41.6556417 12.8557603 42.1410285</field>
+    <field name="solr_ne_pt">42.1410285,12.8557603</field>
+    <field name="solr_sw_pt">41.6556417,12.2344985</field>
+    <field name="solr_geom">ENVELOPE(12.2344985, 12.8557603, 42.1410285, 41.6556417)</field>
+    <field name="solr_year_i">1862</field>
+  </doc>
+</add>

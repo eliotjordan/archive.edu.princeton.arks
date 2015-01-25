@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/x059c981n</field>
+    <field name="dc_creator_sm">Petri, Heinrich,</field>
+    <field name="dc_creator_sm">Münster, Sebastian,</field>
+    <field name="dc_creator_sm">Ptolemy,</field>
+    <field name="dc_description_s">Tabula Europae VII</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">x059c981n</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/x059c981n/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fx0%2F59%2Fc9%2F81%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">x059c981n</field>
+    <field name="layer_slug_s">princeton-x059c981n</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:14Z</field>
+    <field name="dc_title_s">Tabula Europae VII</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Sardinia (Italy)</field>
+    <field name="dct_spatial_sm">Sicily (Italy)</field>
+    <field name="dct_temporal_sm">1540</field>
+    <field name="georss_box_s">38.8590846 8.1308446 41.3131122 9.8293196</field>
+    <field name="georss_polygon_s">41.3131122 8.1308446 41.3131122 9.8293196 38.8590846 9.8293196 38.8590846 8.1308446 41.3131122 8.1308446</field>
+    <field name="solr_bbox">8.1308446 38.8590846 9.8293196 41.3131122</field>
+    <field name="solr_ne_pt">41.3131122,9.8293196</field>
+    <field name="solr_sw_pt">38.8590846,8.1308446</field>
+    <field name="solr_geom">ENVELOPE(8.1308446, 9.8293196, 41.3131122, 38.8590846)</field>
+    <field name="solr_year_i">1540</field>
+  </doc>
+</add>

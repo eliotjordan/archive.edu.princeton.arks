@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sj1394434</field>
+    <field name="dc_creator_sm">Hondius, Hendrik,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Eboracum, Lincolnia, Derbia, Staffordia, Notinghamia, Lecestria, Rutlandia, et Norfolcia</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sj1394434</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sj1394434/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsj%2F13%2F94%2F43%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sj1394434</field>
+    <field name="layer_slug_s">princeton-sj1394434</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:16Z</field>
+    <field name="dc_title_s">Eboracum, Lincolnia, Derbia, Staffordia, Notinghamia, Lecestria, Rutlandia, et Norfolcia</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">England</field>
+    <field name="dct_temporal_sm">1628</field>
+    <field name="georss_box_s">49.674 -6.7047493 55.917 2.0919117</field>
+    <field name="georss_polygon_s">55.917 -6.7047493 55.917 2.0919117 49.674 2.0919117 49.674 -6.7047493 55.917 -6.7047493</field>
+    <field name="solr_bbox">-6.7047493 49.674 2.0919117 55.917</field>
+    <field name="solr_ne_pt">55.917,2.0919117</field>
+    <field name="solr_sw_pt">49.674,-6.7047493</field>
+    <field name="solr_geom">ENVELOPE(-6.7047493, 2.0919117, 55.917, 49.674)</field>
+    <field name="solr_year_i">1628</field>
+  </doc>
+</add>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/h989r5755</field>
+    <field name="dc_description_s">Plan du Forum Romain selon la tradition et l'histoire</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">h989r5755</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/h989r5755/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fh9%2F89%2Fr5%2F75%2F5%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">h989r5755</field>
+    <field name="layer_slug_s">princeton-h989r5755</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:22Z</field>
+    <field name="dc_title_s">Plan du Forum Romain selon la tradition et l'histoire</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Roman Forum (Rome, Italy)</field>
+    <field name="dct_spatial_sm">Rome (Italy)</field>
+    <field name="dct_temporal_sm">1870</field>
+    <field name="georss_box_s">41.8911133197 12.4839760197 41.8938112803 12.4866739803</field>
+    <field name="georss_polygon_s">41.8938112803 12.4839760197 41.8938112803 12.4866739803 41.8911133197 12.4866739803 41.8911133197 12.4839760197 41.8938112803 12.4839760197</field>
+    <field name="solr_bbox">12.4839760197 41.8911133197 12.4866739803 41.8938112803</field>
+    <field name="solr_ne_pt">41.8938112803,12.4866739803</field>
+    <field name="solr_sw_pt">41.8911133197,12.4839760197</field>
+    <field name="solr_geom">ENVELOPE(12.4839760197, 12.4866739803, 41.8938112803, 41.8911133197)</field>
+    <field name="solr_year_i">1870</field>
+  </doc>
+</add>

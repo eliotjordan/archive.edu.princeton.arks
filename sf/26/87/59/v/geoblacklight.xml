@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/sf268759v</field>
+    <field name="dc_creator_sm">Haselton, Norris S.,</field>
+    <field name="dc_description_s">Oxonium comitatus : vulgo Oxford shire</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">sf268759v</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/sf268759v/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fsf%2F26%2F87%2F59%2Fv%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">sf268759v</field>
+    <field name="layer_slug_s">princeton-sf268759v</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:16Z</field>
+    <field name="dc_title_s">Oxonium comitatus : vulgo Oxford shire</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Oxfordshire (England)</field>
+    <field name="dct_temporal_sm">1648</field>
+    <field name="georss_box_s">51.4594132 -1.7195007 52.1684702 -0.8700659</field>
+    <field name="georss_polygon_s">52.1684702 -1.7195007 52.1684702 -0.8700659 51.4594132 -0.8700659 51.4594132 -1.7195007 52.1684702 -1.7195007</field>
+    <field name="solr_bbox">-1.7195007 51.4594132 -0.8700659 52.1684702</field>
+    <field name="solr_ne_pt">52.1684702,-0.8700659</field>
+    <field name="solr_sw_pt">51.4594132,-1.7195007</field>
+    <field name="solr_geom">ENVELOPE(-1.7195007, -0.8700659, 52.1684702, 51.4594132)</field>
+    <field name="solr_year_i">1648</field>
+  </doc>
+</add>

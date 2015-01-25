@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3n204164n</field>
+    <field name="dc_creator_sm">Vuillemin, A.</field>
+    <field name="dc_creator_sm">Andriveau-Goujon, E.</field>
+    <field name="dc_description_s">Mapa de Rno. de Leon y del Principado de Asturias con las nuevas divisiones</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3n204164n</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3n204164n/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F3n%2F20%2F41%2F64%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3n204164n</field>
+    <field name="layer_slug_s">princeton-3n204164n</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:23Z</field>
+    <field name="dc_title_s">Mapa de Rno. de Leon y del Principado de Asturias con las nuevas divisiones</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Asturias (Spain)</field>
+    <field name="dct_spatial_sm">León (Spain : Province)</field>
+    <field name="dct_temporal_sm">1876</field>
+    <field name="georss_box_s">42.8825428 -7.1824889 43.6665323 -4.5105944</field>
+    <field name="georss_polygon_s">43.6665323 -7.1824889 43.6665323 -4.5105944 42.8825428 -4.5105944 42.8825428 -7.1824889 43.6665323 -7.1824889</field>
+    <field name="solr_bbox">-7.1824889 42.8825428 -4.5105944 43.6665323</field>
+    <field name="solr_ne_pt">43.6665323,-4.5105944</field>
+    <field name="solr_sw_pt">42.8825428,-7.1824889</field>
+    <field name="solr_geom">ENVELOPE(-7.1824889, -4.5105944, 43.6665323, 42.8825428)</field>
+    <field name="solr_year_i">1876</field>
+  </doc>
+</add>

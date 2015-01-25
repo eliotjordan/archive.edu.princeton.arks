@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/x059c9881</field>
+    <field name="dc_creator_sm">Kokidēs, Iphikratēs.</field>
+    <field name="dc_creator_sm">Kiepert, Heinrich,</field>
+    <field name="dc_description_s">General-Karte des Königreiches Griechenland : im Masse 1:300 000 der Natur /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">x059c9881</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/x059c9881/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fx0%2F59%2Fc9%2F88%2F1%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">x059c9881</field>
+    <field name="layer_slug_s">princeton-x059c9881</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:23Z</field>
+    <field name="dc_title_s">General-Karte des Königreiches Griechenland : im Masse 1:300 000 der Natur /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Kyklades (Greece)</field>
+    <field name="dct_spatial_sm">Greece</field>
+    <field name="dct_temporal_sm">1897</field>
+    <field name="georss_box_s">36.3321034 24.2644196 37.9996455 26.0861299</field>
+    <field name="georss_polygon_s">37.9996455 24.2644196 37.9996455 26.0861299 36.3321034 26.0861299 36.3321034 24.2644196 37.9996455 24.2644196</field>
+    <field name="solr_bbox">24.2644196 36.3321034 26.0861299 37.9996455</field>
+    <field name="solr_ne_pt">37.9996455,26.0861299</field>
+    <field name="solr_sw_pt">36.3321034,24.2644196</field>
+    <field name="solr_geom">ENVELOPE(24.2644196, 26.0861299, 37.9996455, 36.3321034)</field>
+    <field name="solr_year_i">1897</field>
+  </doc>
+</add>

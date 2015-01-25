@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/fn107139z</field>
+    <field name="dc_creator_sm">Breese, Samuel,</field>
+    <field name="dc_description_s">New York ; City of New York, 1843</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">fn107139z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/fn107139z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ffn%2F10%2F71%2F39%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">fn107139z</field>
+    <field name="layer_slug_s">princeton-fn107139z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:11Z</field>
+    <field name="dc_title_s">New York ; City of New York, 1843</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New York (State)</field>
+    <field name="dct_spatial_sm">New York (State)</field>
+    <field name="dct_spatial_sm">New York (N.Y.)</field>
+    <field name="dct_spatial_sm">Manhattan (New York, N.Y.)</field>
+    <field name="dct_temporal_sm">1843</field>
+    <field name="georss_box_s">40.4913686 -79.7621438 45.015865 -71.8562643</field>
+    <field name="georss_polygon_s">45.015865 -79.7621438 45.015865 -71.8562643 40.4913686 -71.8562643 40.4913686 -79.7621438 45.015865 -79.7621438</field>
+    <field name="solr_bbox">-79.7621438 40.4913686 -71.8562643 45.015865</field>
+    <field name="solr_ne_pt">45.015865,-71.8562643</field>
+    <field name="solr_sw_pt">40.4913686,-79.7621438</field>
+    <field name="solr_geom">ENVELOPE(-79.7621438, -71.8562643, 45.015865, 40.4913686)</field>
+    <field name="solr_year_i">1843</field>
+  </doc>
+</add>

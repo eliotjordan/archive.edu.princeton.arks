@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/9593tx677</field>
+    <field name="dc_description_s">Map of the Territory of New Guinea, administered by the Commonwealth of Australia under mandate from the League of Nations, and Papua, a territory of the Commonwealth of Australia</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">9593tx677</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/9593tx677/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F95%2F93%2Ftx%2F67%2F7%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">9593tx677</field>
+    <field name="layer_slug_s">princeton-9593tx677</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:23Z</field>
+    <field name="dc_title_s">Map of the Territory of New Guinea, administered by the Commonwealth of Australia under mandate from the League of Nations, and Papua, a territory of the Commonwealth of Australia</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">New Britain Island (Papua New Guinea)</field>
+    <field name="dct_spatial_sm">New Ireland Island (Papua New Guinea)</field>
+    <field name="dct_spatial_sm">Papua New Guinea</field>
+    <field name="georss_box_s">-6.317689 148.3075332 -4.1334553 152.4044792</field>
+    <field name="georss_polygon_s">-4.1334553 148.3075332 -4.1334553 152.4044792 -6.317689 152.4044792 -6.317689 148.3075332 -4.1334553 148.3075332</field>
+    <field name="solr_bbox">148.3075332 -6.317689 152.4044792 -4.1334553</field>
+    <field name="solr_ne_pt">-4.1334553,152.4044792</field>
+    <field name="solr_sw_pt">-6.317689,148.3075332</field>
+    <field name="solr_geom">ENVELOPE(148.3075332, 152.4044792, -4.1334553, -6.317689)</field>
+  </doc>
+</add>

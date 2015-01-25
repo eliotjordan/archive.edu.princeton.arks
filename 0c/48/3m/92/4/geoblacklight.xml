@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/0c483m924</field>
+    <field name="dc_creator_sm">Loeillot, W.,</field>
+    <field name="dc_creator_sm">Reumont, Alfred von,</field>
+    <field name="dc_description_s">Campagna di Roma</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">0c483m924</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/0c483m924/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F0c%2F48%2F3m%2F92%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">0c483m924</field>
+    <field name="layer_slug_s">princeton-0c483m924</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:22Z</field>
+    <field name="dc_title_s">Campagna di Roma</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Campagna di Roma (Italy)</field>
+    <field name="dct_spatial_sm">Rome (Italy)</field>
+    <field name="dct_temporal_sm">1870</field>
+    <field name="georss_box_s">42.094995 12.3060877 42.1748758 12.4277219</field>
+    <field name="georss_polygon_s">42.1748758 12.3060877 42.1748758 12.4277219 42.094995 12.4277219 42.094995 12.3060877 42.1748758 12.3060877</field>
+    <field name="solr_bbox">12.3060877 42.094995 12.4277219 42.1748758</field>
+    <field name="solr_ne_pt">42.1748758,12.4277219</field>
+    <field name="solr_sw_pt">42.094995,12.3060877</field>
+    <field name="solr_geom">ENVELOPE(12.3060877, 12.4277219, 42.1748758, 42.094995)</field>
+    <field name="solr_year_i">1870</field>
+  </doc>
+</add>

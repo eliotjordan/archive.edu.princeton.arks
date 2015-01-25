@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/79408071k</field>
+    <field name="dc_creator_sm">Sieber, F. W.</field>
+    <field name="dc_creator_sm">Graves, T.</field>
+    <field name="dc_description_s">Carte orographique et géognostique de l'île de Crète (Hē Krētē)</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">79408071k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/79408071k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F79%2F40%2F80%2F71%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">79408071k</field>
+    <field name="layer_slug_s">princeton-79408071k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:23Z</field>
+    <field name="dc_title_s">Carte orographique et géognostique de l'île de Crète (Hē Krētē)</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Crete (Greece)</field>
+    <field name="dct_temporal_sm">1868</field>
+    <field name="georss_box_s">34.8009319 23.4739911 35.6956944 26.3524769</field>
+    <field name="georss_polygon_s">35.6956944 23.4739911 35.6956944 26.3524769 34.8009319 26.3524769 34.8009319 23.4739911 35.6956944 23.4739911</field>
+    <field name="solr_bbox">23.4739911 34.8009319 26.3524769 35.6956944</field>
+    <field name="solr_ne_pt">35.6956944,26.3524769</field>
+    <field name="solr_sw_pt">34.8009319,23.4739911</field>
+    <field name="solr_geom">ENVELOPE(23.4739911, 26.3524769, 35.6956944, 34.8009319)</field>
+    <field name="solr_year_i">1868</field>
+  </doc>
+</add>

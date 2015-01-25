@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qj72p9639</field>
+    <field name="dc_creator_sm">Hondius, Jodocus,</field>
+    <field name="dc_description_s">The countie of Nottingham described : the shire townes situation and the earls there of observed</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qj72p9639</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qj72p9639/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqj%2F72%2Fp9%2F63%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qj72p9639</field>
+    <field name="layer_slug_s">princeton-qj72p9639</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:16Z</field>
+    <field name="dc_title_s">The countie of Nottingham described : the shire townes situation and the earls there of observed</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Nottingham (England)</field>
+    <field name="dct_spatial_sm">Nottinghamshire (England)</field>
+    <field name="dct_temporal_sm">1650</field>
+    <field name="georss_box_s">52.889031 -1.2469526 53.0186695 -1.0861188</field>
+    <field name="georss_polygon_s">53.0186695 -1.2469526 53.0186695 -1.0861188 52.889031 -1.0861188 52.889031 -1.2469526 53.0186695 -1.2469526</field>
+    <field name="solr_bbox">-1.2469526 52.889031 -1.0861188 53.0186695</field>
+    <field name="solr_ne_pt">53.0186695,-1.0861188</field>
+    <field name="solr_sw_pt">52.889031,-1.2469526</field>
+    <field name="solr_geom">ENVELOPE(-1.2469526, -1.0861188, 53.0186695, 52.889031)</field>
+    <field name="solr_year_i">1650</field>
+  </doc>
+</add>

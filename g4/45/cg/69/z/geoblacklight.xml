@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/g445cg69z</field>
+    <field name="dc_creator_sm">Seutter, Matthaeus,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Accurata designatio celebris freti prope Andalusiæ castellum Gibraltar inter in Europam et Africam, cum circumjacentibus portubus, et castellis /</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">g445cg69z</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/g445cg69z/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fg4%2F45%2Fcg%2F69%2Fz%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">g445cg69z</field>
+    <field name="layer_slug_s">princeton-g445cg69z</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:22Z</field>
+    <field name="dc_title_s">Accurata designatio celebris freti prope Andalusiæ castellum Gibraltar inter in Europam et Africam, cum circumjacentibus portubus, et castellis /</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Balearic Islands (Spain)</field>
+    <field name="dct_spatial_sm">Cádiz (Spain)</field>
+    <field name="dct_spatial_sm">Ceuta (Spain)</field>
+    <field name="dct_spatial_sm">Gibraltar</field>
+    <field name="dct_spatial_sm">Mahón (Spain)</field>
+    <field name="dct_spatial_sm">Málaga (Spain)</field>
+    <field name="dct_spatial_sm">Minorca (Spain)</field>
+    <field name="dct_temporal_sm">1731</field>
+    <field name="georss_box_s">38.6403875 1.1572495 40.0945744 4.3277839</field>
+    <field name="georss_polygon_s">40.0945744 1.1572495 40.0945744 4.3277839 38.6403875 4.3277839 38.6403875 1.1572495 40.0945744 1.1572495</field>
+    <field name="solr_bbox">1.1572495 38.6403875 4.3277839 40.0945744</field>
+    <field name="solr_ne_pt">40.0945744,4.3277839</field>
+    <field name="solr_sw_pt">38.6403875,1.1572495</field>
+    <field name="solr_geom">ENVELOPE(1.1572495, 4.3277839, 40.0945744, 38.6403875)</field>
+    <field name="solr_year_i">1731</field>
+  </doc>
+</add>

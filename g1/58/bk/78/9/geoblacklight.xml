@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/g158bk789</field>
+    <field name="dc_creator_sm">Hondius, Jodocus,</field>
+    <field name="dc_creator_sm">Humble, George,</field>
+    <field name="dc_description_s">Northamton shire</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">g158bk789</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/g158bk789/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fg1%2F58%2Fbk%2F78%2F9%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">g158bk789</field>
+    <field name="layer_slug_s">princeton-g158bk789</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:16Z</field>
+    <field name="dc_title_s">Northamton shire</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Northampton (England)</field>
+    <field name="dct_spatial_sm">Northamptonshire (England)</field>
+    <field name="dct_spatial_sm">Peterborough (England)</field>
+    <field name="dct_temporal_sm">1610</field>
+    <field name="georss_box_s">52.1861054 -0.9710262 52.2827115 -0.7913429</field>
+    <field name="georss_polygon_s">52.2827115 -0.9710262 52.2827115 -0.7913429 52.1861054 -0.7913429 52.1861054 -0.9710262 52.2827115 -0.9710262</field>
+    <field name="solr_bbox">-0.9710262 52.1861054 -0.7913429 52.2827115</field>
+    <field name="solr_ne_pt">52.2827115,-0.7913429</field>
+    <field name="solr_sw_pt">52.1861054,-0.9710262</field>
+    <field name="solr_geom">ENVELOPE(-0.9710262, -0.7913429, 52.2827115, 52.1861054)</field>
+    <field name="solr_year_i">1610</field>
+  </doc>
+</add>

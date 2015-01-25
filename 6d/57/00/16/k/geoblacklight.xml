@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/6d570016k</field>
+    <field name="dc_creator_sm">Bonne, Rigobert,</field>
+    <field name="dc_creator_sm">Perrier,</field>
+    <field name="dc_description_s">Carte des royaumes d'Espagne et de Portugal</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">6d570016k</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/6d570016k/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F6d%2F57%2F00%2F16%2Fk%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">6d570016k</field>
+    <field name="layer_slug_s">princeton-6d570016k</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:23Z</field>
+    <field name="dc_title_s">Carte des royaumes d'Espagne et de Portugal</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Iberian Peninsula</field>
+    <field name="dct_spatial_sm">Portugal</field>
+    <field name="dct_spatial_sm">Spain</field>
+    <field name="dct_temporal_sm">1806</field>
+    <field name="georss_box_s">36.2380667008 -9.5035614375 43.7923795 4.3277839</field>
+    <field name="georss_polygon_s">43.7923795 -9.5035614375 43.7923795 4.3277839 36.2380667008 4.3277839 36.2380667008 -9.5035614375 43.7923795 -9.5035614375</field>
+    <field name="solr_bbox">-9.5035614375 36.2380667008 4.3277839 43.7923795</field>
+    <field name="solr_ne_pt">43.7923795,4.3277839</field>
+    <field name="solr_sw_pt">36.2380667008,-9.5035614375</field>
+    <field name="solr_geom">ENVELOPE(-9.5035614375, 4.3277839, 43.7923795, 36.2380667008)</field>
+    <field name="solr_year_i">1806</field>
+  </doc>
+</add>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/0c483m84n</field>
+    <field name="dc_creator_sm">Lewis, Meriwether,</field>
+    <field name="dc_description_s">A map of part of the continent of North America, from longitude [5°?] W. of Washington City to the Pacific and between latitude 35 and 52 North. Compiled from the information of the best informed travellers through that quarter of the globe in which the Missouri Jefferson's Lewis's &amp; the upper part of Clark's river and the lower part of the Columbia river is partially corrected by celestial observations from the junction of the Missouri and Mississippi to the entrance of the Columbia into the Pacific Ocean ... Shewing Lewis &amp; Clark's rout over the Rocky Mountains in 1805 on their rout to the Pacific from the United States</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">0c483m84n</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/0c483m84n/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F0c%2F48%2F3m%2F84%2Fn%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">0c483m84n</field>
+    <field name="layer_slug_s">princeton-0c483m84n</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:13Z</field>
+    <field name="dc_title_s">A map of part of the continent of North America, from longitude [5°?] W. of Washington City to the Pacific and between latitude 35 and 52 North. Compiled from the information of the best informed travellers through that quarter of the globe in which the Missouri Jefferson's Lewis's &amp; the upper part of Clark's river and the lower part of the Columbia river is partially corrected by celestial observations from the junction of the Missouri and Mississippi to the entrance of the Columbia into the Pacific Ocean ... Shewing Lewis &amp; Clark's rout over the Rocky Mountains in 1805 on their rout to the Pacific from the United States</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">West (U.S.)</field>
+    <field name="dct_spatial_sm">North America</field>
+    <field name="dct_temporal_sm">1805</field>
+    <field name="georss_box_s">25.8371638 -125.2784586 50.3243423493 -103.967023275</field>
+    <field name="georss_polygon_s">50.3243423493 -125.2784586 50.3243423493 -103.967023275 25.8371638 -103.967023275 25.8371638 -125.2784586 50.3243423493 -125.2784586</field>
+    <field name="solr_bbox">-125.2784586 25.8371638 -103.967023275 50.3243423493</field>
+    <field name="solr_ne_pt">50.3243423493,-103.967023275</field>
+    <field name="solr_sw_pt">25.8371638,-125.2784586</field>
+    <field name="solr_geom">ENVELOPE(-125.2784586, -103.967023275, 50.3243423493, 25.8371638)</field>
+    <field name="solr_year_i">1805</field>
+  </doc>
+</add>

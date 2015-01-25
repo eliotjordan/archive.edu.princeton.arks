@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/pn89d913b</field>
+    <field name="dc_creator_sm">Blaeu, Joan,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Calabria Citra olim Magna Græcia</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">pn89d913b</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/pn89d913b/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fpn%2F89%2Fd9%2F13%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">pn89d913b</field>
+    <field name="layer_slug_s">princeton-pn89d913b</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:20Z</field>
+    <field name="dc_title_s">Calabria Citra olim Magna Græcia</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Calabria (Italy)</field>
+    <field name="dct_temporal_sm">1645</field>
+    <field name="georss_box_s">37.9158253 15.6298059 40.1439289 17.2062765</field>
+    <field name="georss_polygon_s">40.1439289 15.6298059 40.1439289 17.2062765 37.9158253 17.2062765 37.9158253 15.6298059 40.1439289 15.6298059</field>
+    <field name="solr_bbox">15.6298059 37.9158253 17.2062765 40.1439289</field>
+    <field name="solr_ne_pt">40.1439289,17.2062765</field>
+    <field name="solr_sw_pt">37.9158253,15.6298059</field>
+    <field name="solr_geom">ENVELOPE(15.6298059, 17.2062765, 40.1439289, 37.9158253)</field>
+    <field name="solr_year_i">1645</field>
+  </doc>
+</add>

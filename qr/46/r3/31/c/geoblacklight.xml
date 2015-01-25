@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/qr46r331c</field>
+    <field name="dc_creator_sm">Schubarth, Matthaeus.</field>
+    <field name="dc_creator_sm">Menu, Henri,</field>
+    <field name="dc_description_s">Principatus Silesiae Saganensis in suos circulos, Sagan, Priebus, et Naumburg</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">qr46r331c</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/qr46r331c/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fqr%2F46%2Fr3%2F31%2Fc%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">qr46r331c</field>
+    <field name="layer_slug_s">princeton-qr46r331c</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:17Z</field>
+    <field name="dc_title_s">Principatus Silesiae Saganensis in suos circulos, Sagan, Priebus, et Naumburg</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Silesia</field>
+    <field name="dct_temporal_sm">1736</field>
+    <field name="georss_box_s">49.393973 18.0349749 51.0992051 19.9740656</field>
+    <field name="georss_polygon_s">51.0992051 18.0349749 51.0992051 19.9740656 49.393973 19.9740656 49.393973 18.0349749 51.0992051 18.0349749</field>
+    <field name="solr_bbox">18.0349749 49.393973 19.9740656 51.0992051</field>
+    <field name="solr_ne_pt">51.0992051,19.9740656</field>
+    <field name="solr_sw_pt">49.393973,18.0349749</field>
+    <field name="solr_geom">ENVELOPE(18.0349749, 19.9740656, 51.0992051, 49.393973)</field>
+    <field name="solr_year_i">1736</field>
+  </doc>
+</add>

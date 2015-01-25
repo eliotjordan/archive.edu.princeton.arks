@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/rb68xf324</field>
+    <field name="dc_creator_sm">Clarke, Dumont,</field>
+    <field name="dc_description_s">Ägypten</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">rb68xf324</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/rb68xf324/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Frb%2F68%2Fxf%2F32%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">rb68xf324</field>
+    <field name="layer_slug_s">princeton-rb68xf324</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:14Z</field>
+    <field name="dc_title_s">Ägypten</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Egypt</field>
+    <field name="dct_spatial_sm">Suez Canal (Egypt)</field>
+    <field name="dct_spatial_sm">Caucasus</field>
+    <field name="dct_temporal_sm">1900</field>
+    <field name="georss_box_s">21.9999975 24.706389 31.8330854 37.1153517</field>
+    <field name="georss_polygon_s">31.8330854 24.706389 31.8330854 37.1153517 21.9999975 37.1153517 21.9999975 24.706389 31.8330854 24.706389</field>
+    <field name="solr_bbox">24.706389 21.9999975 37.1153517 31.8330854</field>
+    <field name="solr_ne_pt">31.8330854,37.1153517</field>
+    <field name="solr_sw_pt">21.9999975,24.706389</field>
+    <field name="solr_geom">ENVELOPE(24.706389, 37.1153517, 31.8330854, 21.9999975)</field>
+    <field name="solr_year_i">1900</field>
+  </doc>
+</add>

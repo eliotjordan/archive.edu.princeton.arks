@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/b8515q882</field>
+    <field name="dc_description_s">Uebersichts-Karte der Insel Sylt</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">b8515q882</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/b8515q882/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F8%2F51%2F5q%2F88%2F2%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">b8515q882</field>
+    <field name="layer_slug_s">princeton-b8515q882</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:17Z</field>
+    <field name="dc_title_s">Uebersichts-Karte der Insel Sylt</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Sylt (Germany)</field>
+    <field name="dct_spatial_sm">Schleswig-Holstein (Germany)</field>
+    <field name="dct_spatial_sm">Westerland (Germany)</field>
+    <field name="dct_temporal_sm">1906</field>
+    <field name="georss_box_s">54.7418629 8.2788526 55.0583511 8.489955</field>
+    <field name="georss_polygon_s">55.0583511 8.2788526 55.0583511 8.489955 54.7418629 8.489955 54.7418629 8.2788526 55.0583511 8.2788526</field>
+    <field name="solr_bbox">8.2788526 54.7418629 8.489955 55.0583511</field>
+    <field name="solr_ne_pt">55.0583511,8.489955</field>
+    <field name="solr_sw_pt">54.7418629,8.2788526</field>
+    <field name="solr_geom">ENVELOPE(8.2788526, 8.489955, 55.0583511, 54.7418629)</field>
+    <field name="solr_year_i">1906</field>
+  </doc>
+</add>

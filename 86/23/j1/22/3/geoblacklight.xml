@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/8623j1223</field>
+    <field name="dc_creator_sm">Deventer, Jacob van,</field>
+    <field name="dc_creator_sm">Münster, Sebastian,</field>
+    <field name="dc_creator_sm">McCabe, Robert A.,</field>
+    <field name="dc_description_s">Della Germania : descrittione della Frisia Orientale</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">8623j1223</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/8623j1223/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F86%2F23%2Fj1%2F22%2F3%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">8623j1223</field>
+    <field name="layer_slug_s">princeton-8623j1223</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:16Z</field>
+    <field name="dc_title_s">Della Germania : descrittione della Frisia Orientale</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Friesland (Netherlands)</field>
+    <field name="dct_temporal_sm">1558</field>
+    <field name="georss_box_s">52.7648052 4.8183758 53.5397134 6.4276148</field>
+    <field name="georss_polygon_s">53.5397134 4.8183758 53.5397134 6.4276148 52.7648052 6.4276148 52.7648052 4.8183758 53.5397134 4.8183758</field>
+    <field name="solr_bbox">4.8183758 52.7648052 6.4276148 53.5397134</field>
+    <field name="solr_ne_pt">53.5397134,6.4276148</field>
+    <field name="solr_sw_pt">52.7648052,4.8183758</field>
+    <field name="solr_geom">ENVELOPE(4.8183758, 6.4276148, 53.5397134, 52.7648052)</field>
+    <field name="solr_year_i">1558</field>
+  </doc>
+</add>

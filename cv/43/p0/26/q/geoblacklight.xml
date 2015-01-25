@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/cv43p026q</field>
+    <field name="dc_creator_sm">Fox, N. B.,</field>
+    <field name="dc_description_s">Dominia Anglorum in America Septentrionali</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">cv43p026q</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/cv43p026q/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Fcv%2F43%2Fp0%2F26%2Fq%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">cv43p026q</field>
+    <field name="layer_slug_s">princeton-cv43p026q</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:12Z</field>
+    <field name="dc_title_s">Dominia Anglorum in America Septentrionali</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Acadia</field>
+    <field name="dct_spatial_sm">Maryland</field>
+    <field name="dct_spatial_sm">New England</field>
+    <field name="dct_spatial_sm">Newfoundland</field>
+    <field name="dct_spatial_sm">North America</field>
+    <field name="dct_spatial_sm">North Carolina</field>
+    <field name="dct_spatial_sm">South Carolina</field>
+    <field name="dct_spatial_sm">Southern States</field>
+    <field name="dct_spatial_sm">Virginia</field>
+    <field name="georss_box_s">43.3739381693 -67.8693624125 47.4066675999 -57.7745094125</field>
+    <field name="georss_polygon_s">47.4066675999 -67.8693624125 47.4066675999 -57.7745094125 43.3739381693 -57.7745094125 43.3739381693 -67.8693624125 47.4066675999 -67.8693624125</field>
+    <field name="solr_bbox">-67.8693624125 43.3739381693 -57.7745094125 47.4066675999</field>
+    <field name="solr_ne_pt">47.4066675999,-57.7745094125</field>
+    <field name="solr_sw_pt">43.3739381693,-67.8693624125</field>
+    <field name="solr_geom">ENVELOPE(-67.8693624125, -57.7745094125, 47.4066675999, 43.3739381693)</field>
+  </doc>
+</add>

@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/3r074x444</field>
+    <field name="dc_creator_sm">Humble, George,</field>
+    <field name="dc_creator_sm">Sudbury, John.</field>
+    <field name="dc_description_s">Barkshire described</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">3r074x444</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/3r074x444/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2F3r%2F07%2F4x%2F44%2F4%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">3r074x444</field>
+    <field name="layer_slug_s">princeton-3r074x444</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:16Z</field>
+    <field name="dc_title_s">Barkshire described</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">Berkshire (England)</field>
+    <field name="dct_temporal_sm">1610</field>
+    <field name="georss_box_s">51.328963 -1.588088 51.5778253 -0.4900443</field>
+    <field name="georss_polygon_s">51.5778253 -1.588088 51.5778253 -0.4900443 51.328963 -0.4900443 51.328963 -1.588088 51.5778253 -1.588088</field>
+    <field name="solr_bbox">-1.588088 51.328963 -0.4900443 51.5778253</field>
+    <field name="solr_ne_pt">51.5778253,-0.4900443</field>
+    <field name="solr_sw_pt">51.328963,-1.588088</field>
+    <field name="solr_geom">ENVELOPE(-1.588088, -0.4900443, 51.5778253, 51.328963)</field>
+    <field name="solr_year_i">1610</field>
+  </doc>
+</add>

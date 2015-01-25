@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf8'?>
+<add xmlns="http://lucene.apache.org/solr/4/document">
+  <doc>
+    <field name="uuid">http://arks.princeton.edu/ark:/88435/fx719p948</field>
+    <field name="dc_creator_sm">Petri, Heinrich,</field>
+    <field name="dc_creator_sm">Münster, Sebastian,</field>
+    <field name="dc_creator_sm">Ptolemy,</field>
+    <field name="dc_description_s">Tabula Europae III</field>
+    <field name="dc_format_s">Scanned Map</field>
+    <field name="dc_identifier_s">fx719p948</field>
+    <field name="dc_rights_s">Public</field>
+    <field name="dct_provenance_s">Princeton</field>
+    <field name="dct_references_s">{"http://www.loc.gov/standards/marcxml": "http://map.princeton.edu/item/fx719p948/marc.xml", "http://iiif.io/api/image": "http://libimages.princeton.edu/loris2/pulmap%2Ffx%2F71%2F9p%2F94%2F8%2F00000001.jp2%2Finfo.json"}</field>
+    <field name="layer_id_s">fx719p948</field>
+    <field name="layer_slug_s">princeton-fx719p948</field>
+    <field name="layer_geom_type_s">Image</field>
+    <field name="layer_modified_dt">2015-01-25T02:06:14Z</field>
+    <field name="dc_title_s">Tabula Europae III</field>
+    <field name="dc_type_s">Image</field>
+    <field name="dct_spatial_sm">France</field>
+    <field name="dct_temporal_sm">1540</field>
+    <field name="georss_box_s">-50.2187168 -178.3873748 51.268318 172.3057152</field>
+    <field name="georss_polygon_s">51.268318 -178.3873748 51.268318 172.3057152 -50.2187168 172.3057152 -50.2187168 -178.3873748 51.268318 -178.3873748</field>
+    <field name="solr_bbox">-178.3873748 -50.2187168 172.3057152 51.268318</field>
+    <field name="solr_ne_pt">51.268318,172.3057152</field>
+    <field name="solr_sw_pt">-50.2187168,-178.3873748</field>
+    <field name="solr_geom">ENVELOPE(-178.3873748, 172.3057152, 51.268318, -50.2187168)</field>
+    <field name="solr_year_i">1540</field>
+  </doc>
+</add>
