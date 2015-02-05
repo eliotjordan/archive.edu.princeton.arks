@@ -53,7 +53,7 @@
     <field name="dc_subject_sm">economy</field>
     <field name="dc_title_s">Township map of Shaanxi with 2000 Census long form data (L1-L6)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3n2040577/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3n2040577/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3n2040577", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3n2040577/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3n2040577/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3n2040577/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3n2040577", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Shaanxi</field>
     <field name="dct_spatial_sm">Shaanxi Province</field>
@@ -63,7 +63,7 @@
     <field name="georss_box_s">31.763422 105.570250 39.525764 111.143541</field>
     <field name="georss_polygon_s">39.525764 105.570250 39.525764 111.143541 31.763422 111.143541 31.763422 105.570250 39.525764 105.570250</field>
     <field name="layer_slug_s">princeton-3n2040577</field>
-    <field name="layer_id_s">3n2040577</field>
+    <field name="layer_id_s">pulmap:ark_3n2040577</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">105.570250 31.763422 111.143541 39.525764</field>

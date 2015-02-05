@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Pembina County, North Dakota land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2v23vv969/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/2v23vv969/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2v23vv969", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2v23vv969/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2v23vv969/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2v23vv969/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2v23vv969", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">North Dakota</field>
     <field name="dct_spatial_sm">Pembina</field>
     <field name="dct_spatial_sm">Pembina County</field>
@@ -27,7 +27,7 @@
     <field name="georss_box_s">48.542269 -97.950605 49.000222 -97.090108</field>
     <field name="georss_polygon_s">49.000222 -97.950605 49.000222 -97.090108 48.542269 -97.090108 48.542269 -97.950605 49.000222 -97.950605</field>
     <field name="layer_slug_s">princeton-2v23vv969</field>
-    <field name="layer_id_s">2v23vv969</field>
+    <field name="layer_id_s">pulmap:ark_2v23vv969</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-97.950605 48.542269 -97.090108 49.000222</field>

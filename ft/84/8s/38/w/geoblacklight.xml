@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Oklahoma Block Groups 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ft848s38w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/ft848s38w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ft848s38w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ft848s38w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ft848s38w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ft848s38w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ft848s38w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Oklahoma</field>
     <field name="dct_temporal_sm">2002</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">33.615765 -103.002648 37.002328 -94.431215</field>
     <field name="georss_polygon_s">37.002328 -103.002648 37.002328 -94.431215 33.615765 -94.431215 33.615765 -103.002648 37.002328 -103.002648</field>
     <field name="layer_slug_s">princeton-ft848s38w</field>
-    <field name="layer_id_s">ft848s38w</field>
+    <field name="layer_id_s">pulmap:ark_ft848s38w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-103.002648 33.615765 -94.431215 37.002328</field>

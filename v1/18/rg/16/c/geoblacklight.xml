@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Railroads</field>
     <field name="dc_title_s">Denmark Major Railways, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v118rg16c/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/v118rg16c/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v118rg16c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v118rg16c/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v118rg16c/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v118rg16c/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v118rg16c", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Denmark</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">54.292500 8.152500 57.723835 12.627194</field>
     <field name="georss_polygon_s">57.723835 8.152500 57.723835 12.627194 54.292500 12.627194 54.292500 8.152500 57.723835 8.152500</field>
     <field name="layer_slug_s">princeton-v118rg16c</field>
-    <field name="layer_id_s">v118rg16c</field>
+    <field name="layer_id_s">pulmap:ark_v118rg16c</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">8.152500 54.292500 12.627194 57.723835</field>

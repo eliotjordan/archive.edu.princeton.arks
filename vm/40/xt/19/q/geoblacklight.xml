@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">power lines</field>
     <field name="dc_title_s">Denmark Major Power Lines, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vm40xt19q/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/vm40xt19q/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vm40xt19q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vm40xt19q/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vm40xt19q/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vm40xt19q/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vm40xt19q", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Denmark</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">54.695080 8.103958 57.695790 15.074909</field>
     <field name="georss_polygon_s">57.695790 8.103958 57.695790 15.074909 54.695080 15.074909 54.695080 8.103958 57.695790 8.103958</field>
     <field name="layer_slug_s">princeton-vm40xt19q</field>
-    <field name="layer_id_s">vm40xt19q</field>
+    <field name="layer_id_s">pulmap:ark_vm40xt19q</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">8.103958 54.695080 15.074909 57.695790</field>

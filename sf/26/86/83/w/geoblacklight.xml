@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Washoe County, Nevada roads, 2006</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/sf268683w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/sf268683w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/sf268683w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/sf268683w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/sf268683w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/sf268683w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/sf268683w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Nevada</field>
     <field name="dct_spatial_sm">Washoe</field>
     <field name="dct_spatial_sm">Washoe County</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">39.165561 -120.016943 41.997206 -119.263430</field>
     <field name="georss_polygon_s">41.997206 -120.016943 41.997206 -119.263430 39.165561 -119.263430 39.165561 -120.016943 41.997206 -120.016943</field>
     <field name="layer_slug_s">princeton-sf268683w</field>
-    <field name="layer_id_s">sf268683w</field>
+    <field name="layer_id_s">pulmap:ark_sf268683w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-120.016943 39.165561 -119.263430 41.997206</field>

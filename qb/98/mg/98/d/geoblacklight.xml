@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major Roads</field>
     <field name="dc_title_s">Myanmar Major Roads, 1996</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qb98mg98d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qb98mg98d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qb98mg98d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qb98mg98d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qb98mg98d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qb98mg98d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qb98mg98d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Myanmar</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">12.442527 92.202589 27.326835 100.377112</field>
     <field name="georss_polygon_s">27.326835 92.202589 27.326835 100.377112 12.442527 100.377112 12.442527 92.202589 27.326835 92.202589</field>
     <field name="layer_slug_s">princeton-qb98mg98d</field>
-    <field name="layer_id_s">qb98mg98d</field>
+    <field name="layer_id_s">pulmap:ark_qb98mg98d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">92.202589 12.442527 100.377112 27.326835</field>

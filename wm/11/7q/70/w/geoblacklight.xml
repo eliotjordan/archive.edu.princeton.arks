@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Osceola County, Florida land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/wm117q70w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/wm117q70w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/wm117q70w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/wm117q70w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/wm117q70w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/wm117q70w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/wm117q70w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Osceola County</field>
     <field name="dct_spatial_sm">Osceola</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">27.641949 -81.657078 28.348521 -80.862123</field>
     <field name="georss_polygon_s">28.348521 -81.657078 28.348521 -80.862123 27.641949 -80.862123 27.641949 -81.657078 28.348521 -81.657078</field>
     <field name="layer_slug_s">princeton-wm117q70w</field>
-    <field name="layer_id_s">wm117q70w</field>
+    <field name="layer_id_s">pulmap:ark_wm117q70w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-81.657078 27.641949 -80.862123 28.348521</field>

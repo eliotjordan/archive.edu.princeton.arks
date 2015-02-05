@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">names</field>
     <field name="dc_title_s">United Kingdom Major Geographic Names, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k643b275q/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/k643b275q/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k643b275q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k643b275q/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k643b275q/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k643b275q/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k643b275q", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United Kingdom</field>
     <field name="dct_spatial_sm">UK</field>
     <field name="dct_temporal_sm">2006</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">49.277246 -7.703769 60.649273 1.683750</field>
     <field name="georss_polygon_s">60.649273 -7.703769 60.649273 1.683750 49.277246 1.683750 49.277246 -7.703769 60.649273 -7.703769</field>
     <field name="layer_slug_s">princeton-k643b275q</field>
-    <field name="layer_id_s">k643b275q</field>
+    <field name="layer_id_s">pulmap:ark_k643b275q</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-7.703769 49.277246 1.683750 60.649273</field>

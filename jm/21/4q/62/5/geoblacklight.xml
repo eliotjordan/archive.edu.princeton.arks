@@ -45,7 +45,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Village map of Uttar Pradesh, 2011</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jm214q625/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/jm214q625/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jm214q625", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jm214q625/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jm214q625/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jm214q625/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jm214q625", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Uttar</field>
     <field name="dct_spatial_sm">Pradesh</field>
     <field name="dct_spatial_sm">Uttar Pradesh</field>
@@ -55,7 +55,7 @@
     <field name="georss_box_s">23.870220 77.088867 30.405470 84.635750</field>
     <field name="georss_polygon_s">30.405470 77.088867 30.405470 84.635750 23.870220 84.635750 23.870220 77.088867 30.405470 77.088867</field>
     <field name="layer_slug_s">princeton-jm214q625</field>
-    <field name="layer_id_s">jm214q625</field>
+    <field name="layer_id_s">pulmap:ark_jm214q625</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">77.088867 23.870220 84.635750 30.405470</field>

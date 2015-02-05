@@ -19,14 +19,14 @@
     <field name="dc_subject_sm">Provinces</field>
     <field name="dc_title_s">Pakistan Tehsil Boundary, 2010</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vq27zp91s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/vq27zp91s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vq27zp91s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vq27zp91s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vq27zp91s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vq27zp91s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vq27zp91s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">PAKISTAN</field>
     <field name="dct_issued_s">20100101</field>
     <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">23.693722 60.893558 37.093082 79.285512</field>
     <field name="georss_polygon_s">37.093082 60.893558 37.093082 79.285512 23.693722 79.285512 23.693722 60.893558 37.093082 60.893558</field>
     <field name="layer_slug_s">princeton-vq27zp91s</field>
-    <field name="layer_id_s">vq27zp91s</field>
+    <field name="layer_id_s">pulmap:ark_vq27zp91s</field>
     <field name="layer_modified_dt">2014-12-23T15:21:15Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">60.893558 23.693722 79.285512 37.093082</field>

@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Highways</field>
     <field name="dc_title_s">Slovakia Major Highways, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/0r9675170/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/0r9675170/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0r9675170", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/0r9675170/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/0r9675170/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/0r9675170/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0r9675170", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Slovakia</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">48.008953 16.992883 49.206408 21.324643</field>
     <field name="georss_polygon_s">49.206408 16.992883 49.206408 21.324643 48.008953 21.324643 48.008953 16.992883 49.206408 16.992883</field>
     <field name="layer_slug_s">princeton-0r9675170</field>
-    <field name="layer_id_s">0r9675170</field>
+    <field name="layer_id_s">pulmap:ark_0r9675170</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">16.992883 48.008953 21.324643 49.206408</field>

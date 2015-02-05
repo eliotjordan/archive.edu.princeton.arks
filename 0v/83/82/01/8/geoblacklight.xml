@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Dade County, Georgia land parcels, 2008</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/0v8382018/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/0v8382018/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0v8382018", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/0v8382018/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/0v8382018/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/0v8382018/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/0v8382018", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Dade County</field>
     <field name="dct_spatial_sm">Dade</field>
     <field name="dct_spatial_sm">Georgia</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">34.623514 -85.605526 34.984527 -85.363386</field>
     <field name="georss_polygon_s">34.984527 -85.605526 34.984527 -85.363386 34.623514 -85.363386 34.623514 -85.605526 34.984527 -85.605526</field>
     <field name="layer_slug_s">princeton-0v8382018</field>
-    <field name="layer_id_s">0v8382018</field>
+    <field name="layer_id_s">pulmap:ark_0v8382018</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-85.605526 34.623514 -85.363386 34.984527</field>

@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Manatee County, Florida roads, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v405sb82s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/v405sb82s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v405sb82s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v405sb82s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v405sb82s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v405sb82s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v405sb82s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Manatee</field>
     <field name="dct_spatial_sm">Manatee County</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">27.207895 -82.743224 27.660024 -82.054528</field>
     <field name="georss_polygon_s">27.660024 -82.743224 27.660024 -82.054528 27.207895 -82.054528 27.207895 -82.743224 27.660024 -82.743224</field>
     <field name="layer_slug_s">princeton-v405sb82s</field>
-    <field name="layer_id_s">v405sb82s</field>
+    <field name="layer_id_s">pulmap:ark_v405sb82s</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-82.743224 27.207895 -82.054528 27.660024</field>

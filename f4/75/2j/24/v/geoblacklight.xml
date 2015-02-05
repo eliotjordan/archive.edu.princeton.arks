@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major Cities</field>
     <field name="dc_title_s">Slovenia Major City Areas, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/f4752j24v/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/f4752j24v/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/f4752j24v", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/f4752j24v/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/f4752j24v/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/f4752j24v/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/f4752j24v", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Slovenia</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">45.931084 13.632718 46.570862 15.665389</field>
     <field name="georss_polygon_s">46.570862 13.632718 46.570862 15.665389 45.931084 15.665389 45.931084 13.632718 46.570862 13.632718</field>
     <field name="layer_slug_s">princeton-f4752j24v</field>
-    <field name="layer_id_s">f4752j24v</field>
+    <field name="layer_id_s">pulmap:ark_f4752j24v</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">13.632718 45.931084 15.665389 46.570862</field>

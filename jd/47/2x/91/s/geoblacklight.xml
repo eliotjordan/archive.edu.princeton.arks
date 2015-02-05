@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Postcode Districts</field>
     <field name="dc_title_s">United Kingdom Postcode Districts, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jd472x91s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/jd472x91s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jd472x91s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jd472x91s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jd472x91s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jd472x91s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jd472x91s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United Kingdom</field>
     <field name="dct_spatial_sm">UK</field>
     <field name="dct_temporal_sm">2006</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">49.162554 -8.166391 60.846801 1.763620</field>
     <field name="georss_polygon_s">60.846801 -8.166391 60.846801 1.763620 49.162554 1.763620 49.162554 -8.166391 60.846801 -8.166391</field>
     <field name="layer_slug_s">princeton-jd472x91s</field>
-    <field name="layer_id_s">jd472x91s</field>
+    <field name="layer_id_s">pulmap:ark_jd472x91s</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-8.166391 49.162554 1.763620 60.846801</field>

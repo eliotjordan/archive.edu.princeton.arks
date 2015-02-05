@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Rockland County, New York roads, 2007</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/x346d558w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/x346d558w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/x346d558w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/x346d558w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/x346d558w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/x346d558w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/x346d558w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New York</field>
     <field name="dct_spatial_sm">Rockland</field>
     <field name="dct_spatial_sm">Rockland County</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">41.001203 -74.233072 41.320016 -73.896452</field>
     <field name="georss_polygon_s">41.320016 -74.233072 41.320016 -73.896452 41.001203 -73.896452 41.001203 -74.233072 41.320016 -74.233072</field>
     <field name="layer_slug_s">princeton-x346d558w</field>
-    <field name="layer_id_s">x346d558w</field>
+    <field name="layer_id_s">pulmap:ark_x346d558w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-74.233072 41.001203 -73.896452 41.320016</field>

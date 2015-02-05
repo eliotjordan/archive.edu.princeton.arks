@@ -22,7 +22,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Adams County, Colorado land parcels, 2006</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vx021g60j/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/vx021g60j/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vx021g60j", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vx021g60j/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vx021g60j/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vx021g60j/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vx021g60j", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Colorado</field>
     <field name="dct_spatial_sm">Adams County</field>
     <field name="dct_spatial_sm">Denver</field>
@@ -35,7 +35,7 @@
     <field name="georss_box_s">39.738184 -105.053154 40.001335 -103.705653</field>
     <field name="georss_polygon_s">40.001335 -105.053154 40.001335 -103.705653 39.738184 -103.705653 39.738184 -105.053154 40.001335 -105.053154</field>
     <field name="layer_slug_s">princeton-vx021g60j</field>
-    <field name="layer_id_s">vx021g60j</field>
+    <field name="layer_id_s">pulmap:ark_vx021g60j</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-105.053154 39.738184 -103.705653 40.001335</field>

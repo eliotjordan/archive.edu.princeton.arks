@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">polygon</field>
     <field name="dc_title_s">Mexico AGEB data</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zs25x986d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/zs25x986d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zs25x986d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zs25x986d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zs25x986d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zs25x986d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zs25x986d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Mexico</field>
     <field name="dct_spatial_sm">Mexico City</field>
     <field name="dct_issued_s">2006</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">14.5632 -117.2553 32.6841 -86.6525</field>
     <field name="georss_polygon_s">32.6841 -117.2553 32.6841 -86.6525 14.5632 -86.6525 14.5632 -117.2553 32.6841 -117.2553</field>
     <field name="layer_slug_s">princeton-zs25x986d</field>
-    <field name="layer_id_s">zs25x986d</field>
+    <field name="layer_id_s">pulmap:ark_zs25x986d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-117.2553 14.5632 -86.6525 32.6841</field>

@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Nebraska Tracts 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/b2773x405/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/b2773x405/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/b2773x405", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/b2773x405/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/b2773x405/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/b2773x405/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/b2773x405", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Nebraska</field>
     <field name="dct_temporal_sm">2002</field>
@@ -30,7 +30,7 @@
     <field name="georss_box_s">39.999999 -104.053515 43.001708 -95.308290</field>
     <field name="georss_polygon_s">43.001708 -104.053515 43.001708 -95.308290 39.999999 -95.308290 39.999999 -104.053515 43.001708 -104.053515</field>
     <field name="layer_slug_s">princeton-b2773x405</field>
-    <field name="layer_id_s">b2773x405</field>
+    <field name="layer_id_s">pulmap:ark_b2773x405</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-104.053515 39.999999 -95.308290 43.001708</field>

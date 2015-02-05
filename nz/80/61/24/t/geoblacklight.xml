@@ -41,7 +41,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Township map of Beijing with 2000 Census long form data (L7-L8)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/nz806124t/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/nz806124t/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/nz806124t", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/nz806124t/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/nz806124t/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/nz806124t/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/nz806124t", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Beijing</field>
     <field name="dct_spatial_sm">Beijing Municipality</field>
@@ -51,7 +51,7 @@
     <field name="georss_box_s">39.520973 115.533577 40.899220 117.320374</field>
     <field name="georss_polygon_s">40.899220 115.533577 40.899220 117.320374 39.520973 117.320374 39.520973 115.533577 40.899220 115.533577</field>
     <field name="layer_slug_s">princeton-nz806124t</field>
-    <field name="layer_id_s">nz806124t</field>
+    <field name="layer_id_s">pulmap:ark_nz806124t</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">115.533577 39.520973 117.320374 40.899220</field>

@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">St. Lucie County, Florida land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k06989175/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/k06989175/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k06989175", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k06989175/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k06989175/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k06989175/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k06989175", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">St. Lucie</field>
     <field name="dct_spatial_sm">St. Lucie County</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -34,7 +34,7 @@
     <field name="georss_box_s">27.204932 -80.679809 27.560465 -80.199656</field>
     <field name="georss_polygon_s">27.560465 -80.679809 27.560465 -80.199656 27.204932 -80.199656 27.204932 -80.679809 27.560465 -80.679809</field>
     <field name="layer_slug_s">princeton-k06989175</field>
-    <field name="layer_id_s">k06989175</field>
+    <field name="layer_id_s">pulmap:ark_k06989175</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-80.679809 27.204932 -80.199656 27.560465</field>

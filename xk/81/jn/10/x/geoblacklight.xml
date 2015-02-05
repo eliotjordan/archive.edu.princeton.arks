@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Washington Major Roads 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xk81jn10x/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/xk81jn10x/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xk81jn10x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xk81jn10x/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xk81jn10x/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xk81jn10x/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xk81jn10x", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Washington</field>
     <field name="dct_temporal_sm">1999</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">45.559569 -124.669995 49.002487 -117.035878</field>
     <field name="georss_polygon_s">49.002487 -124.669995 49.002487 -117.035878 45.559569 -117.035878 45.559569 -124.669995 49.002487 -124.669995</field>
     <field name="layer_slug_s">princeton-xk81jn10x</field>
-    <field name="layer_id_s">xk81jn10x</field>
+    <field name="layer_id_s">pulmap:ark_xk81jn10x</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-124.669995 45.559569 -117.035878 49.002487</field>

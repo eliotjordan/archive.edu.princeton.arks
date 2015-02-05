@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">boundaries</field>
     <field name="dc_title_s">World Regions 2008</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j098zc745/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/j098zc745/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j098zc745", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j098zc745/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j098zc745/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j098zc745/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j098zc745", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">World</field>
     <field name="dct_temporal_sm">1996</field>
     <field name="dct_temporal_sm">1998</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">-90.000000 -180.000000 83.623600 180.000000</field>
     <field name="georss_polygon_s">83.623600 -180.000000 83.623600 180.000000 -90.000000 180.000000 -90.000000 -180.000000 83.623600 -180.000000</field>
     <field name="layer_slug_s">princeton-j098zc745</field>
-    <field name="layer_id_s">j098zc745</field>
+    <field name="layer_id_s">pulmap:ark_j098zc745</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-180.000000 -90.000000 180.000000 83.623600</field>

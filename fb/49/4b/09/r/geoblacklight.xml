@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Rhode Island Block Centroid Populations 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/fb494b09r/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/fb494b09r/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fb494b09r", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/fb494b09r/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/fb494b09r/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/fb494b09r/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fb494b09r", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Rhode Island</field>
     <field name="dct_temporal_sm">2000</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">41.140997 -71.892789 42.018298 -71.121829</field>
     <field name="georss_polygon_s">42.018298 -71.892789 42.018298 -71.121829 41.140997 -71.121829 41.140997 -71.892789 42.018298 -71.892789</field>
     <field name="layer_slug_s">princeton-fb494b09r</field>
-    <field name="layer_id_s">fb494b09r</field>
+    <field name="layer_id_s">pulmap:ark_fb494b09r</field>
     <field name="layer_modified_dt">2014-12-23T15:21:44Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-71.892789 41.140997 -71.121829 42.018298</field>

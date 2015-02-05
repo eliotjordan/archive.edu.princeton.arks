@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major Airports</field>
     <field name="dc_title_s">Bosnia-Herzegovina Major Airports, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/m613mz985/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/m613mz985/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/m613mz985", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/m613mz985/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/m613mz985/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/m613mz985/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/m613mz985", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Bosnia-Herzegovina</field>
     <field name="dct_spatial_sm">Bosnia</field>
     <field name="dct_spatial_sm">Herzegovina</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">43.319969 17.296389 44.940556 18.724667</field>
     <field name="georss_polygon_s">44.940556 17.296389 44.940556 18.724667 43.319969 18.724667 43.319969 17.296389 44.940556 17.296389</field>
     <field name="layer_slug_s">princeton-m613mz985</field>
-    <field name="layer_id_s">m613mz985</field>
+    <field name="layer_id_s">pulmap:ark_m613mz985</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">17.296389 43.319969 18.724667 44.940556</field>

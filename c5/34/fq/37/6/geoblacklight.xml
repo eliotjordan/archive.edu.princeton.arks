@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Minor Roads</field>
     <field name="dc_title_s">Denmark Minor Roads, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/c534fq376/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/c534fq376/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/c534fq376", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/c534fq376/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/c534fq376/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/c534fq376/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/c534fq376", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Denmark</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">54.655388 8.113436 57.603301 15.152139</field>
     <field name="georss_polygon_s">57.603301 8.113436 57.603301 15.152139 54.655388 15.152139 54.655388 8.113436 57.603301 8.113436</field>
     <field name="layer_slug_s">princeton-c534fq376</field>
-    <field name="layer_id_s">c534fq376</field>
+    <field name="layer_id_s">pulmap:ark_c534fq376</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">8.113436 54.655388 15.152139 57.603301</field>

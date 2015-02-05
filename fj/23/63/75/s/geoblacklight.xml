@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">New York Major Roads 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/fj236375s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/fj236375s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fj236375s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/fj236375s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/fj236375s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/fj236375s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fj236375s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">New York</field>
     <field name="dct_temporal_sm">1999</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">40.502923 -79.762153 45.010462 -71.790636</field>
     <field name="georss_polygon_s">45.010462 -79.762153 45.010462 -71.790636 40.502923 -71.790636 40.502923 -79.762153 45.010462 -79.762153</field>
     <field name="layer_slug_s">princeton-fj236375s</field>
-    <field name="layer_id_s">fj236375s</field>
+    <field name="layer_id_s">pulmap:ark_fj236375s</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-79.762153 40.502923 -71.790636 45.010462</field>

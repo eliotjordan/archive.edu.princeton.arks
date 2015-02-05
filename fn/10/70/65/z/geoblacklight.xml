@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major lakes</field>
     <field name="dc_title_s">United Kingdom Minor Lakes, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/fn107065z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/fn107065z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fn107065z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/fn107065z/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/fn107065z/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/fn107065z/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/fn107065z", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United Kingdom</field>
     <field name="dct_spatial_sm">UK</field>
     <field name="dct_temporal_sm">2006</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">50.070641 -8.277250 60.804501 1.716889</field>
     <field name="georss_polygon_s">60.804501 -8.277250 60.804501 1.716889 50.070641 1.716889 50.070641 -8.277250 60.804501 -8.277250</field>
     <field name="layer_slug_s">princeton-fn107065z</field>
-    <field name="layer_id_s">fn107065z</field>
+    <field name="layer_id_s">pulmap:ark_fn107065z</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-8.277250 50.070641 1.716889 60.804501</field>

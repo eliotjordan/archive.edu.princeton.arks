@@ -41,7 +41,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Township map of Guangdong with 2000 Census long form data (L7-L8)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3x816p12g/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3x816p12g/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3x816p12g", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3x816p12g/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3x816p12g/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3x816p12g/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3x816p12g", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Guangdong</field>
     <field name="dct_spatial_sm">Guangdong Province</field>
@@ -51,7 +51,7 @@
     <field name="georss_box_s">20.266329 109.710823 25.460644 117.132874</field>
     <field name="georss_polygon_s">25.460644 109.710823 25.460644 117.132874 20.266329 117.132874 20.266329 109.710823 25.460644 109.710823</field>
     <field name="layer_slug_s">princeton-3x816p12g</field>
-    <field name="layer_id_s">3x816p12g</field>
+    <field name="layer_id_s">pulmap:ark_3x816p12g</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">109.710823 20.266329 117.132874 25.460644</field>

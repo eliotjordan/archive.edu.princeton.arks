@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">factories</field>
     <field name="dc_title_s">Norway Major Industrial Points, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/41687k19v/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/41687k19v/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/41687k19v", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/41687k19v/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/41687k19v/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/41687k19v/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/41687k19v", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Norway</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">58.166557 5.165500 66.064919 13.795028</field>
     <field name="georss_polygon_s">66.064919 5.165500 66.064919 13.795028 58.166557 13.795028 58.166557 5.165500 66.064919 5.165500</field>
     <field name="layer_slug_s">princeton-41687k19v</field>
-    <field name="layer_id_s">41687k19v</field>
+    <field name="layer_id_s">pulmap:ark_41687k19v</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">5.165500 58.166557 13.795028 66.064919</field>

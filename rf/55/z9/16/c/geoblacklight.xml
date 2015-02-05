@@ -53,7 +53,7 @@
     <field name="dc_subject_sm">economy</field>
     <field name="dc_title_s">Township map of Yunnan with 2000 Census long form data (L1-L6)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/rf55z916c/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/rf55z916c/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/rf55z916c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/rf55z916c/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/rf55z916c/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/rf55z916c/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/rf55z916c", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Yunnan</field>
     <field name="dct_spatial_sm">Yunnan Province</field>
@@ -63,7 +63,7 @@
     <field name="georss_box_s">21.236832 97.573631 28.919423 106.074303</field>
     <field name="georss_polygon_s">28.919423 97.573631 28.919423 106.074303 21.236832 106.074303 21.236832 97.573631 28.919423 97.573631</field>
     <field name="layer_slug_s">princeton-rf55z916c</field>
-    <field name="layer_id_s">rf55z916c</field>
+    <field name="layer_id_s">pulmap:ark_rf55z916c</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">97.573631 21.236832 106.074303 28.919423</field>

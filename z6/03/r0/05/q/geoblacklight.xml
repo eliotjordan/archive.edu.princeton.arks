@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major Cities</field>
     <field name="dc_title_s">Jamaica Major Cities, 1995</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z603r005q/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/z603r005q/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z603r005q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z603r005q/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z603r005q/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z603r005q/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z603r005q", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Jamaica</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">17.805525 -78.346649 18.489574 -76.270882</field>
     <field name="georss_polygon_s">18.489574 -78.346649 18.489574 -76.270882 17.805525 -76.270882 17.805525 -78.346649 18.489574 -78.346649</field>
     <field name="layer_slug_s">princeton-z603r005q</field>
-    <field name="layer_id_s">z603r005q</field>
+    <field name="layer_id_s">pulmap:ark_z603r005q</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-78.346649 17.805525 -76.270882 18.489574</field>

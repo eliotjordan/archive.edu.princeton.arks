@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Santa Cruz County, California land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xg94hr109/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/xg94hr109/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xg94hr109", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xg94hr109/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xg94hr109/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xg94hr109/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xg94hr109", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">California</field>
     <field name="dct_spatial_sm">Santa Cruz County</field>
     <field name="dct_spatial_sm">Santa Cruz</field>
@@ -29,7 +29,7 @@
     <field name="georss_box_s">36.848882 -122.317223 37.286151 -121.582294</field>
     <field name="georss_polygon_s">37.286151 -122.317223 37.286151 -121.582294 36.848882 -121.582294 36.848882 -122.317223 37.286151 -122.317223</field>
     <field name="layer_slug_s">princeton-xg94hr109</field>
-    <field name="layer_id_s">xg94hr109</field>
+    <field name="layer_id_s">pulmap:ark_xg94hr109</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-122.317223 36.848882 -121.582294 37.286151</field>

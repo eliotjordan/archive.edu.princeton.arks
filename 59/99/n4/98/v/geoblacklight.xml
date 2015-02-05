@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">location</field>
     <field name="dc_title_s">Yucatan, Mexico Basic Geographic Statistical Areas, 2011</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/5999n498v/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/5999n498v/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/5999n498v", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/5999n498v/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/5999n498v/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/5999n498v/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/5999n498v", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Mexico</field>
     <field name="dct_spatial_sm">Yucatan</field>
     <field name="dct_issued_s">20110401</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">20.054261 -90.406850 21.599726 -87.556078</field>
     <field name="georss_polygon_s">21.599726 -90.406850 21.599726 -87.556078 20.054261 -87.556078 20.054261 -90.406850 21.599726 -90.406850</field>
     <field name="layer_slug_s">princeton-5999n498v</field>
-    <field name="layer_id_s">5999n498v</field>
+    <field name="layer_id_s">pulmap:ark_5999n498v</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-90.406850 20.054261 -87.556078 21.599726</field>

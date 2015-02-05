@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">rivers</field>
     <field name="dc_title_s">U.S. Major Water 2000</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9306t0827/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9306t0827/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9306t0827", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9306t0827/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9306t0827/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9306t0827/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9306t0827", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_temporal_sm">1997</field>
     <field name="dct_temporal_sm">1999</field>
@@ -29,7 +29,7 @@
     <field name="georss_box_s">19.713890 -168.074728 70.719400 -67.121681</field>
     <field name="georss_polygon_s">70.719400 -168.074728 70.719400 -67.121681 19.713890 -67.121681 19.713890 -168.074728 70.719400 -168.074728</field>
     <field name="layer_slug_s">princeton-9306t0827</field>
-    <field name="layer_id_s">9306t0827</field>
+    <field name="layer_id_s">pulmap:ark_9306t0827</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-168.074728 19.713890 -67.121681 70.719400</field>

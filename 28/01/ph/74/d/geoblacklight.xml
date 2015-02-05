@@ -43,7 +43,7 @@
     <field name="dc_subject_sm">location</field>
     <field name="dc_title_s">Village points in Arunachal Pradesh, 2011</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2801ph74d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/2801ph74d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2801ph74d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2801ph74d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2801ph74d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2801ph74d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2801ph74d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Arunachal</field>
     <field name="dct_spatial_sm">Pradesh</field>
     <field name="dct_spatial_sm">India</field>
@@ -52,7 +52,7 @@
     <field name="georss_box_s">26.680412 91.635292 29.101519 97.165884</field>
     <field name="georss_polygon_s">29.101519 91.635292 29.101519 97.165884 26.680412 97.165884 26.680412 91.635292 29.101519 91.635292</field>
     <field name="layer_slug_s">princeton-2801ph74d</field>
-    <field name="layer_id_s">2801ph74d</field>
+    <field name="layer_id_s">pulmap:ark_2801ph74d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">91.635292 26.680412 97.165884 29.101519</field>

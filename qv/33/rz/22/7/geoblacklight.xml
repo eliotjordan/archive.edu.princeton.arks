@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Minor rivers</field>
     <field name="dc_title_s">Lithuania Minor Rivers, 2004</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qv33rz227/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qv33rz227/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qv33rz227", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qv33rz227/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qv33rz227/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qv33rz227/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qv33rz227", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Lithuania</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">53.898434 21.049862 56.447964 26.842502</field>
     <field name="georss_polygon_s">56.447964 21.049862 56.447964 26.842502 53.898434 26.842502 53.898434 21.049862 56.447964 21.049862</field>
     <field name="layer_slug_s">princeton-qv33rz227</field>
-    <field name="layer_id_s">qv33rz227</field>
+    <field name="layer_id_s">pulmap:ark_qv33rz227</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">21.049862 53.898434 26.842502 56.447964</field>

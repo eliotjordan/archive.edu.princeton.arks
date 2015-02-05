@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Minor Roads</field>
     <field name="dc_title_s">Sweden Minor Roads, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bc386k66j/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/bc386k66j/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bc386k66j", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bc386k66j/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bc386k66j/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bc386k66j/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bc386k66j", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Sweden</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">55.374707 11.182152 68.513453 24.121702</field>
     <field name="georss_polygon_s">68.513453 11.182152 68.513453 24.121702 55.374707 24.121702 55.374707 11.182152 68.513453 11.182152</field>
     <field name="layer_slug_s">princeton-bc386k66j</field>
-    <field name="layer_id_s">bc386k66j</field>
+    <field name="layer_id_s">pulmap:ark_bc386k66j</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">11.182152 55.374707 24.121702 68.513453</field>

@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">housing units</field>
     <field name="dc_title_s">U.S. Populated Place Areas 2000</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/x920fz47t/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/x920fz47t/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/x920fz47t", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/x920fz47t/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/x920fz47t/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/x920fz47t/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/x920fz47t", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_temporal_sm">1999</field>
     <field name="dct_temporal_sm">1990</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">18.954147 -176.810434 71.331991 -66.979919</field>
     <field name="georss_polygon_s">71.331991 -176.810434 71.331991 -66.979919 18.954147 -66.979919 18.954147 -176.810434 71.331991 -176.810434</field>
     <field name="layer_slug_s">princeton-x920fz47t</field>
-    <field name="layer_id_s">x920fz47t</field>
+    <field name="layer_id_s">pulmap:ark_x920fz47t</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-176.810434 18.954147 -66.979919 71.331991</field>

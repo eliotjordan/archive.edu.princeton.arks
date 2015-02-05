@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Islands</field>
     <field name="dc_title_s">Belarus Major Dams and Islands, 2004</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1c18dh19d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/1c18dh19d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1c18dh19d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1c18dh19d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1c18dh19d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1c18dh19d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1c18dh19d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Belarus</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">51.940731 26.107389 56.064919 30.732721</field>
     <field name="georss_polygon_s">56.064919 26.107389 56.064919 30.732721 51.940731 30.732721 51.940731 26.107389 56.064919 26.107389</field>
     <field name="layer_slug_s">princeton-1c18dh19d</field>
-    <field name="layer_id_s">1c18dh19d</field>
+    <field name="layer_id_s">pulmap:ark_1c18dh19d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">26.107389 51.940731 30.732721 56.064919</field>

@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Chaves County, New Mexico land parcels, 2010</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1v53jz472/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/1v53jz472/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1v53jz472", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1v53jz472/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1v53jz472/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1v53jz472/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1v53jz472", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New Mexico</field>
     <field name="dct_spatial_sm">Chaves</field>
     <field name="dct_spatial_sm">Chaves County</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">32.518806 -105.353965 34.088752 -103.509519</field>
     <field name="georss_polygon_s">34.088752 -105.353965 34.088752 -103.509519 32.518806 -103.509519 32.518806 -105.353965 34.088752 -105.353965</field>
     <field name="layer_slug_s">princeton-1v53jz472</field>
-    <field name="layer_id_s">1v53jz472</field>
+    <field name="layer_id_s">pulmap:ark_1v53jz472</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-105.353965 32.518806 -103.509519 34.088752</field>

@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">environment</field>
     <field name="dc_title_s">U.S. Parks 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jq085m699/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/jq085m699/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jq085m699", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jq085m699/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jq085m699/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jq085m699/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jq085m699", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_temporal_sm">1992</field>
     <field name="dct_temporal_sm">1997</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">18.910842 -167.535943 68.655492 -67.131653</field>
     <field name="georss_polygon_s">68.655492 -167.535943 68.655492 -67.131653 18.910842 -67.131653 18.910842 -167.535943 68.655492 -167.535943</field>
     <field name="layer_slug_s">princeton-jq085m699</field>
-    <field name="layer_id_s">jq085m699</field>
+    <field name="layer_id_s">pulmap:ark_jq085m699</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-167.535943 18.910842 -67.131653 68.655492</field>

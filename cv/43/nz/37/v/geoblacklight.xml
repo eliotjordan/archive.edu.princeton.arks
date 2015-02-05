@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Reservoirs</field>
     <field name="dc_title_s">Beijing Drainage regions</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/cv43nz37v/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/cv43nz37v/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/cv43nz37v", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/cv43nz37v/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/cv43nz37v/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/cv43nz37v/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/cv43nz37v", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Beijing</field>
     <field name="dct_issued_s">2006</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">39.434019 115.500560 40.573251 117.336068</field>
     <field name="georss_polygon_s">40.573251 115.500560 40.573251 117.336068 39.434019 117.336068 39.434019 115.500560 40.573251 115.500560</field>
     <field name="layer_slug_s">princeton-cv43nz37v</field>
-    <field name="layer_id_s">cv43nz37v</field>
+    <field name="layer_id_s">pulmap:ark_cv43nz37v</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">115.500560 39.434019 117.336068 40.573251</field>

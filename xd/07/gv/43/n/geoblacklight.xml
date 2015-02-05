@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Atlantic County, New Jersey land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xd07gv43n/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/xd07gv43n/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xd07gv43n", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xd07gv43n/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xd07gv43n/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xd07gv43n/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xd07gv43n", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New Jersey</field>
     <field name="dct_spatial_sm">Atlantic County</field>
     <field name="dct_spatial_sm">Atlantic</field>
@@ -34,7 +34,7 @@
     <field name="georss_box_s">39.295043 -74.985271 39.729775 -74.314176</field>
     <field name="georss_polygon_s">39.729775 -74.985271 39.729775 -74.314176 39.295043 -74.314176 39.295043 -74.985271 39.729775 -74.985271</field>
     <field name="layer_slug_s">princeton-xd07gv43n</field>
-    <field name="layer_id_s">xd07gv43n</field>
+    <field name="layer_id_s">pulmap:ark_xd07gv43n</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-74.985271 39.295043 -74.314176 39.729775</field>

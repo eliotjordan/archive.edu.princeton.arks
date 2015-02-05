@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Pima County, Arizona roads, 2008</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6682x5478/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/6682x5478/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6682x5478", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6682x5478/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6682x5478/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6682x5478/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6682x5478", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Pima County</field>
     <field name="dct_spatial_sm">Pima</field>
     <field name="dct_spatial_sm">Arizona</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">31.451458 -113.333885 32.514790 -110.447540</field>
     <field name="georss_polygon_s">32.514790 -113.333885 32.514790 -110.447540 31.451458 -110.447540 31.451458 -113.333885 32.514790 -113.333885</field>
     <field name="layer_slug_s">princeton-6682x5478</field>
-    <field name="layer_id_s">6682x5478</field>
+    <field name="layer_id_s">pulmap:ark_6682x5478</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-113.333885 31.451458 -110.447540 32.514790</field>

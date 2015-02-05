@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Highways</field>
     <field name="dc_title_s">Sweden Major Highways, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/m613n017w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/m613n017w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/m613n017w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/m613n017w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/m613n017w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/m613n017w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/m613n017w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Sweden</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">55.447080 11.825534 62.527355 18.678629</field>
     <field name="georss_polygon_s">62.527355 11.825534 62.527355 18.678629 55.447080 18.678629 55.447080 11.825534 62.527355 11.825534</field>
     <field name="layer_slug_s">princeton-m613n017w</field>
-    <field name="layer_id_s">m613n017w</field>
+    <field name="layer_id_s">pulmap:ark_m613n017w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">11.825534 55.447080 18.678629 62.527355</field>

@@ -21,7 +21,7 @@
     <field name="dc_subject_sm">populated places</field>
     <field name="dc_title_s">World Gazetteer 1999</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j6731553c/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/j6731553c/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j6731553c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j6731553c/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j6731553c/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j6731553c/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j6731553c", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">World</field>
     <field name="dct_temporal_sm">1992</field>
     <field name="dct_temporal_sm">1993/1994</field>
@@ -31,7 +31,7 @@
     <field name="georss_box_s">-86.905998 -179.988998 85.213997 179.996994</field>
     <field name="georss_polygon_s">85.213997 -179.988998 85.213997 179.996994 -86.905998 179.996994 -86.905998 -179.988998 85.213997 -179.988998</field>
     <field name="layer_slug_s">princeton-j6731553c</field>
-    <field name="layer_id_s">j6731553c</field>
+    <field name="layer_id_s">pulmap:ark_j6731553c</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-179.988998 -86.905998 179.996994 85.213997</field>

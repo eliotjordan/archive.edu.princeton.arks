@@ -25,7 +25,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Mono County, California land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/dv13zv76n/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/dv13zv76n/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/dv13zv76n", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/dv13zv76n/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/dv13zv76n/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/dv13zv76n/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/dv13zv76n", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">California</field>
     <field name="dct_spatial_sm">Mono County</field>
     <field name="dct_issued_s">20090223</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">37.462642 -119.650505 38.705595 -117.831802</field>
     <field name="georss_polygon_s">38.705595 -119.650505 38.705595 -117.831802 37.462642 -117.831802 37.462642 -119.650505 38.705595 -119.650505</field>
     <field name="layer_slug_s">princeton-dv13zv76n</field>
-    <field name="layer_id_s">dv13zv76n</field>
+    <field name="layer_id_s">pulmap:ark_dv13zv76n</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-119.650505 37.462642 -117.831802 38.705595</field>

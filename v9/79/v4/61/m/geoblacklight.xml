@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Tulsa County, Oklahoma land parcels, 2007</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v979v461m/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/v979v461m/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v979v461m", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v979v461m/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v979v461m/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v979v461m/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v979v461m", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Tulsa</field>
     <field name="dct_spatial_sm">Tulsa County</field>
     <field name="dct_spatial_sm">Broken Arrow</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">35.852452 -96.304031 36.431663 -95.747121</field>
     <field name="georss_polygon_s">36.431663 -96.304031 36.431663 -95.747121 35.852452 -95.747121 35.852452 -96.304031 36.431663 -96.304031</field>
     <field name="layer_slug_s">princeton-v979v461m</field>
-    <field name="layer_id_s">v979v461m</field>
+    <field name="layer_id_s">pulmap:ark_v979v461m</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-96.304031 35.852452 -95.747121 36.431663</field>

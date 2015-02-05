@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">location</field>
     <field name="dc_title_s">Michoacan de Ocampo, Mexico Basic Geographic Statistical Areas, 2011</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/js956h55c/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/js956h55c/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/js956h55c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/js956h55c/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/js956h55c/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/js956h55c/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/js956h55c", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Mexico</field>
     <field name="dct_spatial_sm">Michoacan de Ocampo</field>
     <field name="dct_spatial_sm">Michoacan</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">17.914958 -103.676828 20.381158 -100.154606</field>
     <field name="georss_polygon_s">20.381158 -103.676828 20.381158 -100.154606 17.914958 -100.154606 17.914958 -103.676828 20.381158 -103.676828</field>
     <field name="layer_slug_s">princeton-js956h55c</field>
-    <field name="layer_id_s">js956h55c</field>
+    <field name="layer_id_s">pulmap:ark_js956h55c</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-103.676828 17.914958 -100.154606 20.381158</field>

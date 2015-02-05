@@ -34,7 +34,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">San Diego County, California land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z603qz95z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/z603qz95z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z603qz95z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z603qz95z/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z603qz95z/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z603qz95z/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z603qz95z", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">California</field>
     <field name="dct_spatial_sm">San Diego County</field>
     <field name="dct_spatial_sm">San Diego</field>
@@ -43,7 +43,7 @@
     <field name="georss_box_s">32.534273 -117.596180 33.505379 -116.080880</field>
     <field name="georss_polygon_s">33.505379 -117.596180 33.505379 -116.080880 32.534273 -116.080880 32.534273 -117.596180 33.505379 -117.596180</field>
     <field name="layer_slug_s">princeton-z603qz95z</field>
-    <field name="layer_id_s">z603qz95z</field>
+    <field name="layer_id_s">pulmap:ark_z603qz95z</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-117.596180 32.534273 -116.080880 33.505379</field>

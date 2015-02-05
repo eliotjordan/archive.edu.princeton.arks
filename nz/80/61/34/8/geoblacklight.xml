@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">West Virginia Block Groups 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/nz8061348/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/nz8061348/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/nz8061348", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/nz8061348/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/nz8061348/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/nz8061348/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/nz8061348", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">West Virginia</field>
     <field name="dct_temporal_sm">2002</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">37.201483 -82.644739 40.638802 -77.718935</field>
     <field name="georss_polygon_s">40.638802 -82.644739 40.638802 -77.718935 37.201483 -77.718935 37.201483 -82.644739 40.638802 -82.644739</field>
     <field name="layer_slug_s">princeton-nz8061348</field>
-    <field name="layer_id_s">nz8061348</field>
+    <field name="layer_id_s">pulmap:ark_nz8061348</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-82.644739 37.201483 -77.718935 40.638802</field>

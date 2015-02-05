@@ -20,7 +20,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Bradford County, Florida land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/p2676x121/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/p2676x121/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/p2676x121", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/p2676x121/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/p2676x121/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/p2676x121/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/p2676x121", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Bradford</field>
     <field name="dct_spatial_sm">Bradford County</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -29,7 +29,7 @@
     <field name="georss_box_s">29.718368 -82.418691 30.143224 -82.046158</field>
     <field name="georss_polygon_s">30.143224 -82.418691 30.143224 -82.046158 29.718368 -82.046158 29.718368 -82.418691 30.143224 -82.418691</field>
     <field name="layer_slug_s">princeton-p2676x121</field>
-    <field name="layer_id_s">p2676x121</field>
+    <field name="layer_id_s">pulmap:ark_p2676x121</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-82.418691 29.718368 -82.046158 30.143224</field>

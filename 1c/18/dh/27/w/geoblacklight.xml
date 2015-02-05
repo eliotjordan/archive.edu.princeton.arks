@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">structure</field>
     <field name="dc_title_s">Cairo Buildings</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1c18dh27w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/1c18dh27w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1c18dh27w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1c18dh27w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1c18dh27w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1c18dh27w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1c18dh27w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Egypt</field>
     <field name="dct_spatial_sm">Cairo</field>
     <field name="dct_issued_s">20130706</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">29.722782 30.799213 30.282329 31.777776</field>
     <field name="georss_polygon_s">30.282329 30.799213 30.282329 31.777776 29.722782 31.777776 29.722782 30.799213 30.282329 30.799213</field>
     <field name="layer_slug_s">princeton-1c18dh27w</field>
-    <field name="layer_id_s">1c18dh27w</field>
+    <field name="layer_id_s">pulmap:ark_1c18dh27w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">30.799213 29.722782 31.777776 30.282329</field>

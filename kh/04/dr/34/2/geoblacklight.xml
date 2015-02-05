@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Delaware Block Groups 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kh04dr342/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/kh04dr342/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kh04dr342", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kh04dr342/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kh04dr342/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kh04dr342/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kh04dr342", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Delaware</field>
     <field name="dct_temporal_sm">2002</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">38.451014 -75.788758 39.839007 -75.048290</field>
     <field name="georss_polygon_s">39.839007 -75.788758 39.839007 -75.048290 38.451014 -75.048290 38.451014 -75.788758 39.839007 -75.788758</field>
     <field name="layer_slug_s">princeton-kh04dr342</field>
-    <field name="layer_id_s">kh04dr342</field>
+    <field name="layer_id_s">pulmap:ark_kh04dr342</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-75.788758 38.451014 -75.048290 39.839007</field>

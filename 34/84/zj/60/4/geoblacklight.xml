@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Cities 20K</field>
     <field name="dc_title_s">United Kingdom Cities With Population From 20 Thousand To 50 Thousand, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3484zj604/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3484zj604/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3484zj604", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3484zj604/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3484zj604/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3484zj604/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3484zj604", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United Kingdom</field>
     <field name="dct_spatial_sm">UK</field>
     <field name="dct_temporal_sm">2006</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">50.123116 -6.667269 57.653034 1.419110</field>
     <field name="georss_polygon_s">57.653034 -6.667269 57.653034 1.419110 50.123116 1.419110 50.123116 -6.667269 57.653034 -6.667269</field>
     <field name="layer_slug_s">princeton-3484zj604</field>
-    <field name="layer_id_s">3484zj604</field>
+    <field name="layer_id_s">pulmap:ark_3484zj604</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-6.667269 50.123116 1.419110 57.653034</field>

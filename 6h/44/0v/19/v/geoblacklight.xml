@@ -20,7 +20,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">York County, South Carolina land parcels, 2007</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6h440v19v/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/6h440v19v/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6h440v19v", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6h440v19v/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6h440v19v/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6h440v19v/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6h440v19v", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">South Carolina</field>
     <field name="dct_spatial_sm">York</field>
     <field name="dct_spatial_sm">York County</field>
@@ -31,7 +31,7 @@
     <field name="georss_box_s">34.818165 -81.491949 35.164316 -80.866557</field>
     <field name="georss_polygon_s">35.164316 -81.491949 35.164316 -80.866557 34.818165 -80.866557 34.818165 -81.491949 35.164316 -81.491949</field>
     <field name="layer_slug_s">princeton-6h440v19v</field>
-    <field name="layer_id_s">6h440v19v</field>
+    <field name="layer_id_s">pulmap:ark_6h440v19v</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-81.491949 34.818165 -80.866557 35.164316</field>

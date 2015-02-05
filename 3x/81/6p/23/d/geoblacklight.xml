@@ -17,7 +17,7 @@ This dataset contains the City Limit or Municipal Boundary polygon for the City 
     <field name="dc_subject_sm">MCD</field>
     <field name="dc_title_s">Trenton City Limits</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3x816p23d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3x816p23d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3x816p23d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3x816p23d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3x816p23d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3x816p23d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3x816p23d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Trenton</field>
     <field name="dct_spatial_sm">City of Trenton</field>
     <field name="dct_issued_s">2004</field>
@@ -25,7 +25,7 @@ This dataset contains the City Limit or Municipal Boundary polygon for the City 
     <field name="georss_box_s">40.183711 -74.819202 40.248589 -74.728687</field>
     <field name="georss_polygon_s">40.248589 -74.819202 40.248589 -74.728687 40.183711 -74.728687 40.183711 -74.819202 40.248589 -74.819202</field>
     <field name="layer_slug_s">princeton-3x816p23d</field>
-    <field name="layer_id_s">3x816p23d</field>
+    <field name="layer_id_s">pulmap:ark_3x816p23d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-74.819202 40.183711 -74.728687 40.248589</field>

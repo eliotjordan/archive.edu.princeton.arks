@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">inlandWaters</field>
     <field name="dc_title_s">North Carolina Rivers 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/x633f2660/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/x633f2660/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/x633f2660", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/x633f2660/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/x633f2660/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/x633f2660/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/x633f2660", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">North Carolina</field>
     <field name="dct_temporal_sm">1997</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">33.853290 -84.315759 36.587235 -75.495553</field>
     <field name="georss_polygon_s">36.587235 -84.315759 36.587235 -75.495553 33.853290 -75.495553 33.853290 -84.315759 36.587235 -84.315759</field>
     <field name="layer_slug_s">princeton-x633f2660</field>
-    <field name="layer_id_s">x633f2660</field>
+    <field name="layer_id_s">pulmap:ark_x633f2660</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-84.315759 33.853290 -75.495553 36.587235</field>

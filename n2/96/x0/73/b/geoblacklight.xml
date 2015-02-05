@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">point</field>
     <field name="dc_title_s">Diu Village Map</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/n296x073b/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/n296x073b/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/n296x073b", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/n296x073b/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/n296x073b/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/n296x073b/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/n296x073b", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">India</field>
     <field name="dct_spatial_sm">Diu</field>
     <field name="dct_issued_s">2006</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">20.6996 70.8736 20.7443 71.0059</field>
     <field name="georss_polygon_s">20.7443 70.8736 20.7443 71.0059 20.6996 71.0059 20.6996 70.8736 20.7443 70.8736</field>
     <field name="layer_slug_s">princeton-n296x073b</field>
-    <field name="layer_id_s">n296x073b</field>
+    <field name="layer_id_s">pulmap:ark_n296x073b</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">70.8736 20.6996 71.0059 20.7443</field>

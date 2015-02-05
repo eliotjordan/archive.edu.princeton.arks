@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">inlandWaters</field>
     <field name="dc_title_s">Washington Rivers 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3484zj32r/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3484zj32r/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3484zj32r", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3484zj32r/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3484zj32r/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3484zj32r/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3484zj32r", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Washington</field>
     <field name="dct_temporal_sm">1997</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">45.555202 -124.732230 49.002368 -116.966667</field>
     <field name="georss_polygon_s">49.002368 -124.732230 49.002368 -116.966667 45.555202 -116.966667 45.555202 -124.732230 49.002368 -124.732230</field>
     <field name="layer_slug_s">princeton-3484zj32r</field>
-    <field name="layer_id_s">3484zj32r</field>
+    <field name="layer_id_s">pulmap:ark_3484zj32r</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-124.732230 45.555202 -116.966667 49.002368</field>

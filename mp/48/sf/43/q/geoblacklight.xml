@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Cities 20K</field>
     <field name="dc_title_s">Netherlands Cities With Population From 20 Thousand To 50 Thousand, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mp48sf43q/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/mp48sf43q/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mp48sf43q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mp48sf43q/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mp48sf43q/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mp48sf43q/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mp48sf43q", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Netherlands</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">50.912220 3.500000 53.333330 7.016660</field>
     <field name="georss_polygon_s">53.333330 3.500000 53.333330 7.016660 50.912220 7.016660 50.912220 3.500000 53.333330 3.500000</field>
     <field name="layer_slug_s">princeton-mp48sf43q</field>
-    <field name="layer_id_s">mp48sf43q</field>
+    <field name="layer_id_s">pulmap:ark_mp48sf43q</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">3.500000 50.912220 7.016660 53.333330</field>

@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Eddy County, New Mexico land parcels, 2010</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/h989r464t/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/h989r464t/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/h989r464t", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/h989r464t/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/h989r464t/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/h989r464t/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/h989r464t", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New Mexico</field>
     <field name="dct_spatial_sm">Eddy</field>
     <field name="dct_spatial_sm">Eddy County</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">31.999950 -104.851762 32.965420 -103.722894</field>
     <field name="georss_polygon_s">32.965420 -104.851762 32.965420 -103.722894 31.999950 -103.722894 31.999950 -104.851762 32.965420 -104.851762</field>
     <field name="layer_slug_s">princeton-h989r464t</field>
-    <field name="layer_id_s">h989r464t</field>
+    <field name="layer_id_s">pulmap:ark_h989r464t</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-104.851762 31.999950 -103.722894 32.965420</field>

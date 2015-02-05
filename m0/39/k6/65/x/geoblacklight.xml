@@ -16,14 +16,14 @@
     <field name="dc_subject_sm">point</field>
     <field name="dc_title_s">Chile Cities With Population From 1 Thousand to 5 Thousand, 1995</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/m039k665x/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/m039k665x/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/m039k665x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/m039k665x/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/m039k665x/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/m039k665x/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/m039k665x", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Chile</field>
     <field name="dct_issued_s">1995</field>
     <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">-55.5632 -75.8331 -17.5612 -66.7964</field>
     <field name="georss_polygon_s">-17.5612 -75.8331 -17.5612 -66.7964 -55.5632 -66.7964 -55.5632 -75.8331 -17.5612 -75.8331</field>
     <field name="layer_slug_s">princeton-m039k665x</field>
-    <field name="layer_id_s">m039k665x</field>
+    <field name="layer_id_s">pulmap:ark_m039k665x</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-75.8331 -55.5632 -66.7964 -17.5612</field>

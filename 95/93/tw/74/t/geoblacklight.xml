@@ -12,7 +12,7 @@
     <field name="dc_subject_sm">structure</field>
     <field name="dc_title_s">Cairo Restaurants</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9593tw74t/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9593tw74t/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9593tw74t", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9593tw74t/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9593tw74t/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9593tw74t/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9593tw74t", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Egypt</field>
     <field name="dct_spatial_sm">Cairo</field>
     <field name="dct_issued_s">20140706</field>
@@ -20,7 +20,7 @@
     <field name="georss_box_s">29.843397 30.918103 30.203564 31.613433</field>
     <field name="georss_polygon_s">30.203564 30.918103 30.203564 31.613433 29.843397 31.613433 29.843397 30.918103 30.203564 30.918103</field>
     <field name="layer_slug_s">princeton-9593tw74t</field>
-    <field name="layer_id_s">9593tw74t</field>
+    <field name="layer_id_s">pulmap:ark_9593tw74t</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">30.918103 29.843397 31.613433 30.203564</field>

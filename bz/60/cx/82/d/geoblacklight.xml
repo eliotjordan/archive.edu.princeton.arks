@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">Shopping</field>
     <field name="dc_title_s">Shanghai shopping map</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bz60cx82d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/bz60cx82d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bz60cx82d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bz60cx82d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bz60cx82d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bz60cx82d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bz60cx82d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Shanghai</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_issued_s">2006</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">30.916298 121.106687 31.629058 121.759839</field>
     <field name="georss_polygon_s">31.629058 121.106687 31.629058 121.759839 30.916298 121.759839 30.916298 121.106687 31.629058 121.106687</field>
     <field name="layer_slug_s">princeton-bz60cx82d</field>
-    <field name="layer_id_s">bz60cx82d</field>
+    <field name="layer_id_s">pulmap:ark_bz60cx82d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">121.106687 30.916298 121.759839 31.629058</field>
