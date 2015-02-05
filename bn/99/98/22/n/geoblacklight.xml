@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">5 digit</field>
     <field name="dc_title_s">Italy 5-Digit Postcode Areas, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bn999822n/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/bn999822n/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bn999822n", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bn999822n/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bn999822n/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bn999822n/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bn999822n", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Italy</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">36.650169 6.627059 47.092139 18.520342</field>
     <field name="georss_polygon_s">47.092139 6.627059 47.092139 18.520342 36.650169 18.520342 36.650169 6.627059 47.092139 6.627059</field>
     <field name="layer_slug_s">princeton-bn999822n</field>
-    <field name="layer_id_s">bn999822n</field>
+    <field name="layer_id_s">pulmap:ark_bn999822n</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">6.627059 36.650169 18.520342 47.092139</field>

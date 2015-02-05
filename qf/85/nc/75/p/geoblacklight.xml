@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Benton County, Oregon roads, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qf85nc75p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qf85nc75p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qf85nc75p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qf85nc75p/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qf85nc75p/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qf85nc75p/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qf85nc75p", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Oregon</field>
     <field name="dct_spatial_sm">Benton</field>
     <field name="dct_spatial_sm">Benton County</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">44.275000 -123.825946 44.738741 -123.086009</field>
     <field name="georss_polygon_s">44.738741 -123.825946 44.738741 -123.086009 44.275000 -123.086009 44.275000 -123.825946 44.738741 -123.825946</field>
     <field name="layer_slug_s">princeton-qf85nc75p</field>
-    <field name="layer_id_s">qf85nc75p</field>
+    <field name="layer_id_s">pulmap:ark_qf85nc75p</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-123.825946 44.275000 -123.086009 44.738741</field>

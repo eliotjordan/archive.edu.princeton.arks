@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">drainage</field>
     <field name="dc_title_s">Europe Water Bodies 2000</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/th83m0798/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/th83m0798/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/th83m0798", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/th83m0798/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/th83m0798/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/th83m0798/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/th83m0798", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Europe</field>
     <field name="dct_temporal_sm">1999</field>
     <field name="dct_issued_s">20001101</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">36.180100 -10.160400 71.077800 59.258700</field>
     <field name="georss_polygon_s">71.077800 -10.160400 71.077800 59.258700 36.180100 59.258700 36.180100 -10.160400 71.077800 -10.160400</field>
     <field name="layer_slug_s">princeton-th83m0798</field>
-    <field name="layer_id_s">th83m0798</field>
+    <field name="layer_id_s">pulmap:ark_th83m0798</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-10.160400 36.180100 59.258700 71.077800</field>

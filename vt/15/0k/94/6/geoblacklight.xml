@@ -41,7 +41,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Township map of Guizhou with 2000 Census long form data (L7-L8)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vt150k946/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/vt150k946/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vt150k946", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vt150k946/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vt150k946/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vt150k946/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vt150k946", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Guizhou</field>
     <field name="dct_spatial_sm">Guizhou Province</field>
@@ -51,7 +51,7 @@
     <field name="georss_box_s">24.715436 103.709671 29.085976 109.558264</field>
     <field name="georss_polygon_s">29.085976 103.709671 29.085976 109.558264 24.715436 109.558264 24.715436 103.709671 29.085976 103.709671</field>
     <field name="layer_slug_s">princeton-vt150k946</field>
-    <field name="layer_id_s">vt150k946</field>
+    <field name="layer_id_s">pulmap:ark_vt150k946</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">103.709671 24.715436 109.558264 29.085976</field>

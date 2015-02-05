@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">major roads</field>
     <field name="dc_title_s">China Provincial Roads, 2000</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qz20sv000/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qz20sv000/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qz20sv000", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qz20sv000/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qz20sv000/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qz20sv000/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qz20sv000", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_temporal_sm">2005</field>
     <field name="dct_temporal_sm">2000</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">18.223354 73.916496 53.369938 134.312317</field>
     <field name="georss_polygon_s">53.369938 73.916496 53.369938 134.312317 18.223354 134.312317 18.223354 73.916496 53.369938 73.916496</field>
     <field name="layer_slug_s">princeton-qz20sv000</field>
-    <field name="layer_id_s">qz20sv000</field>
+    <field name="layer_id_s">pulmap:ark_qz20sv000</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">73.916496 18.223354 134.312317 53.369938</field>

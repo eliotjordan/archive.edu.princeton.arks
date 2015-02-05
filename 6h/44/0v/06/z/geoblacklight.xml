@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Railroads</field>
     <field name="dc_title_s">Hungary Major Railways, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6h440v06z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/6h440v06z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6h440v06z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6h440v06z/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6h440v06z/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6h440v06z/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6h440v06z", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Hungary</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">45.765941 16.244760 48.577006 22.810061</field>
     <field name="georss_polygon_s">48.577006 16.244760 48.577006 22.810061 45.765941 22.810061 45.765941 16.244760 48.577006 16.244760</field>
     <field name="layer_slug_s">princeton-6h440v06z</field>
-    <field name="layer_id_s">6h440v06z</field>
+    <field name="layer_id_s">pulmap:ark_6h440v06z</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">16.244760 45.765941 22.810061 48.577006</field>

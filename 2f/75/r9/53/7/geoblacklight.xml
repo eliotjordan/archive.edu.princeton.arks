@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">power lines</field>
     <field name="dc_title_s">Latvia Major Power Lines, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2f75r9537/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/2f75r9537/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2f75r9537", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2f75r9537/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/2f75r9537/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/2f75r9537/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/2f75r9537", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Latvia</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">55.702364 21.081861 57.987221 27.790586</field>
     <field name="georss_polygon_s">57.987221 21.081861 57.987221 27.790586 55.702364 27.790586 55.702364 21.081861 57.987221 21.081861</field>
     <field name="layer_slug_s">princeton-2f75r9537</field>
-    <field name="layer_id_s">2f75r9537</field>
+    <field name="layer_id_s">pulmap:ark_2f75r9537</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">21.081861 55.702364 27.790586 57.987221</field>

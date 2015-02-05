@@ -48,7 +48,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Township map of Shandong with 2000 Census short form data</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/wm117q47x/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/wm117q47x/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/wm117q47x", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/wm117q47x/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/wm117q47x/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/wm117q47x/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/wm117q47x", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Shandong</field>
     <field name="dct_spatial_sm">Shandong Province</field>
@@ -58,7 +58,7 @@
     <field name="georss_box_s">34.438450 114.908119 38.390092 122.576456</field>
     <field name="georss_polygon_s">38.390092 114.908119 38.390092 122.576456 34.438450 122.576456 34.438450 114.908119 38.390092 114.908119</field>
     <field name="layer_slug_s">princeton-wm117q47x</field>
-    <field name="layer_id_s">wm117q47x</field>
+    <field name="layer_id_s">pulmap:ark_wm117q47x</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">114.908119 34.438450 122.576456 38.390092</field>

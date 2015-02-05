@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">point</field>
     <field name="dc_title_s">Croatia Cities With Population From 20 Thousand To 50 Thousand, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/7d278v48k/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/7d278v48k/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/7d278v48k", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/7d278v48k/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/7d278v48k/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/7d278v48k/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/7d278v48k", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Croatia</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">42.3747 13.5314 46.5135 19.3542</field>
     <field name="georss_polygon_s">46.5135 13.5314 46.5135 19.3542 42.3747 19.3542 42.3747 13.5314 46.5135 13.5314</field>
     <field name="layer_slug_s">princeton-7d278v48k</field>
-    <field name="layer_id_s">7d278v48k</field>
+    <field name="layer_id_s">pulmap:ark_7d278v48k</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">13.5314 42.3747 19.3542 46.5135</field>

@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">2 digit</field>
     <field name="dc_title_s">Belgium 2-Digit Postcode Areas, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/4b29b769p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/4b29b769p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/4b29b769p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/4b29b769p/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/4b29b769p/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/4b29b769p/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/4b29b769p", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Belgium</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">49.498633 2.546041 51.506650 6.408152</field>
     <field name="georss_polygon_s">51.506650 2.546041 51.506650 6.408152 49.498633 6.408152 49.498633 2.546041 51.506650 2.546041</field>
     <field name="layer_slug_s">princeton-4b29b769p</field>
-    <field name="layer_id_s">4b29b769p</field>
+    <field name="layer_id_s">pulmap:ark_4b29b769p</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">2.546041 49.498633 6.408152 51.506650</field>

@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">inlandWaters</field>
     <field name="dc_title_s">World Lakes 2008</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8p58pf54d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/8p58pf54d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8p58pf54d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8p58pf54d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8p58pf54d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8p58pf54d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8p58pf54d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">World</field>
     <field name="dct_temporal_sm">1992</field>
     <field name="dct_temporal_sm">1991</field>
@@ -34,7 +34,7 @@
     <field name="georss_box_s">-16.606264 -125.123318 67.046945 109.965009</field>
     <field name="georss_polygon_s">67.046945 -125.123318 67.046945 109.965009 -16.606264 109.965009 -16.606264 -125.123318 67.046945 -125.123318</field>
     <field name="layer_slug_s">princeton-8p58pf54d</field>
-    <field name="layer_id_s">8p58pf54d</field>
+    <field name="layer_id_s">pulmap:ark_8p58pf54d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-125.123318 -16.606264 109.965009 67.046945</field>

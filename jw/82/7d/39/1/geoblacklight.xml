@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">point</field>
     <field name="dc_title_s">Faroe Islands Major Cities, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jw827d391/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/jw827d391/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jw827d391", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jw827d391/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/jw827d391/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/jw827d391/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/jw827d391", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Denmark</field>
     <field name="dct_spatial_sm">Faroe Islands</field>
     <field name="dct_spatial_sm">Faroes</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">61.3829 -7.6707 62.3907 -6.2509</field>
     <field name="georss_polygon_s">62.3907 -7.6707 62.3907 -6.2509 61.3829 -6.2509 61.3829 -7.6707 62.3907 -7.6707</field>
     <field name="layer_slug_s">princeton-jw827d391</field>
-    <field name="layer_id_s">jw827d391</field>
+    <field name="layer_id_s">pulmap:ark_jw827d391</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-7.6707 61.3829 -6.2509 62.3907</field>

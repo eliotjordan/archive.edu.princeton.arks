@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Orange County, New York land parcels, 2007</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/000001492/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/000001492/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/000001492", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/000001492/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/000001492/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/000001492/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/000001492", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New York</field>
     <field name="dct_spatial_sm">Orange</field>
     <field name="dct_spatial_sm">Orange County</field>
@@ -34,7 +34,7 @@
     <field name="georss_box_s">41.143185 -74.762248 41.630036 -73.959064</field>
     <field name="georss_polygon_s">41.630036 -74.762248 41.630036 -73.959064 41.143185 -73.959064 41.143185 -74.762248 41.630036 -74.762248</field>
     <field name="layer_slug_s">princeton-000001492</field>
-    <field name="layer_id_s">000001492</field>
+    <field name="layer_id_s">pulmap:ark_000001492</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-74.762248 41.143185 -73.959064 41.630036</field>

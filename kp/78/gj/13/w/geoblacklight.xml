@@ -12,7 +12,7 @@
     <field name="dc_subject_sm">Villages</field>
     <field name="dc_title_s">Daman</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kp78gj13w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/kp78gj13w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kp78gj13w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kp78gj13w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kp78gj13w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kp78gj13w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kp78gj13w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">India</field>
     <field name="dct_spatial_sm">Daman</field>
     <field name="dct_issued_s">2006</field>
@@ -34,7 +34,7 @@
 37.069954 
 68.196831</field>
     <field name="layer_slug_s">princeton-kp78gj13w</field>
-    <field name="layer_id_s">kp78gj13w</field>
+    <field name="layer_id_s">pulmap:ark_kp78gj13w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">

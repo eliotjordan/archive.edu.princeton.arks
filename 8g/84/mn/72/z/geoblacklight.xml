@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Washington County, Florida land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8g84mn72z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/8g84mn72z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8g84mn72z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8g84mn72z/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8g84mn72z/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8g84mn72z/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8g84mn72z", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Washington County</field>
     <field name="dct_spatial_sm">Washington</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">30.389582 -85.993301 30.830486 -85.431998</field>
     <field name="georss_polygon_s">30.830486 -85.993301 30.830486 -85.431998 30.389582 -85.431998 30.389582 -85.993301 30.830486 -85.993301</field>
     <field name="layer_slug_s">princeton-8g84mn72z</field>
-    <field name="layer_id_s">8g84mn72z</field>
+    <field name="layer_id_s">pulmap:ark_8g84mn72z</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-85.993301 30.389582 -85.431998 30.830486</field>

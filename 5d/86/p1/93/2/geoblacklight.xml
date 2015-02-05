@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Cities 100K</field>
     <field name="dc_title_s">Taiwan Cities With Population 100 Thousand and More, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/5d86p1932/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/5d86p1932/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/5d86p1932", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/5d86p1932/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/5d86p1932/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/5d86p1932/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/5d86p1932", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Taiwan</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_temporal_sm">2006</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">22.554039 120.194946 25.178566 121.742617</field>
     <field name="georss_polygon_s">25.178566 120.194946 25.178566 121.742617 22.554039 121.742617 22.554039 120.194946 25.178566 120.194946</field>
     <field name="layer_slug_s">princeton-5d86p1932</field>
-    <field name="layer_id_s">5d86p1932</field>
+    <field name="layer_id_s">pulmap:ark_5d86p1932</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">120.194946 22.554039 121.742617 25.178566</field>

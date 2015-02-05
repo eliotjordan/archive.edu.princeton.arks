@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Cities 10K</field>
     <field name="dc_title_s">Hungary Cities With Population 10 Thousand and More, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v405sb99m/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/v405sb99m/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v405sb99m", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v405sb99m/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v405sb99m/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v405sb99m/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v405sb99m", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Hungary</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">45.846111 16.163416 48.478085 22.733166</field>
     <field name="georss_polygon_s">48.478085 16.163416 48.478085 22.733166 45.846111 22.733166 45.846111 16.163416 48.478085 16.163416</field>
     <field name="layer_slug_s">princeton-v405sb99m</field>
-    <field name="layer_id_s">v405sb99m</field>
+    <field name="layer_id_s">pulmap:ark_v405sb99m</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">16.163416 45.846111 22.733166 48.478085</field>

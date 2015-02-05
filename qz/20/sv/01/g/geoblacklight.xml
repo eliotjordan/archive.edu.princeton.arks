@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Virginia Block Centroid Populations 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qz20sv01g/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qz20sv01g/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qz20sv01g", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qz20sv01g/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qz20sv01g/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qz20sv01g/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qz20sv01g", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Virginia</field>
     <field name="dct_temporal_sm">2000</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">36.541100 -83.669362 39.464157 -75.257443</field>
     <field name="georss_polygon_s">39.464157 -83.669362 39.464157 -75.257443 36.541100 -75.257443 36.541100 -83.669362 39.464157 -83.669362</field>
     <field name="layer_slug_s">princeton-qz20sv01g</field>
-    <field name="layer_id_s">qz20sv01g</field>
+    <field name="layer_id_s">pulmap:ark_qz20sv01g</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-83.669362 36.541100 -75.257443 39.464157</field>

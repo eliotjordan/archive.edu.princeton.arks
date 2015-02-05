@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Highways</field>
     <field name="dc_title_s">Austria Major Highways, 2006</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/r781wh56s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/r781wh56s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/r781wh56s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/r781wh56s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/r781wh56s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/r781wh56s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/r781wh56s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Austria</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2006</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">46.481119 9.612027 48.410774 17.110922</field>
     <field name="georss_polygon_s">48.410774 9.612027 48.410774 17.110922 46.481119 17.110922 46.481119 9.612027 48.410774 9.612027</field>
     <field name="layer_slug_s">princeton-r781wh56s</field>
-    <field name="layer_id_s">r781wh56s</field>
+    <field name="layer_id_s">pulmap:ark_r781wh56s</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">9.612027 46.481119 17.110922 48.410774</field>

@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Yuma County, Arizona land parcels, 2008</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1z40kv396/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/1z40kv396/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1z40kv396", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1z40kv396/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/1z40kv396/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/1z40kv396/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/1z40kv396", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Arizona</field>
     <field name="dct_spatial_sm">Yuma County</field>
     <field name="dct_spatial_sm">Yuma</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">32.040805 -114.813576 33.464459 -113.326330</field>
     <field name="georss_polygon_s">33.464459 -114.813576 33.464459 -113.326330 32.040805 -113.326330 32.040805 -114.813576 33.464459 -114.813576</field>
     <field name="layer_slug_s">princeton-1z40kv396</field>
-    <field name="layer_id_s">1z40kv396</field>
+    <field name="layer_id_s">pulmap:ark_1z40kv396</field>
     <field name="layer_modified_dt">2014-12-19T16:18:37Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-114.813576 32.040805 -113.326330 33.464459</field>

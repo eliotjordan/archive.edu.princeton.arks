@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Europe Canals 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9w032458d/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9w032458d/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9w032458d", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9w032458d/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9w032458d/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9w032458d/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9w032458d", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Europe</field>
     <field name="dct_temporal_sm">1999</field>
     <field name="dct_issued_s">20020401</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">43.022600 -8.215300 64.518900 34.823200</field>
     <field name="georss_polygon_s">64.518900 -8.215300 64.518900 34.823200 43.022600 34.823200 43.022600 -8.215300 64.518900 -8.215300</field>
     <field name="layer_slug_s">princeton-9w032458d</field>
-    <field name="layer_id_s">9w032458d</field>
+    <field name="layer_id_s">pulmap:ark_9w032458d</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-8.215300 43.022600 34.823200 64.518900</field>

@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">Dams</field>
     <field name="dc_title_s">Serbia-Montenegro Major Dams and Islands, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/5999n514r/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/5999n514r/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/5999n514r", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/5999n514r/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/5999n514r/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/5999n514r/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/5999n514r", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Serbia-Montenegro</field>
     <field name="dct_spatial_sm">Serbia</field>
     <field name="dct_spatial_sm">Montenegro</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">42.089443 18.853582 43.517334 22.339390</field>
     <field name="georss_polygon_s">43.517334 18.853582 43.517334 22.339390 42.089443 22.339390 42.089443 18.853582 43.517334 18.853582</field>
     <field name="layer_slug_s">princeton-5999n514r</field>
-    <field name="layer_id_s">5999n514r</field>
+    <field name="layer_id_s">pulmap:ark_5999n514r</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">18.853582 42.089443 22.339390 43.517334</field>

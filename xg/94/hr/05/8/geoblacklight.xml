@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Minor Cities</field>
     <field name="dc_title_s">Belize Minor Cities, 1995</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xg94hr058/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/xg94hr058/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xg94hr058", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xg94hr058/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xg94hr058/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xg94hr058/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xg94hr058", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Belize</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">16.119406 -89.137955 18.399473 -88.295319</field>
     <field name="georss_polygon_s">18.399473 -89.137955 18.399473 -88.295319 16.119406 -88.295319 16.119406 -89.137955 18.399473 -89.137955</field>
     <field name="layer_slug_s">princeton-xg94hr058</field>
-    <field name="layer_id_s">xg94hr058</field>
+    <field name="layer_id_s">pulmap:ark_xg94hr058</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-89.137955 16.119406 -88.295319 18.399473</field>

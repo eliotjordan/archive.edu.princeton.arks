@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">Commerce</field>
     <field name="dc_title_s">Beijing commerce</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/sn00b0459/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/sn00b0459/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/sn00b0459", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/sn00b0459/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/sn00b0459/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/sn00b0459/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/sn00b0459", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Beijing</field>
     <field name="dct_issued_s">2006</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">39.679451 115.435834 40.469154 117.128719</field>
     <field name="georss_polygon_s">40.469154 115.435834 40.469154 117.128719 39.679451 117.128719 39.679451 115.435834 40.469154 115.435834</field>
     <field name="layer_slug_s">princeton-sn00b0459</field>
-    <field name="layer_id_s">sn00b0459</field>
+    <field name="layer_id_s">pulmap:ark_sn00b0459</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">115.435834 39.679451 117.128719 40.469154</field>

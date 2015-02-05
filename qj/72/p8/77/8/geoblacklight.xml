@@ -21,7 +21,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Berks County, Pennsylvania land parcels, 2008</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qj72p8778/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qj72p8778/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qj72p8778", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qj72p8778/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qj72p8778/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qj72p8778/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qj72p8778", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Pennsylvania</field>
     <field name="dct_spatial_sm">Berks</field>
     <field name="dct_spatial_sm">Berks County</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">40.136931 -76.439060 40.676594 -75.529623</field>
     <field name="georss_polygon_s">40.676594 -76.439060 40.676594 -75.529623 40.136931 -75.529623 40.136931 -76.439060 40.676594 -76.439060</field>
     <field name="layer_slug_s">princeton-qj72p8778</field>
-    <field name="layer_id_s">qj72p8778</field>
+    <field name="layer_id_s">pulmap:ark_qj72p8778</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-76.439060 40.136931 -75.529623 40.676594</field>

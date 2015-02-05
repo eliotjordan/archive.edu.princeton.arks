@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Cities 20K</field>
     <field name="dc_title_s">Bosnia-Herzegovina Cities With Population From 20 Thousand To 50 Thousand, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/rb68xd603/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/rb68xd603/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/rb68xd603", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/rb68xd603/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/rb68xd603/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/rb68xd603/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/rb68xd603", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">BosniaHerzegovina</field>
     <field name="dct_spatial_sm">Bosnia</field>
     <field name="dct_spatial_sm">Herzegovina</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">42.707489 15.875149 44.980230 19.202959</field>
     <field name="georss_polygon_s">44.980230 15.875149 44.980230 19.202959 42.707489 19.202959 42.707489 15.875149 44.980230 15.875149</field>
     <field name="layer_slug_s">princeton-rb68xd603</field>
-    <field name="layer_id_s">rb68xd603</field>
+    <field name="layer_id_s">pulmap:ark_rb68xd603</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">15.875149 42.707489 19.202959 44.980230</field>

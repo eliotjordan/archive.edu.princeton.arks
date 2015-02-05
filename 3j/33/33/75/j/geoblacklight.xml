@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">Railways</field>
     <field name="dc_title_s">Shangai railways</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3j333375j/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3j333375j/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3j333375j", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3j333375j/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3j333375j/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3j333375j/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3j333375j", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Shanghai</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_issued_s">2006</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">30.700257 121.011164 31.440715 121.806160</field>
     <field name="georss_polygon_s">31.440715 121.011164 31.440715 121.806160 30.700257 121.806160 30.700257 121.011164 31.440715 121.011164</field>
     <field name="layer_slug_s">princeton-3j333375j</field>
-    <field name="layer_id_s">3j333375j</field>
+    <field name="layer_id_s">pulmap:ark_3j333375j</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">121.011164 30.700257 121.806160 31.440715</field>

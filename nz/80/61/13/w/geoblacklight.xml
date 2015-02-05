@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">local council boundaries</field>
     <field name="dc_title_s">Portugal Local Council Boundaries, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/nz806113w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/nz806113w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/nz806113w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/nz806113w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/nz806113w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/nz806113w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/nz806113w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Portugal</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">32.627685 -31.265842 42.152591 -6.191056</field>
     <field name="georss_polygon_s">42.152591 -31.265842 42.152591 -6.191056 32.627685 -6.191056 32.627685 -31.265842 42.152591 -31.265842</field>
     <field name="layer_slug_s">princeton-nz806113w</field>
-    <field name="layer_id_s">nz806113w</field>
+    <field name="layer_id_s">pulmap:ark_nz806113w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-31.265842 32.627685 -6.191056 42.152591</field>

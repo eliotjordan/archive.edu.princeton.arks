@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major lakes</field>
     <field name="dc_title_s">Switzerland Minor Lakes, 2006</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k0698900b/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/k0698900b/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k0698900b", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k0698900b/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/k0698900b/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/k0698900b/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/k0698900b", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Switzerland</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2006</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">46.383219 6.562825 47.075565 8.326993</field>
     <field name="georss_polygon_s">47.075565 6.562825 47.075565 8.326993 46.383219 8.326993 46.383219 6.562825 47.075565 6.562825</field>
     <field name="layer_slug_s">princeton-k0698900b</field>
-    <field name="layer_id_s">k0698900b</field>
+    <field name="layer_id_s">pulmap:ark_k0698900b</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">6.562825 46.383219 8.326993 47.075565</field>

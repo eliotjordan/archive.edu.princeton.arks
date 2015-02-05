@@ -35,7 +35,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Broomfield County, Colorado land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6969z2503/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/6969z2503/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6969z2503", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6969z2503/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6969z2503/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6969z2503/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6969z2503", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Colorado</field>
     <field name="dct_spatial_sm">Broomfield County</field>
     <field name="dct_spatial_sm">Broomfield</field>
@@ -44,7 +44,7 @@
     <field name="georss_box_s">39.889200 -105.165511 40.044144 -104.961278</field>
     <field name="georss_polygon_s">40.044144 -105.165511 40.044144 -104.961278 39.889200 -104.961278 39.889200 -105.165511 40.044144 -105.165511</field>
     <field name="layer_slug_s">princeton-6969z2503</field>
-    <field name="layer_id_s">6969z2503</field>
+    <field name="layer_id_s">pulmap:ark_6969z2503</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-105.165511 39.889200 -104.961278 40.044144</field>

@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Lee County, Florida roads, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bn9998215/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/bn9998215/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bn9998215", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bn9998215/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/bn9998215/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/bn9998215/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/bn9998215", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Lee County</field>
     <field name="dct_spatial_sm">Lee</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">26.313835 -82.270770 26.789749 -81.561389</field>
     <field name="georss_polygon_s">26.789749 -82.270770 26.789749 -81.561389 26.313835 -81.561389 26.313835 -82.270770 26.789749 -82.270770</field>
     <field name="layer_slug_s">princeton-bn9998215</field>
-    <field name="layer_id_s">bn9998215</field>
+    <field name="layer_id_s">pulmap:ark_bn9998215</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-82.270770 26.313835 -81.561389 26.789749</field>

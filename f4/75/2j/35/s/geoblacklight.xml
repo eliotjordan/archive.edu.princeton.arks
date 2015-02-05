@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Connecticut Tracts 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/f4752j35s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/f4752j35s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/f4752j35s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/f4752j35s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/f4752j35s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/f4752j35s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/f4752j35s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Connecticut</field>
     <field name="dct_temporal_sm">2002</field>
@@ -30,7 +30,7 @@
     <field name="georss_box_s">40.986703 -73.727776 42.050588 -71.786994</field>
     <field name="georss_polygon_s">42.050588 -73.727776 42.050588 -71.786994 40.986703 -71.786994 40.986703 -73.727776 42.050588 -73.727776</field>
     <field name="layer_slug_s">princeton-f4752j35s</field>
-    <field name="layer_id_s">f4752j35s</field>
+    <field name="layer_id_s">pulmap:ark_f4752j35s</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-73.727776 40.986703 -71.786994 42.050588</field>

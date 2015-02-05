@@ -43,7 +43,7 @@
     <field name="dc_subject_sm">location</field>
     <field name="dc_title_s">Village points in Meghalaya, 2011</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/pz50gx853/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/pz50gx853/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/pz50gx853", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/pz50gx853/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/pz50gx853/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/pz50gx853/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/pz50gx853", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Meghalaya</field>
     <field name="dct_spatial_sm">India</field>
     <field name="dct_issued_s">20140501</field>
@@ -51,7 +51,7 @@
     <field name="georss_box_s">25.034189 89.860260 26.087149 92.780106</field>
     <field name="georss_polygon_s">26.087149 89.860260 26.087149 92.780106 25.034189 92.780106 25.034189 89.860260 26.087149 89.860260</field>
     <field name="layer_slug_s">princeton-pz50gx853</field>
-    <field name="layer_id_s">pz50gx853</field>
+    <field name="layer_id_s">pulmap:ark_pz50gx853</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">89.860260 25.034189 92.780106 26.087149</field>

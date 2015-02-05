@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">South Dakota Block Centroid Populations 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z029p6477/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/z029p6477/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z029p6477", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z029p6477/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/z029p6477/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/z029p6477/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/z029p6477", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">South Dakota</field>
     <field name="dct_temporal_sm">2000</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">42.483330 -104.055193 45.945125 -96.443954</field>
     <field name="georss_polygon_s">45.945125 -104.055193 45.945125 -96.443954 42.483330 -96.443954 42.483330 -104.055193 45.945125 -104.055193</field>
     <field name="layer_slug_s">princeton-z029p6477</field>
-    <field name="layer_id_s">z029p6477</field>
+    <field name="layer_id_s">pulmap:ark_z029p6477</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-104.055193 42.483330 -96.443954 45.945125</field>

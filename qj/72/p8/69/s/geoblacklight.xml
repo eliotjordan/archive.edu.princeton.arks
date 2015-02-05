@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">location</field>
     <field name="dc_title_s">Tabasco, Mexico Basic Geographic Statistical Areas, 2011</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qj72p869s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qj72p869s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qj72p869s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qj72p869s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qj72p869s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qj72p869s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qj72p869s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Mexico</field>
     <field name="dct_spatial_sm">Tabasco</field>
     <field name="dct_issued_s">20110401</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">17.449211 -94.054865 18.550709 -91.160159</field>
     <field name="georss_polygon_s">18.550709 -94.054865 18.550709 -91.160159 17.449211 -91.160159 17.449211 -94.054865 18.550709 -94.054865</field>
     <field name="layer_slug_s">princeton-qj72p869s</field>
-    <field name="layer_id_s">qj72p869s</field>
+    <field name="layer_id_s">pulmap:ark_qj72p869s</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-94.054865 17.449211 -91.160159 18.550709</field>

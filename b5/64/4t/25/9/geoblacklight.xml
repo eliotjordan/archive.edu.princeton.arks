@@ -53,7 +53,7 @@
     <field name="dc_subject_sm">economy</field>
     <field name="dc_title_s">Township map of Inner Mongolia with 2000 Census long form data (L1-L6)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/b5644t259/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/b5644t259/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/b5644t259", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/b5644t259/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/b5644t259/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/b5644t259/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/b5644t259", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Inner Mongolia</field>
     <field name="dct_spatial_sm">inner_mongolia</field>
@@ -63,7 +63,7 @@
     <field name="georss_box_s">37.460929 98.625796 52.188354 125.209442</field>
     <field name="georss_polygon_s">52.188354 98.625796 52.188354 125.209442 37.460929 125.209442 37.460929 98.625796 52.188354 98.625796</field>
     <field name="layer_slug_s">princeton-b5644t259</field>
-    <field name="layer_id_s">b5644t259</field>
+    <field name="layer_id_s">pulmap:ark_b5644t259</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">98.625796 37.460929 125.209442 52.188354</field>

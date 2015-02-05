@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Solano County, California land parcels, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6d56zz19w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/6d56zz19w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6d56zz19w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6d56zz19w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/6d56zz19w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/6d56zz19w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/6d56zz19w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Solano County</field>
     <field name="dct_spatial_sm">Fairfield</field>
     <field name="dct_spatial_sm">Vacaville</field>
@@ -32,7 +32,7 @@
     <field name="georss_box_s">38.049439 -122.403662 38.539059 -121.593777</field>
     <field name="georss_polygon_s">38.539059 -122.403662 38.539059 -121.593777 38.049439 -121.593777 38.049439 -122.403662 38.539059 -122.403662</field>
     <field name="layer_slug_s">princeton-6d56zz19w</field>
-    <field name="layer_id_s">6d56zz19w</field>
+    <field name="layer_id_s">pulmap:ark_6d56zz19w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-122.403662 38.049439 -121.593777 38.539059</field>

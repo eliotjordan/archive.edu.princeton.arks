@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Polk County, Florida land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j098zc53s/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/j098zc53s/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j098zc53s", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j098zc53s/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j098zc53s/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j098zc53s/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j098zc53s", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Polk</field>
     <field name="dct_spatial_sm">Polk County</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -33,7 +33,7 @@
     <field name="georss_box_s">27.646178 -82.056321 28.346731 -81.317094</field>
     <field name="georss_polygon_s">28.346731 -82.056321 28.346731 -81.317094 27.646178 -81.317094 27.646178 -82.056321 28.346731 -82.056321</field>
     <field name="layer_slug_s">princeton-j098zc53s</field>
-    <field name="layer_id_s">j098zc53s</field>
+    <field name="layer_id_s">pulmap:ark_j098zc53s</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-82.056321 27.646178 -81.317094 28.346731</field>

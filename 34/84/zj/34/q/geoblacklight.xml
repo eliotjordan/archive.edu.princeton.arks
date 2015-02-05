@@ -19,7 +19,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Camden County, New Jersey land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3484zj34q/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3484zj34q/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3484zj34q", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3484zj34q/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3484zj34q/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3484zj34q/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3484zj34q", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New Jersey</field>
     <field name="dct_spatial_sm">Camden County</field>
     <field name="dct_spatial_sm">Camden</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">39.608430 -75.135436 39.996216 -74.736210</field>
     <field name="georss_polygon_s">39.996216 -75.135436 39.996216 -74.736210 39.608430 -74.736210 39.608430 -75.135436 39.996216 -75.135436</field>
     <field name="layer_slug_s">princeton-3484zj34q</field>
-    <field name="layer_id_s">3484zj34q</field>
+    <field name="layer_id_s">pulmap:ark_3484zj34q</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-75.135436 39.608430 -74.736210 39.996216</field>

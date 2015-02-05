@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">a-region boundaries</field>
     <field name="dc_title_s">Sweden A-Region Boundaries, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ft848s28f/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/ft848s28f/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ft848s28f", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ft848s28f/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ft848s28f/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ft848s28f/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ft848s28f", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Sweden</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">55.336319 10.967347 69.065308 24.185600</field>
     <field name="georss_polygon_s">69.065308 10.967347 69.065308 24.185600 55.336319 24.185600 55.336319 10.967347 69.065308 10.967347</field>
     <field name="layer_slug_s">princeton-ft848s28f</field>
-    <field name="layer_id_s">ft848s28f</field>
+    <field name="layer_id_s">pulmap:ark_ft848s28f</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">10.967347 55.336319 24.185600 69.065308</field>

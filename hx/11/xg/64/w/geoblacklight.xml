@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">U.S. 107th Congressional Districts 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/hx11xg64w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/hx11xg64w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/hx11xg64w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/hx11xg64w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/hx11xg64w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/hx11xg64w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/hx11xg64w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Congressional Districts</field>
     <field name="dct_temporal_sm">2001–2003</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">17.884813 -179.147340 71.352561 179.778470</field>
     <field name="georss_polygon_s">71.352561 -179.147340 71.352561 179.778470 17.884813 179.778470 17.884813 -179.147340 71.352561 -179.147340</field>
     <field name="layer_slug_s">princeton-hx11xg64w</field>
-    <field name="layer_id_s">hx11xg64w</field>
+    <field name="layer_id_s">pulmap:ark_hx11xg64w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-179.147340 17.884813 179.778470 71.352561</field>

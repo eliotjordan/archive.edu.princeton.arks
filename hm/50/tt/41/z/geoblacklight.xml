@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">Hospital</field>
     <field name="dc_title_s">Beijing hospital and medical objects</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/hm50tt41z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/hm50tt41z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/hm50tt41z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/hm50tt41z/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/hm50tt41z/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/hm50tt41z/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/hm50tt41z", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">China</field>
     <field name="dct_spatial_sm">Beijing</field>
     <field name="dct_issued_s">2006</field>
@@ -21,7 +21,7 @@
     <field name="georss_box_s">39.727373 115.966600 40.470227 117.127511</field>
     <field name="georss_polygon_s">40.470227 115.966600 40.470227 117.127511 39.727373 117.127511 39.727373 115.966600 40.470227 115.966600</field>
     <field name="layer_slug_s">princeton-hm50tt41z</field>
-    <field name="layer_id_s">hm50tt41z</field>
+    <field name="layer_id_s">pulmap:ark_hm50tt41z</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">115.966600 39.727373 117.127511 40.470227</field>

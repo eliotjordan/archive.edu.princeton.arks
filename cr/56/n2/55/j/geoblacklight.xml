@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Stanislaus County, California land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/cr56n255j/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/cr56n255j/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/cr56n255j", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/cr56n255j/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/cr56n255j/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/cr56n255j/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/cr56n255j", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">California</field>
     <field name="dct_spatial_sm">Sanislaus County</field>
     <field name="dct_spatial_sm">Modesto</field>
@@ -27,7 +27,7 @@
     <field name="georss_box_s">37.134369 -121.487104 38.077010 -120.388260</field>
     <field name="georss_polygon_s">38.077010 -121.487104 38.077010 -120.388260 37.134369 -120.388260 37.134369 -121.487104 38.077010 -121.487104</field>
     <field name="layer_slug_s">princeton-cr56n255j</field>
-    <field name="layer_id_s">cr56n255j</field>
+    <field name="layer_id_s">pulmap:ark_cr56n255j</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-121.487104 37.134369 -120.388260 38.077010</field>

@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Indian lands</field>
     <field name="dc_title_s">U.S. National Atlas Federal and Indian Land Areas 2000</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qv33rz335/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/qv33rz335/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qv33rz335", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qv33rz335/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/qv33rz335/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/qv33rz335/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/qv33rz335", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_temporal_sm">1972–1998</field>
     <field name="dct_temporal_sm">1970–1995</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">19.166132 -179.133392 71.340698 -66.63</field>
     <field name="georss_polygon_s">71.340698 -179.133392 71.340698 -66.63 19.166132 -66.63 19.166132 -179.133392 71.340698 -179.133392</field>
     <field name="layer_slug_s">princeton-qv33rz335</field>
-    <field name="layer_id_s">qv33rz335</field>
+    <field name="layer_id_s">pulmap:ark_qv33rz335</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-179.133392 19.166132 -66.63 71.340698</field>

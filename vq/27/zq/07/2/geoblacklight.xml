@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">society</field>
     <field name="dc_title_s">Indiana Block Groups 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vq27zq072/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/vq27zq072/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vq27zq072", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vq27zq072/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/vq27zq072/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/vq27zq072/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/vq27zq072", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Indiana</field>
     <field name="dct_temporal_sm">2002</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">37.771743 -88.097892 41.760689 -84.784580</field>
     <field name="georss_polygon_s">41.760689 -88.097892 41.760689 -84.784580 37.771743 -84.784580 37.771743 -88.097892 41.760689 -88.097892</field>
     <field name="layer_slug_s">princeton-vq27zq072</field>
-    <field name="layer_id_s">vq27zq072</field>
+    <field name="layer_id_s">pulmap:ark_vq27zq072</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-88.097892 37.771743 -84.784580 41.760689</field>

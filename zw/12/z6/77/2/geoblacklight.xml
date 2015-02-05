@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">location</field>
     <field name="dc_title_s">Coahuila de Zaragoza, Mexico Basic Geographic Statistical Areas, 2011</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zw12z6772/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/zw12z6772/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zw12z6772", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zw12z6772/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zw12z6772/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zw12z6772/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zw12z6772", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Mexico</field>
     <field name="dct_spatial_sm">Coahuila de Zaragoza</field>
     <field name="dct_spatial_sm">Coahuila</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">25.320128 -103.797695 29.353903 -99.866107</field>
     <field name="georss_polygon_s">29.353903 -103.797695 29.353903 -99.866107 25.320128 -99.866107 25.320128 -103.797695 29.353903 -103.797695</field>
     <field name="layer_slug_s">princeton-zw12z6772</field>
-    <field name="layer_id_s">zw12z6772</field>
+    <field name="layer_id_s">pulmap:ark_zw12z6772</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-103.797695 25.320128 -99.866107 29.353903</field>

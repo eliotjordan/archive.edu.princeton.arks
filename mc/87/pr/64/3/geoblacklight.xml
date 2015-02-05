@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">transportation</field>
     <field name="dc_title_s">Dutchess County, New York roads, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mc87pr643/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/mc87pr643/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mc87pr643", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mc87pr643/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/mc87pr643/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/mc87pr643/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/mc87pr643", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New York</field>
     <field name="dct_spatial_sm">Dutchess</field>
     <field name="dct_spatial_sm">Dutchess County</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">41.437784 -73.998328 42.081306 -73.487454</field>
     <field name="georss_polygon_s">42.081306 -73.998328 42.081306 -73.487454 41.437784 -73.487454 41.437784 -73.998328 42.081306 -73.998328</field>
     <field name="layer_slug_s">princeton-mc87pr643</field>
-    <field name="layer_id_s">mc87pr643</field>
+    <field name="layer_id_s">pulmap:ark_mc87pr643</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-73.998328 41.437784 -73.487454 42.081306</field>

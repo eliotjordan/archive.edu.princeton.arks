@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">bay/baie</field>
     <field name="dc_title_s">Canada Water Bodies 2000</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9593tw80b/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9593tw80b/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9593tw80b", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9593tw80b/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9593tw80b/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9593tw80b/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9593tw80b", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Canada</field>
     <field name="dct_temporal_sm">2000</field>
     <field name="dct_temporal_sm">1996</field>
@@ -28,7 +28,7 @@
     <field name="georss_box_s">40.000000 -141.028681 85.355792 -48.000000</field>
     <field name="georss_polygon_s">85.355792 -141.028681 85.355792 -48.000000 40.000000 -48.000000 40.000000 -141.028681 85.355792 -141.028681</field>
     <field name="layer_slug_s">princeton-9593tw80b</field>
-    <field name="layer_id_s">9593tw80b</field>
+    <field name="layer_id_s">pulmap:ark_9593tw80b</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-141.028681 40.000000 -48.000000 85.355792</field>

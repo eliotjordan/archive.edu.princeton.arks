@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Passaic County, New Jersey land parcels, 2010</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zp38wf02p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/zp38wf02p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zp38wf02p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zp38wf02p/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zp38wf02p/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zp38wf02p/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zp38wf02p", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">New Jersey</field>
     <field name="dct_spatial_sm">Passaic County</field>
     <field name="dct_spatial_sm">Passaic</field>
@@ -34,7 +34,7 @@
     <field name="georss_box_s">40.820689 -74.503212 41.203241 -74.107390</field>
     <field name="georss_polygon_s">41.203241 -74.503212 41.203241 -74.107390 40.820689 -74.107390 40.820689 -74.503212 41.203241 -74.503212</field>
     <field name="layer_slug_s">princeton-zp38wf02p</field>
-    <field name="layer_id_s">zp38wf02p</field>
+    <field name="layer_id_s">pulmap:ark_zp38wf02p</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-74.503212 40.820689 -74.107390 41.203241</field>

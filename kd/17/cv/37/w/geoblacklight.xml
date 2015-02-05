@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">point</field>
     <field name="dc_title_s">Faroe Islands Major Airports, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kd17cv37w/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/kd17cv37w/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kd17cv37w", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kd17cv37w/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/kd17cv37w/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/kd17cv37w/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/kd17cv37w", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Denmark</field>
     <field name="dct_spatial_sm">Faroe Islands</field>
     <field name="dct_spatial_sm">Faroes</field>
@@ -25,7 +25,7 @@
     <field name="georss_box_s">61.3888 -7.6858 62.4081 -6.2576</field>
     <field name="georss_polygon_s">62.4081 -7.6858 62.4081 -6.2576 61.3888 -6.2576 61.3888 -7.6858 62.4081 -7.6858</field>
     <field name="layer_slug_s">princeton-kd17cv37w</field>
-    <field name="layer_id_s">kd17cv37w</field>
+    <field name="layer_id_s">pulmap:ark_kd17cv37w</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-7.6858 61.3888 -6.2576 62.4081</field>

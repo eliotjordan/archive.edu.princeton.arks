@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">province boundaries</field>
     <field name="dc_title_s">North Korea Province Boundaries, 1996</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/dv13zv914/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/dv13zv914/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/dv13zv914", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/dv13zv914/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/dv13zv914/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/dv13zv914/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/dv13zv914", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">North Korea</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">1996</field>
@@ -23,7 +23,7 @@
     <field name="georss_box_s">37.597308 124.180239 43.006054 130.674866</field>
     <field name="georss_polygon_s">43.006054 124.180239 43.006054 130.674866 37.597308 130.674866 37.597308 124.180239 43.006054 124.180239</field>
     <field name="layer_slug_s">princeton-dv13zv914</field>
-    <field name="layer_id_s">dv13zv914</field>
+    <field name="layer_id_s">pulmap:ark_dv13zv914</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">124.180239 37.597308 130.674866 43.006054</field>

@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Volusia County, Florida land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9593tw65v/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/9593tw65v/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9593tw65v", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9593tw65v/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/9593tw65v/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/9593tw65v/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/9593tw65v", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Florida</field>
     <field name="dct_spatial_sm">Volusia</field>
     <field name="dct_spatial_sm">Volusia County</field>
@@ -34,7 +34,7 @@
     <field name="georss_box_s">28.612874 -81.573667 29.427071 -80.733146</field>
     <field name="georss_polygon_s">29.427071 -81.573667 29.427071 -80.733146 28.612874 -80.733146 28.612874 -81.573667 29.427071 -81.573667</field>
     <field name="layer_slug_s">princeton-9593tw65v</field>
-    <field name="layer_id_s">9593tw65v</field>
+    <field name="layer_id_s">pulmap:ark_9593tw65v</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-81.573667 28.612874 -80.733146 29.427071</field>

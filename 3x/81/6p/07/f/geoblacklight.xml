@@ -13,7 +13,7 @@
     <field name="dc_subject_sm">Jurisdistricts</field>
     <field name="dc_title_s">Austria Jurisdiction Districts 2006</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3x816p07f/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/3x816p07f/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3x816p07f", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3x816p07f/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/3x816p07f/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/3x816p07f/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/3x816p07f", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Austria</field>
     <field name="dct_spatial_sm">Osterreich</field>
     <field name="dct_temporal_sm">2006</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">46.372056 9.529923 48.020364 17.159856</field>
     <field name="georss_polygon_s">48.020364 9.529923 48.020364 17.159856 46.372056 17.159856 46.372056 9.529923 48.020364 9.529923</field>
     <field name="layer_slug_s">princeton-3x816p07f</field>
-    <field name="layer_id_s">3x816p07f</field>
+    <field name="layer_id_s">pulmap:ark_3x816p07f</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">9.529923 46.372056 17.159856 48.020364</field>

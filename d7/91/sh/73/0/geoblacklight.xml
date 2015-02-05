@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">structure</field>
     <field name="dc_title_s">Niger Delta towns (polygons)</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/d791sh730/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/d791sh730/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/d791sh730", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/d791sh730/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/d791sh730/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/d791sh730/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/d791sh730", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Nigeria</field>
     <field name="dct_spatial_sm">Niger River</field>
     <field name="dct_spatial_sm">Niger Delta</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">4.269740 4.525188 6.750004 8.963394</field>
     <field name="georss_polygon_s">6.750004 4.525188 6.750004 8.963394 4.269740 8.963394 4.269740 4.525188 6.750004 4.525188</field>
     <field name="layer_slug_s">princeton-d791sh730</field>
-    <field name="layer_id_s">d791sh730</field>
+    <field name="layer_id_s">pulmap:ark_d791sh730</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">4.525188 4.269740 8.963394 6.750004</field>

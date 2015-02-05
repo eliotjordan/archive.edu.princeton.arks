@@ -18,7 +18,7 @@
     <field name="dc_subject_sm">structure</field>
     <field name="dc_title_s">U.S. GDT Transportation Terminals 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xp68kh63z/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/xp68kh63z/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xp68kh63z", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xp68kh63z/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/xp68kh63z/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/xp68kh63z/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/xp68kh63z", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_temporal_sm">1999</field>
     <field name="dct_issued_s">20020401</field>
@@ -26,7 +26,7 @@
     <field name="georss_box_s">24.554827 -131.720039 55.360922 -66.984444</field>
     <field name="georss_polygon_s">55.360922 -131.720039 55.360922 -66.984444 24.554827 -66.984444 24.554827 -131.720039 55.360922 -131.720039</field>
     <field name="layer_slug_s">princeton-xp68kh63z</field>
-    <field name="layer_id_s">xp68kh63z</field>
+    <field name="layer_id_s">pulmap:ark_xp68kh63z</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-131.720039 24.554827 -66.984444 55.360922</field>

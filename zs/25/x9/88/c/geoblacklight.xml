@@ -36,7 +36,7 @@
     <field name="dc_subject_sm">industrial</field>
     <field name="dc_title_s">Meghalaya Village Map</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zs25x988c/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/zs25x988c/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zs25x988c", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zs25x988c/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/zs25x988c/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/zs25x988c/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/zs25x988c", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">India</field>
     <field name="dct_spatial_sm">Meghalaya</field>
     <field name="dct_issued_s">20060101</field>
@@ -44,7 +44,7 @@
     <field name="georss_box_s">25.025446 89.874435 26.099012 92.774742</field>
     <field name="georss_polygon_s">26.099012 89.874435 26.099012 92.774742 25.025446 92.774742 25.025446 89.874435 26.099012 89.874435</field>
     <field name="layer_slug_s">princeton-zs25x988c</field>
-    <field name="layer_id_s">zs25x988c</field>
+    <field name="layer_id_s">pulmap:ark_zs25x988c</field>
     <field name="layer_modified_dt">2014-12-19T16:18:31Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">89.874435 25.025446 92.774742 26.099012</field>

@@ -17,7 +17,7 @@
     <field name="dc_subject_sm">structure</field>
     <field name="dc_title_s">U.S. Geographic Names Information System Hospital 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/f4752j368/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/f4752j368/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/f4752j368", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/f4752j368/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/f4752j368/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/f4752j368/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/f4752j368", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Puerto Rico</field>
     <field name="dct_spatial_sm">Commonwealths</field>
@@ -29,7 +29,7 @@
     <field name="georss_box_s">6.952780 -159.364700 61.188889 158.216385</field>
     <field name="georss_polygon_s">61.188889 -159.364700 61.188889 158.216385 6.952780 158.216385 6.952780 -159.364700 61.188889 -159.364700</field>
     <field name="layer_slug_s">princeton-f4752j368</field>
-    <field name="layer_id_s">f4752j368</field>
+    <field name="layer_id_s">pulmap:ark_f4752j368</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-159.364700 6.952780 158.216385 61.188889</field>

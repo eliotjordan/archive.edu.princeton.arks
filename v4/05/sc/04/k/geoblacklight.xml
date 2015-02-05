@@ -20,7 +20,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Broward County, Florida land parcels, 2009</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v405sc04k/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/v405sc04k/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v405sc04k", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v405sc04k/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/v405sc04k/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/v405sc04k/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/v405sc04k", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Broward County</field>
     <field name="dct_spatial_sm">Broward</field>
     <field name="dct_spatial_sm">Florida</field>
@@ -29,7 +29,7 @@
     <field name="georss_box_s">25.956779 -80.448930 26.334555 -80.074336</field>
     <field name="georss_polygon_s">26.334555 -80.448930 26.334555 -80.074336 25.956779 -80.074336 25.956779 -80.448930 26.334555 -80.448930</field>
     <field name="layer_slug_s">princeton-v405sc04k</field>
-    <field name="layer_id_s">v405sc04k</field>
+    <field name="layer_id_s">pulmap:ark_v405sc04k</field>
     <field name="layer_modified_dt">2014-12-19T16:18:32Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-80.448930 25.956779 -80.074336 26.334555</field>

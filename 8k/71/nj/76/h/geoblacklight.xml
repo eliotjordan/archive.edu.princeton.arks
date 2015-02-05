@@ -16,7 +16,7 @@
     <field name="dc_subject_sm">structure</field>
     <field name="dc_title_s">U.S. Geographic Names Information System Church 2002</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8k71nj76h/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/8k71nj76h/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8k71nj76h", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8k71nj76h/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/8k71nj76h/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/8k71nj76h/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/8k71nj76h", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Puerto Rico</field>
     <field name="dct_spatial_sm">U.S. Virgin Islands</field>
@@ -29,7 +29,7 @@
     <field name="georss_box_s">6.895560 -159.533325 64.954010 151.895554</field>
     <field name="georss_polygon_s">64.954010 -159.533325 64.954010 151.895554 6.895560 151.895554 6.895560 -159.533325 64.954010 -159.533325</field>
     <field name="layer_slug_s">princeton-8k71nj76h</field>
-    <field name="layer_id_s">8k71nj76h</field>
+    <field name="layer_id_s">pulmap:ark_8k71nj76h</field>
     <field name="layer_modified_dt">2014-12-19T16:18:35Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-159.533325 6.895560 151.895554 64.954010</field>

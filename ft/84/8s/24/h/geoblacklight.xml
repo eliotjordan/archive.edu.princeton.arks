@@ -16,14 +16,14 @@ This dataset contains the point location of Fire Stations within the City of Tre
     <field name="dc_subject_sm">Structure</field>
     <field name="dc_title_s">Trenton Fire Stations</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ft848s24h/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/ft848s24h/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ft848s24h", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ft848s24h/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ft848s24h/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ft848s24h/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ft848s24h", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Trenton</field>
     <field name="dct_issued_s">2004</field>
     <field name="dct_provenance_s">Princeton</field>
     <field name="georss_box_s">40.207993 -74.798279 40.236420 -74.744590</field>
     <field name="georss_polygon_s">40.236420 -74.798279 40.236420 -74.744590 40.207993 -74.744590 40.207993 -74.798279 40.236420 -74.798279</field>
     <field name="layer_slug_s">princeton-ft848s24h</field>
-    <field name="layer_id_s">ft848s24h</field>
+    <field name="layer_id_s">pulmap:ark_ft848s24h</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-74.798279 40.207993 -74.744590 40.236420</field>

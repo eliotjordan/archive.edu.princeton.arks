@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major Cities</field>
     <field name="dc_title_s">Denmark Major City Areas, 2005</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/p2676x210/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/p2676x210/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/p2676x210", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/p2676x210/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/p2676x210/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/p2676x210/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/p2676x210", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">Denmark</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">54.687721 8.255882 57.742332 14.729722</field>
     <field name="georss_polygon_s">57.742332 8.255882 57.742332 14.729722 54.687721 14.729722 54.687721 8.255882 57.742332 8.255882</field>
     <field name="layer_slug_s">princeton-p2676x210</field>
-    <field name="layer_id_s">p2676x210</field>
+    <field name="layer_id_s">pulmap:ark_p2676x210</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">8.255882 54.687721 14.729722 57.742332</field>

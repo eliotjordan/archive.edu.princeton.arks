@@ -15,7 +15,7 @@
     <field name="dc_subject_sm">geographic feature</field>
     <field name="dc_title_s">U.S. Geographic Names Information System Golf Locale 2000</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j9602223n/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/j9602223n/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j9602223n", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j9602223n/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/j9602223n/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/j9602223n/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/j9602223n", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">United States</field>
     <field name="dct_spatial_sm">Puerto Rico</field>
     <field name="dct_temporal_sm">2000</field>
@@ -24,7 +24,7 @@
     <field name="georss_box_s">18.032459 -158.063919 48.982239 -66.632675</field>
     <field name="georss_polygon_s">48.982239 -158.063919 48.982239 -66.632675 18.032459 -66.632675 18.032459 -158.063919 48.982239 -158.063919</field>
     <field name="layer_slug_s">princeton-j9602223n</field>
-    <field name="layer_id_s">j9602223n</field>
+    <field name="layer_id_s">pulmap:ark_j9602223n</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Point</field>
     <field name="solr_bbox">-158.063919 18.032459 -66.632675 48.982239</field>

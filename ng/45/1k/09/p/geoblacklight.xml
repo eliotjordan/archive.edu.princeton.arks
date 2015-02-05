@@ -14,7 +14,7 @@
     <field name="dc_subject_sm">Major rivers</field>
     <field name="dc_title_s">El Salvador Major Rivers, 1992</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ng451k09p/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/ng451k09p/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ng451k09p", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ng451k09p/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/ng451k09p/preview.jpg", "http://www.opengis.net/def/serviceType/ogc/wfs": "http://lib-gissystem1.princeton.edu:9004/geoserver/wfs", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/ng451k09p/fgdc.xml", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/ng451k09p", "http://www.opengis.net/def/serviceType/ogc/wms": "http://lib-gissystem1.princeton.edu:9004/geoserver/wms"}</field>
     <field name="dct_spatial_sm">El Salvador</field>
     <field name="dct_temporal_sm">2006</field>
     <field name="dct_issued_s">2005</field>
@@ -22,7 +22,7 @@
     <field name="georss_box_s">13.235630 -89.436920 14.374855 -88.085060</field>
     <field name="georss_polygon_s">14.374855 -89.436920 14.374855 -88.085060 13.235630 -88.085060 13.235630 -89.436920 14.374855 -89.436920</field>
     <field name="layer_slug_s">princeton-ng451k09p</field>
-    <field name="layer_id_s">ng451k09p</field>
+    <field name="layer_id_s">pulmap:ark_ng451k09p</field>
     <field name="layer_modified_dt">2014-12-19T16:18:33Z</field>
     <field name="layer_geom_type_s">Line</field>
     <field name="solr_bbox">-89.436920 13.235630 -88.085060 14.374855</field>
