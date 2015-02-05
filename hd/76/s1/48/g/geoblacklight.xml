@@ -24,7 +24,7 @@
     <field name="dc_subject_sm">planningCadastre</field>
     <field name="dc_title_s">Clackamas County, Oregon land parcels, 2006</field>
     <field name="dc_type_s">Dataset</field>
-    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/hd76s148g/preview.jpg", "http://schema.org/downloadUrl": "http://map.princeton.edu/items/hd76s148g/restricted/data.zip", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/hd76s148g", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/hd76s148g/fgdc.xml"}</field>
+    <field name="dct_references_s">{"http://schema.org/thumbnailUrl": "http://map.princeton.edu/items/hd76s148g/preview.jpg", "http://schema.org/url": "http://arks.princeton.edu/ark:/88435/hd76s148g", "http://www.opengis.net/cat/csw/csdgm": "http://map.princeton.edu/items/hd76s148g/fgdc.xml"}</field>
     <field name="dct_spatial_sm">Oregon</field>
     <field name="dct_spatial_sm">Clackamas</field>
     <field name="dct_spatial_sm">Clackamas County</field>
@@ -35,7 +35,7 @@
     <field name="georss_box_s">44.884524 -122.868119 45.461819 -121.650656</field>
     <field name="georss_polygon_s">45.461819 -122.868119 45.461819 -121.650656 44.884524 -121.650656 44.884524 -122.868119 45.461819 -122.868119</field>
     <field name="layer_slug_s">princeton-hd76s148g</field>
-    <field name="layer_id_s">hd76s148g</field>
+    <field name="layer_id_s">pulmap:ark_hd76s148g</field>
     <field name="layer_modified_dt">2014-12-19T16:18:34Z</field>
     <field name="layer_geom_type_s">Polygon</field>
     <field name="solr_bbox">-122.868119 44.884524 -121.650656 45.461819</field>
