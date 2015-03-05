@@ -7,7 +7,7 @@
     <field name="dc_format_s">Shapefile</field>
     <field name="dc_identifier_s">6108vc921</field>
     <field name="dc_language_s">English</field>
-    <field name="dc_rights_s">Restricted</field>
+    <field name="dc_rights_s">Public</field>
     <field name="dc_subject_sm">parcel</field>
     <field name="dc_subject_sm">parcels</field>
     <field name="dc_subject_sm">tax parcels</field>
@@ -37,9 +37,6 @@
     <field name="layer_id_s">pulmap:ark_6108vc921</field>
     <field name="layer_modified_dt">2014-12-19T16:18:36Z</field>
     <field name="layer_geom_type_s">Polygon</field>
-    <field name="solr_bbox">-120.671561 33.893951 -119.440087 35.114223</field>
-    <field name="solr_ne_pt">35.114223,-119.440087</field>
-    <field name="solr_sw_pt">33.893951,-120.671561</field>
     <field name="solr_geom">ENVELOPE(-120.671561, -119.440087, 35.114223, 33.893951)</field>
   </doc>
 </add>
